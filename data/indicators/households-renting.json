@@ -1,0 +1,159 @@
+{
+  "id": "households-renting",
+  "topic": "housing",
+  "unit": "percent",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Hogares que viven de alquiler",
+    "en": "Households renting their home",
+    "ca": "Llars que viuen de lloguer"
+  },
+  "note": {
+    "es": "Alquiler a precio de mercado más alquiler inferior al de mercado. Excluye la cesión gratuita.",
+    "en": "Market-price rent plus below-market rent. Excludes rent-free use.",
+    "ca": "Lloguer a preu de mercat més lloguer inferior al de mercat. Exclou la cessió gratuïta."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Sum of the shares of households renting at market price and below market price, as published by INE (Encuesta de Condiciones de Vida).",
+    "formula": "market-price rent % + below-market rent %",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2004",
+      "value": 13.9,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 13,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 13.5,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 13.6,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 14.2,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 14.6,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 14.5,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 14.9,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 14.5,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 15.4,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 14.9,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 15.6,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 16.3,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 16.9,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 17.5,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 18.1,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 18,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 18,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 18.1,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 18.7,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 20.4,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 20.2,
+      "sourceId": "ine-ecv2643",
+      "status": "final"
+    }
+  ]
+}

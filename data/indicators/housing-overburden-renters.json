@@ -1,0 +1,140 @@
+{
+  "id": "housing-overburden-renters",
+  "topic": "cost-of-living",
+  "unit": "percent",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Inquilinos a precio de mercado",
+    "en": "Tenants paying market rent",
+    "ca": "Llogaters a preu de mercat"
+  },
+  "note": {
+    "es": "Encuesta de Condiciones de Vida (EU-SILC). Cada año se refiere al momento de la entrevista; las preguntas sobre ingresos, al año anterior.",
+    "en": "EU Statistics on Income and Living Conditions (EU-SILC). Each year refers to the time of the interview; income questions refer to the previous year.",
+    "ca": "Enquesta de Condicions de Vida (EU-SILC). Cada any es refereix al moment de l'entrevista; les preguntes sobre ingressos, a l'any anterior."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Housing cost overburden rate, tenants paying market rent, Eurostat ilc_lvho07c (Spain).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2007",
+      "value": 35.9,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 43.4,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 41.4,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 43.4,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 42.7,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 44.7,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 42.3,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 47.5,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 43.3,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 43,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 42.1,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 38.1,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 37.4,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 35.9,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 40.9,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 39.4,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 30.6,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 28.1,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 26.8,
+      "sourceId": "eurostat-ilc-lvho07c-rent-mkt-es",
+      "status": "final"
+    }
+  ]
+}

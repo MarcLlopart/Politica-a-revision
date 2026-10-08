@@ -1,0 +1,11 @@
+{"Id":290750, "COD":"IPC290750", "Operacion":{"Id":25, "Cod_IOE":"30138", "Nombre":"Índice de Precios de Consumo (IPC)", "Codigo":"IPC", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176802&idp=1254735976607"}
+, "Nombre":"Nacional. Índice general. Variación anual. ", "Decimales":1, "Periodicidad":{"Id":1, "Nombre":"Mensual", "Codigo":"M"}
+, "Publicacion":{"Id":8, "Nombre":"Índice de Precios de Consumo", "Periodicidad":{"Id":1, "Nombre":"Mensual", "Codigo":"M"}
+, "Operacion":[{"Id":25, "Cod_IOE":"30138", "Nombre":"Índice de Precios de Consumo (IPC)", "Codigo":"IPC", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176802&idp=1254735976607"}
+]
+, "PubFechaAct":{"Id":12683, "Nombre":"Índice de Precios de Consumo. Avance. Septiembre 2026", "Fecha":1790665200000, "FK_Periodo":9, "Anyo":2026}
+}
+, "Clasificacion":{"Id":120, "Nombre":"Base 2025 (IPC, IPCA)", "Fecha":1769727600000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}

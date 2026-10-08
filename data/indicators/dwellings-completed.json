@@ -1,0 +1,225 @@
+{
+  "id": "dwellings-completed",
+  "topic": "housing",
+  "unit": "dwellings",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Viviendas terminadas al año",
+    "en": "Dwellings completed per year",
+    "ca": "Habitatges acabats per any"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Calendar-year sum of monthly certificates of completion (Colegios de Aparejadores, TOTAL NACIONAL).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "1992",
+      "value": 205893,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "1993",
+      "value": 205404,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "1994",
+      "value": 219553,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "1995",
+      "value": 242122,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "1996",
+      "value": 253378,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "1997",
+      "value": 272336,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "1998",
+      "value": 275596,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "1999",
+      "value": 321177,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2000",
+      "value": 366776,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 365663,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 416683,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 458683,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 496785,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 524479,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 585584,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 641419,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 615072,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 366887,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 240920,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 157405,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 114991,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 64817,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 46822,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 45152,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 40119,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 54610,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 64354,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 78789,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 85945,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 91390,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 89107,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 87565,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 97837,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 88254,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "net-migration-em",
+  "topic": "immigration",
+  "unit": "persons",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Método anterior (EM)",
+    "en": "Previous method (EM)",
+    "ca": "Mètode anterior (EM)"
+  },
+  "note": {
+    "es": "Cambio de método en 2021: la Estadística de Migraciones (EM, hasta 2021) fue sustituida por la Estadística de Migraciones y Cambios de Residencia (EMCR, desde 2021), que registra más movimientos. Las dos series no son comparables.",
+    "en": "Method change in 2021: the Migration Statistics (EM, to 2021) were replaced by the Statistics on Migrations and Changes of Residence (EMCR, from 2021), which record more movements. The two series are not comparable.",
+    "ca": "Canvi de mètode el 2021: l'Estadística de Migracions (EM, fins al 2021) va ser substituïda per l'Estadística de Migracions i Canvis de Residència (EMCR, des del 2021), que registra més moviments. Les dues sèries no són comparables."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Immigration from abroad minus emigration abroad per year, as published by INE (EM, 2008–2021, discontinued).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2008",
+      "value": 310641,
+      "sourceId": "ine-em798349",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 12845,
+      "sourceId": "ine-em798349",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": -42675,
+      "sourceId": "ine-em798349",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": -37698,
+      "sourceId": "ine-em798349",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": -142552,
+      "sourceId": "ine-em798349",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": -251531,
+      "sourceId": "ine-em798349",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": -94976,
+      "sourceId": "ine-em798349",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": -1761,
+      "sourceId": "ine-em798349",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 87422,
+      "sourceId": "ine-em798349",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 163272,
+      "sourceId": "ine-em798349",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 334158,
+      "sourceId": "ine-em798349",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 454232,
+      "sourceId": "ine-em798349",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 219357,
+      "sourceId": "ine-em798349",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 148070,
+      "sourceId": "ine-em798349",
+      "status": "final"
+    }
+  ]
+}

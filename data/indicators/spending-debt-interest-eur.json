@@ -1,0 +1,176 @@
+{
+  "id": "spending-debt-interest-eur",
+  "topic": "public-spending",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Operaciones de deuda pública (sobre todo intereses)",
+    "en": "Public debt transactions (mostly interest)",
+    "ca": "Operacions de deute públic (sobretot interessos)"
+  },
+  "note": {
+    "es": "Gasto de todas las administraciones públicas (Estado, comunidades autónomas, entidades locales y Seguridad Social) según la clasificación funcional COFOG. El último año completo es 2024.",
+    "en": "Spending by all levels of government (central, regional, local and Social Security) by function (COFOG classification). The latest complete year is 2024.",
+    "ca": "Despesa de totes les administracions públiques (Estat, comunitats autònomes, ens locals i Seguretat Social) segons la classificació funcional COFOG. L'últim any complet és el 2024."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "General government expenditure on COFOG GF0107, million euros converted to euros, Eurostat gov_10a_exp (S13, TE).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 20843000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 21506000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 20532000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 19252000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 17852000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 16946000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 16974000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 18219000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 18894000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 19913000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 21622000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 28145000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 34156000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 39253000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 39199000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 35660000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 32926000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 31053000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 30924000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 29300000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 26092000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 26976000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 32610000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 36726000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 39644000000,
+      "sourceId": "eurostat-gov-10a-exp-mio-eur-es",
+      "status": "provisional"
+    }
+  ]
+}

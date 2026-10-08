@@ -1,0 +1,1396 @@
+{
+  "id": "wage-earners-women",
+  "topic": "income",
+  "amountPer": "year",
+  "periodRef": "period",
+  "label": {
+    "es": "Salarios anuales: mujeres",
+    "en": "Annual wages: women",
+    "ca": "Salaris anuals: dones"
+  },
+  "population": {
+    "es": "mujeres que cobraron algún salario en el año",
+    "en": "women who received any wage during the year",
+    "ca": "dones que van cobrar algun salari durant l'any"
+  },
+  "note": {
+    "es": "Salario bruto anual por persona, sumando todos sus pagadores (modelo 190), sin ajustar por tiempo trabajado: incluye jornadas parciales y años incompletos. Sin País Vasco ni Navarra.",
+    "en": "Gross annual wage per person, adding up all payers (form 190), not adjusted for time worked: includes part-time work and part years. Excludes the Basque Country and Navarre.",
+    "ca": "Salari brut anual per persona, sumant tots els pagadors (model 190), sense ajustar pel temps treballat: inclou jornades parcials i anys incomplets. Sense País Basc ni Navarra."
+  },
+  "calculation": {
+    "method": "AEAT, Mercado de trabajo y pensiones en las fuentes tributarias: wage earners, wages and average wage by wage bracket, filtered by sex in the table's own menu (multiples of the annual SMI). Mean = total wages / wage earners.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "periods": [
+    {
+      "period": "2016",
+      "sourceId": "aeat-mercado-2016-mujer",
+      "extraSourceIds": [],
+      "total": 8256905,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 4586.4,
+          "count": 1944504,
+          "amount": 3586627702
+        },
+        {
+          "lower": 4586.4,
+          "upper": 9172.8,
+          "count": 1239220,
+          "amount": 8530957887
+        },
+        {
+          "lower": 9172.8,
+          "upper": 13759.199999999999,
+          "count": 1228139,
+          "amount": 14117006080
+        },
+        {
+          "lower": 13759.199999999999,
+          "upper": 18345.6,
+          "count": 1088857,
+          "amount": 17326907272
+        },
+        {
+          "lower": 18345.6,
+          "upper": 22932,
+          "count": 744053,
+          "amount": 15268152481
+        },
+        {
+          "lower": 22932,
+          "upper": 27518.399999999998,
+          "count": 529140,
+          "amount": 13263648271
+        },
+        {
+          "lower": 27518.399999999998,
+          "upper": 32104.799999999996,
+          "count": 407383,
+          "amount": 12124505197
+        },
+        {
+          "lower": 32104.799999999996,
+          "upper": 36691.2,
+          "count": 322584,
+          "amount": 11063921673
+        },
+        {
+          "lower": 36691.2,
+          "upper": 41277.6,
+          "count": 245319,
+          "amount": 9539081103
+        },
+        {
+          "lower": 41277.6,
+          "upper": 45864,
+          "count": 158563,
+          "amount": 6872150570
+        },
+        {
+          "lower": 45864,
+          "upper": 68796,
+          "count": 261422,
+          "amount": 14243875689
+        },
+        {
+          "lower": 68796,
+          "upper": 91728,
+          "count": 60366,
+          "amount": 4680935916
+        },
+        {
+          "lower": 91728,
+          "upper": null,
+          "count": 27355,
+          "amount": 3808934617
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 16280.519693274902,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 1947.5130466175433,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 5032.1217053752725,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 12729.84065702511,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 22561.82940062764,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 35549.3450190975,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 43679.02370256594,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 69830.01842721447,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 0,
+          "upper": 4586.4,
+          "share": 0.23550034789064425
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.29799927764526873,
+          "countAbove": 2460552
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.1521177679586681,
+          "countAbove": 1256022
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.03232077835440173,
+          "countAbove": 266870
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.017672048368994626,
+          "countAbove": 145916
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.0025723370863295165,
+          "countAbove": 21240
+        }
+      ]
+    },
+    {
+      "period": "2017",
+      "sourceId": "aeat-mercado-2017-mujer",
+      "extraSourceIds": [],
+      "total": 8492843,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 4953.9,
+          "count": 1989108,
+          "amount": 4057847336
+        },
+        {
+          "lower": 4953.9,
+          "upper": 9907.8,
+          "count": 1375353,
+          "amount": 10219688640
+        },
+        {
+          "lower": 9907.8,
+          "upper": 14861.699999999999,
+          "count": 1395217,
+          "amount": 17302634596
+        },
+        {
+          "lower": 14861.699999999999,
+          "upper": 19815.6,
+          "count": 1134080,
+          "amount": 19451852140
+        },
+        {
+          "lower": 19815.6,
+          "upper": 24769.5,
+          "count": 751744,
+          "amount": 16638145193
+        },
+        {
+          "lower": 24769.5,
+          "upper": 29723.399999999998,
+          "count": 511323,
+          "amount": 13859694025
+        },
+        {
+          "lower": 29723.399999999998,
+          "upper": 34677.299999999996,
+          "count": 416595,
+          "amount": 13371678497
+        },
+        {
+          "lower": 34677.299999999996,
+          "upper": 39631.2,
+          "count": 302468,
+          "amount": 11204247722
+        },
+        {
+          "lower": 39631.2,
+          "upper": 44585.1,
+          "count": 207762,
+          "amount": 8701215585
+        },
+        {
+          "lower": 44585.1,
+          "upper": 49539,
+          "count": 115894,
+          "amount": 5427243660
+        },
+        {
+          "lower": 49539,
+          "upper": 74308.5,
+          "count": 223650,
+          "amount": 13158624943
+        },
+        {
+          "lower": 74308.5,
+          "upper": 99078,
+          "count": 47687,
+          "amount": 3983177786
+        },
+        {
+          "lower": 99078,
+          "upper": null,
+          "count": 21962,
+          "amount": 3335192898
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 16568.21432128205,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 2115.153874887638,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 5436.776954990554,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 13062.016530603485,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 22723.591356757574,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 35711.17558648174,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 44108.10373091817,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 70831.78747666892,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 0,
+          "upper": 4953.9,
+          "share": 0.23420991062710095
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.30206118673136934,
+          "countAbove": 2565358
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.15423010134552356,
+          "countAbove": 1309852
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.03354507012526376,
+          "countAbove": 284893
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.018454116778843285,
+          "countAbove": 156728
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.0025179383835529055,
+          "countAbove": 21384
+        }
+      ]
+    },
+    {
+      "period": "2018",
+      "sourceId": "aeat-mercado-2018-mujer",
+      "extraSourceIds": [],
+      "total": 8787198,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 5151.3,
+          "count": 1981631,
+          "amount": 4255880430
+        },
+        {
+          "lower": 5151.3,
+          "upper": 10302.6,
+          "count": 1426762,
+          "amount": 11042209102
+        },
+        {
+          "lower": 10302.6,
+          "upper": 15453.900000000001,
+          "count": 1525697,
+          "amount": 19664194254
+        },
+        {
+          "lower": 15453.900000000001,
+          "upper": 20605.2,
+          "count": 1198217,
+          "amount": 21372308955
+        },
+        {
+          "lower": 20605.2,
+          "upper": 25756.5,
+          "count": 780585,
+          "amount": 17961532823
+        },
+        {
+          "lower": 25756.5,
+          "upper": 30907.800000000003,
+          "count": 525567,
+          "amount": 14845495712
+        },
+        {
+          "lower": 30907.800000000003,
+          "upper": 36059.1,
+          "count": 437723,
+          "amount": 14598634714
+        },
+        {
+          "lower": 36059.1,
+          "upper": 41210.4,
+          "count": 308676,
+          "amount": 11896638715
+        },
+        {
+          "lower": 41210.4,
+          "upper": 46361.700000000004,
+          "count": 199156,
+          "amount": 8674310806
+        },
+        {
+          "lower": 46361.700000000004,
+          "upper": 51513,
+          "count": 111502,
+          "amount": 5436402486
+        },
+        {
+          "lower": 51513,
+          "upper": 77269.5,
+          "count": 223192,
+          "amount": 13654894305
+        },
+        {
+          "lower": 77269.5,
+          "upper": 103026,
+          "count": 46279,
+          "amount": 4019033021
+        },
+        {
+          "lower": 103026,
+          "upper": null,
+          "count": 22211,
+          "amount": 3540943655
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 17179.819890026378,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 2284.254387290066,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 5938.575437207981,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 13642.974838752436,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 23376.52203472603,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 36547.35707792383,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 45198.20005217135,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 72778.19147317106,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 0,
+          "upper": 5151.3,
+          "share": 0.22551341167002267
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.31525675114420565,
+          "countAbove": 2770223
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.1631991863187619,
+          "countAbove": 1434064
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.0363854701970188,
+          "countAbove": 319726
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.020214343529489774,
+          "countAbove": 177627
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.002812731102136142,
+          "countAbove": 24716
+        }
+      ]
+    },
+    {
+      "period": "2019",
+      "sourceId": "aeat-mercado-2019-mujer",
+      "extraSourceIds": [],
+      "total": 8938846,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 6300,
+          "count": 2150851,
+          "amount": 5720010524
+        },
+        {
+          "lower": 6300,
+          "upper": 12600,
+          "count": 1769051,
+          "amount": 16804444215
+        },
+        {
+          "lower": 12600,
+          "upper": 18900,
+          "count": 1831515,
+          "amount": 28414885596
+        },
+        {
+          "lower": 18900,
+          "upper": 25200,
+          "count": 1099489,
+          "amount": 23969925181
+        },
+        {
+          "lower": 25200,
+          "upper": 31500,
+          "count": 675427,
+          "amount": 19011400773
+        },
+        {
+          "lower": 31500,
+          "upper": 37800,
+          "count": 526632,
+          "amount": 18144154121
+        },
+        {
+          "lower": 37800,
+          "upper": 44100,
+          "count": 346460,
+          "amount": 14105703737
+        },
+        {
+          "lower": 44100,
+          "upper": 50400,
+          "count": 189836,
+          "amount": 8897609422
+        },
+        {
+          "lower": 50400,
+          "upper": 56700,
+          "count": 104763,
+          "amount": 5587833955
+        },
+        {
+          "lower": 56700,
+          "upper": 63000,
+          "count": 72218,
+          "amount": 4309372824
+        },
+        {
+          "lower": 63000,
+          "upper": 94500,
+          "count": 136994,
+          "amount": 10155920473
+        },
+        {
+          "lower": 94500,
+          "upper": 126000,
+          "count": 22051,
+          "amount": 2342298397
+        },
+        {
+          "lower": 126000,
+          "upper": null,
+          "count": 13559,
+          "amount": 2784251874
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 17927.125167163635,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 2618.2534169033565,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 6613.991623128515,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 14203.20055471081,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 24171.496451921266,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 37684.83389858235,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 46608.35260089145,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 75158.4177896104,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 0,
+          "upper": 6300,
+          "share": 0.24061841987209534
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.3305382315111411,
+          "countAbove": 2954630
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.17350174960880133,
+          "countAbove": 1550905
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.040052711814644724,
+          "countAbove": 358025
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.022816031059616163,
+          "countAbove": 203949
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.0032208403661384494,
+          "countAbove": 28791
+        }
+      ]
+    },
+    {
+      "period": "2020",
+      "sourceId": "aeat-mercado-2020-mujer",
+      "extraSourceIds": [],
+      "total": 8601255,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 6650,
+          "count": 2382179,
+          "amount": 7021712918
+        },
+        {
+          "lower": 6650,
+          "upper": 13300,
+          "count": 1830773,
+          "amount": 18229629138
+        },
+        {
+          "lower": 13300,
+          "upper": 19950,
+          "count": 1488005,
+          "amount": 24255692374
+        },
+        {
+          "lower": 19950,
+          "upper": 26600,
+          "count": 945241,
+          "amount": 21828677438
+        },
+        {
+          "lower": 26600,
+          "upper": 33250,
+          "count": 631709,
+          "amount": 18838849397
+        },
+        {
+          "lower": 33250,
+          "upper": 39900,
+          "count": 512466,
+          "amount": 18607333917
+        },
+        {
+          "lower": 39900,
+          "upper": 46550,
+          "count": 323221,
+          "amount": 13868531784
+        },
+        {
+          "lower": 46550,
+          "upper": 53200,
+          "count": 165761,
+          "amount": 8201747440
+        },
+        {
+          "lower": 53200,
+          "upper": 59850,
+          "count": 96524,
+          "amount": 5436875152
+        },
+        {
+          "lower": 59850,
+          "upper": 66500,
+          "count": 67155,
+          "amount": 4225829454
+        },
+        {
+          "lower": 66500,
+          "upper": 99750,
+          "count": 126239,
+          "amount": 9871698285
+        },
+        {
+          "lower": 99750,
+          "upper": 133000,
+          "count": 19833,
+          "amount": 2220698552
+        },
+        {
+          "lower": 133000,
+          "upper": null,
+          "count": 12149,
+          "amount": 2615562049
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 18046.53366258761,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 2401.0935261372047,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 6002.733815343012,
+          "method": "linear"
+        },
+        "median": {
+          "value": 13595.24358001023,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 25041.05027876166,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 39106.95360013343,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 48360.14707026607,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 78162.62417384617,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 0,
+          "upper": 6650,
+          "share": 0.27695714171943514
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.33621909067651723,
+          "countAbove": 2891906
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.18804841529991437,
+          "countAbove": 1617452
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.044995950621117636,
+          "countAbove": 387022
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.02598435876946678,
+          "countAbove": 223498
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.003681913696344421,
+          "countAbove": 31669
+        }
+      ]
+    },
+    {
+      "period": "2021",
+      "sourceId": "aeat-mercado-2021-mujer",
+      "extraSourceIds": [],
+      "total": 8877258,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 6685.095,
+          "count": 2173111,
+          "amount": 6285463816
+        },
+        {
+          "lower": 6685.095,
+          "upper": 13370.19,
+          "count": 1808539,
+          "amount": 18173315490
+        },
+        {
+          "lower": 13370.19,
+          "upper": 20055.285,
+          "count": 1723209,
+          "amount": 28233634251
+        },
+        {
+          "lower": 20055.285,
+          "upper": 26740.38,
+          "count": 1060311,
+          "amount": 24570099440
+        },
+        {
+          "lower": 26740.38,
+          "upper": 33425.475,
+          "count": 683520,
+          "amount": 20487003942
+        },
+        {
+          "lower": 33425.475,
+          "upper": 40110.57,
+          "count": 549981,
+          "amount": 20090492747
+        },
+        {
+          "lower": 40110.57,
+          "upper": 46795.665,
+          "count": 341726,
+          "amount": 14748965498
+        },
+        {
+          "lower": 46795.665,
+          "upper": 53480.76,
+          "count": 184736,
+          "amount": 9188056796
+        },
+        {
+          "lower": 53480.76,
+          "upper": 60165.855,
+          "count": 104668,
+          "amount": 5925994922
+        },
+        {
+          "lower": 60165.855,
+          "upper": 66850.95,
+          "count": 72188,
+          "amount": 4567645613
+        },
+        {
+          "lower": 66850.95,
+          "upper": 100276.425,
+          "count": 138426,
+          "amount": 10900112006
+        },
+        {
+          "lower": 100276.425,
+          "upper": 133701.9,
+          "count": 22829,
+          "amount": 2574778782
+        },
+        {
+          "lower": 133701.9,
+          "upper": null,
+          "count": 14014,
+          "amount": 3017593324
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 19010.730185717257,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 2730.891936468501,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 6859.450983014495,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 14782.186756748344,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 25932.546921246467,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 39973.31051379084,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 49563.220264881595,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 80438.55596397813,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 0,
+          "upper": 6685.095,
+          "share": 0.24479529602496627
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.35856571274951515,
+          "countAbove": 3183080
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.19847525145954562,
+          "countAbove": 1761916
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.0486226007994614,
+          "countAbove": 431635
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.02811896701254376,
+          "countAbove": 249619
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.004199611410611862,
+          "countAbove": 37281
+        }
+      ]
+    },
+    {
+      "period": "2022",
+      "sourceId": "aeat-mercado-2022-mujer",
+      "extraSourceIds": [],
+      "total": 9251006,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 7000,
+          "count": 2062584,
+          "amount": 6200034066
+        },
+        {
+          "lower": 7000,
+          "upper": 14000,
+          "count": 1866177,
+          "amount": 19792375375
+        },
+        {
+          "lower": 14000,
+          "upper": 21000,
+          "count": 2007407,
+          "amount": 34381279732
+        },
+        {
+          "lower": 21000,
+          "upper": 28000,
+          "count": 1151798,
+          "amount": 27900074978
+        },
+        {
+          "lower": 28000,
+          "upper": 35000,
+          "count": 705416,
+          "amount": 22125805028
+        },
+        {
+          "lower": 35000,
+          "upper": 42000,
+          "count": 575689,
+          "amount": 21997896700
+        },
+        {
+          "lower": 42000,
+          "upper": 49000,
+          "count": 345055,
+          "amount": 15585475251
+        },
+        {
+          "lower": 49000,
+          "upper": 56000,
+          "count": 177841,
+          "amount": 9261223572
+        },
+        {
+          "lower": 56000,
+          "upper": 63000,
+          "count": 105641,
+          "amount": 6264408228
+        },
+        {
+          "lower": 63000,
+          "upper": 70000,
+          "count": 72993,
+          "amount": 4837471539
+        },
+        {
+          "lower": 70000,
+          "upper": 105000,
+          "count": 141291,
+          "amount": 11648104567
+        },
+        {
+          "lower": 105000,
+          "upper": 140000,
+          "count": 23888,
+          "amount": 2823718490
+        },
+        {
+          "lower": 140000,
+          "upper": null,
+          "count": 15226,
+          "amount": 3478492471
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 20137.956887823875,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 3139.6075020459775,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 8022.571404832605,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 15946.285391628684,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 26886.07953116321,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 41340.03583825904,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 51334.02568118903,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 84113.18182585147,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 0,
+          "upper": 7000,
+          "share": 0.22295780588619227
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.3818053934571944,
+          "countAbove": 3532084
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.21017989975220602,
+          "countAbove": 1944376
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.05433998098146111,
+          "countAbove": 502699
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.03180945274057063,
+          "countAbove": 294269
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.005150866058603615,
+          "countAbove": 47651
+        }
+      ]
+    },
+    {
+      "period": "2023",
+      "sourceId": "aeat-mercado-2023-mujer",
+      "extraSourceIds": [],
+      "total": 9510791,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 7560,
+          "count": 2093672,
+          "amount": 6797359507
+        },
+        {
+          "lower": 7560,
+          "upper": 15120,
+          "count": 1981632,
+          "amount": 22820399563
+        },
+        {
+          "lower": 15120,
+          "upper": 22680,
+          "count": 2125403,
+          "amount": 39256748145
+        },
+        {
+          "lower": 22680,
+          "upper": 30240,
+          "count": 1182865,
+          "amount": 30909894946
+        },
+        {
+          "lower": 30240,
+          "upper": 37800,
+          "count": 744927,
+          "amount": 25274920592
+        },
+        {
+          "lower": 37800,
+          "upper": 45360,
+          "count": 561395,
+          "amount": 23151405335
+        },
+        {
+          "lower": 45360,
+          "upper": 52920,
+          "count": 322058,
+          "amount": 15684906826
+        },
+        {
+          "lower": 52920,
+          "upper": 60480,
+          "count": 158365,
+          "amount": 8922309120
+        },
+        {
+          "lower": 60480,
+          "upper": 68040,
+          "count": 101390,
+          "amount": 6493190500
+        },
+        {
+          "lower": 68040,
+          "upper": 75600,
+          "count": 70008,
+          "amount": 5012424164
+        },
+        {
+          "lower": 75600,
+          "upper": 113400,
+          "count": 132665,
+          "amount": 11788932099
+        },
+        {
+          "lower": 113400,
+          "upper": 151200,
+          "count": 21535,
+          "amount": 2751624767
+        },
+        {
+          "lower": 151200,
+          "upper": null,
+          "count": 14876,
+          "amount": 3696313124
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 21297.958149642862,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 3434.2332495252363,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 8794.653354864677,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 17011.1553188542,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 28285.445376761887,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 43212.59451400502,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 53791.13107721227,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 88324.0870206073,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 15120,
+          "upper": 22680,
+          "share": 0.22347279001294423
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.4107898894170915,
+          "countAbove": 3906937
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.22672936284670692,
+          "countAbove": 2156376
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.06283604668100963,
+          "countAbove": 597621
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.03660031887952184,
+          "countAbove": 348098
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.006254546910990492,
+          "countAbove": 59486
+        }
+      ]
+    },
+    {
+      "period": "2024",
+      "sourceId": "aeat-mercado-2024-mujer",
+      "extraSourceIds": [],
+      "total": 9801750,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 7938,
+          "count": 2140868,
+          "amount": 7207389135
+        },
+        {
+          "lower": 7938,
+          "upper": 15876,
+          "count": 2063894,
+          "amount": 25029248573
+        },
+        {
+          "lower": 15876,
+          "upper": 23814,
+          "count": 2226391,
+          "amount": 43107481293
+        },
+        {
+          "lower": 23814,
+          "upper": 31752,
+          "count": 1211722,
+          "amount": 33223728351
+        },
+        {
+          "lower": 31752,
+          "upper": 39690,
+          "count": 766516,
+          "amount": 27316205746
+        },
+        {
+          "lower": 39690,
+          "upper": 47628,
+          "count": 574762,
+          "amount": 24881830763
+        },
+        {
+          "lower": 47628,
+          "upper": 55566,
+          "count": 316800,
+          "amount": 16194469838
+        },
+        {
+          "lower": 55566,
+          "upper": 63504,
+          "count": 154131,
+          "amount": 9121603547
+        },
+        {
+          "lower": 63504,
+          "upper": 71442,
+          "count": 102651,
+          "amount": 6901203324
+        },
+        {
+          "lower": 71442,
+          "upper": 79380,
+          "count": 69581,
+          "amount": 5230501358
+        },
+        {
+          "lower": 79380,
+          "upper": 119070,
+          "count": 135872,
+          "amount": 12695230312
+        },
+        {
+          "lower": 119070,
+          "upper": 158760,
+          "count": 22812,
+          "amount": 3063201442
+        },
+        {
+          "lower": 158760,
+          "upper": null,
+          "count": 15750,
+          "amount": 4165188942
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 22254.932295151375,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 3634.3339010158497,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 9326.810804752731,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 17777.128263719886,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 29413.9003247704,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 44904.45409952238,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 55996.86454310002,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 93090.46211321559,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 15876,
+          "upper": 23814,
+          "share": 0.2271421939959701
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.43261368076632073,
+          "countAbove": 4240371
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.2421257023548051,
+          "countAbove": 2373256
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.07116638939872331,
+          "countAbove": 697555
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.0412868299555456,
+          "countAbove": 404683
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.007676651871384426,
+          "countAbove": 75245
+        }
+      ]
+    }
+  ]
+}

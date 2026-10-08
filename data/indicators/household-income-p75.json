@@ -1,0 +1,170 @@
+{
+  "id": "household-income-p75",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "P75",
+    "en": "P75",
+    "ca": "P75"
+  },
+  "note": {
+    "es": "Renta neta disponible equivalente por persona: renta del hogar tras impuestos y transferencias dividida por las unidades de consumo (1 primer adulto, 0,5 otros mayores de 13, 0,3 menores de 14). El año es el de la encuesta; la renta es del año anterior.",
+    "en": "Equivalised net disposable income per person: household income after taxes and transfers divided by consumption units (1 for the first adult, 0.5 for others aged 14+, 0.3 under 14). The year is the survey year; incomes refer to the previous year.",
+    "ca": "Renda neta disponible equivalent per persona: renda de la llar després d'impostos i transferències dividida per les unitats de consum (1 primer adult, 0,5 altres de 14 anys o més, 0,3 menors de 14). L'any és el de l'enquesta; la renda és de l'any anterior."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Top cut-off of quantile Q3 of equivalised net disposable income, Eurostat ilc_di01 (EU-SILC), Spain.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 11878,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 13119,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 14632,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 15222,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 16033,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 16752,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 20171,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 21398,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 21284,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 20571,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 20703,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 19963,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 19973,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 19852,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 20413,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 21189,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 21656,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 22024,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 23295,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 23213,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 24389,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 26032,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 27399,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 28932,
+      "sourceId": "eurostat-ilc-di01-q3-es",
+      "status": "final"
+    }
+  ]
+}

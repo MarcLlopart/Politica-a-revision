@@ -1,0 +1,33 @@
+{
+  "id": "wage-hourly-ft-men-occ-5",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 2,
+  "label": {
+    "es": "Restauración, servicios personales, protección y ventas: hombres",
+    "en": "Services and sales workers: men",
+    "ca": "Restauració, serveis personals, protecció i venda: homes"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Hourly pay of men working full time, CNO-11 major group 5, INE Structure of Earnings Survey (table 36891).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 10.51,
+      "sourceId": "ine-eaes88302",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 11.26,
+      "sourceId": "ine-eaes88302",
+      "status": "provisional"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "wage-mean-real",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Media, a precios constantes",
+    "en": "Average, at constant prices",
+    "ca": "Mitjana, a preus constants"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "INE mean gross annual earnings (EAES741) multiplied by CPI(latest year) / CPI(year), using the INE CPI annual average index.",
+    "formula": "mean wage × CPI(latest year) / CPI(year)",
+    "inputs": [
+      "wage-mean",
+      "cpi-index-annual"
+    ],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2008",
+      "value": 29992.9004,
+      "sourceId": "ine-eaes741",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 30942.7507,
+      "sourceId": "ine-eaes741",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 30771.7858,
+      "sourceId": "ine-eaes741",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 29961.5983,
+      "sourceId": "ine-eaes741",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 29025.569,
+      "sourceId": "ine-eaes741",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 28586.3654,
+      "sourceId": "ine-eaes741",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 28831.8386,
+      "sourceId": "ine-eaes741",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 29291.12,
+      "sourceId": "ine-eaes741",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 29414.214,
+      "sourceId": "ine-eaes741",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 29460.537,
+      "sourceId": "ine-eaes741",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 29419.6964,
+      "sourceId": "ine-eaes741",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 29686.0307,
+      "sourceId": "ine-eaes741",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 30721.4918,
+      "sourceId": "ine-eaes741",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 30665.9956,
+      "sourceId": "ine-eaes741",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 29441.377,
+      "sourceId": "ine-eaes741",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 29598.5354,
+      "sourceId": "ine-eaes741",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 30329.7432,
+      "sourceId": "ine-eaes741",
+      "status": "final"
+    }
+  ]
+}

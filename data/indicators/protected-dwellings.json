@@ -1,0 +1,236 @@
+{
+  "id": "protected-dwellings",
+  "topic": "housing",
+  "unit": "dwellings",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Viviendas protegidas terminadas (calificaciones definitivas)",
+    "en": "Protected (subsidised) dwellings completed",
+    "ca": "Habitatges protegits acabats (qualificacions definitives)"
+  },
+  "note": {
+    "es": "Viviendas con calificación definitiva de protección oficial, de promotores públicos y privados.",
+    "en": "Dwellings receiving final 'protected housing' status, from public and private developers.",
+    "ca": "Habitatges amb qualificació definitiva de protecció oficial, de promotors públics i privats."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Final protected-housing certifications per year, TOTAL NACIONAL, as published by MIVAU (table 1.6).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "1991",
+      "value": 44514,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "1992",
+      "value": 35695,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "1993",
+      "value": 45795,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "1994",
+      "value": 67639,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "1995",
+      "value": 71141,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "1996",
+      "value": 77544,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "1997",
+      "value": 85028,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "1998",
+      "value": 74597,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "1999",
+      "value": 55972,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2000",
+      "value": 52318,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 53413,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 37544,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 40994,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 54630,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 62850,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 60878,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 67514,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 68587,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 67904,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 58311,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 58308,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 53332,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 17059,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 15046,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 7931,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 7118,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 4938,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 5191,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 7248,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 9973,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 10637,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 9610,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 8847,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 14371,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 12858,
+      "sourceId": "mivau-vivienda-protegida-calificaciones-definitivas",
+      "status": "final"
+    }
+  ]
+}

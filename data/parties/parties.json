@@ -1,0 +1,350 @@
+{
+  "election": {
+    "name": {
+      "es": "Elecciones generales del 23 de julio de 2023",
+      "en": "General election of 23 July 2023",
+      "ca": "Eleccions generals del 23 de juliol de 2023"
+    },
+    "date": "2023-07-23",
+    "totalSeats": 350,
+    "sourceUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-18907",
+    "sourceLabel": "BOE-A-2023-18907 (Junta Electoral Central, resultados de las elecciones al Congreso de los Diputados, 23 de julio de 2023)"
+  },
+  "inclusionRule": {
+    "es": "Se incluyen todos los partidos que obtuvieron al menos un escaño en el Congreso de los Diputados en las elecciones generales del 23 de julio de 2023.",
+    "en": "Every party that won at least one seat in the Congreso de los Diputados at the general election of 23 July 2023 is included.",
+    "ca": "S'hi inclouen tots els partits que van obtenir com a mínim un escó al Congrés dels Diputats a les eleccions generals del 23 de juliol de 2023."
+  },
+  "orderRule": {
+    "es": "Orden: escaños obtenidos en esas elecciones y, en caso de empate, orden alfabético.",
+    "en": "Order: seats won at that election, then alphabetical order for ties.",
+    "ca": "Ordre: escons obtinguts en aquelles eleccions i, en cas d'empat, ordre alfabètic."
+  },
+  "parties": [
+    {
+      "id": "pp",
+      "acronym": "PP",
+      "name": "Partido Popular",
+      "ballotNames": [
+        "PARTIDO POPULAR",
+        "PARTIDO POPULAR / PARTIT POPULAR"
+      ],
+      "seats2023": 137,
+      "color": "#1d84ce",
+      "programEditions": [
+        {
+          "edition": "2023-general",
+          "electionDate": "2023-07-23",
+          "status": "archived",
+          "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+          "waybackUrl": "https://web.archive.org/web/20230724015939/https://www.pp.es/sites/default/files/documentos/programa_electoral_pp_23j_feijoo_2023.pdf",
+          "localPath": "sources/programs/pp/2023-general/programa.pdf",
+          "fileHash": "sha256:c93baafc88bdcb33adcd7e8be9dc309b09056362183ad7b7767f3d5134313108",
+          "retrievedAt": "2026-10-08",
+          "languages": [
+            "es"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "psoe",
+      "acronym": "PSOE",
+      "name": "Partido Socialista Obrero Español",
+      "ballotNames": [
+        "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+        "PARTIT DELS SOCIALISTES DE CATALUNYA (PSC-PSOE)",
+        "PARTIDO DOS SOCIALISTAS DE GALICIA-PSOE",
+        "PARTIDO SOCIALISTA DE EUSKADI-EUSKADIKO EZKERRA (PSOE)",
+        "PARTIDO SOCIALISTA DE ISLAS BALEARES-PSOE",
+        "PARTIDO SOCIALISTA DE NAVARRA-PSOE"
+      ],
+      "seats2023": 121,
+      "color": "#e30613",
+      "programEditions": [
+        {
+          "edition": "2023-general",
+          "electionDate": "2023-07-23",
+          "status": "archived",
+          "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+          "waybackUrl": "https://web.archive.org/web/20230709064011/https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+          "localPath": "sources/programs/psoe/2023-general/programa.pdf",
+          "fileHash": "sha256:02d4972a848250fec9b8b2cffc5aaa78733acb0ac010e79ce1787161f91a42f2",
+          "retrievedAt": "2026-10-08",
+          "languages": [
+            "es"
+          ]
+        }
+      ],
+      "notes": {
+        "es": "Incluye los 19 escaños del PSC-PSOE en Cataluña, que la publicación del BOE muestra en una columna aparte.",
+        "en": "Includes the 19 seats won by PSC-PSOE in Catalonia, shown in a separate column in the BOE publication.",
+        "ca": "Inclou els 19 escons del PSC-PSOE a Catalunya, que la publicació del BOE mostra en una columna a part."
+      }
+    },
+    {
+      "id": "vox",
+      "acronym": "Vox",
+      "name": "Vox",
+      "ballotNames": [
+        "VOX"
+      ],
+      "seats2023": 33,
+      "color": "#63be21",
+      "programEditions": [
+        {
+          "edition": "2023-general",
+          "electionDate": "2023-07-23",
+          "status": "archived",
+          "url": "https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf",
+          "waybackUrl": "https://web.archive.org/web/20231116091643/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf",
+          "localPath": "sources/programs/vox/2023-general/programa.pdf",
+          "fileHash": "sha256:a63a7230318668bb141ade1b8957b86827e11c06ac57b2148e36011cfe8021db",
+          "retrievedAt": "2026-10-08",
+          "languages": [
+            "es"
+          ]
+        }
+      ],
+      "notes": {
+        "es": "Se archiva la versión ligera publicada por el partido (mismas 178 páginas); la versión completa sigue en votaabascal.es.",
+        "en": "The lighter version published by the party is archived (same 178 pages); the full-size version remains at votaabascal.es.",
+        "ca": "S'arxiva la versió lleugera publicada pel partit (les mateixes 178 pàgines); la versió completa continua a votaabascal.es."
+      }
+    },
+    {
+      "id": "sumar",
+      "acronym": "Sumar",
+      "name": "Sumar",
+      "ballotNames": [
+        "SUMAR",
+        "SUMAR - EN COMÚ PODEM",
+        "SUMAR ANDALUCÍA",
+        "COMPROMÍS - SUMAR: SUMEM PER GUANYAR",
+        "SUMAR GALICIA",
+        "SUMAR ARAGÓN",
+        "SUMAR MÉS",
+        "SUMAR CANARIAS"
+      ],
+      "seats2023": 31,
+      "color": "#e51c55",
+      "programEditions": [
+        {
+          "edition": "2023-general",
+          "electionDate": "2023-07-23",
+          "status": "archived",
+          "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+          "waybackUrl": "https://web.archive.org/web/20230719093918/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+          "localPath": "sources/programs/sumar/2023-general/programa.pdf",
+          "fileHash": "sha256:d5ccdac0d20f1b93a5f703f180d086041bd988835072dd5cb5d1378bf0195820",
+          "retrievedAt": "2026-10-08",
+          "languages": [
+            "es"
+          ]
+        }
+      ],
+      "notes": {
+        "es": "Coalición electoral; se usa el programa presentado a estas elecciones. Podemos, elegido en estas listas, pasó al Grupo Mixto el 5 de diciembre de 2023. Los escaños son los obtenidos en las elecciones.",
+        "en": "Electoral coalition; the programme filed for this election is used. Podemos, elected on these lists, moved to the Mixed Group on 5 December 2023. Seats are those won at the election.",
+        "ca": "Coalició electoral; s'utilitza el programa presentat a aquestes eleccions. Podem, elegit en aquestes llistes, va passar al Grup Mixt el 5 de desembre de 2023. Els escons són els obtinguts a les eleccions."
+      }
+    },
+    {
+      "id": "erc",
+      "acronym": "ERC",
+      "name": "Esquerra Republicana de Catalunya",
+      "ballotNames": [
+        "ESQUERRA REPUBLICANA DE CATALUNYA"
+      ],
+      "seats2023": 7,
+      "color": "#ffb232",
+      "programEditions": [
+        {
+          "edition": "2023-general",
+          "electionDate": "2023-07-23",
+          "status": "archived",
+          "url": "https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+          "waybackUrl": "https://web.archive.org/web/20230715192116/https://defensacatalunya.esquerrarepublicana.cat/documents/e2023-programa.pdf",
+          "localPath": "sources/programs/erc/2023-general/programa.pdf",
+          "fileHash": "sha256:760db25e48422b74a9b0c3172cab16cf39d010345849e50b921ff8bf61be2854",
+          "retrievedAt": "2026-10-08",
+          "languages": [
+            "ca"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "junts",
+      "acronym": "Junts",
+      "name": "Junts per Catalunya",
+      "ballotNames": [
+        "JUNTS PER CATALUNYA - JUNTS (JxCAT - JUNTS)"
+      ],
+      "seats2023": 7,
+      "color": "#00c3b2",
+      "programEditions": [
+        {
+          "edition": "2023-general",
+          "electionDate": "2023-07-23",
+          "status": "archived",
+          "url": "https://janhihaprou.cat/app/uploads/2023/07/Programa-Electoral-Junts-per-Catalunya-23J.pdf",
+          "waybackUrl": "https://web.archive.org/web/20230805224113/https://janhihaprou.cat/app/uploads/2023/07/Programa-Electoral-Junts-per-Catalunya-23J.pdf",
+          "localPath": "sources/programs/junts/2023-general/programa.pdf",
+          "fileHash": "sha256:48e3eeddfbeebc8ea0f56327ecd83eb7c67803ed1aa4df8ed84f8b8e98b48119",
+          "retrievedAt": "2026-10-08",
+          "languages": [
+            "ca"
+          ]
+        }
+      ],
+      "notes": {
+        "es": "Coalición de Junts per Catalunya, Moviment d'Esquerres de Catalunya y Demòcrates de Catalunya.",
+        "en": "Coalition of Junts per Catalunya, Moviment d'Esquerres de Catalunya and Demòcrates de Catalunya.",
+        "ca": "Coalició de Junts per Catalunya, Moviment d'Esquerres de Catalunya i Demòcrates de Catalunya."
+      }
+    },
+    {
+      "id": "eh-bildu",
+      "acronym": "EH Bildu",
+      "name": "Euskal Herria Bildu",
+      "ballotNames": [
+        "EUSKAL HERRIA BILDU"
+      ],
+      "seats2023": 6,
+      "color": "#b5cf18",
+      "programEditions": [
+        {
+          "edition": "2023-general",
+          "electionDate": "2023-07-23",
+          "status": "archived",
+          "url": "https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf",
+          "waybackUrl": "https://web.archive.org/web/20230726063554/https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf",
+          "localPath": "sources/programs/eh-bildu/2023-general/programa.pdf",
+          "fileHash": "sha256:6634c0786c1e771c61c1a65e549dfde0d4581d09e19949466e931c96a9642465",
+          "retrievedAt": "2026-10-08",
+          "languages": [
+            "es",
+            "eu"
+          ]
+        }
+      ],
+      "notes": {
+        "es": "Para estas elecciones publicó un documento de compromisos de 16 páginas, no un programa extenso.",
+        "en": "For this election it published a 16-page commitments document, not a long programme.",
+        "ca": "Per a aquestes eleccions va publicar un document de compromisos de 16 pàgines, no un programa extens."
+      }
+    },
+    {
+      "id": "pnv",
+      "acronym": "EAJ-PNV",
+      "name": "Euzko Alderdi Jeltzalea – Partido Nacionalista Vasco",
+      "ballotNames": [
+        "EUZKO ALDERDI JELTZALEA-PARTIDO NACIONALISTA VASCO"
+      ],
+      "seats2023": 5,
+      "color": "#008135",
+      "programEditions": [
+        {
+          "edition": "2023-general",
+          "electionDate": "2023-07-23",
+          "status": "archived",
+          "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+          "waybackUrl": "https://web.archive.org/web/20230715101857/https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+          "localPath": "sources/programs/pnv/2023-general/programa.pdf",
+          "fileHash": "sha256:46fec3a017cdc5c4e506fa5e228b97690071d5a03dfd3d8128392aa20f57d132",
+          "retrievedAt": "2026-10-08",
+          "languages": [
+            "es",
+            "eu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bng",
+      "acronym": "BNG",
+      "name": "Bloque Nacionalista Galego",
+      "ballotNames": [
+        "BLOQUE NACIONALISTA GALEGO"
+      ],
+      "seats2023": 1,
+      "color": "#adcfef",
+      "programEditions": [
+        {
+          "edition": "2023-general",
+          "electionDate": "2023-07-23",
+          "status": "archived",
+          "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+          "waybackUrl": "https://web.archive.org/web/20230713120301/https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+          "localPath": "sources/programs/bng/2023-general/programa.pdf",
+          "fileHash": "sha256:b8994deec0bbc45cdcbef5d7c5395cabf30b0509706303c3d8e76058c48eebfd",
+          "retrievedAt": "2026-10-08",
+          "languages": [
+            "gl"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cc",
+      "acronym": "CCa",
+      "name": "Coalición Canaria",
+      "ballotNames": [
+        "COALICIÓN CANARIA"
+      ],
+      "seats2023": 1,
+      "color": "#ffd700",
+      "programEditions": [
+        {
+          "edition": "2023-general",
+          "electionDate": "2023-07-23",
+          "status": "archived",
+          "url": "https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/00_COALICION%20POR%20CANARIAS.pdf",
+          "waybackUrl": "https://web.archive.org/web/20230930233746/https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/00_COALICION%20POR%20CANARIAS.pdf",
+          "localPath": "sources/programs/cc/2023-general/programa.pdf",
+          "fileHash": "sha256:cc33ca907f700b3201560b77d82793f844afcfa812709ef0f33c82379814e749",
+          "retrievedAt": "2026-10-08",
+          "languages": [
+            "es"
+          ]
+        }
+      ],
+      "notes": {
+        "es": "Para estas elecciones publicó un manifiesto con 52 compromisos numerados (14 páginas), no un programa extenso.",
+        "en": "For this election it published a manifesto with 52 numbered commitments (14 pages), not a long programme.",
+        "ca": "Per a aquestes eleccions va publicar un manifest amb 52 compromisos numerats (14 pàgines), no un programa extens."
+      }
+    },
+    {
+      "id": "upn",
+      "acronym": "UPN",
+      "name": "Unión del Pueblo Navarro",
+      "ballotNames": [
+        "UNION DEL PUEBLO NAVARRO"
+      ],
+      "seats2023": 1,
+      "color": "#2a52be",
+      "programEditions": [
+        {
+          "edition": "2023-general",
+          "electionDate": "2023-07-23",
+          "status": "archived",
+          "url": "https://www.upn.org/wp-content/uploads/2023/07/Programa-Generales-23J_V2-1.pdf",
+          "waybackUrl": "https://web.archive.org/web/20230727191605/https://www.upn.org/wp-content/uploads/2023/07/Programa-Generales-23J_V2-1.pdf",
+          "localPath": "sources/programs/upn/2023-general/programa.pdf",
+          "fileHash": "sha256:6bbf12c4fe8acc17d8deb2ddc68a89cbee9e07ec70472ed7463655e8a59e15d6",
+          "retrievedAt": "2026-10-08",
+          "languages": [
+            "es"
+          ]
+        }
+      ],
+      "notes": {
+        "es": "Para estas elecciones publicó un programa breve de 6 páginas con objetivos numerados.",
+        "en": "For this election it published a short 6-page programme with numbered objectives.",
+        "ca": "Per a aquestes eleccions va publicar un programa breu de 6 pàgines amb objectius numerats."
+      }
+    }
+  ]
+}

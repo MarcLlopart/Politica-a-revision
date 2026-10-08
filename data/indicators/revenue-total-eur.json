@@ -1,0 +1,177 @@
+{
+  "id": "revenue-total-eur",
+  "topic": "public-spending",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Ingresos públicos totales (euros)",
+    "en": "Total public revenue (euros)",
+    "ca": "Ingressos públics totals (euros)"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Total general government revenue, million euros converted to euros, Eurostat gov_10a_main (TR, S13).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 245747000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 266006000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 287171000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 304787000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 332725000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 368206000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 407079000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 442451000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 409082000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 373777000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 391624000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 387333000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 390842000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 396593000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 405125000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 417645000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 425316000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 444005000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 472250000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 488347000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 468267000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 528950000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 574012000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 630198000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 673734000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 724554000000,
+      "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
+      "status": "final"
+    }
+  ]
+}

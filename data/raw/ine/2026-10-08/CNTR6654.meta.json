@@ -1,0 +1,13 @@
+{"Id":6654, "COD":"CNTR6654", "Operacion":{"Id":237, "Cod_IOE":"30024", "Nombre":"Contabilidad Nacional Trimestral de España: Principales Agregados", "Codigo":"CNTR2010", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736164439&idp=1254735576581"}
+, "Nombre":"Total Nacional. Datos ajustados de estacionalidad y calendario. Producto interior bruto a precios de mercado. Variación anual. Índices de volumen encadenados. ", "Decimales":4, "Periodicidad":{"Id":3, "Nombre":"Trimestral", "Codigo":"Q"}
+, "Publicacion":{"Id":14, "Nombre":"Contabilidad Nacional Trimestral de España", "Periodicidad":{"Id":3, "Nombre":"Trimestral", "Codigo":"Q"}
+, "Operacion":[{"Id":20, "Cod_IOE":"30013", "Nombre":"Contabilidad Nacional Trimestral de España. Base 2000", "Codigo":"CNTR2000"}
+,{"Id":237, "Cod_IOE":"30024", "Nombre":"Contabilidad Nacional Trimestral de España: Principales Agregados", "Codigo":"CNTR2010", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736164439&idp=1254735576581"}
+,{"Id":51, "Cod_IOE":"30019", "Nombre":"Contabilidad Nacional Trimestral de España. Base 2008", "Codigo":"CNTR2008"}
+]
+, "PubFechaAct":{"Id":12680, "Nombre":"Contabilidad Nacional Trimestral de España. Trimestre 2/2026", "Fecha":1790319600000, "FK_Periodo":20, "Anyo":2026}
+}
+, "Clasificacion":{"Id":104, "Nombre":"Cuentas Nacionales. Base 2020. Revisión Estadística 2024.", "Fecha":1719525600000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}

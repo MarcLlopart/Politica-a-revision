@@ -1,0 +1,10 @@
+{"Id":2643, "COD":"ECV2643", "Operacion":{"Id":155, "Cod_IOE":"30453", "Nombre":"Encuesta de Condiciones de Vida (ECV)", "Codigo":"ECV", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176807&idp=1254735976608"}
+, "Nombre":"Total Nacional. Alquiler a precio de mercado. Hogar. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":344, "Nombre":"Encuesta de Condiciones de Vida", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":155, "Cod_IOE":"30453", "Nombre":"Encuesta de Condiciones de Vida (ECV)", "Codigo":"ECV", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176807&idp=1254735976608"}
+]
+, "PubFechaAct":{"Id":13809, "Nombre":"Encuesta de Condiciones de Vida 2025", "Fecha":1790865900000, "FK_Periodo":28, "Anyo":2025}
+}
+, "FK_Clasificacion":null, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":232, "Nombre":"Porcentaje de hogares", "Codigo":null, "Abrev":"% hogares"}
+}

@@ -1,0 +1,10 @@
+{"Id":85061, "COD":"IDB85061", "Operacion":{"Id":33, "Cod_IOE":"30264", "Nombre":"Indicadores Demográficos Básicos", "Codigo":"IDB", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177003&idp=1254735573002"}
+, "Nombre":"Total Nacional, Indicadores de crecimiento y estructura de la población, Edad mediana a la población, Total, Todas las edades, Anual, Porcentaje, Total, No considerado", "Decimales":6, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":71, "Nombre":"Indicadores de Crecimiento y Estructura", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":33, "Cod_IOE":"30264", "Nombre":"Indicadores Demográficos Básicos", "Codigo":"IDB", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177003&idp=1254735573002"}
+]
+, "PubFechaAct":{"Id":12915, "Nombre":"Indicadores de Crecimiento y Estructura 2024", "Fecha":1765447200000, "FK_Periodo":28, "Anyo":2024}
+}
+, "FK_Clasificacion":null, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":108, "Nombre":"Años", "Codigo":null, "Abrev":null}
+}

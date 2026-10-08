@@ -1,0 +1,10 @@
+{"Id":1430, "COD":"PROP1430", "Operacion":{"Id":326, "Cod_IOE":"30278", "Nombre":"Proyecciones de Población", "Codigo":"PROP", "Url":"https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176953&idp=1254735572981"}
+, "Nombre":"Total. Defunciones de residentes en España. Total Nacional. Proyección a largo plazo. Todas las edades. ", "Decimales":6, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":400, "Nombre":"Proyecciones de Población", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":326, "Cod_IOE":"30278", "Nombre":"Proyecciones de Población", "Codigo":"PROP", "Url":"https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176953&idp=1254735572981"}
+]
+, "PubFechaAct":{"Id":12365, "Nombre":"Proyecciones de Población 2026-2076", "Fecha":1781686800000, "FK_Periodo":28, "Anyo":2076}
+}
+, "FK_Clasificacion":null, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":3, "Nombre":"Personas", "Codigo":null, "Abrev":null}
+}

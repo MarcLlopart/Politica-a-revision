@@ -1,0 +1,1306 @@
+{
+  "id": "irpf-income",
+  "topic": "income",
+  "amountPer": "year",
+  "periodRef": "period",
+  "label": {
+    "es": "Renta declarada en el IRPF",
+    "en": "Income declared for income tax (IRPF)",
+    "ca": "Renda declarada a l'IRPF"
+  },
+  "population": {
+    "es": "declaraciones del IRPF (territorio común)",
+    "en": "income tax returns (common-regime territory)",
+    "ca": "declaracions de l'IRPF (territori comú)"
+  },
+  "note": {
+    "es": "Renta = base imponible general más base del ahorro. Una declaración conjunta cuenta una vez con la renta de la pareja. No incluye a quien no declara ni a País Vasco y Navarra. Tramos fijados en pesetas.",
+    "en": "Income = general tax base plus savings tax base. A joint return counts once, with the couple's combined income. Excludes people who do not file, and the Basque Country and Navarre. Brackets were set in pesetas.",
+    "ca": "Renda = base imposable general més base de l'estalvi. Una declaració conjunta compta una vegada amb la renda de la parella. No inclou qui no declara ni el País Basc i Navarra. Trams fixats en pessetes."
+  },
+  "calculation": {
+    "method": "AEAT, Estadística de los declarantes del IRPF, by 'tramos de rendimientos e imputaciones' (general + savings tax base, each floored at 0). Count = all returns in the bracket; amount = general base + savings base in the bracket. Mean = total amount / returns.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "periods": [
+    {
+      "period": "2016",
+      "sourceId": "aeat-irpf-2016-big",
+      "extraSourceIds": [
+        "aeat-irpf-2016-bia"
+      ],
+      "total": 19621728,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 0,
+          "count": 656124,
+          "amount": 0
+        },
+        {
+          "lower": 0,
+          "upper": 1502.53,
+          "count": 1540668,
+          "amount": 211127820
+        },
+        {
+          "lower": 1502.53,
+          "upper": 6010.12,
+          "count": 3118591,
+          "amount": 11886325750
+        },
+        {
+          "lower": 6010.12,
+          "upper": 12020.24,
+          "count": 2346126,
+          "amount": 20647743672
+        },
+        {
+          "lower": 12020.24,
+          "upper": 21035.42,
+          "count": 4756153,
+          "amount": 78251358944
+        },
+        {
+          "lower": 21035.42,
+          "upper": 30050.61,
+          "count": 3141176,
+          "amount": 78951698945
+        },
+        {
+          "lower": 30050.61,
+          "upper": 60101.21,
+          "count": 3326134,
+          "amount": 130415043662
+        },
+        {
+          "lower": 60101.21,
+          "upper": 150253.03,
+          "count": 645348,
+          "amount": 53514537314
+        },
+        {
+          "lower": 150253.03,
+          "upper": 601012.1,
+          "count": 82927,
+          "amount": 20016323287
+        },
+        {
+          "lower": 601012.1,
+          "upper": null,
+          "count": 8481,
+          "amount": 13794415652
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 20777.404265618195,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 1273.718610021108,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 5449.066101279686,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 15982.073127670092,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 27124.07454781233,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 40124.07469066521,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 53251.96680777064,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 104435.55068453352,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 30000,
+          "shareAbove": 0.20774849178061802,
+          "countAbove": 4076384
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.03769603326496565,
+          "countAbove": 739661
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.011037164426797062,
+          "countAbove": 216568
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.004673509629171474,
+          "countAbove": 91702
+        },
+        {
+          "amount": 200000,
+          "shareAbove": 0.00271160913472973,
+          "countAbove": 53206
+        },
+        {
+          "amount": 300000,
+          "shareAbove": 0.0012958095438350718,
+          "countAbove": 25426
+        },
+        {
+          "amount": 600000,
+          "shareAbove": 0.0004332052255507036,
+          "countAbove": 8500
+        }
+      ]
+    },
+    {
+      "period": "2017",
+      "sourceId": "aeat-irpf-2017-big",
+      "extraSourceIds": [
+        "aeat-irpf-2017-bia"
+      ],
+      "total": 19913239,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 0,
+          "count": 663737,
+          "amount": 0
+        },
+        {
+          "lower": 0,
+          "upper": 1502.53,
+          "count": 1375133,
+          "amount": 224708242
+        },
+        {
+          "lower": 1502.53,
+          "upper": 6010.12,
+          "count": 3003464,
+          "amount": 11497806673
+        },
+        {
+          "lower": 6010.12,
+          "upper": 12020.24,
+          "count": 2376001,
+          "amount": 20972920333
+        },
+        {
+          "lower": 12020.24,
+          "upper": 21035.42,
+          "count": 4971581,
+          "amount": 81692474325
+        },
+        {
+          "lower": 21035.42,
+          "upper": 30050.61,
+          "count": 3274382,
+          "amount": 82267420443
+        },
+        {
+          "lower": 30050.61,
+          "upper": 60101.21,
+          "count": 3460006,
+          "amount": 135800450949
+        },
+        {
+          "lower": 60101.21,
+          "upper": 150253.03,
+          "count": 689353,
+          "amount": 57273795969
+        },
+        {
+          "lower": 150253.03,
+          "upper": 601012.1,
+          "count": 90238,
+          "amount": 21747188781
+        },
+        {
+          "lower": 601012.1,
+          "upper": null,
+          "count": 9344,
+          "amount": 15558419886
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 21444.78784194776,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 1450.5790675207418,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 5921.1549731032965,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 16479.456360509077,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 27576.641855698137,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 40770.79705738631,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 54374.51197776538,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 107647.16000919719,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 30000,
+          "shareAbove": 0.21407428200303227,
+          "countAbove": 4262912
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.03977226954687992,
+          "countAbove": 791995
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.011799258895824859,
+          "countAbove": 234961
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.0050169056210712755,
+          "countAbove": 99903
+        },
+        {
+          "amount": 200000,
+          "shareAbove": 0.0029063084380411444,
+          "countAbove": 57874
+        },
+        {
+          "amount": 300000,
+          "shareAbove": 0.0013891694164148314,
+          "countAbove": 27663
+        },
+        {
+          "amount": 600000,
+          "shareAbove": 0.0004702745998473312,
+          "countAbove": 9365
+        }
+      ]
+    },
+    {
+      "period": "2018",
+      "sourceId": "aeat-irpf-2018-big",
+      "extraSourceIds": [
+        "aeat-irpf-2018-bia"
+      ],
+      "total": 20608731,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 0,
+          "count": 854255,
+          "amount": 0
+        },
+        {
+          "lower": 0,
+          "upper": 1502.53,
+          "count": 1442776,
+          "amount": 283296379
+        },
+        {
+          "lower": 1502.53,
+          "upper": 6010.12,
+          "count": 3076707,
+          "amount": 11408680362
+        },
+        {
+          "lower": 6010.12,
+          "upper": 12020.24,
+          "count": 2646861,
+          "amount": 23306210219
+        },
+        {
+          "lower": 12020.24,
+          "upper": 21035.42,
+          "count": 4641263,
+          "amount": 77478866570
+        },
+        {
+          "lower": 21035.42,
+          "upper": 30050.61,
+          "count": 3392427,
+          "amount": 85208630355
+        },
+        {
+          "lower": 30050.61,
+          "upper": 60101.21,
+          "count": 3699249,
+          "amount": 145286190117
+        },
+        {
+          "lower": 60101.21,
+          "upper": 150253.03,
+          "count": 743265,
+          "amount": 61929523219
+        },
+        {
+          "lower": 150253.03,
+          "upper": 601012.1,
+          "count": 100561,
+          "amount": 24392804382
+        },
+        {
+          "lower": 601012.1,
+          "upper": null,
+          "count": 11367,
+          "amount": 21855072356
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 21891.1719483844,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 1256.5913861839954,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 5668.685725266061,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 16703.49982600908,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 28058.94014531799,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 41452.97045106046,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 55432.74788144388,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 111284.24467843317,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 30000,
+          "shareAbove": 0.22169461717637823,
+          "countAbove": 4568845
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.04165665150485939,
+          "countAbove": 858491
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.01264515720568353,
+          "countAbove": 260601
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.005448388631264534,
+          "countAbove": 112284
+        },
+        {
+          "amount": 200000,
+          "shareAbove": 0.003206983305231766,
+          "countAbove": 66092
+        },
+        {
+          "amount": 300000,
+          "shareAbove": 0.0015693427766864986,
+          "countAbove": 32342
+        },
+        {
+          "amount": 600000,
+          "shareAbove": 0.0005527360977546604,
+          "countAbove": 11391
+        }
+      ]
+    },
+    {
+      "period": "2019",
+      "sourceId": "aeat-irpf-2019-big",
+      "extraSourceIds": [
+        "aeat-irpf-2019-bia"
+      ],
+      "total": 21028886,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 0,
+          "count": 1076676,
+          "amount": 0
+        },
+        {
+          "lower": 0,
+          "upper": 1502.53,
+          "count": 1554268,
+          "amount": 421150257
+        },
+        {
+          "lower": 1502.53,
+          "upper": 6010.12,
+          "count": 3338250,
+          "amount": 12468355204
+        },
+        {
+          "lower": 6010.12,
+          "upper": 12020.24,
+          "count": 2228962,
+          "amount": 19652412428
+        },
+        {
+          "lower": 12020.24,
+          "upper": 21035.42,
+          "count": 4390676,
+          "amount": 74579846411
+        },
+        {
+          "lower": 21035.42,
+          "upper": 30050.61,
+          "count": 3531666,
+          "amount": 88549996997
+        },
+        {
+          "lower": 30050.61,
+          "upper": 60101.21,
+          "count": 3995693,
+          "amount": 157133977739
+        },
+        {
+          "lower": 60101.21,
+          "upper": 150253.03,
+          "count": 794093,
+          "amount": 66146978624
+        },
+        {
+          "lower": 150253.03,
+          "upper": 601012.1,
+          "count": 106695,
+          "amount": 25981475049
+        },
+        {
+          "lower": 601012.1,
+          "upper": null,
+          "count": 11907,
+          "amount": 22980493191
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 22251.044867521752,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 992.0523473931138,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 5029.572471219209,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 17436.951780764863,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 28876.54774800851,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 42429.90457935364,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 56600.450188962175,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 113393.24622514105,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 30000,
+          "shareAbove": 0.2341031755635979,
+          "countAbove": 4922929
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.04357406266462383,
+          "countAbove": 916314
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.013180526185534207,
+          "countAbove": 277172
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.005658012465564158,
+          "countAbove": 118982
+        },
+        {
+          "amount": 200000,
+          "shareAbove": 0.003346644963582091,
+          "countAbove": 70376
+        },
+        {
+          "amount": 300000,
+          "shareAbove": 0.0016415551007752922,
+          "countAbove": 34520
+        },
+        {
+          "amount": 600000,
+          "shareAbove": 0.0005674766447645171,
+          "countAbove": 11933
+        }
+      ]
+    },
+    {
+      "period": "2020",
+      "sourceId": "aeat-irpf-2020-big",
+      "extraSourceIds": [
+        "aeat-irpf-2020-bia"
+      ],
+      "total": 21638795,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 0,
+          "count": 1433065,
+          "amount": 0
+        },
+        {
+          "lower": 0,
+          "upper": 1502.53,
+          "count": 1540143,
+          "amount": 407460808
+        },
+        {
+          "lower": 1502.53,
+          "upper": 6010.12,
+          "count": 3558652,
+          "amount": 13238340848
+        },
+        {
+          "lower": 6010.12,
+          "upper": 12020.24,
+          "count": 2307532,
+          "amount": 20285853168
+        },
+        {
+          "lower": 12020.24,
+          "upper": 21035.42,
+          "count": 4325339,
+          "amount": 73366296282
+        },
+        {
+          "lower": 21035.42,
+          "upper": 30050.61,
+          "count": 3472166,
+          "amount": 86995316815
+        },
+        {
+          "lower": 30050.61,
+          "upper": 60101.21,
+          "count": 4084706,
+          "amount": 160637235870
+        },
+        {
+          "lower": 60101.21,
+          "upper": 150253.03,
+          "count": 802685,
+          "amount": 66870740473
+        },
+        {
+          "lower": 150253.03,
+          "upper": 601012.1,
+          "count": 103394,
+          "amount": 25037369980
+        },
+        {
+          "lower": 601012.1,
+          "upper": null,
+          "count": 11113,
+          "amount": 19189425339
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 21536.69091014541,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 712.9667249632014,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 4545.075832327071,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 16796.27905422307,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 28648.77463685387,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 42190.451426536165,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 56099.63621061899,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 111213.53608653438,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 30000,
+          "shareAbove": 0.23180653010151184,
+          "countAbove": 5016014
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.04255747071047845,
+          "countAbove": 920892
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.012704781297940637,
+          "countAbove": 274916
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.005309504863167868,
+          "countAbove": 114891
+        },
+        {
+          "amount": 200000,
+          "shareAbove": 0.0031058425444431465,
+          "countAbove": 67207
+        },
+        {
+          "amount": 300000,
+          "shareAbove": 0.0015032039436368597,
+          "countAbove": 32528
+        },
+        {
+          "amount": 600000,
+          "shareAbove": 0.0005147034536671078,
+          "countAbove": 11138
+        }
+      ]
+    },
+    {
+      "period": "2021",
+      "sourceId": "aeat-irpf-2021-big",
+      "extraSourceIds": [
+        "aeat-irpf-2021-bia"
+      ],
+      "total": 22048548,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 0,
+          "count": 1422655,
+          "amount": 0
+        },
+        {
+          "lower": 0,
+          "upper": 1502.53,
+          "count": 1424466,
+          "amount": 498531382
+        },
+        {
+          "lower": 1502.53,
+          "upper": 6010.12,
+          "count": 3271845,
+          "amount": 12218640106
+        },
+        {
+          "lower": 6010.12,
+          "upper": 12020.24,
+          "count": 2209861,
+          "amount": 19466269392
+        },
+        {
+          "lower": 12020.24,
+          "upper": 21035.42,
+          "count": 4518947,
+          "amount": 76993582016
+        },
+        {
+          "lower": 21035.42,
+          "upper": 30050.61,
+          "count": 3740473,
+          "amount": 93681172285
+        },
+        {
+          "lower": 30050.61,
+          "upper": 60101.21,
+          "count": 4417899,
+          "amount": 174398943928
+        },
+        {
+          "lower": 60101.21,
+          "upper": 150253.03,
+          "count": 906910,
+          "amount": 75904760058
+        },
+        {
+          "lower": 150253.03,
+          "upper": 601012.1,
+          "count": 123314,
+          "amount": 29863668081
+        },
+        {
+          "lower": 601012.1,
+          "upper": null,
+          "count": 12178,
+          "amount": 19750497653
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 22803.137190757414,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 825.0661409215808,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 5156.558280154372,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 18077.707118210772,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 29877.56392936797,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 43899.90889964658,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 58703.69473909757,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 118848.61027515613,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 30000,
+          "shareAbove": 0.24833397461764223,
+          "countAbove": 5475404
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.04746753738807227,
+          "countAbove": 1046590
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.01461010068042146,
+          "countAbove": 322132
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.006165819266925655,
+          "countAbove": 135947
+        },
+        {
+          "amount": 200000,
+          "shareAbove": 0.0035870482942615767,
+          "countAbove": 79089
+        },
+        {
+          "amount": 300000,
+          "shareAbove": 0.001711106186307817,
+          "countAbove": 37727
+        },
+        {
+          "amount": 600000,
+          "shareAbove": 0.0005536561099526327,
+          "countAbove": 12207
+        }
+      ]
+    },
+    {
+      "period": "2022",
+      "sourceId": "aeat-irpf-2022-big",
+      "extraSourceIds": [
+        "aeat-irpf-2022-bia"
+      ],
+      "total": 22898072,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 0,
+          "count": 1284835,
+          "amount": 0
+        },
+        {
+          "lower": 0,
+          "upper": 1502.53,
+          "count": 1415760,
+          "amount": 463894496
+        },
+        {
+          "lower": 1502.53,
+          "upper": 6010.12,
+          "count": 3028019,
+          "amount": 11495273229
+        },
+        {
+          "lower": 6010.12,
+          "upper": 12020.24,
+          "count": 2313798,
+          "amount": 20421638830
+        },
+        {
+          "lower": 12020.24,
+          "upper": 21035.42,
+          "count": 4813918,
+          "amount": 82114196459
+        },
+        {
+          "lower": 21035.42,
+          "upper": 30050.61,
+          "count": 3974212,
+          "amount": 99510133865
+        },
+        {
+          "lower": 30050.61,
+          "upper": 60101.21,
+          "count": 4869658,
+          "amount": 194099009707
+        },
+        {
+          "lower": 60101.21,
+          "upper": 150253.03,
+          "count": 1038056,
+          "amount": 87165713148
+        },
+        {
+          "lower": 150253.03,
+          "upper": 601012.1,
+          "count": 144630,
+          "amount": 34938916506
+        },
+        {
+          "lower": 601012.1,
+          "upper": null,
+          "count": 15186,
+          "amount": 25403079865
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 24264.56935348094,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 1066.565575850427,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 6004.282844476098,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 18969.767421373723,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 30847.64003875787,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 46102.58230994328,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 61290.54243979159,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 126114.37820900945,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 30000,
+          "shareAbove": 0.2656776115294673,
+          "countAbove": 6083505
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.05253888144135845,
+          "countAbove": 1203039
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.016500937471138805,
+          "countAbove": 377840
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.007002979636676622,
+          "countAbove": 160355
+        },
+        {
+          "amount": 200000,
+          "shareAbove": 0.0040749830971987065,
+          "countAbove": 93309
+        },
+        {
+          "amount": 300000,
+          "shareAbove": 0.0019583660713150264,
+          "countAbove": 44843
+        },
+        {
+          "amount": 600000,
+          "shareAbove": 0.0006646741062453907,
+          "countAbove": 15220
+        }
+      ]
+    },
+    {
+      "period": "2023",
+      "sourceId": "aeat-irpf-2023-big",
+      "extraSourceIds": [
+        "aeat-irpf-2023-bia"
+      ],
+      "total": 23987211,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 0,
+          "count": 1270127,
+          "amount": 0
+        },
+        {
+          "lower": 0,
+          "upper": 1502.53,
+          "count": 1691865,
+          "amount": 537036997
+        },
+        {
+          "lower": 1502.53,
+          "upper": 6010.12,
+          "count": 3127766,
+          "amount": 11869786588
+        },
+        {
+          "lower": 6010.12,
+          "upper": 12020.24,
+          "count": 2688297,
+          "amount": 23773398424
+        },
+        {
+          "lower": 12020.24,
+          "upper": 21035.42,
+          "count": 4302709,
+          "amount": 73388056318
+        },
+        {
+          "lower": 21035.42,
+          "upper": 30050.61,
+          "count": 4277053,
+          "amount": 107187997038
+        },
+        {
+          "lower": 30050.61,
+          "upper": 60101.21,
+          "count": 5282994,
+          "amount": 212964135489
+        },
+        {
+          "lower": 60101.21,
+          "upper": 150253.03,
+          "count": 1170735,
+          "amount": 98464730448
+        },
+        {
+          "lower": 150253.03,
+          "upper": 601012.1,
+          "count": 160927,
+          "amount": 38694067666
+        },
+        {
+          "lower": 601012.1,
+          "upper": null,
+          "count": 14738,
+          "amount": 23376187344
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 24607.0873480039,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 1002.2942096875341,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 5881.58541679986,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 19265.906155061955,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 31560.92886072522,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 47971.15024296122,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 63205.399083376,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 129686.01916822827,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 30000,
+          "shareAbove": 0.27710003802882294,
+          "countAbove": 6646857
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.05639495192207453,
+          "countAbove": 1352758
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.017676100655083096,
+          "countAbove": 424000
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.007349017736341197,
+          "countAbove": 176282
+        },
+        {
+          "amount": 200000,
+          "shareAbove": 0.0042071714920862546,
+          "countAbove": 100918
+        },
+        {
+          "amount": 300000,
+          "shareAbove": 0.0019631769848895537,
+          "countAbove": 47091
+        },
+        {
+          "amount": 600000,
+          "shareAbove": 0.0006159227948092429,
+          "countAbove": 14774
+        }
+      ]
+    },
+    {
+      "period": "2024",
+      "sourceId": "aeat-irpf-2024-big",
+      "extraSourceIds": [
+        "aeat-irpf-2024-bia"
+      ],
+      "total": 24628279,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 0,
+          "count": 1531620,
+          "amount": 0
+        },
+        {
+          "lower": 0,
+          "upper": 1502.53,
+          "count": 1689995,
+          "amount": 547322785
+        },
+        {
+          "lower": 1502.53,
+          "upper": 6010.12,
+          "count": 3194543,
+          "amount": 12055888216
+        },
+        {
+          "lower": 6010.12,
+          "upper": 12020.24,
+          "count": 2226016,
+          "amount": 19511328615
+        },
+        {
+          "lower": 12020.24,
+          "upper": 21035.42,
+          "count": 4040146,
+          "amount": 69816801114
+        },
+        {
+          "lower": 21035.42,
+          "upper": 30050.61,
+          "count": 4566506,
+          "amount": 114542286927
+        },
+        {
+          "lower": 30050.61,
+          "upper": 60101.21,
+          "count": 5796268,
+          "amount": 236107955522
+        },
+        {
+          "lower": 60101.21,
+          "upper": 150253.03,
+          "count": 1369675,
+          "amount": 115764914200
+        },
+        {
+          "lower": 150253.03,
+          "upper": 601012.1,
+          "count": 194681,
+          "amount": 47009806274
+        },
+        {
+          "lower": 601012.1,
+          "upper": null,
+          "count": 18829,
+          "amount": 31400557376
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 26260.741200349403,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 827.9123938159579,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 5651.119618022825,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 20489.015393907244,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 33077.02756022785,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 50880.6598648942,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 67276.06621211139,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 140436.70281542535,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 30000,
+          "shareAbove": 0.3004020777777048,
+          "countAbove": 7398386
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.06459987440985458,
+          "countAbove": 1590984
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.02082440945121376,
+          "countAbove": 512869
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.00870009636581456,
+          "countAbove": 214268
+        },
+        {
+          "amount": 200000,
+          "shareAbove": 0.00503102331245739,
+          "countAbove": 123905
+        },
+        {
+          "amount": 300000,
+          "shareAbove": 0.0023825180011060303,
+          "countAbove": 58677
+        },
+        {
+          "amount": 600000,
+          "shareAbove": 0.0007663667050421067,
+          "countAbove": 18874
+        }
+      ]
+    }
+  ]
+}

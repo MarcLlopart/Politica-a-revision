@@ -1,0 +1,80 @@
+{
+  "id": "wage-earners-men-p50",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Hombres",
+    "en": "Men",
+    "ca": "Homes"
+  },
+  "note": {
+    "es": "Salario bruto anual por persona, sumando todos sus pagadores (modelo 190), sin ajustar por tiempo trabajado: incluye jornadas parciales y años incompletos. Sin País Vasco ni Navarra.",
+    "en": "Gross annual wage per person, adding up all payers (form 190), not adjusted for time worked: includes part-time work and part years. Excludes the Basque Country and Navarre.",
+    "ca": "Salari brut anual per persona, sumant tots els pagadors (model 190), sense ajustar pel temps treballat: inclou jornades parcials i anys incomplets. Sense País Basc ni Navarra."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "median of the distribution \"wage-earners-men\" (see Distributions on the methodology page). AEAT, Mercado de trabajo y pensiones en las fuentes tributarias: wage earners, wages and average wage by wage bracket, filtered by sex in the table's own menu (multiples of the annual SMI). Mean = total wages / wage earners.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2016",
+      "value": 16606.33,
+      "sourceId": "aeat-mercado-2016-varon",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 16963.26,
+      "sourceId": "aeat-mercado-2017-varon",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 17567.81,
+      "sourceId": "aeat-mercado-2018-varon",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 18186,
+      "sourceId": "aeat-mercado-2019-varon",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 17545.7,
+      "sourceId": "aeat-mercado-2020-varon",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 18808.33,
+      "sourceId": "aeat-mercado-2021-varon",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 19927.1,
+      "sourceId": "aeat-mercado-2022-varon",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 21021.61,
+      "sourceId": "aeat-mercado-2023-varon",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 21842.38,
+      "sourceId": "aeat-mercado-2024-varon",
+      "status": "final"
+    }
+  ]
+}

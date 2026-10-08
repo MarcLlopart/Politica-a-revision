@@ -1,0 +1,177 @@
+{
+  "id": "share-65-plus",
+  "topic": "demographics",
+  "unit": "percent",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Población de 65 años o más",
+    "en": "Population aged 65 and over",
+    "ca": "Població de 65 anys o més"
+  },
+  "yZero": true,
+  "periodRef": "start",
+  "calculation": {
+    "method": "Share of the population aged 65 and over on 1 January, as published by INE (Indicadores Demográficos Básicos).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 16.53,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 16.79,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 17.01,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 16.96,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 16.8,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 16.56,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 16.64,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 16.54,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 16.44,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 16.56,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 16.8,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 17.11,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 17.36,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 17.67,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 18.11,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 18.45,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 18.67,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 18.89,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 19.12,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 19.3,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 19.47,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 19.64,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 19.97,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 20.15,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 20.42,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 20.72,
+      "sourceId": "ine-idb55727",
+      "status": "final"
+    }
+  ]
+}

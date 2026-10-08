@@ -1,0 +1,29 @@
+{
+  "id": "maximum-pension-2026",
+  "topic": "pensions",
+  "kind": "legal",
+  "label": {
+    "es": "Pensión pública máxima",
+    "en": "Maximum public pension",
+    "ca": "Pensió pública màxima"
+  },
+  "value": 3359.6,
+  "unit": "eur",
+  "period": "2026",
+  "definition": {
+    "es": "Euros al mes, 14 pagas (47.034,40 € al año).",
+    "en": "Euros per month, 14 payments (€47,034.40 a year).",
+    "ca": "Euros al mes, 14 pagues (47.034,40 € l'any)."
+  },
+  "publisher": "BOE",
+  "document": {
+    "title": "Real Decreto 241/2026 (BOE-A-2026-6977), revalorización de pensiones 2026",
+    "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-6977",
+    "location": "Art. 3",
+    "localPath": "sources/documents/boe/boe-a-2026-6977.xml",
+    "fileHash": "sha256:0efed993bc34ef6aa9216fa4f18f21185bb8e0e5a947cd1b76887651ebfa7d1e",
+    "retrievedAt": "2026-10-08"
+  },
+  "transcribedBy": "Research agent (Claude), checked against the downloaded document",
+  "checkedBy": []
+}

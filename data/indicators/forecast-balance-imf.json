@@ -1,0 +1,63 @@
+{
+  "id": "forecast-balance-imf",
+  "topic": "public-finances",
+  "unit": "percent_gdp",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "FMI, abril 2026",
+    "en": "IMF, April 2026",
+    "ca": "FMI, abril 2026"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "General government net lending/borrowing, % of GDP, IMF WEO April 2026 (GGXCNL_NGDP).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2025",
+      "value": -2.4958,
+      "sourceId": "imf-weo-2026-apr-esp",
+      "status": "final"
+    },
+    {
+      "period": "2026",
+      "value": -2.0673,
+      "sourceId": "imf-weo-2026-apr-esp",
+      "status": "forecast"
+    },
+    {
+      "period": "2027",
+      "value": -2.2644,
+      "sourceId": "imf-weo-2026-apr-esp",
+      "status": "forecast"
+    },
+    {
+      "period": "2028",
+      "value": -2.171,
+      "sourceId": "imf-weo-2026-apr-esp",
+      "status": "forecast"
+    },
+    {
+      "period": "2029",
+      "value": -2.1584,
+      "sourceId": "imf-weo-2026-apr-esp",
+      "status": "forecast"
+    },
+    {
+      "period": "2030",
+      "value": -2.1548,
+      "sourceId": "imf-weo-2026-apr-esp",
+      "status": "forecast"
+    },
+    {
+      "period": "2031",
+      "value": -2.1533,
+      "sourceId": "imf-weo-2026-apr-esp",
+      "status": "forecast"
+    }
+  ]
+}

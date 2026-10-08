@@ -1,0 +1,11 @@
+{
+  "files": {
+    "01001.px": {
+      "url": "https://estadisticasdecriminalidad.ses.mir.es/sec/jaxiPx/files/_px/es/px/Datos1/l0/01001.px?nocab=1",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:af1c2d79739a17573c5b4ce26627635c065796dcd9cafd77d5a4fc07f06de8d2",
+      "bytes": 98790,
+      "contentType": "application/pc-axis;charset=ISO-8859-15"
+    }
+  }
+}

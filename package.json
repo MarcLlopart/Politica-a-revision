@@ -1,0 +1,46 @@
+{
+  "name": "politica-a-revision",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22.12"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "npm run validate && next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "next typegen && tsc --noEmit",
+    "test": "vitest run",
+    "validate": "tsx scripts/validate-data.ts",
+    "pipeline:fetch": "tsx pipeline/fetch/index.ts",
+    "pipeline:transform": "tsx pipeline/transform/index.ts",
+    "pipeline": "npm run pipeline:fetch && npm run pipeline:transform",
+    "programs:archive": "tsx pipeline/programs/archive.ts",
+    "documents:archive": "tsx pipeline/documents/archive.ts"
+  },
+  "dependencies": {
+    "@observablehq/plot": "^0.6.17",
+    "linkedom": "^0.18.13",
+    "next": "^16.3.8",
+    "next-intl": "^4.14.9",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^22.20.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.3.8",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.11",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+  }
+}

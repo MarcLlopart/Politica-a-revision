@@ -1,0 +1,489 @@
+{
+  "id": "house-prices",
+  "topic": "housing",
+  "unit": "percent_change",
+  "frequency": "Q",
+  "decimals": 1,
+  "label": {
+    "es": "Precio de la vivienda (interanual)",
+    "en": "House prices (year on year)",
+    "ca": "Preu de l'habitatge (interanual)"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Year-on-year change in INE's House Price Index (IPV), general, quarterly.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2007-Q1",
+      "value": 13.1,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q2",
+      "value": 11.6,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q3",
+      "value": 9.2,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q4",
+      "value": 5.7,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q1",
+      "value": 2.8,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q2",
+      "value": -0.3,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q3",
+      "value": -3,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q4",
+      "value": -5.4,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q1",
+      "value": -7.6,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q2",
+      "value": -7.7,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q3",
+      "value": -7,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q4",
+      "value": -4.3,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q1",
+      "value": -2.9,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q2",
+      "value": -0.9,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q3",
+      "value": -2.2,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q4",
+      "value": -1.9,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q1",
+      "value": -4.1,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q2",
+      "value": -6.8,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q3",
+      "value": -7.4,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q4",
+      "value": -11.2,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q1",
+      "value": -12.6,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q2",
+      "value": -14.4,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q3",
+      "value": -15.2,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q4",
+      "value": -12.8,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q1",
+      "value": -14.3,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q2",
+      "value": -12,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q3",
+      "value": -7.9,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q4",
+      "value": -7.8,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q1",
+      "value": -1.6,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q2",
+      "value": 0.8,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q3",
+      "value": 0.3,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q4",
+      "value": 1.8,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q1",
+      "value": 1.5,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q2",
+      "value": 4,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q3",
+      "value": 4.5,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q4",
+      "value": 4.2,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q1",
+      "value": 6.3,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q2",
+      "value": 3.9,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q3",
+      "value": 4,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q4",
+      "value": 4.5,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q1",
+      "value": 5.3,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q2",
+      "value": 5.6,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q3",
+      "value": 6.7,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q4",
+      "value": 7.2,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q1",
+      "value": 6.2,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q2",
+      "value": 6.8,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q3",
+      "value": 7.2,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q4",
+      "value": 6.6,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q1",
+      "value": 6.8,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q2",
+      "value": 5.3,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q3",
+      "value": 4.7,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q4",
+      "value": 3.6,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q1",
+      "value": 3.2,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q2",
+      "value": 2.1,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q3",
+      "value": 1.7,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q4",
+      "value": 1.5,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q1",
+      "value": 0.9,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q2",
+      "value": 3.3,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q3",
+      "value": 4.2,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q4",
+      "value": 6.4,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q1",
+      "value": 8.5,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q2",
+      "value": 8,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q3",
+      "value": 7.6,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q4",
+      "value": 5.5,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q1",
+      "value": 3.5,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q2",
+      "value": 3.6,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q3",
+      "value": 4.5,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q4",
+      "value": 4.2,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q1",
+      "value": 6.3,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q2",
+      "value": 7.8,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q3",
+      "value": 8.1,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q4",
+      "value": 11.3,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q1",
+      "value": 12.2,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q2",
+      "value": 12.7,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q3",
+      "value": 12.8,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q4",
+      "value": 12.9,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2026-Q1",
+      "value": 12.9,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    },
+    {
+      "period": "2026-Q2",
+      "value": 12.2,
+      "sourceId": "ine-ipv1376",
+      "status": "final"
+    }
+  ]
+}

@@ -1,0 +1,1082 @@
+{
+  "id": "foreign-affiliates",
+  "topic": "immigration",
+  "unit": "persons",
+  "frequency": "M",
+  "decimals": 0,
+  "label": {
+    "es": "Afiliados extranjeros a la Seguridad Social",
+    "en": "Foreign Social Security affiliates",
+    "ca": "Afiliats estrangers a la Seguretat Social"
+  },
+  "note": {
+    "es": "Media mensual de afiliados en alta con nacionalidad extranjera, total del sistema.",
+    "en": "Monthly average of registered affiliates with foreign nationality, whole system.",
+    "ca": "Mitjana mensual d'afiliats en alta amb nacionalitat estrangera, total del sistema."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Average number of affiliates with foreign nationality registered during each month (TGSS, PX-Web table 3mb, national total).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2012-01",
+      "value": 1518433,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2012-02",
+      "value": 1532133,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2012-03",
+      "value": 1560803,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2012-04",
+      "value": 1594868,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2012-05",
+      "value": 1641020,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2012-06",
+      "value": 1686704,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2012-07",
+      "value": 1752191,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2012-08",
+      "value": 1746826,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2012-09",
+      "value": 1727595,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2012-10",
+      "value": 1701211,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2012-11",
+      "value": 1663206,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2012-12",
+      "value": 1645489,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2013-01",
+      "value": 1600050,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2013-02",
+      "value": 1596147,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2013-03",
+      "value": 1603941,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2013-04",
+      "value": 1619114,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2013-05",
+      "value": 1651257,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2013-06",
+      "value": 1641717,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2013-07",
+      "value": 1632816,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2013-08",
+      "value": 1607543,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2013-09",
+      "value": 1596233,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2013-10",
+      "value": 1590398,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2013-11",
+      "value": 1545144,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2013-12",
+      "value": 1543291,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2014-01",
+      "value": 1514815,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2014-02",
+      "value": 1520685,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2014-03",
+      "value": 1535888,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2014-04",
+      "value": 1563621,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2014-05",
+      "value": 1608221,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2014-06",
+      "value": 1609677,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2014-07",
+      "value": 1600764,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2014-08",
+      "value": 1582823,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2014-09",
+      "value": 1582335,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2014-10",
+      "value": 1566953,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2014-11",
+      "value": 1549398,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2014-12",
+      "value": 1552639,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2015-01",
+      "value": 1516056,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2015-02",
+      "value": 1528369,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2015-03",
+      "value": 1563343,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2015-04",
+      "value": 1607883,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2015-05",
+      "value": 1663217,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2015-06",
+      "value": 1668099,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2015-07",
+      "value": 1660994,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2015-08",
+      "value": 1643645,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2015-09",
+      "value": 1645874,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2015-10",
+      "value": 1633644,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2015-11",
+      "value": 1621458,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2015-12",
+      "value": 1627838,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2016-01",
+      "value": 1600822,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2016-02",
+      "value": 1612681,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2016-03",
+      "value": 1643065,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2016-04",
+      "value": 1683092,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2016-05",
+      "value": 1731018,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2016-06",
+      "value": 1747802,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2016-07",
+      "value": 1747114,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2016-08",
+      "value": 1727555,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2016-09",
+      "value": 1727034,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2016-10",
+      "value": 1733626,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2016-11",
+      "value": 1704921,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2016-12",
+      "value": 1711858,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2017-01",
+      "value": 1687585,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2017-02",
+      "value": 1702248,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2017-03",
+      "value": 1739720,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2017-04",
+      "value": 1797872,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2017-05",
+      "value": 1861591,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2017-06",
+      "value": 1875413,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2017-07",
+      "value": 1870397,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2017-08",
+      "value": 1848329,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2017-09",
+      "value": 1853108,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2017-10",
+      "value": 1851014,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2017-11",
+      "value": 1836498,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2017-12",
+      "value": 1837901,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2018-01",
+      "value": 1815092,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2018-02",
+      "value": 1836173,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2018-03",
+      "value": 1873813,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2018-04",
+      "value": 1930622,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2018-05",
+      "value": 2004062,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2018-06",
+      "value": 2026559,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2018-07",
+      "value": 2020430,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2018-08",
+      "value": 1987207,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2018-09",
+      "value": 1993210,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2018-10",
+      "value": 2010634,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2018-11",
+      "value": 1981080,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2018-12",
+      "value": 1992849,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2019-01",
+      "value": 1966699,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2019-02",
+      "value": 1985280,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2019-03",
+      "value": 2026957,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2019-04",
+      "value": 2086400,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2019-05",
+      "value": 2155149,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2019-06",
+      "value": 2178269,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2019-07",
+      "value": 2170368,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2019-08",
+      "value": 2132906,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2019-09",
+      "value": 2145263,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2019-10",
+      "value": 2149771,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2019-11",
+      "value": 2123454,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2019-12",
+      "value": 2124982,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2020-01",
+      "value": 2090440,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2020-02",
+      "value": 2117654,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2020-03",
+      "value": 2073929,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2020-04",
+      "value": 1972552,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2020-05",
+      "value": 2009884,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2020-06",
+      "value": 2030477,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2020-07",
+      "value": 2049260,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2020-08",
+      "value": 2062871,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2020-09",
+      "value": 2078201,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2020-10",
+      "value": 2074538,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2020-11",
+      "value": 2073741,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2020-12",
+      "value": 2078636,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2021-01",
+      "value": 2044669,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2021-02",
+      "value": 2053997,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2021-03",
+      "value": 2072259,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2021-04",
+      "value": 2111420,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2021-05",
+      "value": 2169326,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2021-06",
+      "value": 2221909,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2021-07",
+      "value": 2226585,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2021-08",
+      "value": 2220097,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2021-09",
+      "value": 2240775,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2021-10",
+      "value": 2261144,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2021-11",
+      "value": 2263281,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2021-12",
+      "value": 2269806,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2022-01",
+      "value": 2240156,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2022-02",
+      "value": 2258670,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2022-03",
+      "value": 2298825,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2022-04",
+      "value": 2354514,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2022-05",
+      "value": 2426625,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2022-06",
+      "value": 2462890,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2022-07",
+      "value": 2451492,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2022-08",
+      "value": 2437491,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2022-09",
+      "value": 2456019,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2022-10",
+      "value": 2462506,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2022-11",
+      "value": 2456786,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2022-12",
+      "value": 2460719,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2023-01",
+      "value": 2435559,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2023-02",
+      "value": 2466243,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2023-03",
+      "value": 2525887,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2023-04",
+      "value": 2606683,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2023-05",
+      "value": 2680993,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2023-06",
+      "value": 2698604,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2023-07",
+      "value": 2695240,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2023-08",
+      "value": 2676528,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2023-09",
+      "value": 2686990,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2023-10",
+      "value": 2683937,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2023-11",
+      "value": 2667664,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2023-12",
+      "value": 2668776,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2024-01",
+      "value": 2631593,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2024-02",
+      "value": 2671546,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2024-03",
+      "value": 2734119,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2024-04",
+      "value": 2805055,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2024-05",
+      "value": 2882967,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2024-06",
+      "value": 2899003,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2024-07",
+      "value": 2892763,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2024-08",
+      "value": 2870742,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2024-09",
+      "value": 2884289,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2024-10",
+      "value": 2894629,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2024-11",
+      "value": 2876972,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2024-12",
+      "value": 2880818,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2025-01",
+      "value": 2843029,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2025-02",
+      "value": 2874398,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2025-03",
+      "value": 2921205,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2025-04",
+      "value": 2997307,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2025-05",
+      "value": 3070831,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2025-06",
+      "value": 3096015,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2025-07",
+      "value": 3091348,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2025-08",
+      "value": 3069269,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2025-09",
+      "value": 3088341,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2025-10",
+      "value": 3101500,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2025-11",
+      "value": 3085442,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2025-12",
+      "value": 3085477,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2026-01",
+      "value": 3038158,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2026-02",
+      "value": 3076841,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2026-03",
+      "value": 3151563,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2026-04",
+      "value": 3248247,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2026-05",
+      "value": 3359548,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2026-06",
+      "value": 3446178,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2026-07",
+      "value": 3512223,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    },
+    {
+      "period": "2026-08",
+      "value": 3551759,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
+    }
+  ]
+}

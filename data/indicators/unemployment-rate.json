@@ -1,0 +1,614 @@
+{
+  "id": "unemployment-rate",
+  "topic": "economy",
+  "unit": "percent",
+  "frequency": "Q",
+  "decimals": 2,
+  "label": {
+    "es": "Tasa de paro",
+    "en": "Unemployment rate",
+    "ca": "Taxa d'atur"
+  },
+  "note": {
+    "es": "Personas de 16 años o más. INE revisó 2021–2023 con la nueva base de población.",
+    "en": "People aged 16 and over. INE revised 2021–2023 with the new population base.",
+    "ca": "Persones de 16 anys o més. L'INE va revisar 2021–2023 amb la nova base de població."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Unemployed as a share of the active population, quarterly, as published by INE (EPA). Not seasonally adjusted.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2002-Q1",
+      "value": 11.55,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2002-Q2",
+      "value": 11.15,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2002-Q3",
+      "value": 11.49,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2002-Q4",
+      "value": 11.61,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q1",
+      "value": 11.99,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q2",
+      "value": 11.28,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q3",
+      "value": 11.3,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q4",
+      "value": 11.37,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q1",
+      "value": 11.5,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q2",
+      "value": 11.09,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q3",
+      "value": 10.74,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q4",
+      "value": 10.53,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q1",
+      "value": 10.17,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q2",
+      "value": 9.32,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q3",
+      "value": 8.41,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q4",
+      "value": 8.71,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q1",
+      "value": 9.03,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q2",
+      "value": 8.44,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q3",
+      "value": 8.08,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q4",
+      "value": 8.26,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q1",
+      "value": 8.42,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q2",
+      "value": 7.93,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q3",
+      "value": 8.01,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q4",
+      "value": 8.57,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q1",
+      "value": 9.6,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q2",
+      "value": 10.36,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q3",
+      "value": 11.23,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q4",
+      "value": 13.79,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q1",
+      "value": 17.24,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q2",
+      "value": 17.77,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q3",
+      "value": 17.75,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q4",
+      "value": 18.66,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q1",
+      "value": 19.84,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q2",
+      "value": 19.89,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q3",
+      "value": 19.59,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q4",
+      "value": 20.11,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q1",
+      "value": 21.08,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q2",
+      "value": 20.64,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q3",
+      "value": 21.28,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q4",
+      "value": 22.56,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q1",
+      "value": 24.19,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q2",
+      "value": 24.4,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q3",
+      "value": 24.79,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q4",
+      "value": 25.77,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q1",
+      "value": 26.94,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q2",
+      "value": 26.06,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q3",
+      "value": 25.65,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q4",
+      "value": 25.73,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q1",
+      "value": 25.93,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q2",
+      "value": 24.47,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q3",
+      "value": 23.67,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q4",
+      "value": 23.7,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q1",
+      "value": 23.78,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q2",
+      "value": 22.37,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q3",
+      "value": 21.18,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q4",
+      "value": 20.9,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q1",
+      "value": 21,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q2",
+      "value": 20,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q3",
+      "value": 18.91,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q4",
+      "value": 18.63,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q1",
+      "value": 18.75,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q2",
+      "value": 17.22,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q3",
+      "value": 16.38,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q4",
+      "value": 16.55,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q1",
+      "value": 16.74,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q2",
+      "value": 15.28,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q3",
+      "value": 14.55,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q4",
+      "value": 14.45,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q1",
+      "value": 14.7,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q2",
+      "value": 14.02,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q3",
+      "value": 13.92,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q4",
+      "value": 13.78,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q1",
+      "value": 14.41,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q2",
+      "value": 15.33,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q3",
+      "value": 16.26,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q4",
+      "value": 16.13,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q1",
+      "value": 16.14,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q2",
+      "value": 15.39,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q3",
+      "value": 14.71,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q4",
+      "value": 13.44,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q1",
+      "value": 13.73,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q2",
+      "value": 12.69,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q3",
+      "value": 12.73,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q4",
+      "value": 12.99,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q1",
+      "value": 13.38,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q2",
+      "value": 11.67,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q3",
+      "value": 11.89,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q4",
+      "value": 11.8,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q1",
+      "value": 12.29,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q2",
+      "value": 11.27,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q3",
+      "value": 11.21,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q4",
+      "value": 10.61,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q1",
+      "value": 11.36,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q2",
+      "value": 10.29,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q3",
+      "value": 10.45,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q4",
+      "value": 9.93,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2026-Q1",
+      "value": 10.83,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    },
+    {
+      "period": "2026-Q2",
+      "value": 9.87,
+      "sourceId": "ine-epa423474",
+      "status": "final"
+    }
+  ]
+}

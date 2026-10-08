@@ -1,0 +1,39 @@
+{
+  "id": "forecast-gdp-growth-ec",
+  "topic": "economy",
+  "unit": "percent_change",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Comisión Europea, primavera 2026",
+    "en": "European Commission, spring 2026",
+    "ca": "Comissió Europea, primavera 2026"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Real GDP growth computed from AMECO GDP volume (OVGD), European Commission Spring 2026 forecast.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2025",
+      "value": 2.825,
+      "sourceId": "ameco-ovgd-esp-spring-2026",
+      "status": "final"
+    },
+    {
+      "period": "2026",
+      "value": 2.3962,
+      "sourceId": "ameco-ovgd-esp-spring-2026",
+      "status": "forecast"
+    },
+    {
+      "period": "2027",
+      "value": 1.9497,
+      "sourceId": "ameco-ovgd-esp-spring-2026",
+      "status": "forecast"
+    }
+  ]
+}

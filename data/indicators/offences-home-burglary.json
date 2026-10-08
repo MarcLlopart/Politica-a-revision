@@ -1,0 +1,122 @@
+{
+  "id": "offences-home-burglary",
+  "topic": "safety",
+  "unit": "count",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Robos con fuerza en viviendas",
+    "en": "Home burglaries",
+    "ca": "Robatoris amb força en habitatges"
+  },
+  "note": {
+    "es": "Infracciones conocidas por la policía: dependen de cuánto se denuncia y de cómo se registra, y la reforma del Código Penal de 2022 cambió algunos tipos. 2020 está afectado por la pandemia. Tasas sobre la población media anual.",
+    "en": "Offences known to the police: they depend on how much is reported and how it is recorded, and the 2022 Criminal Code reform changed some offence types. 2020 is affected by the pandemic. Rates use the annual average population.",
+    "ca": "Infraccions conegudes per la policia: depenen de quant es denuncia i de com es registra, i la reforma del Codi Penal del 2022 va canviar alguns tipus. El 2020 està afectat per la pandèmia. Taxes sobre la població mitjana anual."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Criminal offences known to the police, \"5.2.2.-Robos con fuerza en viviendas\", national total, Ministerio del Interior table 01001.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2010",
+      "value": 111656,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 100780,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 126425,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 127444,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 120783,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 115302,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 113299,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 105095,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 107166,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 98326,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 72380,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 75501,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 86515,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 84721,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 81094,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 74370,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    }
+  ]
+}

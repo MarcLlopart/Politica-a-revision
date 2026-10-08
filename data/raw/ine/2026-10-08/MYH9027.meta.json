@@ -1,0 +1,10 @@
+{"Id":9027, "COD":"MYH9027", "Operacion":{"Id":333, "Cod_IOE":"30456", "Nombre":"Mujeres y Hombres en España", "Codigo":"MYH", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176984&idp=1254735576508"}
+, "Nombre":"Jornada a tiempo completo. Eurostat. España. Porcentaje. Brecha salarial de género no ajustada a las características individuales. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":452, "Nombre":"Mujeres y Hombres en España. Salarios, ingresos, cohesión social", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":333, "Cod_IOE":"30456", "Nombre":"Mujeres y Hombres en España", "Codigo":"MYH", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176984&idp=1254735576508"}
+]
+, "PubFechaAct":{"Id":13070, "Nombre":"Mujeres y Hombres en España. Salarios, ingresos, cohesión social 2025", "Fecha":1778058000000, "FK_Periodo":28, "Anyo":2025}
+}
+, "FK_Clasificacion":null, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":101, "Nombre":"Porcentaje", "Codigo":null, "Abrev":"%"}
+}

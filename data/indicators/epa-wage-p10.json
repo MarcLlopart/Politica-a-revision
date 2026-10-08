@@ -1,0 +1,140 @@
+{
+  "id": "epa-wage-p10",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "P10",
+    "en": "P10",
+    "ca": "P10"
+  },
+  "note": {
+    "es": "Salario bruto mensual del empleo principal de los asalariados (EPA, tabla de deciles). Los límites de decil son percentiles: el inferior del decil 2 es el P10, el del 6 la mediana y el del 10 el P90.",
+    "en": "Gross monthly wage of employees' main job (EPA decile table). Decile limits are percentiles: the lower limit of decile 2 is P10, of decile 6 the median, of decile 10 P90.",
+    "ca": "Salari brut mensual de la feina principal dels assalariats (EPA, taula de decils). Els límits de decil són percentils: l'inferior del decil 2 és el P10, el del 6 la mediana i el del 10 el P90."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Lower limit of a wage decile of the main job (gross monthly), as published by INE (EPA, 'Decil de salarios del empleo principal', table 66252, series EPA710405).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2006",
+      "value": 657.3,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 695,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 732.7,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 714.5,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 722.5,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 693.1,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 658.3,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 638.1,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 655.1,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 680,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 710.1,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 717.2,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 748.7,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 814.4,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 820.2,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 852.7,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 951.1,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 1000,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 1068.9,
+      "sourceId": "ine-epa710405",
+      "status": "final"
+    }
+  ]
+}

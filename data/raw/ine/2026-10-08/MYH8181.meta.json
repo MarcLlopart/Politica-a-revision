@@ -1,0 +1,10 @@
+{"Id":8181, "COD":"MYH8181", "Operacion":{"Id":333, "Cod_IOE":"30456", "Nombre":"Mujeres y Hombres en España", "Codigo":"MYH", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176984&idp=1254735576508"}
+, "Nombre":"Mujeres. Porcentaje respecto al empleo total de personas del mismo sexo. Jornada a tiempo parcial. España. Ocupado/a. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":427, "Nombre":"Mujeres y Hombres en España. Empleo", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":333, "Cod_IOE":"30456", "Nombre":"Mujeres y Hombres en España", "Codigo":"MYH", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176984&idp=1254735576508"}
+]
+, "PubFechaAct":{"Id":13711, "Nombre":"Mujeres y Hombres en España. Empleo 2025", "Fecha":1779699600000, "FK_Periodo":28, "Anyo":2025}
+}
+, "FK_Clasificacion":null, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":101, "Nombre":"Porcentaje", "Codigo":null, "Abrev":"%"}
+}

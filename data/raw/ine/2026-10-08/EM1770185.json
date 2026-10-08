@@ -1,0 +1,6 @@
+{"COD":"EM1770185", "Nombre":"Total. Total. Total. Ambos sexos. Dato base. Inmigraciones procedentes del extranjero. ", "T3_Unidad":"Migraciones", "T3_Escala":" ", "Data":[{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2021, "Valor":887960.0}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2022, "Valor":1258894.0}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2023, "Valor":1250991.0}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"A", "Anyo":2024, "Valor":1288562.0}
+]
+}

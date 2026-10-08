@@ -1,0 +1,33 @@
+{
+  "id": "wage-hourly-ft-men-occ-all",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 2,
+  "label": {
+    "es": "Todas las ocupaciones: hombres",
+    "en": "All occupations: men",
+    "ca": "Totes les ocupacions: homes"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Hourly pay of men working full time, all occupations, INE Structure of Earnings Survey (table 36891).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 12.75,
+      "sourceId": "ine-eaes88307",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 14,
+      "sourceId": "ine-eaes88307",
+      "status": "provisional"
+    }
+  ]
+}

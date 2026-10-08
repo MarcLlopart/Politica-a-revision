@@ -1,0 +1,159 @@
+{
+  "id": "cpi-inflation-annual",
+  "topic": "economy",
+  "unit": "percent_change",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Inflación (IPC, media anual)",
+    "en": "Inflation (CPI, annual average)",
+    "ca": "Inflació (IPC, mitjana anual)"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Change in the annual average of the general Consumer Price Index, as published by INE.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2003",
+      "value": 3,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 3,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 3.4,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 3.5,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 2.8,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 4.1,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": -0.3,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 1.8,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 3.2,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 2.4,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 1.4,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": -0.2,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": -0.5,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": -0.2,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 2,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 1.7,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 0.7,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": -0.3,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 3.1,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 8.4,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 3.5,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 2.8,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 2.7,
+      "sourceId": "ine-ipc318622",
+      "status": "final"
+    }
+  ]
+}

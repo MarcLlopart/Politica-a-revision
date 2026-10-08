@@ -1,0 +1,206 @@
+{
+  "id": "pension-average-retirement",
+  "topic": "pensions",
+  "unit": "eur",
+  "frequency": "M",
+  "decimals": 2,
+  "label": {
+    "es": "Pensión media de jubilación",
+    "en": "Average retirement pension",
+    "ca": "Pensió mitjana de jubilació"
+  },
+  "note": {
+    "es": "Euros al mes, 14 pagas. Hasta 2024, dato a 1 de diciembre; desde 2025, mensual.",
+    "en": "Euros per month, 14 payments a year. Up to 2024, figure on 1 December; from 2025, monthly.",
+    "ca": "Euros al mes, 14 pagues. Fins al 2024, dada a 1 de desembre; des del 2025, mensual."
+  },
+  "yZero": true,
+  "periodRef": "start",
+  "calculation": {
+    "method": "Average monthly amount of contributory retirement pensions, Seguridad Social monthly pensions report.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2016-12",
+      "value": 1050.8238,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2017-12",
+      "value": 1071.0073,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2018-12",
+      "value": 1107.4871,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2019-12",
+      "value": 1143.5511,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2020-12",
+      "value": 1170.2585,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2021-12",
+      "value": 1196.1689,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2022-12",
+      "value": 1259.7915,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2023-12",
+      "value": 1378.3889,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2024-12",
+      "value": 1449.8624,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2025-01",
+      "value": 1497.9468,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2025-02",
+      "value": 1500.6701,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2025-03",
+      "value": 1502.1592,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2025-04",
+      "value": 1503.3064,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2025-05",
+      "value": 1505.5525,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2025-06",
+      "value": 1505.9111,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2025-07",
+      "value": 1506.4629,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2025-08",
+      "value": 1507.5538,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2025-09",
+      "value": 1508.6988,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2025-10",
+      "value": 1510.0688,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2025-11",
+      "value": 1511.5063,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2025-12",
+      "value": 1512.7331,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2026-01",
+      "value": 1563.5613,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2026-02",
+      "value": 1566.8074,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2026-03",
+      "value": 1568.4559,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2026-04",
+      "value": 1569.7045,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2026-05",
+      "value": 1572.0069,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2026-06",
+      "value": 1572.7711,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2026-07",
+      "value": 1573.6516,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2026-08",
+      "value": 1574.934,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    },
+    {
+      "period": "2026-09",
+      "value": 1576.0976,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
+    }
+  ]
+}

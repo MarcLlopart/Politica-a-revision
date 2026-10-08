@@ -1,0 +1,177 @@
+{
+  "id": "spending-total-gdp",
+  "topic": "public-spending",
+  "unit": "percent_gdp",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Gasto público total",
+    "en": "Total public spending",
+    "ca": "Despesa pública total"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Total general government expenditure, % of GDP, Eurostat gov_10a_main (TE, S13). Same total as COFOG, but published one year earlier.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 39.1,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 38.4,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 38.6,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 38.3,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 38.8,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 38.4,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 38.4,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 39.2,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 41.3,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 46.1,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 45.8,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 45.9,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 49.2,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 46.2,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 45,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 43.7,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 42.1,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 41,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 41.5,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 42,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 51.4,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 49.5,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 46.3,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 45.4,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 45.5,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 45.3,
+      "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
+      "status": "final"
+    }
+  ]
+}

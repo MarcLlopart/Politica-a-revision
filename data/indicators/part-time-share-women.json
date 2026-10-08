@@ -1,0 +1,123 @@
+{
+  "id": "part-time-share-women",
+  "topic": "income",
+  "unit": "percent",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Mujeres",
+    "en": "Women",
+    "ca": "Dones"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Women working part time as a % of employed women, as published by INE (Mujeres y Hombres en España, table 10896, from the EPA).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2009",
+      "value": 22.4,
+      "sourceId": "ine-myh8181",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 22.7,
+      "sourceId": "ine-myh8181",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 22.9,
+      "sourceId": "ine-myh8181",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 23.9,
+      "sourceId": "ine-myh8181",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 25.3,
+      "sourceId": "ine-myh8181",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 25.6,
+      "sourceId": "ine-myh8181",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 25.2,
+      "sourceId": "ine-myh8181",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 24.1,
+      "sourceId": "ine-myh8181",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 24.2,
+      "sourceId": "ine-myh8181",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 24,
+      "sourceId": "ine-myh8181",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 23.8,
+      "sourceId": "ine-myh8181",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 22.8,
+      "sourceId": "ine-myh8181",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 22.5,
+      "sourceId": "ine-myh8181",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 21.7,
+      "sourceId": "ine-myh8181",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 21.1,
+      "sourceId": "ine-myh8181",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 21.4,
+      "sourceId": "ine-myh8181",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 21.4,
+      "sourceId": "ine-myh8181",
+      "status": "final"
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "id": "youth-unemployment-rate",
+  "topic": "labour",
+  "unit": "percent",
+  "frequency": "Q",
+  "decimals": 2,
+  "label": {
+    "es": "Tasa de paro de menores de 25 años",
+    "en": "Unemployment rate, under 25",
+    "ca": "Taxa d'atur de menors de 25 anys"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Unemployment rate of people aged 16–24, quarterly, as published by INE (EPA).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2002-Q1",
+      "value": 22.08,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2002-Q2",
+      "value": 21.5,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2002-Q3",
+      "value": 22.05,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2002-Q4",
+      "value": 23.16,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q1",
+      "value": 23.39,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q2",
+      "value": 22.28,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q3",
+      "value": 22.19,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q4",
+      "value": 22.94,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q1",
+      "value": 22.65,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q2",
+      "value": 22.46,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q3",
+      "value": 21.63,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q4",
+      "value": 21.27,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q1",
+      "value": 21.69,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q2",
+      "value": 20.29,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q3",
+      "value": 18.01,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q4",
+      "value": 18.62,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q1",
+      "value": 18.71,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q2",
+      "value": 18.2,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q3",
+      "value": 16.9,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q4",
+      "value": 17.81,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q1",
+      "value": 17.72,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q2",
+      "value": 18.12,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q3",
+      "value": 17.87,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q4",
+      "value": 18.66,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q1",
+      "value": 21.08,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q2",
+      "value": 23.62,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q3",
+      "value": 24.18,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q4",
+      "value": 28.97,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q1",
+      "value": 35.54,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q2",
+      "value": 38.06,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q3",
+      "value": 38.57,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q4",
+      "value": 38.81,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q1",
+      "value": 40.73,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q2",
+      "value": 41.97,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q3",
+      "value": 40.56,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q4",
+      "value": 42.73,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q1",
+      "value": 45.3,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q2",
+      "value": 45.87,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q3",
+      "value": 45.58,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q4",
+      "value": 48.14,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q1",
+      "value": 51.67,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q2",
+      "value": 53.04,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q3",
+      "value": 52.01,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q4",
+      "value": 54.83,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q1",
+      "value": 56.92,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q2",
+      "value": 55.98,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q3",
+      "value": 54.14,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q4",
+      "value": 54.89,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q1",
+      "value": 55.49,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q2",
+      "value": 53.12,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q3",
+      "value": 52.39,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q4",
+      "value": 51.8,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q1",
+      "value": 51.36,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q2",
+      "value": 49.22,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q3",
+      "value": 46.58,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q4",
+      "value": 46.24,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q1",
+      "value": 46.5,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q2",
+      "value": 46.48,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q3",
+      "value": 41.94,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q4",
+      "value": 42.92,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q1",
+      "value": 41.66,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q2",
+      "value": 39.53,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q3",
+      "value": 35.97,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q4",
+      "value": 37.46,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q1",
+      "value": 36.34,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q2",
+      "value": 34.68,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q3",
+      "value": 33,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q4",
+      "value": 33.54,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q1",
+      "value": 34.97,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q2",
+      "value": 33.14,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q3",
+      "value": 31.68,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q4",
+      "value": 30.51,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q1",
+      "value": 32.99,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q2",
+      "value": 39.61,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q3",
+      "value": 40.45,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q4",
+      "value": 40.13,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q1",
+      "value": 39.44,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q2",
+      "value": 38.47,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q3",
+      "value": 31.66,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q4",
+      "value": 30.98,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q1",
+      "value": 30.04,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q2",
+      "value": 29.23,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q3",
+      "value": 30.39,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q4",
+      "value": 28.97,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q1",
+      "value": 29.85,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q2",
+      "value": 28.12,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q3",
+      "value": 28.28,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q4",
+      "value": 28.52,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q1",
+      "value": 27.7,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q2",
+      "value": 26.58,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q3",
+      "value": 26.89,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q4",
+      "value": 24.9,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q1",
+      "value": 26.53,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q2",
+      "value": 24.54,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q3",
+      "value": 25.42,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q4",
+      "value": 23.01,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2026-Q1",
+      "value": 24.54,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    },
+    {
+      "period": "2026-Q2",
+      "value": 23.77,
+      "sourceId": "ine-epa452436",
+      "status": "final"
+    }
+  ]
+}

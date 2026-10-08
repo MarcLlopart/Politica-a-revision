@@ -1,0 +1,132 @@
+{
+  "id": "wage-p50-real",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Mediana, a precios constantes",
+    "en": "Median, at constant prices",
+    "ca": "Mediana, a preus constants"
+  },
+  "note": {
+    "es": "Euros del último año del IPC disponible: cada año se ajusta por la inflación acumulada hasta entonces.",
+    "en": "Euros of the latest CPI year: each year is adjusted for the inflation since then.",
+    "ca": "Euros de l'últim any de l'IPC disponible: cada any s'ajusta per la inflació acumulada fins aleshores."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "INE median gross annual earnings (EAES738) multiplied by CPI(latest year) / CPI(year), using the INE CPI annual average index.",
+    "formula": "median wage × CPI(latest year) / CPI(year)",
+    "inputs": [
+      "wage-p50",
+      "cpi-index-annual"
+    ],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2008",
+      "value": 25005.3452,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 25845.7225,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 25677.2569,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 25256.7873,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 24318.6033,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 23966.5244,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 24298.1042,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 24677.0489,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 24684.1791,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 24705.812,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 24603.2178,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 24763.9572,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 25538.8146,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 25623.6856,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 24453.3288,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 24638.0635,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 25151.8733,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    }
+  ]
+}

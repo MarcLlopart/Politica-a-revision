@@ -1,0 +1,128 @@
+{
+  "id": "wage-p50-women",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Mujeres",
+    "en": "Women",
+    "ca": "Dones"
+  },
+  "note": {
+    "es": "Ganancia bruta anual por trabajador (industria, construcción y servicios), Encuesta Anual de Estructura Salarial del INE. Incluye jornada parcial.",
+    "en": "Gross annual earnings per employee (industry, construction and services), INE Annual Wage Structure Survey. Includes part-time work.",
+    "ca": "Guany brut anual per treballador (indústria, construcció i serveis), Enquesta Anual d'Estructura Salarial de l'INE. Inclou jornada parcial."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Median gross annual earnings, women, as published by INE (Encuesta Anual de Estructura Salarial, table 28191).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2008",
+      "value": 15886.02,
+      "sourceId": "ine-eaes630",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 16433.14,
+      "sourceId": "ine-eaes630",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 16536.1,
+      "sourceId": "ine-eaes630",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 16796.41,
+      "sourceId": "ine-eaes630",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 16524.51,
+      "sourceId": "ine-eaes630",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 16452.43,
+      "sourceId": "ine-eaes630",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 16771.32,
+      "sourceId": "ine-eaes630",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 16825.11,
+      "sourceId": "ine-eaes630",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 16831.58,
+      "sourceId": "ine-eaes630",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 17214.6,
+      "sourceId": "ine-eaes630",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 17467.43,
+      "sourceId": "ine-eaes630",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 17961.93,
+      "sourceId": "ine-eaes630",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 18556.68,
+      "sourceId": "ine-eaes630",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 19162.47,
+      "sourceId": "ine-eaes630",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 20045.68,
+      "sourceId": "ine-eaes630",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 21177.99,
+      "sourceId": "ine-eaes630",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 22087.71,
+      "sourceId": "ine-eaes630",
+      "status": "final"
+    }
+  ]
+}

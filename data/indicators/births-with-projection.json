@@ -1,0 +1,483 @@
+{
+  "id": "births-with-projection",
+  "topic": "births-deaths",
+  "unit": "persons",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Nacimientos",
+    "en": "Births",
+    "ca": "Naixements"
+  },
+  "note": {
+    "es": "Hasta el último año, nacimientos observados (MNP y estimación mensual); después, proyección del INE, que cuenta los nacidos de madres residentes en España.",
+    "en": "Up to the latest year, observed births (vital statistics and monthly estimate); afterwards, INE projection, which counts births to mothers resident in Spain.",
+    "ca": "Fins a l'últim any, naixements observats (MNP i estimació mensual); després, projecció de l'INE, que compta els nascuts de mares residents a Espanya."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Observed births (indicator 'births'); years after the last observation from INE Population Projections 2026–2076 (PROP674), marked as projections.",
+    "formula": "births; later years = PROP674 (projection)",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 397632,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 406380,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 418846,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 441881,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 454591,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 466371,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 482957,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 492527,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 519779,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 494997,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 486575,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 471999,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 454648,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 425715,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 427595,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 420290,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 410583,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 393181,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 372777,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 360617,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 341315,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 337380,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 329251,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 320656,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 318005,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 321656,
+      "sourceId": "ine-emn38",
+      "status": "provisional"
+    },
+    {
+      "period": "2026",
+      "value": 324054.8412,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2027",
+      "value": 328369.7046,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2028",
+      "value": 332958.7761,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2029",
+      "value": 337658.9727,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2030",
+      "value": 342383.3743,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2031",
+      "value": 347087.8033,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2032",
+      "value": 351763.6703,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2033",
+      "value": 356409.7762,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2034",
+      "value": 361008.7051,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2035",
+      "value": 365521.984,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2036",
+      "value": 369892.6866,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2037",
+      "value": 374029.9083,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2038",
+      "value": 377814.845,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2039",
+      "value": 381122.6949,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2040",
+      "value": 383838.4984,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2041",
+      "value": 385288.4259,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2042",
+      "value": 385917.2625,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2043",
+      "value": 385684.2655,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2044",
+      "value": 384606.8651,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2045",
+      "value": 382733.0391,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2046",
+      "value": 380142.6915,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2047",
+      "value": 376946.2366,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2048",
+      "value": 373275.1844,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2049",
+      "value": 369255.6389,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2050",
+      "value": 365012.1634,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2051",
+      "value": 360688.8841,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2052",
+      "value": 356425.5688,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2053",
+      "value": 352347.6967,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2054",
+      "value": 348578.1121,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2055",
+      "value": 345233.9711,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2056",
+      "value": 342404.8582,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2057",
+      "value": 340158.7232,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2058",
+      "value": 338528.5573,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2059",
+      "value": 337521.7055,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2060",
+      "value": 337116.3657,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2061",
+      "value": 337254.1199,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2062",
+      "value": 337861.8985,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2063",
+      "value": 338858.997,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2064",
+      "value": 340154.1025,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2065",
+      "value": 341657.2896,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2066",
+      "value": 343297.0956,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2067",
+      "value": 345012.2514,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2068",
+      "value": 346750.6297,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2069",
+      "value": 348462.3435,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2070",
+      "value": 350101.7949,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2071",
+      "value": 351624.6862,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2072",
+      "value": 352986.3559,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2073",
+      "value": 354151.5605,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2074",
+      "value": 355094.0572,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    },
+    {
+      "period": "2075",
+      "value": 355807.9824,
+      "sourceId": "ine-prop674",
+      "status": "forecast"
+    }
+  ]
+}

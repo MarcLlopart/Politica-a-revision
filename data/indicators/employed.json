@@ -1,0 +1,609 @@
+{
+  "id": "employed",
+  "topic": "economy",
+  "unit": "persons",
+  "frequency": "Q",
+  "decimals": 0,
+  "label": {
+    "es": "Personas ocupadas",
+    "en": "People in employment",
+    "ca": "Persones ocupades"
+  },
+  "yZero": false,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Employed people, quarterly, as published by INE (EPA) in thousands and converted to persons. Not seasonally adjusted.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2002-Q1",
+      "value": 16482300,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2002-Q2",
+      "value": 16766900,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2002-Q3",
+      "value": 16919300,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2002-Q4",
+      "value": 16991900,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q1",
+      "value": 17092700,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q2",
+      "value": 17423200,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q3",
+      "value": 17646000,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q4",
+      "value": 17740500,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q1",
+      "value": 17770200,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q2",
+      "value": 18018900,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q3",
+      "value": 18289100,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q4",
+      "value": 18490800,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q1",
+      "value": 18736100,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q2",
+      "value": 19160600,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q3",
+      "value": 19422100,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q4",
+      "value": 19509200,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q1",
+      "value": 19578400,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q2",
+      "value": 19891600,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q3",
+      "value": 20091000,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q4",
+      "value": 20195400,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q1",
+      "value": 20267500,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q2",
+      "value": 20580900,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q3",
+      "value": 20753400,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q4",
+      "value": 20717900,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q1",
+      "value": 20620000,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q2",
+      "value": 20646900,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q3",
+      "value": 20556400,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q4",
+      "value": 20055300,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q1",
+      "value": 19284400,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q2",
+      "value": 19154200,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q3",
+      "value": 19098400,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q4",
+      "value": 18890400,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q1",
+      "value": 18652900,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q2",
+      "value": 18751100,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q3",
+      "value": 18819000,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q4",
+      "value": 18674900,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q1",
+      "value": 18426200,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q2",
+      "value": 18622000,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q3",
+      "value": 18484500,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q4",
+      "value": 18153000,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q1",
+      "value": 17765100,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q2",
+      "value": 17758500,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q3",
+      "value": 17667700,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q4",
+      "value": 17339400,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q1",
+      "value": 17030200,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q2",
+      "value": 17160600,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q3",
+      "value": 17230000,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q4",
+      "value": 17135200,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q1",
+      "value": 16950600,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q2",
+      "value": 17353000,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q3",
+      "value": 17504000,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q4",
+      "value": 17569100,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q1",
+      "value": 17454800,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q2",
+      "value": 17866500,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q3",
+      "value": 18048700,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q4",
+      "value": 18094200,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q1",
+      "value": 18029600,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q2",
+      "value": 18301000,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q3",
+      "value": 18527500,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q4",
+      "value": 18508100,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q1",
+      "value": 18438300,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q2",
+      "value": 18813300,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q3",
+      "value": 19049200,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q4",
+      "value": 18998400,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q1",
+      "value": 18874200,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q2",
+      "value": 19344100,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q3",
+      "value": 19528000,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q4",
+      "value": 19564600,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q1",
+      "value": 19471100,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q2",
+      "value": 19804900,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q3",
+      "value": 19874300,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q4",
+      "value": 19966900,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q1",
+      "value": 19681300,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q2",
+      "value": 18607200,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q3",
+      "value": 19176900,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q4",
+      "value": 19344300,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q1",
+      "value": 19239600,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q2",
+      "value": 19716100,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q3",
+      "value": 20103300,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q4",
+      "value": 20274800,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q1",
+      "value": 20196700,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q2",
+      "value": 20607200,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q3",
+      "value": 20745400,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q4",
+      "value": 20640700,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q1",
+      "value": 20634200,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q2",
+      "value": 21258400,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q3",
+      "value": 21446500,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q4",
+      "value": 21389700,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q1",
+      "value": 21250000,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q2",
+      "value": 21684700,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q3",
+      "value": 21823000,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q4",
+      "value": 21857900,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q1",
+      "value": 21765400,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q2",
+      "value": 22268700,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q3",
+      "value": 22387100,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q4",
+      "value": 22463300,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2026-Q1",
+      "value": 22293000,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    },
+    {
+      "period": "2026-Q2",
+      "value": 22779000,
+      "sourceId": "ine-epa387796",
+      "status": "final"
+    }
+  ]
+}

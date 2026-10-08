@@ -1,0 +1,1287 @@
+{
+  "id": "deaths-monthly",
+  "topic": "births-deaths",
+  "unit": "persons",
+  "frequency": "M",
+  "decimals": 0,
+  "label": {
+    "es": "Defunciones",
+    "en": "Deaths",
+    "ca": "Defuncions"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Deaths per month, INE monthly death estimate (EDeS). Recent months are estimates.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2009-01",
+      "value": 42003,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2009-02",
+      "value": 32614,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2009-03",
+      "value": 33445,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2009-04",
+      "value": 31139,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2009-05",
+      "value": 31297,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2009-06",
+      "value": 29381,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2009-07",
+      "value": 29872,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2009-08",
+      "value": 30224,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2009-09",
+      "value": 27716,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2009-10",
+      "value": 30764,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2009-11",
+      "value": 30940,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2009-12",
+      "value": 35538,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2010-01",
+      "value": 36886,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2010-02",
+      "value": 32564,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2010-03",
+      "value": 33624,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2010-04",
+      "value": 31352,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2010-05",
+      "value": 31300,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2010-06",
+      "value": 29198,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2010-07",
+      "value": 31574,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2010-08",
+      "value": 29735,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2010-09",
+      "value": 27789,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2010-10",
+      "value": 31122,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2010-11",
+      "value": 31841,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2010-12",
+      "value": 35062,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2011-01",
+      "value": 38213,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2011-02",
+      "value": 33978,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2011-03",
+      "value": 34656,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2011-04",
+      "value": 31021,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2011-05",
+      "value": 31119,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2011-06",
+      "value": 29786,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2011-07",
+      "value": 30349,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2011-08",
+      "value": 30625,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2011-09",
+      "value": 28546,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2011-10",
+      "value": 31605,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2011-11",
+      "value": 31907,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2011-12",
+      "value": 36106,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2012-01",
+      "value": 40005,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2012-02",
+      "value": 43738,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2012-03",
+      "value": 39292,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2012-04",
+      "value": 32940,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2012-05",
+      "value": 32297,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2012-06",
+      "value": 29362,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2012-07",
+      "value": 29599,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2012-08",
+      "value": 30683,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2012-09",
+      "value": 28116,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2012-10",
+      "value": 30323,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2012-11",
+      "value": 31804,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2012-12",
+      "value": 34791,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2013-01",
+      "value": 37053,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2013-02",
+      "value": 33996,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2013-03",
+      "value": 36332,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2013-04",
+      "value": 31499,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2013-05",
+      "value": 31322,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2013-06",
+      "value": 30289,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2013-07",
+      "value": 32046,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2013-08",
+      "value": 29931,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2013-09",
+      "value": 28249,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2013-10",
+      "value": 30578,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2013-11",
+      "value": 32092,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2013-12",
+      "value": 37032,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2014-01",
+      "value": 40362,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2014-02",
+      "value": 34834,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2014-03",
+      "value": 35179,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2014-04",
+      "value": 31894,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2014-05",
+      "value": 31540,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2014-06",
+      "value": 30655,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2014-07",
+      "value": 30999,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2014-08",
+      "value": 30335,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2014-09",
+      "value": 29087,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2014-10",
+      "value": 32011,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2014-11",
+      "value": 32466,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2014-12",
+      "value": 36468,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2015-01",
+      "value": 47269,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2015-02",
+      "value": 42464,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2015-03",
+      "value": 38987,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2015-04",
+      "value": 33686,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2015-05",
+      "value": 32706,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2015-06",
+      "value": 31078,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2015-07",
+      "value": 35628,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2015-08",
+      "value": 31220,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2015-09",
+      "value": 28863,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2015-10",
+      "value": 31898,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2015-11",
+      "value": 32346,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2015-12",
+      "value": 36423,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2016-01",
+      "value": 38334,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2016-02",
+      "value": 35548,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2016-03",
+      "value": 38198,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2016-04",
+      "value": 33707,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2016-05",
+      "value": 33001,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2016-06",
+      "value": 31512,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2016-07",
+      "value": 32961,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2016-08",
+      "value": 32248,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2016-09",
+      "value": 30095,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2016-10",
+      "value": 32060,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2016-11",
+      "value": 33759,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2016-12",
+      "value": 39188,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2017-01",
+      "value": 49370,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2017-02",
+      "value": 37434,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2017-03",
+      "value": 35779,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2017-04",
+      "value": 33208,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2017-05",
+      "value": 33673,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2017-06",
+      "value": 32236,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2017-07",
+      "value": 31924,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2017-08",
+      "value": 32356,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2017-09",
+      "value": 30049,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2017-10",
+      "value": 32680,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2017-11",
+      "value": 34149,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2017-12",
+      "value": 41665,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2018-01",
+      "value": 47911,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2018-02",
+      "value": 39756,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2018-03",
+      "value": 39772,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2018-04",
+      "value": 34956,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2018-05",
+      "value": 33421,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2018-06",
+      "value": 31970,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2018-07",
+      "value": 32215,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2018-08",
+      "value": 33177,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2018-09",
+      "value": 30293,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2018-10",
+      "value": 32879,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2018-11",
+      "value": 34338,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2018-12",
+      "value": 37033,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2019-01",
+      "value": 44615,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2019-02",
+      "value": 37737,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2019-03",
+      "value": 37058,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2019-04",
+      "value": 34201,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2019-05",
+      "value": 33866,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2019-06",
+      "value": 31873,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2019-07",
+      "value": 33551,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2019-08",
+      "value": 31671,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2019-09",
+      "value": 29916,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2019-10",
+      "value": 32770,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2019-11",
+      "value": 34706,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2019-12",
+      "value": 36739,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2020-01",
+      "value": 43093,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2020-02",
+      "value": 36623,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2020-03",
+      "value": 58204,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2020-04",
+      "value": 61025,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2020-05",
+      "value": 35073,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2020-06",
+      "value": 30755,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2020-07",
+      "value": 34768,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2020-08",
+      "value": 36038,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2020-09",
+      "value": 34568,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2020-10",
+      "value": 39720,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2020-11",
+      "value": 42264,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2020-12",
+      "value": 41645,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2021-01",
+      "value": 52138,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2021-02",
+      "value": 40529,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2021-03",
+      "value": 36845,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2021-04",
+      "value": 34484,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2021-05",
+      "value": 34183,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2021-06",
+      "value": 32379,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2021-07",
+      "value": 35313,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2021-08",
+      "value": 38147,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2021-09",
+      "value": 32802,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2021-10",
+      "value": 34537,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2021-11",
+      "value": 36990,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2021-12",
+      "value": 42397,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2022-01",
+      "value": 46999,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2022-02",
+      "value": 38928,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2022-03",
+      "value": 38058,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2022-04",
+      "value": 36759,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2022-05",
+      "value": 37975,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2022-06",
+      "value": 36988,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2022-07",
+      "value": 44641,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2022-08",
+      "value": 38525,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2022-09",
+      "value": 32357,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2022-10",
+      "value": 35269,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2022-11",
+      "value": 35521,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2022-12",
+      "value": 42397,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2023-01",
+      "value": 43835,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2023-02",
+      "value": 39645,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2023-03",
+      "value": 39976,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2023-04",
+      "value": 34697,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2023-05",
+      "value": 33633,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2023-06",
+      "value": 32673,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2023-07",
+      "value": 33517,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2023-08",
+      "value": 35439,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2023-09",
+      "value": 32050,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2023-10",
+      "value": 33887,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2023-11",
+      "value": 35014,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2023-12",
+      "value": 41758,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2024-01",
+      "value": 48678,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2024-02",
+      "value": 35711,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2024-03",
+      "value": 37953,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2024-04",
+      "value": 35025,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2024-05",
+      "value": 35470,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2024-06",
+      "value": 33577,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2024-07",
+      "value": 35215,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2024-08",
+      "value": 34838,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2024-09",
+      "value": 31209,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2024-10",
+      "value": 34618,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2024-11",
+      "value": 34422,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2024-12",
+      "value": 39402,
+      "sourceId": "ine-edes19607",
+      "status": "final"
+    },
+    {
+      "period": "2025-01",
+      "value": 45917,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2025-02",
+      "value": 37346,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2025-03",
+      "value": 38259,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2025-04",
+      "value": 35764,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2025-05",
+      "value": 35469,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2025-06",
+      "value": 34727,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2025-07",
+      "value": 35510,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2025-08",
+      "value": 35537,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2025-09",
+      "value": 32118,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2025-10",
+      "value": 34839,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2025-11",
+      "value": 35956,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2025-12",
+      "value": 43672,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2026-01",
+      "value": 46395,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2026-02",
+      "value": 36328,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2026-03",
+      "value": 37789,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2026-04",
+      "value": 35916,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2026-05",
+      "value": 35414,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2026-06",
+      "value": 33543,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2026-07",
+      "value": 35485,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    }
+  ]
+}

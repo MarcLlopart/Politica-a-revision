@@ -1,0 +1,11 @@
+{"Id":452436, "COD":"EPA452436", "Operacion":{"Id":293, "Cod_IOE":"30308", "Nombre":"Encuesta de Población Activa (EPA)", "Codigo":"EPA", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176918&idp=1254735976595"}
+, "Nombre":"Tasa de paro de la población. Ambos sexos. Total Nacional. Menores de 25 años. ", "Decimales":2, "Periodicidad":{"Id":3, "Nombre":"Trimestral", "Codigo":"Q"}
+, "Publicacion":{"Id":330, "Nombre":"Encuesta de Población Activa", "Periodicidad":{"Id":3, "Nombre":"Trimestral", "Codigo":"Q"}
+, "Operacion":[{"Id":293, "Cod_IOE":"30308", "Nombre":"Encuesta de Población Activa (EPA)", "Codigo":"EPA", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176918&idp=1254735976595"}
+]
+, "PubFechaAct":{"Id":12622, "Nombre":"Encuesta de Población Activa. Trimestre 2/2026", "Fecha":1785222000000, "FK_Periodo":20, "Anyo":2026}
+}
+, "Clasificacion":{"Id":88, "Nombre":"Base 2021 (EPA)", "Fecha":1609455600000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":135, "Nombre":"Tasas", "Codigo":null, "Abrev":null}
+}

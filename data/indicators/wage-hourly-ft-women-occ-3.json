@@ -1,0 +1,33 @@
+{
+  "id": "wage-hourly-ft-women-occ-3",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 2,
+  "label": {
+    "es": "Técnicos y profesionales de apoyo: mujeres",
+    "en": "Technicians and associate professionals: women",
+    "ca": "Tècnics i professionals de suport: dones"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Hourly pay of women working full time, CNO-11 major group 3, INE Structure of Earnings Survey (table 36891).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 13.16,
+      "sourceId": "ine-eaes88337",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 14.31,
+      "sourceId": "ine-eaes88337",
+      "status": "provisional"
+    }
+  ]
+}

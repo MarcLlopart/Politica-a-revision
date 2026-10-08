@@ -1,0 +1,10 @@
+{"Id":630, "COD":"EAES630", "Operacion":{"Id":140, "Cod_IOE":"30189", "Nombre":"Encuesta Anual de Estructura Salarial", "Codigo":"EAES", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177025&idp=1254735976596"}
+, "Nombre":"Mujeres. Total Nacional. Dato base. Mediana. ", "Decimales":2, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":163, "Nombre":"Encuesta Anual de Estructura Salarial", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":140, "Cod_IOE":"30189", "Nombre":"Encuesta Anual de Estructura Salarial", "Codigo":"EAES", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177025&idp=1254735976596"}
+]
+, "PubFechaAct":{"Id":12348, "Nombre":"Encuesta Anual de Estructura Salarial. Definitivos 2024", "Fecha":1779958800000, "FK_Periodo":28, "Anyo":2024}
+}
+, "FK_Clasificacion":null, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":7, "Nombre":"Euros", "Codigo":null, "Abrev":"€"}
+}

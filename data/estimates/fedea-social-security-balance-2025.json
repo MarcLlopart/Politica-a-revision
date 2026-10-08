@@ -1,0 +1,29 @@
+{
+  "id": "fedea-social-security-balance-2025",
+  "topic": "pensions",
+  "kind": "independent",
+  "label": {
+    "es": "Saldo contributivo de la Seguridad Social ampliada (Fedea)",
+    "en": "Contributory balance of the extended Social Security (Fedea)",
+    "ca": "Saldo contributiu de la Seguretat Social ampliada (Fedea)"
+  },
+  "value": -3.785,
+  "unit": "percent_gdp",
+  "period": "2025 (avance)",
+  "definition": {
+    "es": "Cotizaciones de carácter contributivo menos gasto contributivo (pensiones con complementos a mínimos, bajas, Clases Pasivas y administración), según la metodología de Fedea. Estimación preliminar con ejecución hasta noviembre.",
+    "en": "Contribution revenue of a contributory nature minus contributory spending (pensions including minimum top-ups, sick leave, civil-servant pensions and administration), using Fedea's method. Preliminary estimate based on execution to November.",
+    "ca": "Cotitzacions de caràcter contributiu menys despesa contributiva (pensions amb complements a mínims, baixes, Classes Passives i administració), segons la metodologia de Fedea. Estimació preliminar amb execució fins al novembre."
+  },
+  "publisher": "Fedea (Ángel de la Fuente)",
+  "document": {
+    "title": "Las cuentas de la Seguridad Social ampliada. Series 2005–2025, v1.3 (Apuntes 2026/03)",
+    "url": "https://documentos.fedea.net/data/ap/2026/ap2026-03.zip",
+    "location": "series SSA 2005-25 v13.xlsx, sheet 'series', cell W70",
+    "localPath": "sources/documents/fedea-angel-de-la-fuente/ap2026-03.zip",
+    "fileHash": "sha256:e3d576dccad342d95a3f470c2b57047a77ca992d030e33a3dcffb61c8943f9cc",
+    "retrievedAt": "2026-10-08"
+  },
+  "transcribedBy": "Research agent (Claude), checked against the downloaded document",
+  "checkedBy": []
+}

@@ -1,0 +1,176 @@
+{
+  "id": "spending-economic-affairs-gdp",
+  "topic": "public-spending",
+  "unit": "percent_gdp",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Asuntos económicos",
+    "en": "Economic affairs",
+    "ca": "Afers econòmics"
+  },
+  "note": {
+    "es": "Gasto de todas las administraciones públicas (Estado, comunidades autónomas, entidades locales y Seguridad Social) según la clasificación funcional COFOG. El último año completo es 2024.",
+    "en": "Spending by all levels of government (central, regional, local and Social Security) by function (COFOG classification). The latest complete year is 2024.",
+    "ca": "Despesa de totes les administracions públiques (Estat, comunitats autònomes, ens locals i Seguretat Social) segons la classificació funcional COFOG. L'últim any complet és el 2024."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "General government expenditure on COFOG GF04, % of GDP, Eurostat gov_10a_exp (S13, TE).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 5,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 4.7,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 4.9,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 4.7,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 5.4,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 5,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 5,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 5.3,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 5.5,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 5.8,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 5.8,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 5.6,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 8.7,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 5,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 4.5,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 4.5,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 3.8,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 4,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 4.3,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 4.2,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 5.8,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 6.4,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 5.6,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 5,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 5.1,
+      "sourceId": "eurostat-gov-10a-exp-pc-gdp-es",
+      "status": "provisional"
+    }
+  ]
+}

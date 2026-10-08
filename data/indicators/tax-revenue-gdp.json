@@ -1,0 +1,176 @@
+{
+  "id": "tax-revenue-gdp",
+  "topic": "public-finances",
+  "unit": "percent_gdp",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Impuestos y cotizaciones sociales",
+    "en": "Taxes and social contributions",
+    "ca": "Impostos i cotitzacions socials"
+  },
+  "note": {
+    "es": "Total de impuestos y cotizaciones sociales netas de todas las administraciones y de las instituciones de la UE (definición de Eurostat).",
+    "en": "Total taxes and net social contributions received by all levels of government and EU institutions (Eurostat definition).",
+    "ca": "Total d'impostos i cotitzacions socials netes de totes les administracions i de les institucions de la UE (definició d'Eurostat)."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Eurostat gov_10a_taxag, item D2_D5_D91_D61_M_D995, sector S13_S212, % of GDP.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 34,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 33.7,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 34.1,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 33.9,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 34.9,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 36.1,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 36.8,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 37.2,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 32.9,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 30.5,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 32.1,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 32,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 33.2,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 34,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 34.5,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 34.4,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 34.1,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 34.4,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 35.2,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 35.2,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 37.3,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 38.1,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 37.4,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 37.1,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 37.3,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    }
+  ]
+}

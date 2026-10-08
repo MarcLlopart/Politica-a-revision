@@ -1,0 +1,33 @@
+{
+  "id": "wage-hourly-ft-men-occ-1",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 2,
+  "label": {
+    "es": "Directores y gerentes: hombres",
+    "en": "Managers: men",
+    "ca": "Directors i gerents: homes"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Hourly pay of men working full time, CNO-11 major group 1, INE Structure of Earnings Survey (table 36891).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 25.35,
+      "sourceId": "ine-eaes88306",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 27.18,
+      "sourceId": "ine-eaes88306",
+      "status": "provisional"
+    }
+  ]
+}

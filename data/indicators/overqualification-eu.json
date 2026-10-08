@@ -1,0 +1,165 @@
+{
+  "id": "overqualification-eu",
+  "topic": "labour",
+  "unit": "percent",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Media UE-27",
+    "en": "EU-27 average",
+    "ca": "Mitjana UE-27"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Over-qualification rate, Eurostat lfsa_eoqgan (EU Labour Force Survey), EU-27, both sexes, 20–64.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2002",
+      "value": 19.9,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 19.8,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 19.7,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 20.3,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 20.4,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 20.3,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 20.4,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 20.3,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 20.3,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 19.6,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 20.7,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 21,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 21.7,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 21.8,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 21.8,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 22.1,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 22.1,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 21.8,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 21.7,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 21.7,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 22.2,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 22,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 21.5,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 21.4,
+      "sourceId": "eurostat-lfsa-eoqgan-es-eu",
+      "status": "final"
+    }
+  ]
+}

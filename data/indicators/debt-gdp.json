@@ -1,0 +1,182 @@
+{
+  "id": "debt-gdp",
+  "topic": "public-finances",
+  "unit": "percent_gdp",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Deuda pública",
+    "en": "Government debt",
+    "ca": "Deute públic"
+  },
+  "note": {
+    "es": "Deuda bruta consolidada de las administraciones públicas (Protocolo de Déficit Excesivo).",
+    "en": "Consolidated gross general government debt (Excessive Deficit Procedure).",
+    "ca": "Deute brut consolidat de les administracions públiques (Protocol de Dèficit Excessiu)."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "General government consolidated gross debt, % of GDP, Eurostat gov_10dd_edpt1 (GD, S13).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 57.8,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 54.1,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 51.2,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 47.7,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 45.3,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 42.4,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 39,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 35.7,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 39.6,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 53.1,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 60.3,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 69.5,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 89.6,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 100,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 104.4,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 102.5,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 102,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 101.2,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 99.8,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 97.7,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 119.3,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 115.7,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 109.3,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 105.2,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 101.6,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 100.7,
+      "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
+      "status": "final"
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "id": "foreign-born-population",
+  "topic": "immigration",
+  "unit": "persons",
+  "frequency": "Q",
+  "decimals": 0,
+  "label": {
+    "es": "Población nacida en el extranjero",
+    "en": "Foreign-born population",
+    "ca": "Població nascuda a l'estranger"
+  },
+  "note": {
+    "es": "Incluye a personas con nacionalidad española nacidas fuera de España. Datos posteriores al 1 de enero de 2025, provisionales.",
+    "en": "Includes Spanish nationals born outside Spain. Figures after 1 January 2025 are provisional.",
+    "ca": "Inclou persones amb nacionalitat espanyola nascudes fora d'Espanya. Dades posteriors a l'1 de gener de 2025, provisionals."
+  },
+  "yZero": true,
+  "periodRef": "start",
+  "calculation": {
+    "method": "Resident population born abroad on the first day of the period, as published by INE (Estadística Continua de Población).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2002-Q1",
+      "value": 2334098,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2002-Q3",
+      "value": 2668377,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q1",
+      "value": 2984094,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q3",
+      "value": 3282353,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q1",
+      "value": 3547669,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q3",
+      "value": 3774630,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q1",
+      "value": 4107226,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q3",
+      "value": 4405471,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q1",
+      "value": 4637971,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q3",
+      "value": 4889929,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q1",
+      "value": 5200061,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q3",
+      "value": 5560998,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q1",
+      "value": 5878919,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q3",
+      "value": 6092467,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q1",
+      "value": 6225513,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q3",
+      "value": 6268535,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q1",
+      "value": 6280064,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q3",
+      "value": 6279700,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q1",
+      "value": 6282208,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q3",
+      "value": 6284538,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q1",
+      "value": 6294952,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q3",
+      "value": 6230628,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q1",
+      "value": 6165635,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q3",
+      "value": 6046339,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q1",
+      "value": 5952770,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q3",
+      "value": 5902626,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q1",
+      "value": 5883891,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q3",
+      "value": 5881919,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q1",
+      "value": 5913165,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q3",
+      "value": 5945131,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q1",
+      "value": 6014708,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q3",
+      "value": 6067957,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q1",
+      "value": 6207509,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q3",
+      "value": 6332478,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q1",
+      "value": 6549309,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q3",
+      "value": 6763844,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q1",
+      "value": 7014753,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q3",
+      "value": 7144033,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q1",
+      "value": 7254797,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q2",
+      "value": 7264103,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q3",
+      "value": 7274805,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q4",
+      "value": 7364985,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q1",
+      "value": 7468116,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q2",
+      "value": 7638750,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q3",
+      "value": 7839111,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q4",
+      "value": 8021901,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q1",
+      "value": 8204206,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q2",
+      "value": 8368813,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q3",
+      "value": 8500658,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q4",
+      "value": 8674368,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q1",
+      "value": 8838234,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q2",
+      "value": 8960782,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q3",
+      "value": 9106723,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q4",
+      "value": 9296541,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q1",
+      "value": 9464210,
+      "sourceId": "ine-ecp239561",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q2",
+      "value": 9608073,
+      "sourceId": "ine-ecp239561",
+      "status": "provisional"
+    },
+    {
+      "period": "2025-Q3",
+      "value": 9758875,
+      "sourceId": "ine-ecp239561",
+      "status": "provisional"
+    },
+    {
+      "period": "2025-Q4",
+      "value": 9913674,
+      "sourceId": "ine-ecp239561",
+      "status": "provisional"
+    },
+    {
+      "period": "2026-Q1",
+      "value": 10036888,
+      "sourceId": "ine-ecp239561",
+      "status": "provisional"
+    },
+    {
+      "period": "2026-Q2",
+      "value": 10173526,
+      "sourceId": "ine-ecp239561",
+      "status": "provisional"
+    },
+    {
+      "period": "2026-Q3",
+      "value": 10291807,
+      "sourceId": "ine-ecp239561",
+      "status": "provisional"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wage-hourly-ft-women-occ-9",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 2,
+  "label": {
+    "es": "Ocupaciones elementales: mujeres",
+    "en": "Elementary occupations: women",
+    "ca": "Ocupacions elementals: dones"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Hourly pay of women working full time, CNO-11 major group 9, INE Structure of Earnings Survey (table 36891).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 7.85,
+      "sourceId": "ine-eaes88331",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 8.8,
+      "sourceId": "ine-eaes88331",
+      "status": "provisional"
+    }
+  ]
+}

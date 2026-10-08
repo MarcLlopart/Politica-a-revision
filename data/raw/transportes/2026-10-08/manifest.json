@@ -1,0 +1,11 @@
+{
+  "files": {
+    "09011600.XLS": {
+      "url": "https://apps.fomento.gob.es/BoletinOnline/sedal/09011600.XLS",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b356a836ab301ea0c96566cc8dfed5590531493fb1f8b3dbb40375dcf0a194f2",
+      "bytes": 1105856,
+      "contentType": "application/vnd.ms-excel"
+    }
+  }
+}

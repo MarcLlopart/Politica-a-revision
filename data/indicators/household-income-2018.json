@@ -1,0 +1,72 @@
+{
+  "id": "household-income-2018",
+  "topic": "cost-of-living",
+  "unit": "index",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Renta mediana de los hogares",
+    "en": "Median household income",
+    "ca": "Renda mediana de les llars"
+  },
+  "yZero": false,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Median equivalised net household income (Eurostat EU-SILC) rebased to 2018 = 100 (value ÷ value in 2018 × 100), from the indicator \"household-income-p50\".",
+    "formula": "value ÷ value(2018) × 100",
+    "inputs": [
+      "household-income-p50"
+    ],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 100,
+      "sourceId": "eurostat-ilc-di01-d5-es",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 101.5556,
+      "sourceId": "eurostat-ilc-di01-d5-es",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 108.5086,
+      "sourceId": "eurostat-ilc-di01-d5-es",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 107.4873,
+      "sourceId": "eurostat-ilc-di01-d5-es",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 113.7234,
+      "sourceId": "eurostat-ilc-di01-d5-es",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 123.8823,
+      "sourceId": "eurostat-ilc-di01-d5-es",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 130.5851,
+      "sourceId": "eurostat-ilc-di01-d5-es",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 137.7545,
+      "sourceId": "eurostat-ilc-di01-d5-es",
+      "status": "final"
+    }
+  ]
+}

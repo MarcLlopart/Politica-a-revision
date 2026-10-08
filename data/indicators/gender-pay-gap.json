@@ -1,0 +1,122 @@
+{
+  "id": "gender-pay-gap",
+  "topic": "income",
+  "unit": "percent",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Sin ajustar: todas las personas asalariadas",
+    "en": "Unadjusted: all employees",
+    "ca": "Sense ajustar: totes les persones assalariades"
+  },
+  "note": {
+    "es": "Diferencia entre la ganancia media por hora de todos los hombres y todas las mujeres asalariados, en % de la de los hombres. No compara el mismo trabajo: incluye diferencias de ocupación, sector, jornada, experiencia y empresa. Es el indicador oficial de la UE (Objetivo de Desarrollo Sostenible 5).",
+    "en": "Difference between the average hourly earnings of all men and all women employees, as a % of men's. It does not compare the same job: it includes differences in occupation, sector, working time, experience and employer. It is the EU's official indicator (Sustainable Development Goal 5).",
+    "ca": "Diferència entre el guany mitjà per hora de tots els homes i totes les dones assalariats, en % del dels homes. No compara la mateixa feina: inclou diferències d'ocupació, sector, jornada, experiència i empresa. És l'indicador oficial de la UE (Objectiu de Desenvolupament Sostenible 5)."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Unadjusted gender pay gap in hourly earnings (sections B–S except O), as published by INE (Mujeres y Hombres en España, table 10892, identical to Eurostat sdg_05_20).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2009",
+      "value": 16.7,
+      "sourceId": "ine-myh9049",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 16.2,
+      "sourceId": "ine-myh9049",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 17.6,
+      "sourceId": "ine-myh9049",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 18.7,
+      "sourceId": "ine-myh9049",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 17.8,
+      "sourceId": "ine-myh9049",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 14.9,
+      "sourceId": "ine-myh9049",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 14.1,
+      "sourceId": "ine-myh9049",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 14.8,
+      "sourceId": "ine-myh9049",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 13.5,
+      "sourceId": "ine-myh9049",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 11.9,
+      "sourceId": "ine-myh9049",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 9.6,
+      "sourceId": "ine-myh9049",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 9.3,
+      "sourceId": "ine-myh9049",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 9.3,
+      "sourceId": "ine-myh9049",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 9.2,
+      "sourceId": "ine-myh9049",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 7.3,
+      "sourceId": "ine-myh9049",
+      "status": "provisional"
+    },
+    {
+      "period": "2024",
+      "value": 7.3,
+      "sourceId": "ine-myh9049",
+      "status": "provisional"
+    }
+  ]
+}

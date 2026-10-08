@@ -1,0 +1,11 @@
+{
+  "files": {
+    "weo-weo_2026_apr_vintage-esp.csv": {
+      "url": "https://api.imf.org/external/sdmx/2.1/data/IMF.RES,WEO_2026_APR_VINTAGE,1.0.0/ESP.NGDP_RPCH+PCPIPCH+GGR_NGDP+GGX_NGDP+GGXCNL_NGDP+GGXWDG_NGDP.A?startPeriod=2015",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:9b1f6f0eaf1b9ca16bd2523a57e91fdfc75c26d675b2ec3abae1a7fb594e8699",
+      "bytes": 236502,
+      "contentType": "application/vnd.sdmx.data+csv;version=1.0.0"
+    }
+  }
+}

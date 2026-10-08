@@ -1,0 +1,80 @@
+{
+  "id": "wage-earners-p90",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "P90",
+    "en": "P90",
+    "ca": "P90"
+  },
+  "note": {
+    "es": "Salario bruto anual por persona, sumando todos sus pagadores (modelo 190). Incluye a quien trabajó solo parte del año o a tiempo parcial. Tramos en múltiplos del salario mínimo de cada año. Sin País Vasco ni Navarra.",
+    "en": "Gross annual wage per person, adding up all payers (form 190). Includes people who worked only part of the year or part-time. Brackets are multiples of each year's minimum wage. Excludes the Basque Country and Navarre.",
+    "ca": "Salari brut anual per persona, sumant tots els pagadors (model 190). Inclou qui va treballar només part de l'any o a temps parcial. Trams en múltiples del salari mínim de cada any. Sense País Basc ni Navarra."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "p90 of the distribution \"wage-earners\" (see Distributions on the methodology page). AEAT, Mercado de trabajo y pensiones en las fuentes tributarias: wage earners, wages and average wage by wage bracket (multiples of the annual SMI stated in the table notes). Mean = total wages / wage earners.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2016",
+      "value": 39132.06,
+      "sourceId": "aeat-mercado-2016-salarios",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 39278.61,
+      "sourceId": "aeat-mercado-2017-salarios",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 40064.83,
+      "sourceId": "aeat-mercado-2018-salarios",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 41152.71,
+      "sourceId": "aeat-mercado-2019-salarios",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 42156.5,
+      "sourceId": "aeat-mercado-2020-salarios",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 43147.17,
+      "sourceId": "aeat-mercado-2021-salarios",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 44733.45,
+      "sourceId": "aeat-mercado-2022-salarios",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 46629.69,
+      "sourceId": "aeat-mercado-2023-salarios",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 48337.46,
+      "sourceId": "aeat-mercado-2024-salarios",
+      "status": "final"
+    }
+  ]
+}

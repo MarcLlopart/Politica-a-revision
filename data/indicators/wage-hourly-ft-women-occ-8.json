@@ -1,0 +1,33 @@
+{
+  "id": "wage-hourly-ft-women-occ-8",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 2,
+  "label": {
+    "es": "Operadores de instalaciones y maquinaria, y montadores: mujeres",
+    "en": "Plant and machine operators and assemblers: women",
+    "ca": "Operadors d'instal·lacions i maquinària, i muntadors: dones"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Hourly pay of women working full time, CNO-11 major group 8, INE Structure of Earnings Survey (table 36891).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 9.59,
+      "sourceId": "ine-eaes88332",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 10.44,
+      "sourceId": "ine-eaes88332",
+      "status": "provisional"
+    }
+  ]
+}

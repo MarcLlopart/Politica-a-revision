@@ -1,0 +1,182 @@
+{
+  "id": "projection-ltc-airef",
+  "topic": "public-spending",
+  "unit": "percent_gdp",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "AIReF 2026",
+    "en": "AIReF 2026",
+    "ca": "AIReF 2026"
+  },
+  "note": {
+    "es": "Proyección oficial publicada por la fuente, no una observación. Cada fuente usa su propia definición, por eso las líneas no coinciden en el año base.",
+    "en": "Official projection published by the source, not an observation. Each source uses its own definition, so the lines differ in the base year.",
+    "ca": "Projecció oficial publicada per la font, no una observació. Cada font fa servir la seva definició, per això les línies no coincideixen a l'any base."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Projected public spending on long-term care, % of GDP, AIReF 2026 pension spending rule study (long-term scenario to 2050).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2025",
+      "value": 0.83,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "final"
+    },
+    {
+      "period": "2026",
+      "value": 0.8971,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2027",
+      "value": 0.9069,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2028",
+      "value": 0.9196,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2029",
+      "value": 0.935,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2030",
+      "value": 0.9463,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2031",
+      "value": 0.9692,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2032",
+      "value": 0.9904,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2033",
+      "value": 1.0144,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2034",
+      "value": 1.0431,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2035",
+      "value": 1.069,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2036",
+      "value": 1.0986,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2037",
+      "value": 1.1248,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2038",
+      "value": 1.1544,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2039",
+      "value": 1.1885,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2040",
+      "value": 1.2206,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2041",
+      "value": 1.2518,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2042",
+      "value": 1.282,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2043",
+      "value": 1.3146,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2044",
+      "value": 1.3491,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2045",
+      "value": 1.3832,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2046",
+      "value": 1.4168,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2047",
+      "value": 1.4511,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2048",
+      "value": 1.4883,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2049",
+      "value": 1.5249,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    },
+    {
+      "period": "2050",
+      "value": 1.5624,
+      "sourceId": "airef-2026-pension-rule-study",
+      "status": "forecast"
+    }
+  ]
+}

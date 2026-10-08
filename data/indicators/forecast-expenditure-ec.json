@@ -1,0 +1,39 @@
+{
+  "id": "forecast-expenditure-ec",
+  "topic": "public-spending",
+  "unit": "percent_gdp",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Comisión Europea, primavera 2026",
+    "en": "European Commission, spring 2026",
+    "ca": "Comissió Europea, primavera 2026"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "General government total expenditure (EDP), % of GDP, AMECO UUTGE, European Commission Spring 2026 forecast.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2025",
+      "value": 45.3358,
+      "sourceId": "ameco-uutge-esp-spring-2026",
+      "status": "final"
+    },
+    {
+      "period": "2026",
+      "value": 45.8206,
+      "sourceId": "ameco-uutge-esp-spring-2026",
+      "status": "forecast"
+    },
+    {
+      "period": "2027",
+      "value": 45.458,
+      "sourceId": "ameco-uutge-esp-spring-2026",
+      "status": "forecast"
+    }
+  ]
+}

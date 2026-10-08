@@ -1,0 +1,574 @@
+{
+  "meta": {
+    "title": "Spain in official data",
+    "description": "How Spain has changed since 2018 in official data, and party proposals put into numbers. Every figure links to its source."
+  },
+  "nav": {
+    "spain": "Spain",
+    "parties": "Parties",
+    "compare": "Compare",
+    "about": "About",
+    "methodology": "Methodology",
+    "sources": "Sources",
+    "corrections": "Corrections",
+    "main": "Main",
+    "skipToContent": "Skip to content",
+    "language": "Language",
+    "themeToggle": "Switch between light and dark theme"
+  },
+  "footer": {
+    "code": "Code and data on GitHub",
+    "neutrality": "Independent project. No funding, advertising or endorsement from any political party.",
+    "licence": "Code: MIT licence. Derived data: CC BY 4.0. Source data belong to their publishers (INE, Eurostat, Banco de España, AEAT, Seguridad Social, ministries) and are reused under their terms.",
+    "build": "Build {commit}"
+  },
+  "home": {
+    "title": "Spain at a glance",
+    "intro": "Official data from {startYear} to the latest figure available. Tap a topic for detail, sources and downloads.",
+    "outlook": {
+      "pensions": "Official projection (EU): {from} contributors per pensioner in {fromYear} → {to} in {toYear}.",
+      "demographics": "Official projection (INE): {from} of the population aged 65 or over in {fromYear} → {to} in {toYear}."
+    }
+  },
+  "topics": {
+    "economy": "Economy",
+    "public-finances": "Public finances and taxes",
+    "housing": "Housing",
+    "pensions": "Pensions",
+    "labour": "Labour",
+    "demographics": "Demographics",
+    "births-deaths": "Births and deaths",
+    "immigration": "Immigration",
+    "emigration": "Emigration",
+    "income": "Income and wealth",
+    "public-spending": "Public spending",
+    "safety": "Safety",
+    "cost-of-living": "Cost of living"
+  },
+  "topicPage": {
+    "back": "All topics",
+    "intro": "Each card shows the latest figure and the series since 2018. Open a card for the full chart, the data table, the source and a CSV download."
+  },
+  "cards": {
+    "unemployment-by-sex": "Unemployment rate by sex",
+    "revenue-by-tax": "Revenue from the main taxes",
+    "births-deaths-monthly": "Births and deaths per month (INE estimate)",
+    "immigration": "Immigration from abroad",
+    "net-migration": "Net migration with other countries",
+    "emigration": "Emigration abroad",
+    "emigration-by-nationality": "Emigration abroad by nationality",
+    "irpf-percentiles": "Income tax returns: median, P90 and P99",
+    "wage-earners-percentiles": "Annual wages (tax data): median, P90 and P99",
+    "wage-percentiles-ine": "Employee earnings (INE): P10, median, average and P90",
+    "household-income-percentiles": "Household income per person: median, P90 and P99",
+    "household-wealth-percentiles": "Household net wealth: median, average and P90",
+    "spending-vs-revenue": "Public spending and revenue",
+    "spending-per-person": "Spending per person (constant euros)",
+    "occupation-skill-shares": "Share of employment by type of occupation",
+    "overqualification": "Over-qualification of graduates",
+    "involuntary-part-time": "Part-time workers who want full-time work",
+    "wages-by-sex": "Median annual wage by sex (INE)",
+    "wage-real": "Median annual wage: current and constant euros",
+    "epa-monthly-wages": "Monthly wage of the main job (EPA): P10, median, P90",
+    "wages-by-age": "Average annual wage by age (INE)",
+    "gdp-growth-forecasts": "Real GDP growth: observed and forecasts",
+    "deficit-forecasts": "Government balance: observed and forecasts",
+    "debt-forecasts": "Government debt: observed and forecasts",
+    "spending-forecasts": "Public spending: observed and forecasts",
+    "revenue-forecasts": "Public revenue: observed and forecasts",
+    "pension-projections": "Pension spending: long-term projections",
+    "health-projections": "Health spending: long-term projections",
+    "education-projections": "Education spending: long-term projections",
+    "ltc-projections": "Long-term care spending: projections",
+    "defence-cofog-nato": "Defence spending: COFOG and NATO definitions",
+    "births-deaths-projection": "Births and deaths: observed and INE projection",
+    "births-by-mother-origin": "Births by the mother's origin (% of all births)",
+    "births-by-mother-nationality": "Births by the mother's nationality",
+    "gender-pay-gap-by-working-time": "Unadjusted hourly pay gap (does not compare the same job)",
+    "part-time-by-sex": "People working part time (% of each sex)",
+    "crime-rate": "Criminal offences known to the police per 1,000 inhabitants",
+    "robbery-burglary": "Violent robbery and home burglary per 100,000 inhabitants",
+    "prices-vs-incomes": "Prices against wages and incomes (2018 = 100)",
+    "energy-prices": "Energy and fuel prices (year on year)",
+    "ends-meet": "People in households making ends meet…",
+    "housing-overburden": "People spending more than 40% of their income on housing",
+    "price-change-by-group": "How much prices have risen since 2018, by type of spending",
+    "price-change-items": "How much prices have risen since 2018: everyday items"
+  },
+  "indicator": {
+    "summary": "From {start} ({startPeriod}) to {end} ({endPeriod}).",
+    "summarySeries": "{series}: from {start} ({startPeriod}) to {end} ({endPeriod}).",
+    "singlePoint": "{end} ({endPeriod}). The series starts with this figure.",
+    "expand": "Chart, data and source",
+    "viewData": "View data",
+    "period": "Period",
+    "provisional": "provisional",
+    "provisionalNote": "Values marked p are provisional or estimates and may be revised.",
+    "axisNotZero": "The vertical axis does not start at zero.",
+    "events": "Context markers",
+    "eventSource": "source",
+    "chartLabel": "Line chart: {title}, {start} to {end}",
+    "chartHint": "Use the left and right arrow keys to read values.",
+    "legend": "Legend",
+    "fullHistory": "The CSV contains the full series since {year}.",
+    "forecast": "forecast",
+    "forecastNote": "Values marked f (dashed line) are forecasts or projections published by the source, not observations.",
+    "forecastLine": "{series}Forecast by the source: {value} ({period})."
+  },
+  "source": {
+    "label": "Source",
+    "retrieved": "retrieved {date}",
+    "table": "table",
+    "csv": "CSV",
+    "method": "method",
+    "raw": "raw file",
+    "reportError": "Report an error",
+    "allFiles": "all {count} files"
+  },
+  "units": {
+    "percent": "{value}",
+    "percent_change": "{value}",
+    "percent_gdp": "{value} of GDP",
+    "persons": "{value}",
+    "eur": "{value}",
+    "index": "{value}",
+    "ratio": "{value}",
+    "years": "{value} years",
+    "children_per_woman": "{value}",
+    "dwellings": "{value}",
+    "pensions": "{value}",
+    "count": "{value}",
+    "per_1000": "{value} per 1,000 people",
+    "per_100k": "{value} per 100,000 people"
+  },
+  "format": {
+    "quarter": "Q{quarter} {year}"
+  },
+  "review": {
+    "status": "Text status: draft, pending review by a native speaker."
+  },
+  "parties": {
+    "title": "Parties",
+    "seats": "{count, plural, one {# seat} other {# seats}}",
+    "choose": "Choose a party",
+    "menu": "Parties",
+    "close": "Close",
+    "program": "Electoral programme",
+    "edition": "General election of {date}",
+    "programPending": "The official programme has not been archived here yet.",
+    "programArchived": "Archived on {date}",
+    "original": "original",
+    "wayback": "Wayback Machine",
+    "archivedCopy": "archived copy",
+    "proposals": "Proposals",
+    "proposalsPending": "No proposals published yet. Proposals are taken from the official programme, reviewed by a person and published for all parties at the same time.",
+    "proposalCount": "{count, plural, one {# proposal} other {# proposals}}",
+    "proposalsNotYet": "Proposals not published yet",
+    "page": "Page {page} of the programme",
+    "ballotNames": "On the ballot as",
+    "electionSource": "Official results"
+  },
+  "compare": {
+    "title": "Compare",
+    "intro": "Choose a topic to see every party's proposals for it side by side, in the same order and with the same treatment.",
+    "topicIntro": "Parties are ordered by seats won at the last general election, then alphabetically.",
+    "none": "No published proposals on this topic."
+  },
+  "about": {
+    "title": "About",
+    "p1": "{name} shows how Spain has changed in recent years using official statistics, and translates the proposals in party programmes into numbers so that anyone can check them against the data.",
+    "p2": "Every figure, chart and assessment links to its source: the publisher, the table, the date it was downloaded and the calculation. The downloaded files are kept in the public repository.",
+    "funding": {
+      "title": "Funding and independence",
+      "body": "This project receives no funding, advertising or endorsement from any political party, and does not accept any."
+    },
+    "principles": {
+      "title": "Principles",
+      "sameRubric": "The same method applies to every party, in the same batch. The method was written down before it was applied to any party.",
+      "blind": "Proposals are assessed without the party name or logo; the party is attached afterwards.",
+      "noCausal": "The data show what changed, not who caused it. Context markers are dated facts only.",
+      "traceable": "Any number can be traced to the downloaded file it came from.",
+      "corrections": "Corrections are listed publicly with the date, what changed and why."
+    },
+    "readMethodology": "Read the full methodology",
+    "open": {
+      "title": "Open source",
+      "licences": "The code is published under the MIT licence and the derived data under CC BY 4.0. Source data are reused under their publishers' terms, with attribution.",
+      "contact": "To report an error or suggest an improvement, open an issue on"
+    },
+    "privacy": {
+      "title": "Privacy",
+      "body": "No tracking cookies. If the theme is changed, the choice is stored only in this browser."
+    }
+  },
+  "methodology": {
+    "title": "Methodology",
+    "intro": "How the data are collected and processed, how parties and proposals are selected, and how proposals are assessed.",
+    "contents": "Contents",
+    "data": {
+      "title": "Data",
+      "p1": "Data come from official publishers: INE, Eurostat, Banco de España, the Tax Agency (AEAT), Seguridad Social and ministries. Where a publisher offers an API, it is used; otherwise the published file is downloaded.",
+      "p2": "Every downloaded file is stored unchanged in the public repository with its SHA-256 hash, address and download date. Values are then extracted by code that reads only those stored files, so the same files always give the same numbers.",
+      "p3": "Topic pages show {year} to the latest figure available. The CSV for each indicator contains the full series. Values are shown as published; no seasonal adjustment or other modelling is added unless the indicator says so.",
+      "p4": "Each card's sentence compares the latest figure with the same quarter or month of the first year shown, so seasonal series are compared like with like. Each topic's headline is the first indicator listed for that topic in the project brief.",
+      "p5": "A weekly automated job downloads the sources again and opens a review request with the changes. Nothing is published without a person approving it.",
+      "eventsTitle": "Context markers",
+      "events": "Charts mark a few dated events. They are facts with a date and a source, not explanations of the data.",
+      "p6": "Forecasts and projections are those published by the IMF, the European Commission, AIReF and the EU Ageing Report; we make none of our own. They are drawn as dashed lines and marked f, each with its publication date and its own definition."
+    },
+    "indicators": {
+      "title": "Indicators",
+      "intro": "Every published indicator with its source, calculation and download. Raw-file links point to the exact bytes used.",
+      "indicator": "Indicator",
+      "source": "Source",
+      "method": "Calculation",
+      "data": "Data",
+      "notOnDashboard": "used in calculations, not shown on topic pages"
+    },
+    "parties": {
+      "title": "Parties and proposals",
+      "coalitions": "Coalitions are listed under the name voters saw on the ballot, using the programme filed for that election. Later changes in parliamentary groups do not change the list.",
+      "programs": "Each programme is archived in the repository with its SHA-256 hash, original address, download date and a Wayback Machine copy, so quotes remain checkable if the original disappears.",
+      "extraction": "Proposals are split out of the programme with the help of a language model, offline. A person reviews every proposal before publication (draft → reviewed → published). No text is generated when a page is visited.",
+      "selection": "About 10–15 proposals per party, preferring those the party itself highlights in summaries or lists of main commitments, so the selection is not editorial."
+    },
+    "assessment": {
+      "title": "Assessment method",
+      "rubricStatus": "Rubric version {version}, status: {status}.",
+      "status": {
+        "proposed": "proposed, not yet frozen; no assessment has been made with it",
+        "frozen": "frozen and applied to all parties",
+        "superseded": "superseded by a later version"
+      },
+      "scope": "Proposals with a cost, a revenue effect or a numerical target get an assessment card with these parts:",
+      "fields": {
+        "restatement": "Plain restatement, numbers only.",
+        "baseline": "Baseline: the current value and recent trend, with source.",
+        "required": "Required change: per year, in absolute terms and in percent, or the cost in euros and as a share of GDP.",
+        "benchmark": "Historical benchmark: the largest comparable change in Spain since 2000, and the EU-27 range where useful.",
+        "funding": "Funding identified: yes, partial, no or not applicable, based only on what the programme says.",
+        "estimates": "Independent estimates (AIReF, Banco de España, Fedea, OECD, academic work), or a statement that none were found.",
+        "calculation": "The formula and inputs, stored so the calculation can be re-run from the repository.",
+        "confidence": "Confidence: high, medium or low, depending on how directly the data measure what the proposal targets."
+      },
+      "bandsTitle": "Result bands",
+      "bands": {
+        "consistent": "Consistent with recent data: the required change is no larger than the largest change observed in Spain over a comparable period since 2000.",
+        "ambitious": "Ambitious: larger than Spain's largest observed change, but within the largest observed in an EU-27 country.",
+        "unprecedented": "Beyond any observed precedent: larger than both.",
+        "not_assessable": "Not assessable: rule changes and statements of intent without a number. They are listed but not scored.",
+        "costNotCovered": "Cost not covered: a proposal costing more than {threshold} of GDP a year with no funding identified. Shown alongside the band, not instead of it."
+      },
+      "noScore": "There is no overall party score. Each party page shows how many proposals fall in each band, by topic, and the yearly cost of costed proposals next to the funding the party identified.",
+      "blind": "Proposals are assessed without the party name or logo; the party is attached after scoring."
+    },
+    "neutrality": {
+      "title": "Neutrality",
+      "sameRubric": "One rubric for all parties. Changes create a new version that is re-applied to every party at once.",
+      "noCausal": "No claims that a government caused or deserves credit for any change.",
+      "language": "Neutral wording only: bands and measured statements, no adjectives about parties or proposals.",
+      "colours": "Party colours appear only on the party chip, never in charts or assessments.",
+      "readings": "Green and red marks follow one fixed rule per indicator (see Favourable and unfavourable marks) and never refer to a party or a government.",
+      "headline": "Parties are ordered by seats at the last general election, then alphabetically.",
+      "translations": "Spanish is the source language. Translations of methodology and results go through the same review status as the content.",
+      "corrections": "All corrections are listed on the corrections page."
+    },
+    "distributions": {
+      "title": "Distributions: average, median, most common, P90, P99",
+      "p1": "The average (mean) is the total divided by the number of people. The median (P50) is the amount that splits the group in half. The most common amount is the range where people are most concentrated. P90 is the amount above which the top 10% are; P99, the top 1%. When an average is far above the median, a minority with large amounts pulls it up.",
+      "p2": "Where a source publishes percentiles (INE, Eurostat, Banco de España), they are used as published. Where it only publishes how many people fall in each amount bracket (Tax Agency, Seguridad Social), percentiles are estimated (marked ≈): inside a bracket whose total amount is published, amounts follow a power law fitted so the bracket's average matches the published one; inside a bracket without amounts, people are assumed evenly spread; in the open top bracket, a Pareto tail is fitted from its average. If that is not possible, only “more than” the bracket's lower bound is given.",
+      "p3": "The most common amount is the densest range of equal width when brackets are narrow, the densest published bracket when they are medium, and it is not shown when brackets are too wide to tell.",
+      "p4": "Populations differ and are not directly comparable: tax returns (a joint return counts once), people, pensions, or households; gross or net amounts; per year, per month, or a stock of wealth. Each table and card says which.",
+      "p5": "When a proposal targets a group defined by an amount (for example “incomes above €100,000”), its assessment card states the share and number of people above that amount in the matching distribution, with the same method."
+    },
+    "readings": {
+      "title": "Favourable and unfavourable marks",
+      "p1": "Some cards mark the latest change as favourable (green tick), unfavourable (red triangle) or in line (grey equals sign). Each indicator has one fixed rule, listed below. The rules are the same for every period and every government, and a mark says nothing about who caused a change.",
+      "p2": "Prices and incomes are compared with the Consumer Price Index (CPI) over the same span: real change = (1 + nominal change) / (1 + CPI change) − 1. For prices (housing, rents), rising less than the CPI is favourable, because they become cheaper relative to other goods; for incomes (wages, pensions), rising more than the CPI is favourable, because purchasing power grows. Growth rates are compared with the CPI annual rate for the same period.",
+      "p3": "Quarters and years use the average of INE's monthly index; a year still in progress uses the months published so far, against the same months a year earlier, and says so. A difference smaller than {pp}, or {pct} in real terms, counts as in line.",
+      "p4": "Real GDP growth is already net of price changes, so it is not compared with the CPI: positive growth is marked favourable.",
+      "p5": "Other indicators are compared with their value a year earlier and with the first year shown. Changes smaller than 0.1 pp (0.5 pp for shares of GDP, which are large and often revised) or 0.1% count as no change. The deficit and debt are compared both with the EU reference values and with their own change.",
+      "p6": "Inflation is compared with the ECB's 2% target (within ±0.5 pp is favourable); the deficit and debt with the EU reference values of 3% and 60% of GDP.",
+      "p7": "Spending by function, revenue, demography and migration are not rated: no direction is favourable for everyone. Nor are sexual offences and online fraud known to the police, because changes in reporting and in the Criminal Code move them as much as how often they happen, nor the unadjusted pay gap, which also changes when who works, and in what, changes (not only when pay for the same work changes). Their cards show only which way they moved, with a grey arrow.",
+      "p8": "On the home page, each topic shows the change in its headline indicator and the count of all marks on the topic page, from the first year shown (an indicator repeated at another frequency is counted once). The card's top edge is split green, grey and red in the same proportions.",
+      "rule": "Rule",
+      "indicators": "Indicators",
+      "rules": {
+        "vsCpi-up": "Rising more than the CPI is favourable",
+        "vsCpi-down": "Rising less than the CPI is favourable",
+        "sign-up": "Positive real growth is favourable",
+        "change-up": "An increase is favourable",
+        "change-down": "A decrease is favourable",
+        "reference": "Compared with an official reference value"
+      }
+    }
+  },
+  "sourcesPage": {
+    "title": "Sources",
+    "intro": "Every source used, with the stored raw file, its SHA-256 hash and the address it was downloaded from.",
+    "dataset": "Dataset",
+    "retrieved": "Retrieved",
+    "raw": "Raw file",
+    "licence": "Licence",
+    "table": "Table",
+    "series": "series",
+    "downloadUrl": "download address"
+  },
+  "corrections": {
+    "title": "Corrections",
+    "intro": "Every correction to published data, proposals or assessments, with the date, what changed and why.",
+    "history": "Full change history",
+    "none": "No corrections so far.",
+    "what": "What changed",
+    "why": "Why",
+    "scope": {
+      "indicator": "Indicator",
+      "proposal": "Proposal",
+      "assessment": "Assessment",
+      "party": "Party",
+      "site": "Site",
+      "methodology": "Methodology"
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "This page does not exist or has moved.",
+    "home": "Go to the home page"
+  },
+  "distribution": {
+    "sectionTitle": "Distribution",
+    "subtitle": "{population} · {count} · {period} · {unit}",
+    "mean": "Average",
+    "meanHint": "Total divided by the number",
+    "median": "Median (P50)",
+    "medianHint": "Half are below",
+    "mode": "Most common",
+    "modeHint": "{share} are in this range",
+    "p90": "P90",
+    "p90Hint": "1 in 10 are above",
+    "p99": "P99",
+    "p99Hint": "1 in 100 are above",
+    "atLeast": "more than {value}",
+    "range": "{lower}–{upper}",
+    "upTo": "up to {upper}",
+    "over": "over {lower}",
+    "summary": "Half are below {median}; 1 in 10 are above {p90}.",
+    "chartTitle": "Share in each amount range",
+    "thresholdsTitle": "Share above selected amounts",
+    "amount": "Amount",
+    "shareAbove": "Share above",
+    "countAbove": "Number above",
+    "count": "Number",
+    "share": "Share",
+    "checkerLabel": "Check any amount ({unit})",
+    "checkerResult": "{share} are above {amount} (about {count}).",
+    "checkerUnknown": "There is not enough detail above {lower} to estimate this.",
+    "methodNote": "≈ estimated from the published amount brackets, assuming amounts are spread evenly within each bracket; in an open top bracket, a Pareto tail is used when its total amount is published.",
+    "unit": {
+      "year": "euros per year",
+      "month": "euros per month",
+      "total": "euros"
+    },
+    "modeUnavailable": "Brackets too wide to tell"
+  },
+  "percentileTable": {
+    "title": "Who is who: average, median, most common, P90 and P99",
+    "intro": "When a programme mentions “high incomes” or “large fortunes”, these figures show where a given amount falls. P90 is the amount above which the top 10% are; P99, the top 1%.",
+    "population": "Population",
+    "columns": {
+      "mean": "Average",
+      "median": "Median",
+      "mode": "Most common",
+      "p90": "P90",
+      "p99": "P99"
+    },
+    "rows": {
+      "irpf": "Income tax returns (taxable income)",
+      "wage-earners": "Wage earners (annual wages, tax data)",
+      "employees-ine": "Employees (gross annual earnings, INE)",
+      "household-income": "People, household income per person (net, equivalised)",
+      "pensioners": "Pensioners (all pensions per person)",
+      "retirement-pensions": "Retirement pensions (per pension)",
+      "household-wealth": "Households (net wealth)",
+      "wealth-tax": "Wealth tax filers (taxable wealth)",
+      "wage-earners-men": "Men with wages (annual wages, tax data)",
+      "wage-earners-women": "Women with wages (annual wages, tax data)"
+    },
+    "notPublished": "Not published by the source",
+    "noteUnits": "Rows are not directly comparable: some are gross and some net, some per person and some per household or per tax return, some per year and some per month.",
+    "noteEstimated": "≈ estimated from published brackets; values without ≈ are published by the source or computed exactly.",
+    "noteMissing": "– the source does not publish it and the brackets do not allow a reliable estimate."
+  },
+  "spending": {
+    "title": "Where each €100 goes ({year})",
+    "intro": "All levels of government spent {total} and collected {taxes} in taxes and social contributions.",
+    "per100Title": "Of every €100 of public spending",
+    "financingTitle": "How each €100 of spending was paid for",
+    "financingNote": "Other revenue includes sales of goods and services, property income and transfers. Borrowing is the deficit, which adds to public debt.",
+    "perTaxTitle": "Per €100 collected in taxes and social contributions",
+    "perTaxNote": "Above €100 means spending exceeded taxes and contributions; the rest came from other revenue and borrowing.",
+    "taxes": "Taxes and social contributions",
+    "otherRevenue": "Other public revenue",
+    "borrowing": "Borrowing (deficit)",
+    "allSpending": "All spending",
+    "otherSocial": "Other social protection",
+    "otherGeneral": "Other general public services",
+    "colFunction": "Function",
+    "colAmount": "Amount",
+    "colGdp": "% of GDP",
+    "colPerPerson": "Per person",
+    "colPer100": "Per €100 spent",
+    "noteCofog": "Functional classification COFOG (Eurostat), all levels of government. Old age is mostly pensions; it sits inside social protection. Public debt transactions are mostly interest.",
+    "noteDefence": "Defence here follows COFOG and is lower than NATO's figure for Spain, which also counts military pensions, the Guardia Civil's military duties and defence spending by other ministries.",
+    "noteOtherSocial": "Other social protection covers sickness, disability, survivors, family, unemployment, housing benefits and social exclusion."
+  },
+  "jobs": {
+    "title": "Jobs gained or lost by occupation ({start} to {end})",
+    "summary": "Employment changed by {total}: {high} ({highShare}) as managers, professionals and technicians; {medium} ({mediumShare}) in middle-skill occupations; {elementary} ({elementaryShare}) in elementary occupations.",
+    "chartTitle": "Change in people employed, by occupation (CNO-11 major group)",
+    "occupation": "Occupation",
+    "change": "Change",
+    "noteSkill": "Skill levels follow ISCO-08: groups 1–3 need the highest skill levels (usually higher education), 4–8 intermediate skills, 9 elementary tasks. The occupation is the job held, not the person's qualification.",
+    "noteSeason": "Same quarter in both years, to avoid seasonal differences. EPA survey estimates."
+  },
+  "barCard": {
+    "since": "since {year}",
+    "cpiAll": "All items (reference)",
+    "changePeriod": "Change from {start} to {end}",
+    "changeNote": "Change in each group's or item's price index over the same month; not each household's spending, which depends on what it buys. ECOICOP ver. 2 groups of INE's CPI."
+  },
+  "pensionsExplainer": {
+    "title": "How pensions are financed",
+    "intro": "Spain's public pensions are pay-as-you-go: the contributions paid by today's workers and employers fund today's pensions, and the State covers the difference. There are no individual pension accounts. These panels use the official series on this page.",
+    "whoTitle": "Who pays and who receives ({month})",
+    "whoText": "{affiliates} people pay contributions (Social Security affiliates) and {pensions} contributory pensions are paid: {ratio} affiliates per pension.",
+    "affiliates": "Social Security affiliates (monthly average)",
+    "pensions": "Contributory pensions in payment",
+    "typesTitle": "What kinds of pensions are paid",
+    "typesText": "Retirement pensions are {share} of contributory pensions; the rest are widowhood, permanent disability, orphanhood and family pensions.",
+    "balanceTitle": "When do contributions cover pensions?",
+    "balanceText": "In a pay-as-you-go system, contributions equal pensions when the contribution rate equals the average pension as a share of the average wage, divided by the number of contributors per pension. Move the two levers to see the rate that would balance the system.",
+    "calcTitle": "Balance calculator",
+    "calcRatio": "Contributors per pension",
+    "calcReplacement": "Average pension as % of average wage",
+    "calcResult": "Contribution rate that balances",
+    "calcActual": "Rate for common contingencies, 2026",
+    "calcReset": "Back to today's values",
+    "calcFormula": "rate = (average pension ÷ average wage) ÷ (contributors ÷ pensions)",
+    "defaults": "Today's values: average contributory pension {pension} a month × 14 ({pensionPeriod}); INE average gross annual wage {wage} ({wagePeriod}).",
+    "simplification": "Simplified identity: it leaves out the maximum contribution base, the lower bases of the self-employed, the share of contributions that pays sick and birth leave, and non-contributory pensions. It shows the order of magnitude, not the actual deficit.",
+    "simulator": "To estimate a personal pension with the legal rules, use the Seguridad Social simulator:",
+    "simulatorLink": "Seguridad Social retirement simulator (requires identification)",
+    "pensioners": "Pensioners (people)",
+    "ratesTitle": "Contribution rates in 2026 (general regime)",
+    "ratesConcept": "Contribution",
+    "ratesRate": "Rate",
+    "ratesSplit": "Who pays and what it funds",
+    "ratesSource": "Source:"
+  },
+  "estimates": {
+    "title": "Figures from reports and laws",
+    "intro": "Some figures exist only inside reports or laws. Each one shows who published it, where it appears and an archived copy of the document. Independent estimates are the authors' calculations, not official statistics.",
+    "kind": {
+      "official": "Official figure",
+      "independent": "Independent estimate",
+      "legal": "Set by law"
+    },
+    "archived": "archived copy",
+    "checked": "Transcription checked by a second person",
+    "unchecked": "Transcribed from the document; pending a second check",
+    "groups": {
+      "pension-law-2026": "Pension amounts and limits set by law (2026)",
+      "system-finances-2025": "Social Security finances (2025)",
+      "pension-studies": "Studies and international comparisons"
+    }
+  },
+  "readings": {
+    "label": "Comparisons with inflation and reference values",
+    "tone": {
+      "favourable": "Favourable",
+      "unfavourable": "Unfavourable",
+      "neutral": "In line or no change"
+    },
+    "key": "Each mark applies a fixed rule: prices and incomes against the CPI, other indicators against a year earlier or an official reference value. The rules are the same for every period. Grey arrows show indicators with no favourable direction, such as spending or population.",
+    "rulesLink": "See the rules",
+    "pp": "{value} pp",
+    "rate": {
+      "above": "above inflation: {value} vs CPI {cpi} ({period})",
+      "below": "below inflation: {value} vs CPI {cpi} ({period})",
+      "inLine": "in line with inflation: {value} vs CPI {cpi} ({period})"
+    },
+    "level": "in real terms, {from} to {to}: {nominal} vs CPI {cpi}",
+    "cpiTo": "(CPI up to {month})",
+    "sign": {
+      "up": "real growth ({period}); already net of inflation",
+      "down": "real fall ({period}); already net of inflation"
+    },
+    "change": "vs {from}",
+    "ref": {
+      "ecb-inflation-target": {
+        "above": "above the ECB's 2% inflation target ({period})",
+        "below": "below the ECB's 2% inflation target ({period})",
+        "near": "from the ECB's 2% inflation target, within ±0.5 pp ({period})"
+      },
+      "eu-deficit-limit": {
+        "above": "within the EU deficit limit of 3% of GDP ({period})",
+        "below": "beyond the EU deficit limit of 3% of GDP ({period})"
+      },
+      "eu-debt-reference": {
+        "above": "above the EU debt reference of 60% of GDP ({period})",
+        "below": "below the EU debt reference of 60% of GDP ({period})"
+      }
+    },
+    "unrated": "Change without a rating",
+    "tally": {
+      "label": "Marks on this topic:",
+      "favourable": "{count} favourable",
+      "unfavourable": "{count} unfavourable",
+      "neutral": "{count} in line"
+    }
+  },
+  "pensionsOutlook": {
+    "title": "Who pays and who receives? Today and in 4, 10 and 20 years",
+    "intro": "Official projections if laws and current trends do not change: the EU 2024 Ageing Report for contributors, pensioners, spending and contributions, and INE for the population by age. They are not our own forecasts. Move the slider to see each year.",
+    "today": "Observed ({period}, Seguridad Social): {affiliates} affiliates and {pensions} contributory pensions ({pensioners} pensioners), that is {ratio} affiliates per pension.",
+    "slider": "Year",
+    "now": "{year} (today)",
+    "ahead": "{year} (+{n})",
+    "whoTitle": "Contributors and pensioners, {year}",
+    "ratio": "contributors per pensioner",
+    "whoAlt": "{year}: {pensioners} pensioners and {contributors} contributors.",
+    "pensioners": "Pensioners",
+    "contributors": "Contributors",
+    "moneyTitle": "Pension spending and contributions, {year}",
+    "spending": "Public pension spending",
+    "contributions": "Contributions to pensions",
+    "balance": "System balance (contributions − spending): {value}.",
+    "pyramidTitle": "Population by age and sex, 1 January {year}",
+    "projection": "projection",
+    "baseYear": "base year",
+    "workingPerOlder": "people aged 16–66 per person aged 67 or over",
+    "pyramidAlt": "Population pyramid on 1 January {year}: {young} aged 0–15, {working} aged 16–66 and {older} aged 67 or over.",
+    "men": "Men",
+    "women": "Women",
+    "bands": {
+      "young": "Aged 0–15",
+      "working": "Aged 16–66",
+      "older": "Aged 67 or over"
+    },
+    "noteProjection": "The projections assume no change to the laws in force when they were prepared (the 2024 Ageing Report includes reforms up to 2023) and that fertility, mortality and migration trends continue. They are scenarios, not predictions.",
+    "noteDefinitions": "The Ageing Report counts people who contribute and people who receive pensions in all public schemes (including civil servants' Clases Pasivas), so its figures differ from Seguridad Social's affiliates and pensions.",
+    "noteAges": "67 is the ordinary retirement age from 2027 and 16 the minimum working age. Not everyone aged 16–66 works, and not everyone aged 67 or over receives a pension."
+  },
+  "genderPayGap": {
+    "title": "Gender pay gap: in the same job?",
+    "intro": "There are several ways to measure it and they answer different questions. No official statistic compares two people in the same post at the same employer; these are the official measures, from the most comparable to the least.",
+    "summary": "With the same measured characteristics, women earn {adjusted} less per hour ({adjustedYear}). In the same occupation group and working full time, they earn between {min} and {max} of what men earn ({groupYear}). Unadjusted, the average difference is {raw} ({rawYear}).",
+    "step1": "Same measured characteristics (the closest to \"the same job\")",
+    "step1Text": "Eurostat compares women and men with the same occupation, sector, enterprise size and type, contract, working time, experience, education, age and region, and estimates the part of the difference those characteristics do not explain. That part does not by itself prove discrimination, because it includes factors the survey does not measure (the exact post, the specific employer, schedules, negotiation), but it does not rule it out either. In Spain it is larger than the unadjusted difference.",
+    "step2": "Same occupation group, full time, per hour ({year})",
+    "step2Text": "Full-time women's hourly pay as a % of full-time men's in the same major occupation group (100 = equal). It removes the effect of part-time work and compares similar occupations, though each group includes different jobs.",
+    "step3": "Unadjusted: all women compared with all men",
+    "step3Text": "This is the EU's official indicator. It does not compare the same job: it measures the average difference, which also reflects that more women work part time or in lower-paid occupations and sectors. It answers a different question (how much each earns on average), not whether the same job is paid differently. That is why it has no green or red mark."
+  }
+}

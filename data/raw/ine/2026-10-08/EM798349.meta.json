@@ -1,0 +1,10 @@
+{"Id":798349, "COD":"EM798349", "Operacion":{"Id":71, "Cod_IOE":"30277", "Nombre":"Estadística de Migraciones", "Codigo":"EM", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177000&idp=1254735573002"}
+, "Nombre":"Total. Saldo con el extranjero. Total Nacional. Total. ", "Decimales":6, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":116, "Nombre":"Estadística de Migraciones", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":71, "Cod_IOE":"30277", "Nombre":"Estadística de Migraciones", "Codigo":"EM", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177000&idp=1254735573002"}
+]
+, "PubFechaAct":{"Id":10065, "Nombre":"Estadística de Migraciones. Definitivos 2021", "Fecha":1683104400000, "FK_Periodo":28, "Anyo":2021}
+}
+, "FK_Clasificacion":null, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":155, "Nombre":"Movimientos migratorios", "Codigo":null, "Abrev":null}
+}

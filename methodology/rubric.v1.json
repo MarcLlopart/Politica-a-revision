@@ -1,0 +1,106 @@
+{
+  "version": "1",
+  "status": "proposed",
+  "frozenAt": null,
+  "appliesToTypes": [
+    "fiscal_cost",
+    "revenue",
+    "quantified_target"
+  ],
+  "bands": [
+    {
+      "id": "consistent",
+      "rule": "required <= spainBest. The required change over the window is no larger than the largest change in the same direction observed in Spain over any window of the same length starting in 2000 or later."
+    },
+    {
+      "id": "ambitious",
+      "rule": "spainBest < required <= eu27Best. Larger than Spain's best, but no larger than the largest change in the same direction observed in any current EU-27 member state over a window of the same length starting in 2000 or later."
+    },
+    {
+      "id": "unprecedented",
+      "rule": "required > max(spainBest, eu27Best). Larger than both benchmarks."
+    },
+    {
+      "id": "not_assessable",
+      "rule": "Proposal type is regulatory or non_measurable, or the programme gives no measurable target or cost. Listed, never scored."
+    }
+  ],
+  "costNotCovered": {
+    "thresholdPctGDP": 0.5,
+    "fundingValues": [
+      "no"
+    ],
+    "rule": "Flag (shown alongside the band) when a fiscal_cost or revenue proposal has a net yearly budget cost (spending increase or revenue reduction) above 0.5% of nominal GDP and funding is 'no'. GDP = indicator gdp-nominal, latest complete year at assessment time."
+  },
+  "window": {
+    "defaultYears": 4,
+    "minYears": 1,
+    "maxYears": 8,
+    "rule": "The comparison window equals the proposal's own horizon in whole years, clamped to 1-8. If the programme gives no horizon, 4 years (one legislature). Benchmarks use windows of the same length."
+  },
+  "changeMetric": {
+    "rates": {
+      "units": [
+        "percent",
+        "percent_change",
+        "percent_gdp"
+      ],
+      "metric": "Absolute change in percentage points between the start and end of the window."
+    },
+    "levels": {
+      "units": [
+        "persons",
+        "eur",
+        "dwellings",
+        "pensions",
+        "index",
+        "ratio",
+        "years",
+        "children_per_woman"
+      ],
+      "metric": "Relative change in percent over the window: (end / start - 1) x 100."
+    },
+    "direction": "Only changes in the direction the proposal requires are compared: an increase is compared with the largest observed increase, a decrease with the largest observed decrease.",
+    "fiscal": "For fiscal_cost and revenue proposals the required change is the yearly cost or revenue effect as % of GDP, compared with the largest change over the window in the relevant spending or revenue aggregate as % of GDP.",
+    "baseline": "Start value = latest complete-year value of the mapped indicator at assessment time (annual average for sub-annual flow or rate series; latest 1 January value for stocks)."
+  },
+  "benchmarks": {
+    "spain": {
+      "since": 2000,
+      "frequency": "A",
+      "rule": "Largest change in the required direction over any window of the same length whose start year is 2000 or later, on annual values computed as in changeMetric.baseline. If the series starts after 2000, the available years are used and the card says so."
+    },
+    "eu27": {
+      "since": 2000,
+      "composition": "Current EU-27 member states",
+      "source": "Eurostat series measuring the same concept as the Spain series",
+      "rule": "Largest change in the required direction in any member state over a window of the same length starting in 2000 or later."
+    },
+    "euUnavailable": "If no comparable EU-27 series exists, a required change larger than the Spain benchmark is banded 'ambitious' and the card states that the EU-27 comparison was not available. It is never banded 'unprecedented' without an EU-27 comparison.",
+    "seriesBreaks": "Windows that cross a documented series break (for example the 2021 change from EM to EMCR in migration statistics) are excluded."
+  },
+  "funding": {
+    "yes": "The programme names funding sources whose stated amounts cover the full cost.",
+    "partial": "The programme names at least one funding source, but gives no amounts or the amounts cover only part of the cost.",
+    "no": "The programme names no funding source for the measure.",
+    "na": "Not a cost measure: quantified targets without a direct budget cost, or measures that raise revenue."
+  },
+  "confidence": {
+    "high": "The indicator measures exactly what the proposal targets (same statistic and scope), and no assumption is needed beyond the rubric defaults.",
+    "medium": "A close proxy, or one documented assumption (for example the phasing of a cost or the horizon).",
+    "low": "Indirect mapping, several assumptions, or data affected by a series break. A low rating must be explained on the card."
+  },
+  "blinding": {
+    "removeFields": [
+      "partyId",
+      "edition"
+    ],
+    "redact": "Party names, acronyms, list and coalition names, leader names and logos are replaced by [PARTY] in every text given to the assessor (person or model).",
+    "attachAfter": "The party is re-attached only after the assessment has been saved.",
+    "batch": "All parties' proposals are assessed in one batch, in a random order whose seed is recorded with the batch."
+  },
+  "populationAffected": {
+    "rule": "When a proposal targets a group defined by an amount (income, wage, pension or wealth threshold), the card states the share and number of people above that amount in the distribution that matches the proposal's concept (taxable income → irpf-income; wages → wage-earners; pensions → retirement-pensions or pensioners; wealth → wealth-tax-filers or household wealth), for the latest period, using lib/distribution.ts shareAbove.",
+    "noMatch": "If no distribution matches the concept, the card says so; no proxy population is substituted silently."
+  }
+}

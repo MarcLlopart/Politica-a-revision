@@ -1,0 +1,33 @@
+{
+  "id": "wage-hourly-ft-men-occ-9",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 2,
+  "label": {
+    "es": "Ocupaciones elementales: hombres",
+    "en": "Elementary occupations: men",
+    "ca": "Ocupacions elementals: homes"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Hourly pay of men working full time, CNO-11 major group 9, INE Structure of Earnings Survey (table 36891).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 9.06,
+      "sourceId": "ine-eaes88298",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 9.87,
+      "sourceId": "ine-eaes88298",
+      "status": "provisional"
+    }
+  ]
+}

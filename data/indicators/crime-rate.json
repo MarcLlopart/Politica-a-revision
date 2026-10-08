@@ -1,0 +1,126 @@
+{
+  "id": "crime-rate",
+  "topic": "safety",
+  "unit": "per_1000",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Todas las infracciones",
+    "en": "All offences",
+    "ca": "Totes les infraccions"
+  },
+  "note": {
+    "es": "Infracciones conocidas por la policía: dependen de cuánto se denuncia y de cómo se registra, y la reforma del Código Penal de 2022 cambió algunos tipos. 2020 está afectado por la pandemia. Tasas sobre la población media anual.",
+    "en": "Offences known to the police: they depend on how much is reported and how it is recorded, and the 2022 Criminal Code reform changed some offence types. 2020 is affected by the pandemic. Rates use the annual average population.",
+    "ca": "Infraccions conegudes per la policia: depenen de quant es denuncia i de com es registra, i la reforma del Codi Penal del 2022 va canviar alguns tipus. El 2020 està afectat per la pandèmia. Taxes sobre la població mitjana anual."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Offences known to the police (\"TOTAL INFRACCIONES PENALES\", Ministerio del Interior table 01001) per 1,000 inhabitants, using the annual average population (Eurostat nama_10_pe).",
+    "formula": "offences ÷ population × 1000",
+    "inputs": [
+      "offences-total",
+      "population-annual"
+    ],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2010",
+      "value": 49.342,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 48.9026,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 48.5326,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 46.6312,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 45.055,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 43.9117,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 43.287,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 43.9855,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 45.6192,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 46.7101,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 37.3172,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 41.3485,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 48.6141,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 50.9748,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 50.215,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "provisional"
+    },
+    {
+      "period": "2025",
+      "value": 50.0852,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "provisional"
+    }
+  ]
+}

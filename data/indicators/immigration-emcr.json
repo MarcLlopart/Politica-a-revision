@@ -1,0 +1,50 @@
+{
+  "id": "immigration-emcr",
+  "topic": "immigration",
+  "unit": "persons",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Método actual (EMCR)",
+    "en": "Current method (EMCR)",
+    "ca": "Mètode actual (EMCR)"
+  },
+  "note": {
+    "es": "Cambio de método en 2021: la Estadística de Migraciones (EM, hasta 2021) fue sustituida por la Estadística de Migraciones y Cambios de Residencia (EMCR, desde 2021), que registra más movimientos. Las dos series no son comparables.",
+    "en": "Method change in 2021: the Migration Statistics (EM, to 2021) were replaced by the Statistics on Migrations and Changes of Residence (EMCR, from 2021), which record more movements. The two series are not comparable.",
+    "ca": "Canvi de mètode el 2021: l'Estadística de Migracions (EM, fins al 2021) va ser substituïda per l'Estadística de Migracions i Canvis de Residència (EMCR, des del 2021), que registra més moviments. Les dues sèries no són comparables."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Immigration from abroad per year, as published by INE (Estadística de Migraciones y Cambios de Residencia, from 2021).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2021",
+      "value": 887960,
+      "sourceId": "ine-em1770185",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 1258894,
+      "sourceId": "ine-em1770185",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 1250991,
+      "sourceId": "ine-em1770185",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 1288562,
+      "sourceId": "ine-em1770185",
+      "status": "final"
+    }
+  ]
+}

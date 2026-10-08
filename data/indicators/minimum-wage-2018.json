@@ -1,0 +1,78 @@
+{
+  "id": "minimum-wage-2018",
+  "topic": "cost-of-living",
+  "unit": "index",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Salario mínimo",
+    "en": "Minimum wage",
+    "ca": "Salari mínim"
+  },
+  "yZero": false,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Monthly minimum wage (Real Decreto) rebased to 2018 = 100 (value ÷ value in 2018 × 100), from the indicator \"minimum-wage-monthly\".",
+    "formula": "value ÷ value(2018) × 100",
+    "inputs": [
+      "minimum-wage-monthly"
+    ],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 100,
+      "sourceId": "boe-boe-a-2017-15848",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 122.2992,
+      "sourceId": "boe-boe-a-2018-17773",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 129.0936,
+      "sourceId": "boe-boe-a-2020-1652",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 131.1319,
+      "sourceId": "boe-boe-a-2021-15770",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 135.888,
+      "sourceId": "boe-boe-a-2022-2851",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 146.7591,
+      "sourceId": "boe-boe-a-2023-3982",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 154.097,
+      "sourceId": "boe-boe-a-2024-2251",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 160.8914,
+      "sourceId": "boe-boe-a-2025-2576",
+      "status": "final"
+    },
+    {
+      "period": "2026",
+      "value": 165.9193,
+      "sourceId": "boe-boe-a-2026-3815",
+      "status": "final"
+    }
+  ]
+}

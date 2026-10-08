@@ -1,0 +1,90 @@
+{
+  "id": "irpf-income-p50",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Mediana (P50)",
+    "en": "Median (P50)",
+    "ca": "Mediana (P50)"
+  },
+  "note": {
+    "es": "Renta = base imponible general más base del ahorro. Una declaración conjunta cuenta una vez con la renta de la pareja. No incluye a quien no declara ni a País Vasco y Navarra. Tramos fijados en pesetas.",
+    "en": "Income = general tax base plus savings tax base. A joint return counts once, with the couple's combined income. Excludes people who do not file, and the Basque Country and Navarre. Brackets were set in pesetas.",
+    "ca": "Renda = base imposable general més base de l'estalvi. Una declaració conjunta compta una vegada amb la renda de la parella. No inclou qui no declara ni el País Basc i Navarra. Trams fixats en pessetes."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "median of the distribution \"irpf-income\" (see Distributions on the methodology page). AEAT, Estadística de los declarantes del IRPF, by 'tramos de rendimientos e imputaciones' (general + savings tax base, each floored at 0). Count = all returns in the bracket; amount = general base + savings base in the bracket. Mean = total amount / returns.",
+    "inputs": [],
+    "extraSourceIds": [
+      "aeat-irpf-2016-bia",
+      "aeat-irpf-2017-bia",
+      "aeat-irpf-2018-bia",
+      "aeat-irpf-2019-bia",
+      "aeat-irpf-2020-bia",
+      "aeat-irpf-2021-bia",
+      "aeat-irpf-2022-bia",
+      "aeat-irpf-2023-bia",
+      "aeat-irpf-2024-bia"
+    ]
+  },
+  "observations": [
+    {
+      "period": "2016",
+      "value": 15982.07,
+      "sourceId": "aeat-irpf-2016-big",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 16479.46,
+      "sourceId": "aeat-irpf-2017-big",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 16703.5,
+      "sourceId": "aeat-irpf-2018-big",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 17436.95,
+      "sourceId": "aeat-irpf-2019-big",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 16796.28,
+      "sourceId": "aeat-irpf-2020-big",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 18077.71,
+      "sourceId": "aeat-irpf-2021-big",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 18969.77,
+      "sourceId": "aeat-irpf-2022-big",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 19265.91,
+      "sourceId": "aeat-irpf-2023-big",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 20489.02,
+      "sourceId": "aeat-irpf-2024-big",
+      "status": "final"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "files": {
+    "BOE-A-2015-14273.xml": {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-14273",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:88662f0efc348a32a397b5763ce87c9c72cc998c577fbbf640464b75d1c1abb2",
+      "bytes": 17648,
+      "contentType": "application/xml; charset=utf-8"
+    },
+    "BOE-A-2016-12598.xml": {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2016-12598",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2b4a7e33ffa9156a4c527b27ab680f4581a3fc884fadd25916b1b56853e8ea5c",
+      "bytes": 21316,
+      "contentType": "application/xml; charset=utf-8"
+    },
+    "BOE-A-2017-15848.xml": {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2017-15848",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:dbb7a7a236efdcd53d849baacda1633fbc1f9a96786cab1b53962fc9c329a2aa",
+      "bytes": 25620,
+      "contentType": "application/xml; charset=utf-8"
+    },
+    "BOE-A-2018-17773.xml": {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2018-17773",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:310246a302b2df0ec7c707282e57a95817e877ad004b8d80cbe26d0b8637e506",
+      "bytes": 28968,
+      "contentType": "application/xml; charset=utf-8"
+    },
+    "BOE-A-2020-1652.xml": {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2020-1652",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:7c4a6e83be8f24addd24dea1d0d07a538fe130f01780d85012c5c66249ddc4b0",
+      "bytes": 30829,
+      "contentType": "application/xml; charset=utf-8"
+    },
+    "BOE-A-2021-15770.xml": {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2021-15770",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:8d661c238dd487fe150397b89d5baf3b7151bd0887307eab4239ee2ee390739e",
+      "bytes": 30411,
+      "contentType": "application/xml; charset=utf-8"
+    },
+    "BOE-A-2022-2851.xml": {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2022-2851",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:dcf070d3a99fcb3b4bd3b136b4ec8df23e8fc5145e683d8943340b9dcd4007b0",
+      "bytes": 30237,
+      "contentType": "application/xml; charset=utf-8"
+    },
+    "BOE-A-2023-3982.xml": {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2023-3982",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:80f0168e224d9cfd8cb37b57601546b7d61bb2bee9e8e5172b7e1354e4e3a882",
+      "bytes": 28023,
+      "contentType": "application/xml; charset=utf-8"
+    },
+    "BOE-A-2024-2251.xml": {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-2251",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:60121e3afbdbbbeb107af9c1ad305978d94af9fb2f5b5edb5c661363c11e1fd2",
+      "bytes": 30565,
+      "contentType": "application/xml; charset=utf-8"
+    },
+    "BOE-A-2025-2576.xml": {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-2576",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2998c5feb7c1be830468d65a896eef1bf24cbdfc2d709c9da008a60bbe5b3abe",
+      "bytes": 29654,
+      "contentType": "application/xml; charset=utf-8"
+    },
+    "BOE-A-2026-3815.xml": {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-3815",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:0fc178f31f57187a027b8ecdad3547706dc77f81ea5080a02198889a69cbe9e1",
+      "bytes": 24295,
+      "contentType": "application/xml; charset=utf-8"
+    }
+  }
+}

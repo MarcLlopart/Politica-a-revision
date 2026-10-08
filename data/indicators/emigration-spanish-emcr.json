@@ -1,0 +1,45 @@
+{
+  "id": "emigration-spanish-emcr",
+  "topic": "emigration",
+  "unit": "persons",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Nacionalidad española",
+    "en": "Spanish nationality",
+    "ca": "Nacionalitat espanyola"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Emigration abroad of Spanish nationals per year, as published by INE (EMCR, from 2021).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2021",
+      "value": 155533,
+      "sourceId": "ine-em1848362",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 141124,
+      "sourceId": "ine-em1848362",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 126901,
+      "sourceId": "ine-em1848362",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 137719,
+      "sourceId": "ine-em1848362",
+      "status": "final"
+    }
+  ]
+}

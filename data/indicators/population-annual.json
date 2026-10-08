@@ -1,0 +1,177 @@
+{
+  "id": "population-annual",
+  "topic": "public-spending",
+  "unit": "persons",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Población (media anual, cuentas nacionales)",
+    "en": "Population (annual average, national accounts)",
+    "ca": "Població (mitjana anual, comptes nacionals)"
+  },
+  "yZero": false,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Total population, annual average, national accounts concept, Eurostat nama_10_pe (POP_NC), thousand persons converted to persons.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 40554390,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 40766050,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 41423520,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 42196230,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 42859170,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 43662610,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 44360520,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 45236000,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 45983170,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 46367550,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 46562480,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 46736260,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 46749300,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 46581120,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 46433050,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 46384380,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 46427100,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 46510460,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 46715380,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 47087780,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 47344850,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 47346840,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 47786040,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 48352530,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 48874000,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "provisional"
+    },
+    {
+      "period": "2025",
+      "value": 49362340,
+      "sourceId": "eurostat-nama-10-pe-pop-es",
+      "status": "provisional"
+    }
+  ]
+}

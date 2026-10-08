@@ -1,0 +1,39 @@
+{
+  "files": {
+    "afiliados-extranjeros-ccaa.px.gz": {
+      "url": "https://w6.seg-social.es/PXWeb/Resources/PX/Databases/Afiliados%20en%20alta%20laboral/Afiliados%20Medios%20Extranjeros/3mb.Afiliados%20extranjeros%20por%20sexo,%20CCAA,%20regimen%20y%20UEnoUE.px",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:20a7269b892374124b1f55ac3e37d2472000b9a4d7cc86138a222d4f448302af",
+      "bytes": 764144,
+      "contentType": "application/octet-stream"
+    },
+    "avance.xlsx": {
+      "url": "https://www.seg-social.es/wps/wcm/connect/wss/d8a9c4fd-04ac-4814-9bae-6971cdb35250/avance.xlsx?MOD=AJPERES",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:e8df77d753a759c631cf9d91a27677de855568cda5c8f256fb471b14e84314b7",
+      "bytes": 92317,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "pensionistas.xlsx": {
+      "url": "https://www.seg-social.es/wps/wcm/connect/wss/f56092d1-579a-458c-90ad-be7fcceb9abe/PTAS202609.xlsx?MOD=AJPERES",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:dd54b7c1a93dc06934d783be0be4470bac8125ef81fdba2b125326ba829a11d8",
+      "bytes": 126082,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "serie-afiliacion.xlsx": {
+      "url": "https://www.seg-social.es/wps/wcm/connect/wss/5ccf558a-868f-48b3-b832-04fe9f524960/serie.xlsx?MOD=AJPERES",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:d02b5b32ccb0efb15707670f01d46d53294b5e1c5919952eca3b49920414528a",
+      "bytes": 54503,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "TC-2026-09.xlsx": {
+      "url": "https://www.seg-social.es/wps/wcm/connect/wss/738c06ad-d45f-40d4-8b17-e31efe433709/TC.xlsx?MOD=AJPERES",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:4ccf036713134a16db800c91f98a00c1baf10049fb43a105aec0a59fbcfe7c6e",
+      "bytes": 102901,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    }
+  }
+}

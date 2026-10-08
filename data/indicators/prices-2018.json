@@ -1,0 +1,72 @@
+{
+  "id": "prices-2018",
+  "topic": "cost-of-living",
+  "unit": "index",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Precios (IPC, media anual)",
+    "en": "Prices (CPI, annual average)",
+    "ca": "Preus (IPC, mitjana anual)"
+  },
+  "yZero": false,
+  "periodRef": "period",
+  "calculation": {
+    "method": "INE CPI annual average rebased to 2018 = 100 (value ÷ value in 2018 × 100), from the indicator \"cpi-index-annual\".",
+    "formula": "value ÷ value(2018) × 100",
+    "inputs": [
+      "cpi-index-annual"
+    ],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 100,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 100.6997,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 100.375,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 103.4788,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 112.1616,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 116.1244,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 119.3459,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 122.5355,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    }
+  ]
+}

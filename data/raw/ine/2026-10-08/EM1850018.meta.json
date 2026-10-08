@@ -1,0 +1,10 @@
+{"Id":1850018, "COD":"EM1850018", "Operacion":{"Id":455, "Cod_IOE":"30283", "Nombre":"Estadística de Migraciones y Cambios de Residencia", "Codigo":"EMCR", "Url":"https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177098&idp=1254735573002"}
+, "Nombre":"Extranjero. Total. Total. Ambos sexos. Dato base. Emigraciones con destino al extranjero. ", "Decimales":6, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":622, "Nombre":"Estadística de Migraciones y Cambios de Residencia", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":455, "Cod_IOE":"30283", "Nombre":"Estadística de Migraciones y Cambios de Residencia", "Codigo":"EMCR", "Url":"https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177098&idp=1254735573002"}
+]
+, "PubFechaAct":{"Id":12974, "Nombre":"Estadística de Migraciones y Cambios de Residencia 2024", "Fecha":1770022800000, "FK_Periodo":28, "Anyo":2024}
+}
+, "FK_Clasificacion":null, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":420, "Nombre":"Migraciones", "Codigo":null, "Abrev":null}
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "covid-state-of-alarm",
+    "date": "2020-03-14",
+    "label": {
+      "es": "Declaración del estado de alarma por la COVID-19",
+      "en": "State of alarm declared for COVID-19",
+      "ca": "Declaració de l'estat d'alarma per la COVID-19"
+    },
+    "topics": ["economy", "public-finances", "public-spending", "housing", "pensions", "labour", "income", "demographics", "births-deaths", "immigration", "emigration"],
+    "sourceUrl": "https://www.boe.es/eli/es/rd/2020/03/14/463"
+  },
+  {
+    "id": "energy-price-shock-2022",
+    "date": "2022-02-24",
+    "label": {
+      "es": "Invasión rusa de Ucrania (crisis de precios de la energía de 2022)",
+      "en": "Russian invasion of Ukraine (2022 energy price shock)",
+      "ca": "Invasió russa d'Ucraïna (crisi de preus de l'energia del 2022)"
+    },
+    "topics": ["economy", "public-finances", "public-spending", "housing"],
+    "sourceUrl": "https://www.consilium.europa.eu/en/policies/eu-response-ukraine-invasion/"
+  },
+  {
+    "id": "pension-reform-2023",
+    "date": "2023-03-16",
+    "label": {
+      "es": "Reforma de pensiones (Real Decreto-ley 2/2023)",
+      "en": "Pension reform (Royal Decree-law 2/2023)",
+      "ca": "Reforma de pensions (Reial decret llei 2/2023)"
+    },
+    "topics": ["pensions"],
+    "sourceUrl": "https://www.boe.es/eli/es/rdl/2023/03/16/2"
+  }
+]
