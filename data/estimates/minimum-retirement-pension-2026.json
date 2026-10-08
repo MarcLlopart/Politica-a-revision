@@ -1,0 +1,29 @@
+{
+  "id": "minimum-retirement-pension-2026",
+  "topic": "pensions",
+  "kind": "legal",
+  "label": {
+    "es": "Pensión mínima de jubilación (65 años o más, sin cónyuge a cargo)",
+    "en": "Minimum retirement pension (65 or over, no dependent spouse)",
+    "ca": "Pensió mínima de jubilació (65 anys o més, sense cònjuge a càrrec)"
+  },
+  "value": 13106.8,
+  "unit": "eur",
+  "period": "2026",
+  "definition": {
+    "es": "Euros al año (936,20 € al mes en 14 pagas). Con cónyuge a cargo, 17.592,40 € al año.",
+    "en": "Euros a year (€936.20 a month over 14 payments). With a dependent spouse, €17,592.40 a year.",
+    "ca": "Euros l'any (936,20 € al mes en 14 pagues). Amb cònjuge a càrrec, 17.592,40 € l'any."
+  },
+  "publisher": "BOE",
+  "document": {
+    "title": "Real Decreto 241/2026 (BOE-A-2026-6977)",
+    "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-6977",
+    "location": "Anexo I",
+    "localPath": "sources/documents/boe/boe-a-2026-6977.xml",
+    "fileHash": "sha256:0efed993bc34ef6aa9216fa4f18f21185bb8e0e5a947cd1b76887651ebfa7d1e",
+    "retrievedAt": "2026-10-08"
+  },
+  "transcribedBy": "Research agent (Claude), checked against the downloaded document",
+  "checkedBy": []
+}

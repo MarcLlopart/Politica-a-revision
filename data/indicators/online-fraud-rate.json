@@ -1,0 +1,126 @@
+{
+  "id": "online-fraud-rate",
+  "topic": "safety",
+  "unit": "per_100k",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Estafas informáticas por 100.000 habitantes",
+    "en": "Online fraud per 100,000 inhabitants",
+    "ca": "Estafes informàtiques per 100.000 habitants"
+  },
+  "note": {
+    "es": "Infracciones conocidas por la policía: dependen de cuánto se denuncia y de cómo se registra, y la reforma del Código Penal de 2022 cambió algunos tipos. 2020 está afectado por la pandemia. Tasas sobre la población media anual.",
+    "en": "Offences known to the police: they depend on how much is reported and how it is recorded, and the 2022 Criminal Code reform changed some offence types. 2020 is affected by the pandemic. Rates use the annual average population.",
+    "ca": "Infraccions conegudes per la policia: depenen de quant es denuncia i de com es registra, i la reforma del Codi Penal del 2022 va canviar alguns tipus. El 2020 està afectat per la pandèmia. Taxes sobre la població mitjana anual."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Offences known to the police (\"5.5.1.-Estafas informáticas\", Ministerio del Interior table 01001) per 100,000 inhabitants, using the annual average population (Eurostat nama_10_pe).",
+    "formula": "offences ÷ population × 100000",
+    "inputs": [
+      "offences-online-fraud",
+      "population-annual"
+    ],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2010",
+      "value": 44.1622,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 45.0935,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 58.249,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 57.2421,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 70.7298,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 133.7476,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 151.1574,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 203.8079,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 292.5289,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 408.5455,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 544.7414,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 563.9468,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 703.1238,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 884.0241,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 844.7232,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "provisional"
+    },
+    {
+      "period": "2025",
+      "value": 870.4551,
+      "sourceId": "interior-hechos-conocidos-anual",
+      "status": "provisional"
+    }
+  ]
+}

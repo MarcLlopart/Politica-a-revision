@@ -1,0 +1,210 @@
+{
+  "id": "affiliates-per-pension",
+  "topic": "pensions",
+  "unit": "ratio",
+  "frequency": "M",
+  "decimals": 2,
+  "label": {
+    "es": "Afiliados por pensión",
+    "en": "Affiliates per pension",
+    "ca": "Afiliats per pensió"
+  },
+  "note": {
+    "es": "Por pensión, no por pensionista (una persona puede cobrar más de una pensión). Hasta 2024, solo diciembre.",
+    "en": "Per pension, not per pensioner (one person may receive more than one pension). Up to 2024, December only.",
+    "ca": "Per pensió, no per pensionista (una persona pot cobrar més d'una pensió). Fins al 2024, només desembre."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Average affiliates in the month divided by contributory pensions in payment on day 1 of the same month.",
+    "formula": "ss-affiliates / pensions-count",
+    "inputs": [
+      "ss-affiliates",
+      "pensions-count"
+    ],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2016-12",
+      "value": 1.8841,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2017-12",
+      "value": 1.9266,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2018-12",
+      "value": 1.962,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2019-12",
+      "value": 1.9802,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2020-12",
+      "value": 1.9419,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2021-12",
+      "value": 1.9991,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2022-12",
+      "value": 2.0307,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2023-12",
+      "value": 2.0605,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2024-12",
+      "value": 2.0754,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2025-01",
+      "value": 2.0492,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2025-02",
+      "value": 2.0592,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2025-03",
+      "value": 2.0708,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2025-04",
+      "value": 2.0911,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2025-05",
+      "value": 2.1105,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2025-06",
+      "value": 2.1136,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2025-07",
+      "value": 2.111,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2025-08",
+      "value": 2.0885,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2025-09",
+      "value": 2.0905,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2025-10",
+      "value": 2.1005,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2025-11",
+      "value": 2.0945,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2025-12",
+      "value": 2.0934,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2026-01",
+      "value": 2.0639,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2026-02",
+      "value": 2.0744,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2026-03",
+      "value": 2.0913,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2026-04",
+      "value": 2.1101,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2026-05",
+      "value": 2.1313,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2026-06",
+      "value": 2.1399,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2026-07",
+      "value": 2.14,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2026-08",
+      "value": 2.1209,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    },
+    {
+      "period": "2026-09",
+      "value": 2.1273,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
+    }
+  ]
+}

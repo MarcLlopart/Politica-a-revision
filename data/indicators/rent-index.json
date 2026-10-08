@@ -1,0 +1,110 @@
+{
+  "id": "rent-index",
+  "topic": "housing",
+  "unit": "index",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Índice de precios del alquiler (2015 = 100)",
+    "en": "Rental price index (2015 = 100)",
+    "ca": "Índex de preus del lloguer (2015 = 100)"
+  },
+  "note": {
+    "es": "Índice de Precios de Vivienda en Alquiler (IPVA), elaborado con datos tributarios; se publica con más de un año de retraso.",
+    "en": "Rental Housing Price Index (IPVA), built from tax records; published more than a year after the reference year.",
+    "ca": "Índex de Preus d'Habitatge en Lloguer (IPVA), elaborat amb dades tributàries; es publica amb més d'un any de retard."
+  },
+  "yZero": false,
+  "periodRef": "period",
+  "calculation": {
+    "method": "INE Rental Housing Price Index (IPVA), national, base 2015 = 100.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2011",
+      "value": 104.761,
+      "sourceId": "ine-ipva4962",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 103.193,
+      "sourceId": "ine-ipva4962",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 100.493,
+      "sourceId": "ine-ipva4962",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 99.741,
+      "sourceId": "ine-ipva4962",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 100,
+      "sourceId": "ine-ipva4962",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 101.681,
+      "sourceId": "ine-ipva4962",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 103.528,
+      "sourceId": "ine-ipva4962",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 106.247,
+      "sourceId": "ine-ipva4962",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 109.999,
+      "sourceId": "ine-ipva4962",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 110.942,
+      "sourceId": "ine-ipva4962",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 112.694,
+      "sourceId": "ine-ipva4962",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 115.684,
+      "sourceId": "ine-ipva4962",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 118.727,
+      "sourceId": "ine-ipva4962",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 122.92,
+      "sourceId": "ine-ipva4962",
+      "status": "final"
+    }
+  ]
+}

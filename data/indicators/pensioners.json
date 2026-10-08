@@ -1,0 +1,200 @@
+{
+  "id": "pensioners",
+  "topic": "pensions",
+  "unit": "persons",
+  "frequency": "M",
+  "decimals": 0,
+  "label": {
+    "es": "Pensionistas (personas)",
+    "en": "Pensioners (people)",
+    "ca": "Pensionistes (persones)"
+  },
+  "note": {
+    "es": "Personas que cobran al menos una pensión contributiva; algunas cobran dos o más. Hasta 2025, dato de diciembre; desde 2026, mensual.",
+    "en": "People receiving at least one contributory pension; some receive two or more. Up to 2025, December figure; from 2026, monthly.",
+    "ca": "Persones que cobren almenys una pensió contributiva; algunes en cobren dues o més. Fins al 2025, dada de desembre; des del 2026, mensual."
+  },
+  "yZero": false,
+  "periodRef": "start",
+  "calculation": {
+    "method": "Number of pensioners of contributory Social Security pensions, Seguridad Social monthly pensioners file (sheet 'Pnes y ptas').",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2006-12",
+      "value": 7494385,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2007-12",
+      "value": 7586574,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2008-12",
+      "value": 7700749,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2009-12",
+      "value": 7826416,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2010-12",
+      "value": 7948463,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2011-12",
+      "value": 8061785,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2012-12",
+      "value": 8182112,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2013-12",
+      "value": 8315826,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2014-12",
+      "value": 8428617,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2015-12",
+      "value": 8508482,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2016-12",
+      "value": 8609085,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2017-12",
+      "value": 8705707,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2018-12",
+      "value": 8806744,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2019-12",
+      "value": 8897902,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2020-12",
+      "value": 8899064,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2021-12",
+      "value": 8990513,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2022-12",
+      "value": 9053550,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2023-12",
+      "value": 9154513,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2024-12",
+      "value": 9304060,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2025-12",
+      "value": 9438579,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2026-01",
+      "value": 9455429,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2026-02",
+      "value": 9452148,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2026-03",
+      "value": 9465415,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2026-04",
+      "value": 9476277,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2026-05",
+      "value": 9478378,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2026-06",
+      "value": 9494408,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2026-07",
+      "value": 9511126,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2026-08",
+      "value": 9527484,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    },
+    {
+      "period": "2026-09",
+      "value": 9537978,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{"Id":72160, "COD":"IDB72160", "Operacion":{"Id":33, "Cod_IOE":"30264", "Nombre":"Indicadores Demográficos Básicos", "Codigo":"IDB", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177003&idp=1254735573002"}
+, "Nombre":"Fecundidad. Total Nacional. Ambas nacionalidades.", "Decimales":6, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":38, "Nombre":"Indicadores Demográficos Básicos", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":33, "Cod_IOE":"30264", "Nombre":"Indicadores Demográficos Básicos", "Codigo":"IDB", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177003&idp=1254735573002"}
+]
+, "PubFechaAct":{"Id":12919, "Nombre":"Indicadores Demográficos Básicos 2023", "Fecha":1765965600000, "FK_Periodo":28, "Anyo":2023}
+}
+, "FK_Clasificacion":null, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":110, "Nombre":"Hijos por mujer", "Codigo":null, "Abrev":null}
+}

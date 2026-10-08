@@ -1,0 +1,186 @@
+{
+  "id": "natural-change",
+  "topic": "births-deaths",
+  "unit": "persons",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Crecimiento vegetativo",
+    "en": "Natural change",
+    "ca": "Creixement vegetatiu"
+  },
+  "note": {
+    "es": "Nacimientos menos defunciones. Para el último año (estimación), la nota de prensa del INE da una cifra algo distinta porque cuenta solo residentes.",
+    "en": "Births minus deaths. For the latest (estimated) year, INE's press release gives a slightly different figure because it counts residents only.",
+    "ca": "Naixements menys defuncions. Per a l'últim any (estimació), la nota de premsa de l'INE dona una xifra una mica diferent perquè compta només residents."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Births minus deaths per year, from the two indicators above.",
+    "formula": "births − deaths",
+    "inputs": [
+      "births",
+      "deaths"
+    ],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 37241,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 46249,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 50228,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 57053,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 82657,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 79016,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 111479,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 107166,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 133455,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 110064,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 104528,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 84088,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 51698,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 35296,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 31765,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": -2278,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": -28,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": -31342,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": -54944,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": -58086,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": -152461,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": -113364,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": -135166,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": -115468,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": -118113,
+      "sourceId": "ine-mnp17544",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": -123460,
+      "sourceId": "ine-emn38",
+      "status": "provisional"
+    }
+  ]
+}

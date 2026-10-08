@@ -1,0 +1,445 @@
+{
+  "files": {
+    "irpf-2016-bia.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2016/jrubikf64705bf204b9752028a959e464627b8ade48f093.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:9338a2c230dfc1cc2d0775a2d60e7cdc48be88a6b4cdb8fdfed3ce616eca7931",
+      "bytes": 20689,
+      "contentType": "text/html"
+    },
+    "irpf-2016-big.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2016/jrubikf1a60dbc0a4d8684157033968e9a5d78abb72a236.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:db9a7ad801de1338356d211b6bc36f0787bcdb397d2de90de1467ce6654023fe",
+      "bytes": 20718,
+      "contentType": "text/html"
+    },
+    "irpf-2017-bia.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2017/jrubikf10c4cee396f0044e2a55c87fcc35af4a7a2c44c4.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:673fe54bed2cfec4b024ac753c75836e44ab9567c6f34101ae8a63c748febe28",
+      "bytes": 20838,
+      "contentType": "text/html"
+    },
+    "irpf-2017-big.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2017/jrubik6a6cc92bb65a06b4040014b9bd7aa3a0c253d631.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:72358c0d78aa9536c994a19333303f244af4f78491206895ba22a3ceac617eeb",
+      "bytes": 20872,
+      "contentType": "text/html"
+    },
+    "irpf-2018-bia.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2018/jrubikf52fc371d9d9be0e069e90314233a045c66a8cf2b.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:e054cd4bb42308df99daf60b8b9cda0782816d53bb8950ace98fa61e54007e35",
+      "bytes": 20929,
+      "contentType": "text/html"
+    },
+    "irpf-2018-big.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2018/jrubik5c6dfb1ae41f04d5f06d018b3abddf46120d7190.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:ab02a1d136f5c4fc351e0cc29665098cad70f0772760b0716bee7388767fd30d",
+      "bytes": 20963,
+      "contentType": "text/html"
+    },
+    "irpf-2019-bia.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2019/jrubikfec24626b43a38b9ef47e710aae7caa66b147228.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:a640813dedc6efc07ec47bcc116d574436c3a6a37319b1647634cbeca66e7860",
+      "bytes": 21005,
+      "contentType": "text/html"
+    },
+    "irpf-2019-big.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2019/jrubikf48a8d480ef6f3366f1725d9f8b2efeff913b0984.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:aad76f1f0b5d8f20924f745d1f593e1461681470faa9db20c6efab92225b8894",
+      "bytes": 21028,
+      "contentType": "text/html"
+    },
+    "irpf-2020-bia.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2020/jrubikf20063e2e2bfa0e415aa8653eb5034e37b271bed2.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:e3c9fb113e65265ecd88596e7a6d4f9d6fcc8700c842b4c88186be1d2c86aa93",
+      "bytes": 20992,
+      "contentType": "text/html"
+    },
+    "irpf-2020-big.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2020/jrubikf6e1b8d888854fb14c43920d30651c0b102a3302c.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:7a0e38888789af6d8ffafaa76787cbe8bd509baeb2f5e783a360246afb5ee130",
+      "bytes": 21027,
+      "contentType": "text/html"
+    },
+    "irpf-2021-bia.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2021/jrubik6cd2d015ecbcb2736af686bc06e53762eedaf92f.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:9113cca2b3735259c67e617a86af9aefdfce21ea9b07bf673da597136388bd37",
+      "bytes": 21181,
+      "contentType": "text/html"
+    },
+    "irpf-2021-big.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2021/jrubikf7a9906687571740947304ca0cece2b963274ba77.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2c03e174c7711b9ea5ad9619084da28cb413d66125681d7d6e065c62606777cc",
+      "bytes": 21196,
+      "contentType": "text/html"
+    },
+    "irpf-2022-bia.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2022/jrubik22f6f82f5e025c3d1bbec95441a9d3879dace33a.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:8fd11e1dc11837712a7ae0576526f6bdbe2d466df300433a0bbadb6a92c008e9",
+      "bytes": 21282,
+      "contentType": "text/html"
+    },
+    "irpf-2022-big.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2022/jrubik2d509843ba9c3037a9488dfb02fdea3917006a26.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:43b323cd3bec247c6f0353a866ee9be1757b8ad84ff27dcdb81a7058e9ea3fea",
+      "bytes": 21302,
+      "contentType": "text/html"
+    },
+    "irpf-2023-bia.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2023/jrubikf624502f36c2e6dad66f5a456f2c16beaffda8152.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:92075be23a1f8b16498fe55f8ccfeb0e10245b6854b9a6293c41e9a709121441",
+      "bytes": 21169,
+      "contentType": "text/html"
+    },
+    "irpf-2023-big.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2023/jrubik1d064d3064d0747726aa6982789dae51827fe815.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:12122042e3dd76895b6d876dfabee6852dc5d82832a69cfbaec1b9752b1fd686",
+      "bytes": 21183,
+      "contentType": "text/html"
+    },
+    "irpf-2024-bia.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2024/jrubikf12af38eebb550ce5ffd9f2c37d357ab15fba43a5.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:c184965e9a356cc59432a33da32dd433265cef497208c3552918d0fe36608f03",
+      "bytes": 21176,
+      "contentType": "text/html"
+    },
+    "irpf-2024-big.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2024/jrubikb6f7328b002b470185289a491310915e897e4a9.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:c79c83f25de42eae895842323d8e8d5903460a2eb05d99aae3360f9edc5cbceb",
+      "bytes": 21179,
+      "contentType": "text/html"
+    },
+    "mercado-2016-pensiones.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2016/jrubikf2b74f2a59fd24b53258704a2b6114e40c3c83de6.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:15c42bfb97aa867d84b623f1f47d78b719b94b0e9a7e74c0946c9bdf1f4b61af",
+      "bytes": 29730,
+      "contentType": "text/html"
+    },
+    "mercado-2016-salarios-mujer.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2016/jrubikf2c6e197b2c864e73bf7a0453b0af0662ebb876c2.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:57d111987fa2ed4de9abb058a7c1251faf2504b3b1d26b00cf9db6c17a64da04",
+      "bytes": 16182,
+      "contentType": "text/html"
+    },
+    "mercado-2016-salarios-varon.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2016/jrubik5a85742dfdbe5f4cff412cc36763740cbf61ea39.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:5f816bfb2878426290e4c74b93244e933e3d590d2e8ddb26b925587a51ffa2d7",
+      "bytes": 16187,
+      "contentType": "text/html"
+    },
+    "mercado-2016-salarios.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2016/jrubikc696967c0781a5fedf26509b6403762005214b8.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:d3422b66e9de40446b53e93f2c47a07688ad9bd3ef2e90ae92a75604e88ffaea",
+      "bytes": 25576,
+      "contentType": "text/html"
+    },
+    "mercado-2017-pensiones.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2017/jrubikf6b3e7e2d9e9b8b0aa12fd01c3d51311fd2270875.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:0f410746239575194fa4bdf282c926d118d857c32ba96537418693b25f1f8be9",
+      "bytes": 29595,
+      "contentType": "text/html"
+    },
+    "mercado-2017-salarios-mujer.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2017/jrubikf6b08fbf8f1fc9c790ea940f282cab2a21a68c7f2.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:e22da85b2716309c0e1c2b0ab5ff4f9fa5b4f3165d842d3584366a0682d2d723",
+      "bytes": 16231,
+      "contentType": "text/html"
+    },
+    "mercado-2017-salarios-varon.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2017/jrubikf207bf8c18f427fbf07bc4b919324825099892ec1.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:86aeaf1f9139f3828a23a4dcb8cafa4d182d7b8f5a0c4c83321b2799d5c17bd4",
+      "bytes": 16234,
+      "contentType": "text/html"
+    },
+    "mercado-2017-salarios.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2017/jrubikf7b2549be370cb454e0821e8bbab60fbe14fa3474.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:eed871c062a2f9248f14c27010d35a518bb5a797048f3853ea5f29da16599568",
+      "bytes": 25982,
+      "contentType": "text/html"
+    },
+    "mercado-2018-pensiones.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2018/jrubik4132501c71e835a5d52c2f95202d372036519a4f.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:ee934a6d1a5a0a2c7a61666fa0adefd2a3be0b0eb40d71ac2ebf58c0546d26f2",
+      "bytes": 29244,
+      "contentType": "text/html"
+    },
+    "mercado-2018-salarios-mujer.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2018/jrubik339de2593d7ec0a7eaac185b7d784da702c5f9d.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:ac4e045247b601c8c3c104319fc8a5095ff3bbbc245bae3e6a6e585ead596586",
+      "bytes": 16330,
+      "contentType": "text/html"
+    },
+    "mercado-2018-salarios-varon.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2018/jrubik100e12cb1f5cc3cf00305a32b15e8fa19a1d8be0.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:f08b7298348ec39d2ea710dbd1957745d832db1b89900afeb4f0ba7fa0b9ba5b",
+      "bytes": 16336,
+      "contentType": "text/html"
+    },
+    "mercado-2018-salarios.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2018/jrubikf5cec23e0e23331094b7102aac979cb3d0c708f37.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:58a5a31664e0c4b90bbcedd9ca2ea59fde03ad13c2ecd9aefe3f6194aed6eb49",
+      "bytes": 26623,
+      "contentType": "text/html"
+    },
+    "mercado-2019-pensiones.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2019/jrubik61ab5584fe00e3cfc99b66563b24061446b0fa87.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:af86004d0c8e0e1cb07914f2f0bbb5e7e346a2a86f2a50c7017cfbc540dc9e8a",
+      "bytes": 29502,
+      "contentType": "text/html"
+    },
+    "mercado-2019-salarios-mujer.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2019/jrubik78d04ffb2f88a64abc103b5a3d001fa054d9be8b.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:e1f4d8d51504b7987fcc4394d76419f21c443b5161742a000805ff42d483d740",
+      "bytes": 16548,
+      "contentType": "text/html"
+    },
+    "mercado-2019-salarios-varon.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2019/jrubikf737b4fa6a66227147aa8e55591b7f2dbf64e69da.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:43c19030ef965c3e05c29761eabb04fe0bf7b936e68f5e4d97e4195fbb91425d",
+      "bytes": 16559,
+      "contentType": "text/html"
+    },
+    "mercado-2019-salarios.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2019/jrubikf2f65ea9d8fa77376f6066dcac14890a431cc068b.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:f0f4c0c69c4989e92a83e27b6ae6f0bd4fc1ba8235ccf479c967e031abc874e8",
+      "bytes": 26846,
+      "contentType": "text/html"
+    },
+    "mercado-2020-pensiones.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2020/jrubik26a9d596c220e023e57abe3ae3442221953d78bf.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:577eee1f21b813650cdd250d9682d5e86a6660610c0da66adfbf768d750b1f03",
+      "bytes": 29462,
+      "contentType": "text/html"
+    },
+    "mercado-2020-salarios-mujer.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2020/jrubik338cc9f7624d479652d3682fa336f330d3d18e26.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:51f433f7896485824afe004bd6ff3b3c5c34245a8371e20859ec45babde60d4f",
+      "bytes": 17153,
+      "contentType": "text/html"
+    },
+    "mercado-2020-salarios-varon.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2020/jrubikf1f0c9d7419fd60e683b873f5a833c23314e0d93b.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:711b232b8635ad410875bb808b3a3f283ec18c843e51aeb96c57c92d183c8d0d",
+      "bytes": 17169,
+      "contentType": "text/html"
+    },
+    "mercado-2020-salarios.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2020/jrubik7ff99e7a27261249b3e1490f13cb16f25ff03f14.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:52f7fe7f03bea71c9316f715e0e7629c96968895083d6bd95e0de84e0224e3dc",
+      "bytes": 30033,
+      "contentType": "text/html"
+    },
+    "mercado-2021-pensiones.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2021/jrubik2105fe79491ec432a9fe8101265e0e5250169895.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:c1fd82497ed156534d66586c07403562cfbbfc9ce105a04631356c882c00a20a",
+      "bytes": 29449,
+      "contentType": "text/html"
+    },
+    "mercado-2021-salarios-mujer.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2021/jrubikf22289d080d315bdf3b35aca9569026e48c599b34.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:134c1b07af7ade600a74a88b658dfb91235e5c2cb020e7cbcb954a5eaa95235e",
+      "bytes": 17144,
+      "contentType": "text/html"
+    },
+    "mercado-2021-salarios-varon.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2021/jrubik69d5958649e121d7316d8ff139ab168280028245.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:833e88fd4763863b7386bd3f30e73e7a26c8b1a97798bcc5318773adea80efda",
+      "bytes": 17156,
+      "contentType": "text/html"
+    },
+    "mercado-2021-salarios.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2021/jrubikf76d03a450bd64d720a789ceac33658b789f7b553.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:277aaf69eb68a481b18ffb6ac70710edab83df3c77eb72c797281b23280ea9d3",
+      "bytes": 30004,
+      "contentType": "text/html"
+    },
+    "mercado-2022-pensiones.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2022/jrubikf2ee1cf9262df60c2c858c044e002b53bfea62626.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:289306b6400d52bf4200200c5207e681af7bc4eae02bb144a564b140c5a4f67b",
+      "bytes": 29534,
+      "contentType": "text/html"
+    },
+    "mercado-2022-salarios-mujer.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2022/jrubikf4cd81427513554b9748c9d3d53e76edf271b55f5.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:66e8417b5ad8f8a005f538c38c19d8dcef7397ed5acf2a583c30d9f8d86dfca3",
+      "bytes": 16599,
+      "contentType": "text/html"
+    },
+    "mercado-2022-salarios-varon.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2022/jrubik3f41eff1f8914be9970a4b6cca56f70a079a9c07.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:f80e2546734f74e1fa120be682c1ac96b02f6437f210db360c054db9f869e7ac",
+      "bytes": 16605,
+      "contentType": "text/html"
+    },
+    "mercado-2022-salarios.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2022/jrubikf32b3712b68c19eb3228fe177d22ad4697a21095a.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:444b8419d3ce5f575baaed5af8e68a08cd6db199d40a77a4c69b92a531b3d42e",
+      "bytes": 25357,
+      "contentType": "text/html"
+    },
+    "mercado-2023-pensiones.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2023/jrubik7227d1be3f324221d535714818f1e44dabfc3067.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:3f522758412cc73dd6e3230086361caab0b9ba722c29f1fb993679c108e80cf2",
+      "bytes": 29388,
+      "contentType": "text/html"
+    },
+    "mercado-2023-salarios-mujer.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2023/jrubik6098530950b74f1a71510921d8b025253ff85632.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:744602031cce2622ad5cfb457b83d659e08d5c2651ad7f09d120186b28f36fd5",
+      "bytes": 16401,
+      "contentType": "text/html"
+    },
+    "mercado-2023-salarios-varon.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2023/jrubik142603cb335ca6e9214951df76048cc6c2186aab.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:f36846f4c99c834f5169b0d2faa8e1ea4176c6c9e59305079e05a24813e6ad23",
+      "bytes": 16417,
+      "contentType": "text/html"
+    },
+    "mercado-2023-salarios.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2023/jrubik5d979be386555603545655b50c44fe781cf0c305.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:be7d84fd8e528bda4d6592543340884a6a26a074befbc6bce8943fe3acd48bc1",
+      "bytes": 25146,
+      "contentType": "text/html"
+    },
+    "mercado-2024-pensiones.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2024/jrubikf1ba9a07ea25c32dff901e9bb67ffe15bf32f0a00.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:c928bbd7a95f36b866db7c148a9abc225f4bdf0f6a73d0bdf6f4a352a2688653",
+      "bytes": 29364,
+      "contentType": "text/html"
+    },
+    "mercado-2024-salarios-mujer.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2024/jrubik25d0eeff891056e24bdd1b5529bcaee2dc4ea16d.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:86caa631e405eb2515ccbff72fc41ac3aa8f6ac50522ed30b1ecaa2351f85b7f",
+      "bytes": 16416,
+      "contentType": "text/html"
+    },
+    "mercado-2024-salarios-varon.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2024/jrubikf3ed56b4c7295339266f39fc0a67948510d7dce82.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:845559ddd009fbb665561264a01d8d7e44b5670225548383aa5738774f4fd78b",
+      "bytes": 16418,
+      "contentType": "text/html"
+    },
+    "mercado-2024-salarios.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/mercado/2024/jrubikfd3ba377d194f23eb16b78f119e126b7f66239a7.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:1683b9827bc3fc67124d66d1cec5f6f9d958ad1f96abfabb03d2bb97d5e91f40",
+      "bytes": 25160,
+      "contentType": "text/html"
+    },
+    "patrimonio-2016-base.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/patrimonio/2016/jrubik288ee0af09601ff512a8317afeacce2370002dd7.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:c841fcf1e51e2d4d0d242adb15378ff6c8aeaac1f5f0dbe301884fb419a8771b",
+      "bytes": 17567,
+      "contentType": "text/html"
+    },
+    "patrimonio-2017-base.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/patrimonio/2017/jrubik5bd7f643b2d4a3c35a6b31857e0836281cef7a61.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:1f672a23503eeeb9aea7dc054d72c6c4be576ad1d79e26d5cb6572b6677ddf24",
+      "bytes": 17073,
+      "contentType": "text/html"
+    },
+    "patrimonio-2018-base.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/patrimonio/2018/jrubikf884ace10b3fe49a650bb2bb0f49845a086aaf37.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:bd91a1441d4dd5141441a7d0dd33f2c4802244c683bb171fa7aee58092f05b19",
+      "bytes": 17363,
+      "contentType": "text/html"
+    },
+    "patrimonio-2019-base.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/patrimonio/2019/jrubikf64aa255f760af7b5096e4daa4e90b94a1e865fa3.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:754f0ee60ae4f0beb67274d9ad0df313678b4bb91af7e5eb9a31abe81e2c5280",
+      "bytes": 17210,
+      "contentType": "text/html"
+    },
+    "patrimonio-2020-base.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/patrimonio/2020/jrubik28c9ab16da7d39704086ec4fbb1a24ca18be320a.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:98f7acb72e479ce93b4dff88db746d7a81c2998bbcc18328de3f84e1d86e899d",
+      "bytes": 17196,
+      "contentType": "text/html"
+    },
+    "patrimonio-2021-base.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/patrimonio/2021/jrubikf74671c854a1584446da0661ce92e01a8a1a967f3.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:397b44b686cbe5a39d982bc851afcb285ed6a81edbbcac521a0c5fe26cd0df85",
+      "bytes": 17344,
+      "contentType": "text/html"
+    },
+    "patrimonio-2022-base.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/patrimonio/2022/jrubikf55bac0e6f4090e7805335ab50fcf754a65fa3cd8.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:0c72517f217d73b8825d4dc2431ef760c2838b74e0016e2f589361b8e687e136",
+      "bytes": 17285,
+      "contentType": "text/html"
+    },
+    "patrimonio-2023-base.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/patrimonio/2023/jrubikbb91d2aa926da96580d8e7e1647e859e82b0836.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:1d846976750116ae8144e49876ec0e4fe5c72d2a3e8a4d42c1635a06888520c1",
+      "bytes": 17299,
+      "contentType": "text/html"
+    },
+    "patrimonio-2024-base.html": {
+      "url": "https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/patrimonio/2024/jrubikf421ad66278afd9a537086cc292e28bf7b55ee682.html",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:6e795853f056b1ee5709b1bd1ae153ec63943a6fccd4aea67cf1a801adf3d739",
+      "bytes": 17597,
+      "contentType": "text/html"
+    }
+  }
+}

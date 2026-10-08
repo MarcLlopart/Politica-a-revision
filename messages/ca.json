@@ -1,0 +1,574 @@
+{
+  "meta": {
+    "title": "Espanya en dades oficials",
+    "description": "Com ha canviat Espanya des del 2018 segons les dades oficials, i les propostes dels partits traduïdes a números. Cada xifra enllaça amb la seva font."
+  },
+  "nav": {
+    "spain": "Espanya",
+    "parties": "Partits",
+    "compare": "Comparar",
+    "about": "Sobre el projecte",
+    "methodology": "Metodologia",
+    "sources": "Fonts",
+    "corrections": "Correccions",
+    "main": "Principal",
+    "skipToContent": "Salta al contingut",
+    "language": "Idioma",
+    "themeToggle": "Canvia entre el tema clar i el fosc"
+  },
+  "footer": {
+    "code": "Codi i dades a GitHub",
+    "neutrality": "Projecte independent. Sense finançament, publicitat ni suport de cap partit polític.",
+    "licence": "Codi: llicència MIT. Dades derivades: CC BY 4.0. Les dades d'origen pertanyen als seus editors (INE, Eurostat, Banco de España, AEAT, Seguretat Social, ministeris) i es reutilitzen segons les seves condicions.",
+    "build": "Versió {commit}"
+  },
+  "home": {
+    "title": "Espanya d'un cop d'ull",
+    "intro": "Dades oficials des del {startYear} fins a l'última dada disponible. Toca un tema per veure'n el detall, les fonts i les descàrregues.",
+    "outlook": {
+      "pensions": "Projecció oficial (UE): {from} cotitzants per pensionista el {fromYear} → {to} el {toYear}.",
+      "demographics": "Projecció oficial (INE): {from} de la població amb 65 anys o més el {fromYear} → {to} el {toYear}."
+    }
+  },
+  "topics": {
+    "economy": "Economia",
+    "public-finances": "Finances públiques i impostos",
+    "housing": "Habitatge",
+    "pensions": "Pensions",
+    "labour": "Treball",
+    "demographics": "Demografia",
+    "births-deaths": "Naixements i defuncions",
+    "immigration": "Immigració",
+    "emigration": "Emigració",
+    "income": "Renda i patrimoni",
+    "public-spending": "Despesa pública",
+    "safety": "Seguretat",
+    "cost-of-living": "Cost de la vida"
+  },
+  "topicPage": {
+    "back": "Tots els temes",
+    "intro": "Cada targeta mostra l'última dada i la sèrie des del 2018. Obre una targeta per veure el gràfic complet, la taula de dades, la font i la descàrrega en CSV."
+  },
+  "cards": {
+    "unemployment-by-sex": "Taxa d'atur per sexe",
+    "revenue-by-tax": "Recaptació dels principals impostos",
+    "births-deaths-monthly": "Naixements i defuncions per mes (estimació de l'INE)",
+    "immigration": "Immigració procedent de l'estranger",
+    "net-migration": "Saldo migratori amb l'estranger",
+    "emigration": "Emigració a l'estranger",
+    "emigration-by-nationality": "Emigració a l'estranger per nacionalitat",
+    "irpf-percentiles": "Declaracions de l'IRPF: mediana, P90 i P99",
+    "wage-earners-percentiles": "Salaris anuals (dades tributàries): mediana, P90 i P99",
+    "wage-percentiles-ine": "Guany dels assalariats (INE): P10, mediana, mitjana i P90",
+    "household-income-percentiles": "Renda de la llar per persona: mediana, P90 i P99",
+    "household-wealth-percentiles": "Riquesa neta de les llars: mediana, mitjana i P90",
+    "spending-vs-revenue": "Despesa i ingressos públics",
+    "spending-per-person": "Despesa per persona (euros constants)",
+    "occupation-skill-shares": "Pes de l'ocupació per tipus d'ocupació",
+    "overqualification": "Sobrequalificació dels titulats",
+    "involuntary-part-time": "Treballadors a temps parcial que volen jornada completa",
+    "wages-by-sex": "Salari anual medià per sexe (INE)",
+    "wage-real": "Salari anual medià: euros corrents i constants",
+    "epa-monthly-wages": "Salari mensual de la feina principal (EPA): P10, mediana, P90",
+    "wages-by-age": "Salari anual mitjà per edat (INE)",
+    "gdp-growth-forecasts": "Creixement del PIB real: observat i previsions",
+    "deficit-forecasts": "Saldo públic: observat i previsions",
+    "debt-forecasts": "Deute públic: observat i previsions",
+    "spending-forecasts": "Despesa pública: observada i previsions",
+    "revenue-forecasts": "Ingressos públics: observats i previsions",
+    "pension-projections": "Despesa en pensions: projeccions a llarg termini",
+    "health-projections": "Despesa en sanitat: projeccions a llarg termini",
+    "education-projections": "Despesa en educació: projeccions a llarg termini",
+    "ltc-projections": "Despesa en dependència (cures de llarga durada): projeccions",
+    "defence-cofog-nato": "Despesa en defensa: definicions COFOG i OTAN",
+    "births-deaths-projection": "Naixements i defuncions: observats i projecció de l'INE",
+    "births-by-mother-origin": "Naixements segons l'origen de la mare (% del total)",
+    "births-by-mother-nationality": "Naixements segons la nacionalitat de la mare",
+    "gender-pay-gap-by-working-time": "Bretxa salarial sense ajustar, per hora (no compara la mateixa feina)",
+    "part-time-by-sex": "Persones ocupades a temps parcial (% del seu sexe)",
+    "crime-rate": "Infraccions penals conegudes per 1.000 habitants",
+    "robbery-burglary": "Robatoris amb violència i robatoris en habitatges per 100.000 habitants",
+    "prices-vs-incomes": "Preus davant salaris i rendes (2018 = 100)",
+    "energy-prices": "Preu de l'energia i els carburants (interanual)",
+    "ends-meet": "Persones en llars que arriben a final de mes…",
+    "housing-overburden": "Persones que dediquen més del 40 % de la renda a l'habitatge",
+    "price-change-by-group": "Quant han pujat els preus des del 2018, per tipus de despesa",
+    "price-change-items": "Quant han pujat els preus des del 2018: productes bàsics"
+  },
+  "indicator": {
+    "summary": "De {start} ({startPeriod}) a {end} ({endPeriod}).",
+    "summarySeries": "{series}: de {start} ({startPeriod}) a {end} ({endPeriod}).",
+    "singlePoint": "{end} ({endPeriod}). La sèrie comença amb aquesta dada.",
+    "expand": "Gràfic, dades i font",
+    "viewData": "Mostra les dades",
+    "period": "Període",
+    "provisional": "provisional",
+    "provisionalNote": "Els valors marcats amb p són provisionals o estimacions i es poden revisar.",
+    "axisNotZero": "L'eix vertical no comença a zero.",
+    "events": "Marques de context",
+    "eventSource": "font",
+    "chartLabel": "Gràfic de línies: {title}, de {start} a {end}",
+    "chartHint": "Fes servir les fletxes esquerra i dreta per llegir els valors.",
+    "legend": "Llegenda",
+    "fullHistory": "El CSV conté la sèrie completa des del {year}.",
+    "forecast": "previsió",
+    "forecastNote": "Els valors marcats amb f (línia discontínua) són previsions o projeccions publicades per la font, no observacions.",
+    "forecastLine": "{series}Previsió de la font: {value} ({period})."
+  },
+  "source": {
+    "label": "Font",
+    "retrieved": "descarregat el {date}",
+    "table": "taula",
+    "csv": "CSV",
+    "method": "mètode",
+    "raw": "fitxer original",
+    "reportError": "Informa d'un error",
+    "allFiles": "els {count} fitxers"
+  },
+  "units": {
+    "percent": "{value}",
+    "percent_change": "{value}",
+    "percent_gdp": "{value} del PIB",
+    "persons": "{value}",
+    "eur": "{value}",
+    "index": "{value}",
+    "ratio": "{value}",
+    "years": "{value} anys",
+    "children_per_woman": "{value}",
+    "dwellings": "{value}",
+    "pensions": "{value}",
+    "count": "{value}",
+    "per_1000": "{value} per 1.000 hab.",
+    "per_100k": "{value} per 100.000 hab."
+  },
+  "format": {
+    "quarter": "T{quarter} {year}"
+  },
+  "review": {
+    "status": "Estat del text: esborrany, pendent de revisió per una persona nativa."
+  },
+  "parties": {
+    "title": "Partits",
+    "seats": "{count, plural, one {# escó} other {# escons}}",
+    "choose": "Tria un partit",
+    "menu": "Partits",
+    "close": "Tanca",
+    "program": "Programa electoral",
+    "edition": "Eleccions generals del {date}",
+    "programPending": "El programa oficial encara no està arxivat aquí.",
+    "programArchived": "Arxivat el {date}",
+    "original": "original",
+    "wayback": "Wayback Machine",
+    "archivedCopy": "còpia arxivada",
+    "proposals": "Propostes",
+    "proposalsPending": "Encara no hi ha propostes publicades. Les propostes s'extreuen del programa oficial, les revisa una persona i es publiquen per a tots els partits alhora.",
+    "proposalCount": "{count, plural, one {# proposta} other {# propostes}}",
+    "proposalsNotYet": "Propostes encara no publicades",
+    "page": "Pàgina {page} del programa",
+    "ballotNames": "A la papereta com a",
+    "electionSource": "Resultats oficials"
+  },
+  "compare": {
+    "title": "Comparar",
+    "intro": "Tria un tema per veure les propostes de tots els partits una al costat de l'altra, en el mateix ordre i amb el mateix tractament.",
+    "topicIntro": "Els partits s'ordenen pels escons obtinguts a les últimes eleccions generals i, després, alfabèticament.",
+    "none": "Sense propostes publicades sobre aquest tema."
+  },
+  "about": {
+    "title": "Sobre el projecte",
+    "p1": "{name} mostra com ha canviat Espanya els últims anys amb estadístiques oficials i tradueix a números les propostes dels programes dels partits perquè tothom les pugui contrastar amb les dades.",
+    "p2": "Cada xifra, gràfic i valoració enllaça amb la seva font: l'editor, la taula, la data de descàrrega i el càlcul. Els fitxers descarregats es guarden al repositori públic.",
+    "funding": {
+      "title": "Finançament i independència",
+      "body": "Aquest projecte no rep finançament, publicitat ni suport de cap partit polític, ni els accepta."
+    },
+    "principles": {
+      "title": "Principis",
+      "sameRubric": "El mateix mètode s'aplica a tots els partits, en la mateixa tanda. El mètode es va escriure abans d'aplicar-lo a cap partit.",
+      "blind": "Les propostes es valoren sense el nom ni el logotip del partit; el partit s'afegeix després.",
+      "noCausal": "Les dades mostren què ha canviat, no qui ho ha causat. Les marques de context són només fets amb data.",
+      "traceable": "Qualsevol número es pot rastrejar fins al fitxer descarregat del qual prové.",
+      "corrections": "Les correccions es publiquen amb la data, què ha canviat i per què."
+    },
+    "readMethodology": "Llegeix la metodologia completa",
+    "open": {
+      "title": "Codi obert",
+      "licences": "El codi es publica amb llicència MIT i les dades derivades amb CC BY 4.0. Les dades d'origen es reutilitzen segons les condicions dels seus editors, citant-ne la font.",
+      "contact": "Per informar d'un error o proposar una millora, obre una incidència a"
+    },
+    "privacy": {
+      "title": "Privadesa",
+      "body": "Sense galetes de seguiment. Si es canvia el tema, l'elecció es guarda només en aquest navegador."
+    }
+  },
+  "methodology": {
+    "title": "Metodologia",
+    "intro": "Com s'obtenen i es processen les dades, com se seleccionen els partits i les propostes, i com es valoren les propostes.",
+    "contents": "Contingut",
+    "data": {
+      "title": "Dades",
+      "p1": "Les dades provenen d'editors oficials: INE, Eurostat, Banco de España, Agència Tributària (AEAT), Seguretat Social i ministeris. Quan l'editor ofereix una API, es fa servir; si no, es descarrega el fitxer publicat.",
+      "p2": "Cada fitxer descarregat es guarda sense canvis al repositori públic amb el seu hash SHA-256, la seva adreça i la data de descàrrega. Després, els valors s'extreuen amb codi que només llegeix aquests fitxers guardats, de manera que els mateixos fitxers donen sempre els mateixos números.",
+      "p3": "Les pàgines de cada tema mostren des del {year} fins a l'última dada disponible. El CSV de cada indicador conté la sèrie completa. Els valors es mostren tal com es publiquen; no s'hi afegeix desestacionalització ni altres models tret que l'indicador ho indiqui.",
+      "p4": "La frase de cada targeta compara l'última dada amb el mateix trimestre o mes del primer any mostrat, per comparar sèries estacionals de manera homogènia. La dada principal de cada tema és el primer indicador que l'encàrrec del projecte enumera per a aquest tema.",
+      "p5": "Un procés automàtic setmanal torna a descarregar les fonts i obre una sol·licitud de revisió amb els canvis. No es publica res sense que una persona ho aprovi.",
+      "eventsTitle": "Marques de context",
+      "events": "Els gràfics marquen alguns fets amb data. Són fets amb data i font, no explicacions de les dades.",
+      "p6": "Les previsions i projeccions són les que publiquen l'FMI, la Comissió Europea, l'AIReF i l'Informe d'Envelliment de la UE; no en fem cap de pròpia. Es dibuixen amb línia discontínua i es marquen amb f, cadascuna amb la seva data de publicació i la seva pròpia definició."
+    },
+    "indicators": {
+      "title": "Indicadors",
+      "intro": "Tots els indicadors publicats amb la seva font, el càlcul i la descàrrega. Els enllaços al fitxer original apunten als bytes exactes utilitzats.",
+      "indicator": "Indicador",
+      "source": "Font",
+      "method": "Càlcul",
+      "data": "Dades",
+      "notOnDashboard": "s'utilitza en càlculs, no apareix a les pàgines de tema"
+    },
+    "parties": {
+      "title": "Partits i propostes",
+      "coalitions": "Les coalicions apareixen amb el nom que figurava a la papereta i amb el programa presentat a aquelles eleccions. Els canvis posteriors en els grups parlamentaris no modifiquen la llista.",
+      "programs": "Cada programa s'arxiva al repositori amb el seu hash SHA-256, l'adreça original, la data de descàrrega i una còpia a Wayback Machine, perquè les cites continuïn sent comprovables si l'original desapareix.",
+      "extraction": "Les propostes se separen del programa amb l'ajuda d'un model de llenguatge, fora de línia. Una persona revisa cada proposta abans de publicar-la (esborrany → revisada → publicada). No es genera cap text en visitar una pàgina.",
+      "selection": "Unes 10–15 propostes per partit, donant preferència a les que el mateix partit destaca en resums o llistes de compromisos principals, perquè la selecció no sigui editorial."
+    },
+    "assessment": {
+      "title": "Mètode de valoració",
+      "rubricStatus": "Rúbrica versió {version}, estat: {status}.",
+      "status": {
+        "proposed": "proposada, encara no congelada; no s'ha fet cap valoració amb ella",
+        "frozen": "congelada i aplicada a tots els partits",
+        "superseded": "substituïda per una versió posterior"
+      },
+      "scope": "Les propostes amb un cost, un efecte recaptatori o un objectiu numèric reben una fitxa de valoració amb aquestes parts:",
+      "fields": {
+        "restatement": "Reformulació senzilla, només amb números.",
+        "baseline": "Punt de partida: el valor actual i la tendència recent, amb la seva font.",
+        "required": "Canvi necessari: per any, en termes absoluts i en percentatge, o el cost en euros i com a percentatge del PIB.",
+        "benchmark": "Referència històrica: el canvi comparable més gran a Espanya des del 2000 i, quan sigui útil, el rang de la UE-27.",
+        "funding": "Finançament identificat: sí, parcial, no o no aplicable, segons el que digui el programa i res més.",
+        "estimates": "Estimacions independents (AIReF, Banco de España, Fedea, OCDE, treballs acadèmics), o la indicació que no se n'han trobat.",
+        "calculation": "La fórmula i les dades d'entrada, guardades perquè el càlcul es pugui repetir des del repositori.",
+        "confidence": "Confiança: alta, mitjana o baixa, segons com de directament les dades mesurin el que persegueix la proposta."
+      },
+      "bandsTitle": "Bandes de resultat",
+      "bands": {
+        "consistent": "Coherent amb les dades recents: el canvi necessari no supera el canvi més gran observat a Espanya en un període comparable des del 2000.",
+        "ambitious": "Ambiciosa: supera el canvi més gran observat a Espanya, però no el més gran observat en algun país de la UE-27.",
+        "unprecedented": "Sense precedent observat: supera tots dos.",
+        "not_assessable": "No valorable: canvis normatius i declaracions d'intencions sense xifra. S'enumeren, però no es puntuen.",
+        "costNotCovered": "Cost sense cobrir: una proposta que costa més del {threshold} del PIB a l'any sense finançament identificat. Es mostra al costat de la banda, no en lloc seu."
+      },
+      "noScore": "No hi ha cap puntuació global per partit. Cada pàgina de partit mostra quantes propostes cauen en cada banda, per tema, i el cost anual de les propostes amb cost al costat del finançament que identifica el partit.",
+      "blind": "Les propostes es valoren sense el nom ni el logotip del partit; el partit s'afegeix després de la valoració."
+    },
+    "neutrality": {
+      "title": "Neutralitat",
+      "sameRubric": "Una sola rúbrica per a tots els partits. Qualsevol canvi crea una nova versió que es torna a aplicar a tots els partits alhora.",
+      "noCausal": "No s'afirma que cap govern hagi causat un canvi ni que en mereixi el mèrit.",
+      "language": "Només llenguatge neutral: bandes i afirmacions mesurables, sense adjectius sobre partits o propostes.",
+      "colours": "Els colors dels partits només apareixen al seu distintiu, mai en gràfics ni valoracions.",
+      "readings": "Les marques verdes i vermelles segueixen una regla fixa per indicador (vegeu Marques favorable i desfavorable) i mai no es refereixen a un partit ni a un govern.",
+      "headline": "Els partits s'ordenen pels escons a les últimes eleccions generals i, després, alfabèticament.",
+      "translations": "El castellà és l'idioma d'origen. Les traduccions de la metodologia i dels resultats passen pel mateix estat de revisió que el contingut.",
+      "corrections": "Totes les correccions es publiquen a la pàgina de correccions."
+    },
+    "distributions": {
+      "title": "Distribucions: mitjana, mediana, el més freqüent, P90, P99",
+      "p1": "La mitjana és el total dividit pel nombre de persones. La mediana (P50) és l'import que divideix el grup per la meitat. El més freqüent és el tram on es concentra més gent. P90 és l'import a partir del qual hi ha el 10 % de dalt; P99, l'1 %. Quan la mitjana queda molt per sobre de la mediana, una minoria amb imports alts l'eleva.",
+      "p2": "Quan una font publica percentils (INE, Eurostat, Banco de España), s'utilitzen tal com es publiquen. Quan només publica quantes persones hi ha a cada tram d'import (Agència Tributària, Seguretat Social), els percentils s'estimen (marcats amb ≈): dins d'un tram amb import total publicat, els imports segueixen una llei potencial ajustada perquè la mitjana del tram coincideixi amb la publicada; dins d'un tram sense imports, se suposa que les persones es reparteixen de manera uniforme; al tram superior obert s'ajusta una cua de Pareto a partir de la seva mitjana. Si no és possible, només s'indica «més de» el límit inferior del tram.",
+      "p3": "El més freqüent és el tram d'igual amplada amb més densitat quan els trams són estrets, el tram publicat amb més densitat quan són intermedis, i no es mostra quan els trams són massa amplis per saber-ho.",
+      "p4": "Les poblacions són diferents i no es poden comparar directament: declaracions (una de conjunta compta una vegada), persones, pensions o llars; imports bruts o nets; l'any, al mes o un patrimoni acumulat. Cada taula i targeta ho indica.",
+      "p5": "Quan una proposta s'adreça a un grup definit per un import (per exemple, «rendes de més de 100.000 €»), la seva fitxa de valoració indica el percentatge i el nombre de persones per sobre d'aquest import a la distribució corresponent, amb el mateix mètode."
+    },
+    "readings": {
+      "title": "Marques favorable i desfavorable",
+      "p1": "Algunes targetes marquen l'últim canvi com a favorable (marca verda), desfavorable (triangle vermell) o en línia (signe igual gris). Cada indicador té una regla fixa, llistada a sota. Les regles són les mateixes per a tots els períodes i tots els governs, i una marca no diu qui va causar un canvi.",
+      "p2": "Els preus i els ingressos es comparen amb l'Índex de Preus de Consum (IPC) en el mateix període: canvi real = (1 + canvi nominal) / (1 + canvi de l'IPC) − 1. Per als preus (habitatge, lloguers), pujar menys que l'IPC és favorable, perquè s'abaraten respecte a la resta de béns; per als ingressos (salaris, pensions), pujar més que l'IPC és favorable, perquè augmenta el poder de compra. Les taxes de creixement es comparen amb la taxa anual de l'IPC del mateix període.",
+      "p3": "Trimestres i anys fan servir la mitjana de l'índex mensual de l'INE; un any encara en curs fa servir els mesos publicats, davant dels mateixos mesos de l'any anterior, i ho indica. Una diferència inferior a {pp}, o al {pct} en termes reals, compta com a en línia.",
+      "p4": "El creixement real del PIB ja descompta la variació dels preus, de manera que no es compara amb l'IPC: un creixement positiu es marca com a favorable.",
+      "p5": "La resta d'indicadors es comparen amb el seu valor un any abans i amb el primer any mostrat. Els canvis inferiors a 0,1 p. p. (0,5 p. p. en percentatges del PIB, que són grans i es revisen sovint) o al 0,1 % compten com a sense canvi. El dèficit i el deute es comparen amb els valors de referència de la UE i també amb el seu propi canvi.",
+      "p6": "La inflació es compara amb l'objectiu del 2 % del BCE (a ±0,5 p. p. o menys és favorable); el dèficit i el deute, amb els valors de referència de la UE del 3 % i el 60 % del PIB.",
+      "p7": "La despesa per funcions, els ingressos, la demografia i la migració no es valoren: cap direcció és favorable per a tothom. Tampoc els delictes sexuals ni les estafes informàtiques coneguts per la policia, perquè els canvis en les denúncies i en el Codi Penal els mouen tant com la seva freqüència real, ni la bretxa salarial sense ajustar, que també canvia quan canvia qui treballa i en què (no només quan canvia el que es paga per la mateixa feina). Les seves targetes mostren només en quina direcció es van moure, amb una fletxa grisa.",
+      "p8": "A la portada, cada tema mostra el canvi del seu indicador principal i el recompte de totes les marques de la pàgina del tema, des del primer any mostrat (un indicador repetit amb una altra freqüència compta una vegada). La vora superior de la targeta es divideix en verd, gris i vermell en les mateixes proporcions.",
+      "rule": "Regla",
+      "indicators": "Indicadors",
+      "rules": {
+        "vsCpi-up": "Pujar més que l'IPC és favorable",
+        "vsCpi-down": "Pujar menys que l'IPC és favorable",
+        "sign-up": "Un creixement real positiu és favorable",
+        "change-up": "Un augment és favorable",
+        "change-down": "Una disminució és favorable",
+        "reference": "Comparat amb un valor de referència oficial"
+      }
+    }
+  },
+  "sourcesPage": {
+    "title": "Fonts",
+    "intro": "Totes les fonts utilitzades, amb el fitxer original guardat, el seu hash SHA-256 i l'adreça des de la qual es va descarregar.",
+    "dataset": "Conjunt de dades",
+    "retrieved": "Descàrrega",
+    "raw": "Fitxer original",
+    "licence": "Llicència",
+    "table": "Taula",
+    "series": "sèrie",
+    "downloadUrl": "adreça de descàrrega"
+  },
+  "corrections": {
+    "title": "Correccions",
+    "intro": "Totes les correccions de dades, propostes o valoracions publicades, amb la data, què ha canviat i per què.",
+    "history": "Historial complet de canvis",
+    "none": "Encara no hi ha correccions.",
+    "what": "Què ha canviat",
+    "why": "Per què",
+    "scope": {
+      "indicator": "Indicador",
+      "proposal": "Proposta",
+      "assessment": "Valoració",
+      "party": "Partit",
+      "site": "Lloc web",
+      "methodology": "Metodologia"
+    }
+  },
+  "notFound": {
+    "title": "No s'ha trobat la pàgina",
+    "body": "Aquesta pàgina no existeix o ha canviat d'adreça.",
+    "home": "Ves a la pàgina principal"
+  },
+  "distribution": {
+    "sectionTitle": "Distribució",
+    "subtitle": "{population} · {count} · {period} · {unit}",
+    "mean": "Mitjana",
+    "meanHint": "Total dividit pel nombre",
+    "median": "Mediana (P50)",
+    "medianHint": "La meitat és per sota",
+    "mode": "El més freqüent",
+    "modeHint": "{share} són en aquest tram",
+    "p90": "P90",
+    "p90Hint": "1 de cada 10 és per sobre",
+    "p99": "P99",
+    "p99Hint": "1 de cada 100 és per sobre",
+    "atLeast": "més de {value}",
+    "range": "{lower}–{upper}",
+    "upTo": "fins a {upper}",
+    "over": "més de {lower}",
+    "summary": "La meitat és per sota de {median}; 1 de cada 10, per sobre de {p90}.",
+    "chartTitle": "Percentatge en cada tram d'import",
+    "thresholdsTitle": "Percentatge per sobre d'alguns imports",
+    "amount": "Import",
+    "shareAbove": "Per sobre",
+    "countAbove": "Nombre per sobre",
+    "count": "Nombre",
+    "share": "Percentatge",
+    "checkerLabel": "Consulta qualsevol import ({unit})",
+    "checkerResult": "{share} és per sobre de {amount} (uns {count}).",
+    "checkerUnknown": "No hi ha prou detall per sobre de {lower} per estimar-ho.",
+    "methodNote": "≈ estimat a partir dels trams d'import publicats, suposant que els imports es reparteixen de manera uniforme dins de cada tram; en un tram superior obert s'utilitza una cua de Pareto quan se'n publica l'import total.",
+    "unit": {
+      "year": "euros l'any",
+      "month": "euros al mes",
+      "total": "euros"
+    },
+    "modeUnavailable": "Trams massa amplis per saber-ho"
+  },
+  "percentileTable": {
+    "title": "Qui és qui: mitjana, mediana, el més freqüent, P90 i P99",
+    "intro": "Quan un programa parla de «rendes altes» o «grans fortunes», aquestes xifres mostren on queda cada import. P90 és l'import a partir del qual hi ha el 10 % de dalt; P99, l'1 %.",
+    "population": "Població",
+    "columns": {
+      "mean": "Mitjana",
+      "median": "Mediana",
+      "mode": "El més freqüent",
+      "p90": "P90",
+      "p99": "P99"
+    },
+    "rows": {
+      "irpf": "Declaracions de l'IRPF (renda gravable)",
+      "wage-earners": "Assalariats (salari anual, dades tributàries)",
+      "employees-ine": "Assalariats (guany brut anual, INE)",
+      "household-income": "Persones, renda de la llar per persona (neta, equivalent)",
+      "pensioners": "Pensionistes (totes les seves pensions)",
+      "retirement-pensions": "Pensions de jubilació (per pensió)",
+      "household-wealth": "Llars (riquesa neta)",
+      "wealth-tax": "Declarants de l'Impost sobre el Patrimoni (patrimoni gravable)",
+      "wage-earners-men": "Homes assalariats (salari anual, dades tributàries)",
+      "wage-earners-women": "Dones assalariades (salari anual, dades tributàries)"
+    },
+    "notPublished": "La font no ho publica",
+    "noteUnits": "Les files no són directament comparables: unes són brutes i altres netes, unes per persona i altres per llar o per declaració, unes l'any i altres al mes.",
+    "noteEstimated": "≈ estimat a partir dels trams publicats; els valors sense ≈ els publica la font o es calculen de manera exacta.",
+    "noteMissing": "– la font no ho publica i els trams no permeten una estimació fiable."
+  },
+  "spending": {
+    "title": "On van cada 100 € ({year})",
+    "intro": "El conjunt de les administracions va gastar {total} i va recaptar {taxes} en impostos i cotitzacions socials.",
+    "per100Title": "De cada 100 € de despesa pública",
+    "financingTitle": "Com es van pagar cada 100 € de despesa",
+    "financingNote": "Altres ingressos inclou vendes de béns i serveis, rendes de la propietat i transferències. L'endeutament és el dèficit, que se suma al deute públic.",
+    "perTaxTitle": "Per cada 100 € recaptats en impostos i cotitzacions",
+    "perTaxNote": "Més de 100 € vol dir que la despesa va superar els impostos i cotitzacions; la resta va venir d'altres ingressos i d'endeutament.",
+    "taxes": "Impostos i cotitzacions socials",
+    "otherRevenue": "Altres ingressos públics",
+    "borrowing": "Endeutament (dèficit)",
+    "allSpending": "Tota la despesa",
+    "otherSocial": "Altra protecció social",
+    "otherGeneral": "Altres serveis públics generals",
+    "colFunction": "Funció",
+    "colAmount": "Import",
+    "colGdp": "% del PIB",
+    "colPerPerson": "Per persona",
+    "colPer100": "Per cada 100 € gastats",
+    "noteCofog": "Classificació funcional COFOG (Eurostat), totes les administracions. Vellesa és sobretot pensions i és dins de protecció social. Les operacions de deute públic són sobretot interessos.",
+    "noteDefence": "Defensa segueix aquí la classificació COFOG i és inferior a la xifra de l'OTAN per a Espanya, que també compta les pensions militars, les funcions militars de la Guàrdia Civil i despesa de defensa d'altres ministeris.",
+    "noteOtherSocial": "Altra protecció social inclou malaltia, discapacitat, supervivència, família, atur, ajuts a l'habitatge i exclusió social."
+  },
+  "jobs": {
+    "title": "Llocs de treball guanyats o perduts per ocupació ({start} a {end})",
+    "summary": "L'ocupació va variar en {total}: {high} ({highShare}) com a directius, professionals i tècnics; {medium} ({mediumShare}) en ocupacions de qualificació intermèdia; {elementary} ({elementaryShare}) en ocupacions elementals.",
+    "chartTitle": "Variació de les persones ocupades per ocupació (gran grup CNO-11)",
+    "occupation": "Ocupació",
+    "change": "Variació",
+    "noteSkill": "Els nivells de qualificació segueixen la CIUO-08: els grups 1–3 requereixen els nivells més alts (normalment educació superior), els 4–8 qualificació intermèdia i el 9 tasques elementals. L'ocupació és la del lloc de treball, no la titulació de la persona.",
+    "noteSeason": "Mateix trimestre en tots dos anys, per evitar diferències estacionals. Estimacions de l'EPA."
+  },
+  "barCard": {
+    "since": "des del {year}",
+    "cpiAll": "Índex general (referència)",
+    "changePeriod": "Canvi de {start} a {end}",
+    "changeNote": "Variació de l'índex de preus de cada grup o producte al mateix mes; no és la despesa de cada llar, que depèn del que compra. Grups ECOICOP ver. 2 de l'IPC de l'INE."
+  },
+  "pensionsExplainer": {
+    "title": "Com es financen les pensions",
+    "intro": "Les pensions públiques a Espanya són de repartiment: les cotitzacions que paguen avui treballadors i empreses financen les pensions d'avui, i l'Estat cobreix la diferència. No hi ha comptes individuals. Aquests panells fan servir les sèries oficials d'aquesta pàgina.",
+    "whoTitle": "Qui paga i qui cobra ({month})",
+    "whoText": "{affiliates} persones cotitzen (afiliats a la Seguretat Social) i es paguen {pensions} pensions contributives: {ratio} afiliats per pensió.",
+    "affiliates": "Afiliats a la Seguretat Social (mitjana mensual)",
+    "pensions": "Pensions contributives en vigor",
+    "typesTitle": "Quins tipus de pensió es paguen",
+    "typesText": "Les pensions de jubilació són el {share} de les contributives; la resta són de viduïtat, incapacitat permanent, orfandat i a favor de familiars.",
+    "balanceTitle": "Quan cobreixen les cotitzacions les pensions?",
+    "balanceText": "En un sistema de repartiment, les cotitzacions igualen les pensions quan el tipus de cotització és igual a la pensió mitjana en percentatge del salari mitjà, dividit pel nombre de cotitzants per pensió. Mou les dues palanques per veure el tipus que equilibraria el sistema.",
+    "calcTitle": "Calculadora d'equilibri",
+    "calcRatio": "Cotitzants per pensió",
+    "calcReplacement": "Pensió mitjana en % del salari mitjà",
+    "calcResult": "Tipus de cotització que equilibra",
+    "calcActual": "Tipus per contingències comunes, 2026",
+    "calcReset": "Tornar als valors actuals",
+    "calcFormula": "tipus = (pensió mitjana ÷ salari mitjà) ÷ (cotitzants ÷ pensions)",
+    "defaults": "Valors actuals: pensió contributiva mitjana de {pension} al mes × 14 ({pensionPeriod}); salari brut anual mitjà de l'INE de {wage} ({wagePeriod}).",
+    "simplification": "Identitat simplificada: no té en compte la base màxima de cotització, les bases més baixes dels autònoms, la part de les cotitzacions que paga baixes per malaltia i naixement ni les pensions no contributives. Mostra l'ordre de magnitud, no el dèficit real.",
+    "simulator": "Per estimar una pensió personal amb les regles legals, fes servir el simulador de la Seguretat Social:",
+    "simulatorLink": "Simulador de jubilació de la Seguretat Social (requereix identificació)",
+    "pensioners": "Pensionistes (persones)",
+    "ratesTitle": "Tipus de cotització el 2026 (règim general)",
+    "ratesConcept": "Cotització",
+    "ratesRate": "Tipus",
+    "ratesSplit": "Qui la paga i què finança",
+    "ratesSource": "Font:"
+  },
+  "estimates": {
+    "title": "Xifres d'informes i lleis",
+    "intro": "Algunes xifres només existeixen dins d'informes o lleis. Cadascuna indica qui la publica, on apareix i una còpia arxivada del document. Les estimacions independents són càlculs dels seus autors, no estadístiques oficials.",
+    "kind": {
+      "official": "Xifra oficial",
+      "independent": "Estimació independent",
+      "legal": "Fixat per llei"
+    },
+    "archived": "còpia arxivada",
+    "checked": "Transcripció comprovada per una segona persona",
+    "unchecked": "Transcrita del document; pendent d'una segona comprovació",
+    "groups": {
+      "pension-law-2026": "Quanties i límits fixats per llei (2026)",
+      "system-finances-2025": "Comptes de la Seguretat Social (2025)",
+      "pension-studies": "Estudis i comparacions internacionals"
+    }
+  },
+  "readings": {
+    "label": "Comparacions amb la inflació i amb valors de referència",
+    "tone": {
+      "favourable": "Favorable",
+      "unfavourable": "Desfavorable",
+      "neutral": "En línia o sense canvi"
+    },
+    "key": "Cada marca aplica una regla fixa: preus i ingressos davant l'IPC; la resta d'indicadors, davant l'any anterior o un valor de referència oficial. Les regles són les mateixes per a tots els períodes. Les fletxes grises indiquen canvis sense direcció favorable, com la despesa o la població.",
+    "rulesLink": "Vegeu les regles",
+    "pp": "{value} p. p.",
+    "rate": {
+      "above": "per sobre de la inflació: {value} davant l'IPC {cpi} ({period})",
+      "below": "per sota de la inflació: {value} davant l'IPC {cpi} ({period})",
+      "inLine": "en línia amb la inflació: {value} davant l'IPC {cpi} ({period})"
+    },
+    "level": "en termes reals, de {from} a {to}: {nominal} davant l'IPC {cpi}",
+    "cpiTo": "(IPC fins a {month})",
+    "sign": {
+      "up": "de creixement real ({period}); ja descompta la inflació",
+      "down": "de caiguda real ({period}); ja descompta la inflació"
+    },
+    "change": "respecte a {from}",
+    "ref": {
+      "ecb-inflation-target": {
+        "above": "per sobre de l'objectiu d'inflació del 2 % del BCE ({period})",
+        "below": "per sota de l'objectiu d'inflació del 2 % del BCE ({period})",
+        "near": "de l'objectiu d'inflació del 2 % del BCE, dins de ±0,5 p. p. ({period})"
+      },
+      "eu-deficit-limit": {
+        "above": "dins del límit de dèficit de la UE del 3 % del PIB ({period})",
+        "below": "per sobre del límit de dèficit de la UE del 3 % del PIB ({period})"
+      },
+      "eu-debt-reference": {
+        "above": "per sobre de la referència de deute de la UE del 60 % del PIB ({period})",
+        "below": "per sota de la referència de deute de la UE del 60 % del PIB ({period})"
+      }
+    },
+    "unrated": "Canvi sense valoració",
+    "tally": {
+      "label": "Marques en aquest tema:",
+      "favourable": "{count, plural, one {# favorable} other {# favorables}}",
+      "unfavourable": "{count, plural, one {# desfavorable} other {# desfavorables}}",
+      "neutral": "{count} en línia"
+    }
+  },
+  "pensionsOutlook": {
+    "title": "Qui paga i qui cobra? Avui i d'aquí a 4, 10 i 20 anys",
+    "intro": "Projeccions oficials si no canvien les lleis ni les tendències actuals: l'Informe d'Envelliment 2024 de la UE per a cotitzants, pensionistes, despesa i cotitzacions, i l'INE per a la població per edat. No són previsions pròpies. Mou el control per veure cada any.",
+    "today": "Dada observada ({period}, Seguretat Social): {affiliates} afiliats i {pensions} pensions contributives ({pensioners} pensionistes), és a dir, {ratio} afiliats per pensió.",
+    "slider": "Any",
+    "now": "{year} (avui)",
+    "ahead": "{year} (+{n})",
+    "whoTitle": "Cotitzants i pensionistes, {year}",
+    "ratio": "cotitzants per pensionista",
+    "whoAlt": "{year}: {pensioners} pensionistes i {contributors} cotitzants.",
+    "pensioners": "Pensionistes",
+    "contributors": "Cotitzants",
+    "moneyTitle": "Despesa en pensions i cotitzacions, {year}",
+    "spending": "Despesa en pensions públiques",
+    "contributions": "Cotitzacions a pensions",
+    "balance": "Saldo del sistema (cotitzacions − despesa): {value}.",
+    "pyramidTitle": "Població per edat i sexe, 1 de gener de {year}",
+    "projection": "projecció",
+    "baseYear": "any base",
+    "workingPerOlder": "persones de 16 a 66 anys per cada persona de 67 o més",
+    "pyramidAlt": "Piràmide de població a 1 de gener de {year}: {young} de 0 a 15 anys, {working} de 16 a 66 i {older} de 67 o més.",
+    "men": "Homes",
+    "women": "Dones",
+    "bands": {
+      "young": "0 a 15 anys",
+      "working": "16 a 66 anys",
+      "older": "67 anys o més"
+    },
+    "noteProjection": "Les projeccions suposen que no canvien les lleis vigents quan es van elaborar (l'Informe d'Envelliment 2024 inclou les reformes fins al 2023) i que continuen les tendències de fecunditat, mortalitat i migració. Són escenaris, no prediccions.",
+    "noteDefinitions": "L'Informe d'Envelliment compta persones cotitzants i pensionistes de tots els règims públics (incloses les Classes Passives), per això les seves xifres no coincideixen amb els afiliats i les pensions de la Seguretat Social.",
+    "noteAges": "67 anys és l'edat ordinària de jubilació a partir del 2027 i 16, l'edat mínima per treballar. No totes les persones de 16 a 66 anys treballen ni totes les de 67 o més cobren pensió."
+  },
+  "genderPayGap": {
+    "title": "Bretxa salarial entre dones i homes: a la mateixa feina?",
+    "intro": "Hi ha diverses maneres de mesurar-la i responen preguntes diferents. Cap estadística oficial compara dues persones al mateix lloc de la mateixa empresa; aquestes són les mesures oficials, de la més comparable a la menys.",
+    "summary": "Amb les mateixes característiques mesurades, les dones guanyen per hora un {adjusted} menys ({adjustedYear}). Al mateix grup d'ocupació i a jornada completa, entre el {min} i el {max} del que guanyen els homes ({groupYear}). Sense ajustar, la diferència mitjana és del {raw} ({rawYear}).",
+    "step1": "Mateixes característiques mesurades (el més semblant a «la mateixa feina»)",
+    "step1Text": "Eurostat compara dones i homes amb la mateixa ocupació, sector, mida i tipus d'empresa, contracte, jornada, experiència, estudis, edat i regió, i calcula quina part de la diferència no expliquen aquestes característiques. Aquesta part no prova per si sola discriminació, perquè inclou factors que l'enquesta no mesura (el lloc exacte, l'empresa concreta, horaris, negociació), però tampoc no la descarta. A Espanya és més gran que la diferència sense ajustar.",
+    "step2": "Mateix grup d'ocupació i jornada completa, per hora ({year})",
+    "step2Text": "Salari per hora de les dones a jornada completa en % del dels homes a jornada completa del mateix gran grup d'ocupació (100 = igual). Treu l'efecte de la jornada parcial i compara ocupacions semblants, tot i que cada grup inclou llocs diferents.",
+    "step3": "Sense ajustar: totes les dones davant de tots els homes",
+    "step3Text": "És l'indicador oficial de la UE. No compara la mateixa feina: mesura la diferència mitjana, que inclou també que més dones treballen a temps parcial o en ocupacions i sectors pitjor pagats. Respon a una altra pregunta (quant guanyen de mitjana unes i altres), no a si es paga diferent per la mateixa feina. Per això no porta marca verda o vermella."
+  }
+}

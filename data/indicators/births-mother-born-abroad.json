@@ -1,0 +1,122 @@
+{
+  "id": "births-mother-born-abroad",
+  "topic": "births-deaths",
+  "unit": "persons",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Madre nacida en el extranjero",
+    "en": "Mother born abroad",
+    "ca": "Mare nascuda a l'estranger"
+  },
+  "note": {
+    "es": "En España no se registra el origen étnico ni la nacionalidad del recién nacido. El INE registra la nacionalidad y el país de nacimiento de los progenitores; aquí, los de la madre. Una madre nacida en el extranjero puede tener nacionalidad española.",
+    "en": "Spain does not record ethnic origin or the newborn's nationality. INE records the parents' nationality and country of birth; shown here, the mother's. A mother born abroad may hold Spanish nationality.",
+    "ca": "A Espanya no es registra l'origen ètnic ni la nacionalitat del nadó. L'INE registra la nacionalitat i el país de naixement dels progenitors; aquí, els de la mare. Una mare nascuda a l'estranger pot tenir nacionalitat espanyola."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Births to a mother born abroad, national total, INE Vital Statistics (Movimiento Natural de la Población, table 58930), final data.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2009",
+      "value": 117090,
+      "sourceId": "ine-mnp80476096",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 115703,
+      "sourceId": "ine-mnp80476096",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 108165,
+      "sourceId": "ine-mnp80476096",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 104224,
+      "sourceId": "ine-mnp80476096",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 96199,
+      "sourceId": "ine-mnp80476096",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 96462,
+      "sourceId": "ine-mnp80476096",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 96118,
+      "sourceId": "ine-mnp80476096",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 97404,
+      "sourceId": "ine-mnp80476096",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 97114,
+      "sourceId": "ine-mnp80476096",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 97944,
+      "sourceId": "ine-mnp80476096",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 100801,
+      "sourceId": "ine-mnp80476096",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 96498,
+      "sourceId": "ine-mnp80476096",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 92864,
+      "sourceId": "ine-mnp80476096",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 97179,
+      "sourceId": "ine-mnp80476096",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 100438,
+      "sourceId": "ine-mnp80476096",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 105814,
+      "sourceId": "ine-mnp80476096",
+      "status": "final"
+    }
+  ]
+}

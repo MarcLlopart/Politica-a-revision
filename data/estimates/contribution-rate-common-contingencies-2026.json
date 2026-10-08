@@ -1,0 +1,29 @@
+{
+  "id": "contribution-rate-common-contingencies-2026",
+  "topic": "pensions",
+  "kind": "legal",
+  "label": {
+    "es": "Cotización por contingencias comunes",
+    "en": "Contribution rate for common contingencies",
+    "ca": "Cotització per contingències comunes"
+  },
+  "value": 28.3,
+  "unit": "percent",
+  "period": "2026",
+  "definition": {
+    "es": "23,60 % a cargo de la empresa y 4,70 % del trabajador, sobre la base de cotización. Financia pensiones, bajas por enfermedad común y prestaciones por nacimiento.",
+    "en": "23.60% paid by the employer and 4.70% by the worker, on the contribution base. It funds pensions, sick leave for common illness and birth benefits.",
+    "ca": "23,60 % a càrrec de l'empresa i 4,70 % del treballador, sobre la base de cotització. Finança pensions, baixes per malaltia comuna i prestacions per naixement."
+  },
+  "publisher": "BOE",
+  "document": {
+    "title": "Orden PJC/297/2026 (BOE-A-2026-7296), bases y tipos de cotización 2026",
+    "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-7296",
+    "location": "Art. 4.a",
+    "localPath": "sources/documents/boe/boe-a-2026-7296.xml",
+    "fileHash": "sha256:ec4de765d771b2e9d6aaf87e9a77d7511dd33d3d8a08130f39d8172c219997cd",
+    "retrievedAt": "2026-10-08"
+  },
+  "transcribedBy": "Research agent (Claude), checked against the downloaded document",
+  "checkedBy": []
+}

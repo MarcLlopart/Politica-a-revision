@@ -1,0 +1,11 @@
+{"Id":47377, "COD":"CRE47377", "Operacion":{"Id":257, "Cod_IOE":"30025", "Nombre":"Contabilidad Regional de España", "Codigo":"CRE", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736167628&idp=1254735576581"}
+, "Nombre":"Total Nacional. Dato base. Producto interior bruto a precios de mercado per capita. Precios corrientes. ", "Decimales":2, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":403, "Nombre":"Contabilidad Regional de España", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":257, "Cod_IOE":"30025", "Nombre":"Contabilidad Regional de España", "Codigo":"CRE", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736167628&idp=1254735576581"}
+]
+, "PubFechaAct":{"Id":12312, "Nombre":"Contabilidad Regional de España. Avance PIB. Serie 2000-2025", "Fecha":1790758800000, "FK_Periodo":28, "Anyo":2025}
+}
+, "Clasificacion":{"Id":127, "Nombre":"Contabilidad Regional. Base 2021", "Fecha":1609455600000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":7, "Nombre":"Euros", "Codigo":null, "Abrev":"€"}
+}

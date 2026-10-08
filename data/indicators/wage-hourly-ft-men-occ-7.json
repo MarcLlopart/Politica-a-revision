@@ -1,0 +1,33 @@
+{
+  "id": "wage-hourly-ft-men-occ-7",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 2,
+  "label": {
+    "es": "Artesanos y trabajadores cualificados de industria y construcción: hombres",
+    "en": "Craft and related trades workers: men",
+    "ca": "Artesans i treballadors qualificats de la indústria i la construcció: homes"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Hourly pay of men working full time, CNO-11 major group 7, INE Structure of Earnings Survey (table 36891).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 10.61,
+      "sourceId": "ine-eaes88300",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 11.44,
+      "sourceId": "ine-eaes88300",
+      "status": "provisional"
+    }
+  ]
+}

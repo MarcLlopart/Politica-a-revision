@@ -1,0 +1,177 @@
+{
+  "id": "gdp-deflator",
+  "topic": "public-spending",
+  "unit": "index",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Deflactor del PIB (2015 = 100)",
+    "en": "GDP deflator (2015 = 100)",
+    "ca": "Deflactor del PIB (2015 = 100)"
+  },
+  "yZero": false,
+  "periodRef": "period",
+  "calculation": {
+    "method": "GDP price index (implicit deflator), 2015 = 100, Eurostat nama_10_gdp (B1GQ, PD15_EUR).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 73.467,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 76.525,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 79.657,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 82.846,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 86.087,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 89.713,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 93.367,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 96.692,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 99.063,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 99.292,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 99.583,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 99.438,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 99.236,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 99.671,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 99.451,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 100,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 100.372,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 101.635,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 102.842,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 104.311,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 105.494,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 108.19,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 113.268,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 120.342,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 124.016,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "provisional"
+    },
+    {
+      "period": "2025",
+      "value": 127.796,
+      "sourceId": "eurostat-nama-10-gdp-deflator-es",
+      "status": "provisional"
+    }
+  ]
+}

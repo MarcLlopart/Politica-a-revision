@@ -1,0 +1,66 @@
+{
+  "id": "median-wage-2018",
+  "topic": "cost-of-living",
+  "unit": "index",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Salario mediano",
+    "en": "Median wage",
+    "ca": "Salari mitjà (mediana)"
+  },
+  "yZero": false,
+  "periodRef": "period",
+  "calculation": {
+    "method": "INE median gross annual earnings rebased to 2018 = 100 (value ÷ value in 2018 × 100), from the indicator \"wage-p50\".",
+    "formula": "value ÷ value(2018) × 100",
+    "inputs": [
+      "wage-p50"
+    ],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 100,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 101.3576,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 104.192,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 107.7708,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 111.4783,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 116.2889,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 122.0073,
+      "sourceId": "ine-eaes738",
+      "status": "final"
+    }
+  ]
+}

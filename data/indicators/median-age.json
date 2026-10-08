@@ -1,0 +1,177 @@
+{
+  "id": "median-age",
+  "topic": "demographics",
+  "unit": "years",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Edad mediana",
+    "en": "Median age",
+    "ca": "Edat mediana"
+  },
+  "yZero": false,
+  "periodRef": "start",
+  "calculation": {
+    "method": "Median age of the population on 1 January, as published by INE (Indicadores Demográficos Básicos).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 37.17,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 37.57,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 37.93,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 38.13,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 38.33,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 38.56,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 38.78,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 39.01,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 39.17,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 39.45,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 39.86,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 40.31,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 40.77,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 41.26,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 41.8,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 42.29,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 42.74,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 43.17,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 43.55,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 43.9,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 44.23,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 44.63,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 45.08,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 45.3,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 45.57,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 45.83,
+      "sourceId": "ine-idb85061",
+      "status": "final"
+    }
+  ]
+}

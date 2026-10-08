@@ -1,0 +1,182 @@
+{
+  "id": "gdp-per-capita",
+  "topic": "economy",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "PIB por habitante",
+    "en": "GDP per person",
+    "ca": "PIB per habitant"
+  },
+  "note": {
+    "es": "Euros corrientes (sin descontar la inflación).",
+    "en": "Current euros (not adjusted for inflation).",
+    "ca": "Euros corrents (sense descomptar la inflació)."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "GDP at current prices divided by population, as published by INE.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 15968,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 17195,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 18099,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 19023,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 20067,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 21257,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 22655,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 23820,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 24192,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 23141,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 23133,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 22866,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 22160,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 22019,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 22375,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 23437,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 24188,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 25156,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 25950,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 26625,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 23851,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 26094,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 28792,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 30945,
+      "sourceId": "ine-cre47377",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 32708,
+      "sourceId": "ine-cre47377",
+      "status": "provisional"
+    },
+    {
+      "period": "2025",
+      "value": 34237,
+      "sourceId": "ine-cre47377",
+      "status": "provisional"
+    }
+  ]
+}

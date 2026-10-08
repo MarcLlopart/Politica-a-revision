@@ -1,0 +1,39 @@
+{
+  "id": "forecast-debt-ec",
+  "topic": "public-finances",
+  "unit": "percent_gdp",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Comisión Europea, primavera 2026",
+    "en": "European Commission, spring 2026",
+    "ca": "Comissió Europea, primavera 2026"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "General government consolidated gross debt (EDP), % of GDP, AMECO UDGG, European Commission Spring 2026 forecast.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2025",
+      "value": 100.6563,
+      "sourceId": "ameco-udgg-esp-spring-2026",
+      "status": "final"
+    },
+    {
+      "period": "2026",
+      "value": 99.6087,
+      "sourceId": "ameco-udgg-esp-spring-2026",
+      "status": "forecast"
+    },
+    {
+      "period": "2027",
+      "value": 98.8985,
+      "sourceId": "ameco-udgg-esp-spring-2026",
+      "status": "forecast"
+    }
+  ]
+}

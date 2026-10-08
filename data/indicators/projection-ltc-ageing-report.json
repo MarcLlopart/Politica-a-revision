@@ -1,0 +1,320 @@
+{
+  "id": "projection-ltc-ageing-report",
+  "topic": "public-spending",
+  "unit": "percent_gdp",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Informe de Envejecimiento 2024 (UE)",
+    "en": "EU Ageing Report 2024",
+    "ca": "Informe d'Envelliment 2024 (UE)"
+  },
+  "note": {
+    "es": "Proyección oficial publicada por la fuente, no una observación. Cada fuente usa su propia definición, por eso las líneas no coinciden en el año base.",
+    "en": "Official projection published by the source, not an observation. Each source uses its own definition, so the lines differ in the base year.",
+    "ca": "Projecció oficial publicada per la font, no una observació. Cada font fa servir la seva definició, per això les línies no coincideixen a l'any base."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Projected public spending on long-term care, % of GDP, 2024 Ageing Report baseline scenario (European Commission and Economic Policy Committee).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2022",
+      "value": 0.8125,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 0.8133,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2024",
+      "value": 0.8088,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2025",
+      "value": 0.8087,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2026",
+      "value": 0.8114,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2027",
+      "value": 0.8273,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2028",
+      "value": 0.8357,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2029",
+      "value": 0.8451,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2030",
+      "value": 0.8578,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2031",
+      "value": 0.8724,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2032",
+      "value": 0.8871,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2033",
+      "value": 0.9056,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2034",
+      "value": 0.925,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2035",
+      "value": 0.9442,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2036",
+      "value": 0.9623,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2037",
+      "value": 0.9816,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2038",
+      "value": 1.0035,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2039",
+      "value": 1.0265,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2040",
+      "value": 1.0492,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2041",
+      "value": 1.0732,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2042",
+      "value": 1.0995,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2043",
+      "value": 1.128,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2044",
+      "value": 1.1578,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2045",
+      "value": 1.1885,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2046",
+      "value": 1.2194,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2047",
+      "value": 1.2513,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2048",
+      "value": 1.2833,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2049",
+      "value": 1.3163,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2050",
+      "value": 1.349,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2051",
+      "value": 1.3807,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2052",
+      "value": 1.4113,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2053",
+      "value": 1.4421,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2054",
+      "value": 1.4714,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2055",
+      "value": 1.5,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2056",
+      "value": 1.5264,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2057",
+      "value": 1.5506,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2058",
+      "value": 1.5742,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2059",
+      "value": 1.5944,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2060",
+      "value": 1.6133,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2061",
+      "value": 1.6301,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2062",
+      "value": 1.6452,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2063",
+      "value": 1.6582,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2064",
+      "value": 1.6693,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2065",
+      "value": 1.6781,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2066",
+      "value": 1.6847,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2067",
+      "value": 1.6897,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2068",
+      "value": 1.6923,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2069",
+      "value": 1.6915,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    },
+    {
+      "period": "2070",
+      "value": 1.6899,
+      "sourceId": "ec-ageing-report-2024-statistical-annex",
+      "status": "forecast"
+    }
+  ]
+}

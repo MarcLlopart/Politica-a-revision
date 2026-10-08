@@ -1,0 +1,11 @@
+{"Id":396607, "COD":"EPA396607", "Operacion":{"Id":293, "Cod_IOE":"30308", "Nombre":"Encuesta de Población Activa (EPA)", "Codigo":"EPA", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176918&idp=1254735976595"}
+, "Nombre":"Ocupados. Total Nacional. Ambos sexos. Total. Total. Valor absoluto. ", "Decimales":1, "Periodicidad":{"Id":3, "Nombre":"Trimestral", "Codigo":"Q"}
+, "Publicacion":{"Id":330, "Nombre":"Encuesta de Población Activa", "Periodicidad":{"Id":3, "Nombre":"Trimestral", "Codigo":"Q"}
+, "Operacion":[{"Id":293, "Cod_IOE":"30308", "Nombre":"Encuesta de Población Activa (EPA)", "Codigo":"EPA", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176918&idp=1254735976595"}
+]
+, "PubFechaAct":{"Id":12622, "Nombre":"Encuesta de Población Activa. Trimestre 2/2026", "Fecha":1785222000000, "FK_Periodo":20, "Anyo":2026}
+}
+, "Clasificacion":{"Id":88, "Nombre":"Base 2021 (EPA)", "Fecha":1609455600000}
+, "Escala":{"Id":4, "Nombre":"Miles", "Factor":"1E3", "Codigo":null, "Abrev":"Miles"}
+, "Unidad":{"Id":3, "Nombre":"Personas", "Codigo":null, "Abrev":null}
+}

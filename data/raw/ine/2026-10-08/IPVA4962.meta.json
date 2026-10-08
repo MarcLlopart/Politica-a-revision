@@ -1,0 +1,11 @@
+{"Id":4962, "COD":"IPVA4962", "Operacion":{"Id":432, "Cod_IOE":"", "Nombre":"Índice de Precios de Vivienda en Alquiler", "Codigo":"IPVA"}
+, "Nombre":"Total Nacional. Total. Índice. ", "Decimales":3, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":580, "Nombre":"Experimental: Índice de Precios de Vivienda en Alquiler", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Url":"https://www.ine.es/experimental/ipva/experimental_precios_vivienda_alquiler.htm", "Operacion":[{"Id":432, "Cod_IOE":"", "Nombre":"Índice de Precios de Vivienda en Alquiler", "Codigo":"IPVA"}
+]
+, "PubFechaAct":{"Id":13069, "Nombre":"Experimental: Índice de Precios de la Vivienda en Alquiler 2024", "Fecha":1778486400000, "FK_Periodo":28, "Anyo":2024, "Url":"https://www.ine.es/experimental/ipva/experimental_precios_vivienda_alquiler.htm"}
+}
+, "Clasificacion":{"Id":50, "Nombre":"Base 2015", "Fecha":1451602800000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":133, "Nombre":"Índice", "Codigo":null, "Abrev":null}
+}

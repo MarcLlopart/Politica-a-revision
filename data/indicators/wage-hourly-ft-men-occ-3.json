@@ -1,0 +1,33 @@
+{
+  "id": "wage-hourly-ft-men-occ-3",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 2,
+  "label": {
+    "es": "Técnicos y profesionales de apoyo: hombres",
+    "en": "Technicians and associate professionals: men",
+    "ca": "Tècnics i professionals de suport: homes"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Hourly pay of men working full time, CNO-11 major group 3, INE Structure of Earnings Survey (table 36891).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 14.81,
+      "sourceId": "ine-eaes88304",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 16.1,
+      "sourceId": "ine-eaes88304",
+      "status": "provisional"
+    }
+  ]
+}

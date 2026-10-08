@@ -1,0 +1,17 @@
+{"Id":17544, "COD":"MNP17544", "Operacion":{"Id":307, "Cod_IOE":"30304", "Nombre":"MNP Estadística de Nacimientos", "Codigo":"MNPN", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177007&idp=1254735573002"}
+, "Nombre":"Total Nacional. Nacimiento. Dato base. ", "Decimales":0, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":365, "Nombre":"Movimiento Natural de Población (Matrimonios, Nacimientos y Defunciones)", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":305, "Cod_IOE":"30302", "Nombre":"MNP Estadística de Matrimonios", "Codigo":"MNPM", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176999&idp=1254735573002"}
+,{"Id":306, "Cod_IOE":"30303", "Nombre":"MNP Estadística de Partos", "Codigo":"MNP_PAR"}
+,{"Id":307, "Cod_IOE":"30304", "Nombre":"MNP Estadística de Nacimientos", "Codigo":"MNPN", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177007&idp=1254735573002"}
+,{"Id":308, "Cod_IOE":"", "Nombre":"MNP Estadística de Muertes Fetales Tardías", "Codigo":"MNP_MFT"}
+,{"Id":309, "Cod_IOE":"30306", "Nombre":"MNP Estadística de Defunciones", "Codigo":"MNPD", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177008&idp=1254735573002"}
+,{"Id":310, "Cod_IOE":"30314", "Nombre":"Estadística de Movimiento Natural de Españoles Residentes en el Extranjero", "Codigo":""}
+,{"Id":311, "Cod_IOE":"30301", "Nombre":"Movimiento Natural de la Población (Resultados Provisionales)", "Codigo":"MNP_RP"}
+,{"Id":493, "Cod_IOE":"", "Nombre":"Resumen de fenómenos demográficos", "Codigo":""}
+]
+, "PubFechaAct":{"Id":13729, "Nombre":"Movimiento Natural de Población (Matrimonios, Nacimientos y Defunciones) 2024", "Fecha":1780645500000, "FK_Periodo":28, "Anyo":2024}
+}
+, "FK_Clasificacion":null, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":120, "Nombre":"Nacimientos", "Codigo":null, "Abrev":null}
+}

@@ -1,0 +1,134 @@
+{
+  "id": "perceived-crime-area",
+  "topic": "safety",
+  "unit": "percent",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Población que declara delincuencia, violencia o vandalismo en su zona",
+    "en": "People reporting crime, violence or vandalism in their area",
+    "ca": "Població que declara delinqüència, violència o vandalisme a la seva zona"
+  },
+  "note": {
+    "es": "Encuesta de Condiciones de Vida (EU-SILC). Desde 2020 la pregunta se hace cada tres años; el siguiente dato es de 2026.",
+    "en": "EU Statistics on Income and Living Conditions (EU-SILC). Since 2020 the question is asked every three years; the next figure is for 2026.",
+    "ca": "Enquesta de Condicions de Vida (EU-SILC). Des del 2020 la pregunta es fa cada tres anys; la propera dada és del 2026."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Share of the population living in households reporting crime, violence or vandalism in the area, Eurostat ilc_mddw03 (all households, all incomes).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2004",
+      "value": 18.4,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 18.9,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 19.3,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 17.5,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 14.7,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 16.4,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 13,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 10.8,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 10.1,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 14.2,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 11.9,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 10,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 10.3,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 8.7,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 10.9,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 11.6,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 14.1,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 13.6,
+      "sourceId": "eurostat-ilc-mddw03-es",
+      "status": "final"
+    }
+  ]
+}

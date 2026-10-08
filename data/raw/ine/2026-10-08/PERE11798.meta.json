@@ -1,0 +1,10 @@
+{"Id":11798, "COD":"PERE11798", "Operacion":{"Id":230, "Cod_IOE":"85001", "Nombre":"Estadística del Padrón de la Población Española Residente en el Extranjero", "Codigo":"PERE", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177014&idp=1254734710990"}
+, "Nombre":"1. TOTAL PAÍSES (TODOS LOS CONTINENTES). Ambos sexos. Dato base. Total grupos de edad. Población española residente en el extranjero. ", "Decimales":0, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":76, "Nombre":"Estadística del Padrón de la Población Española Residente en el Extranjero", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Operacion":[{"Id":230, "Cod_IOE":"85001", "Nombre":"Estadística del Padrón de la Población Española Residente en el Extranjero", "Codigo":"PERE", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177014&idp=1254734710990"}
+]
+, "PubFechaAct":{"Id":12313, "Nombre":"Estadística del Padrón de la Población Española Residente en el Extranjero 01/01/2026", "Fecha":1773914400000, "FK_Periodo":28, "Anyo":2026}
+}
+, "FK_Clasificacion":null, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":3, "Nombre":"Personas", "Codigo":null, "Abrev":null}
+}

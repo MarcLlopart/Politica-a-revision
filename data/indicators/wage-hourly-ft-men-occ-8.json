@@ -1,0 +1,33 @@
+{
+  "id": "wage-hourly-ft-men-occ-8",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 2,
+  "label": {
+    "es": "Operadores de instalaciones y maquinaria, y montadores: hombres",
+    "en": "Plant and machine operators and assemblers: men",
+    "ca": "Operadors d'instal·lacions i maquinària, i muntadors: homes"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Hourly pay of men working full time, CNO-11 major group 8, INE Structure of Earnings Survey (table 36891).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 11.07,
+      "sourceId": "ine-eaes88299",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 11.78,
+      "sourceId": "ine-eaes88299",
+      "status": "provisional"
+    }
+  ]
+}

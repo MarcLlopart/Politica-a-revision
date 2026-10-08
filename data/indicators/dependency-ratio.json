@@ -1,0 +1,182 @@
+{
+  "id": "dependency-ratio",
+  "topic": "demographics",
+  "unit": "percent",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Tasa de dependencia",
+    "en": "Dependency ratio",
+    "ca": "Taxa de dependència"
+  },
+  "note": {
+    "es": "Menores de 16 más mayores de 64, por cada 100 personas de 16 a 64 años.",
+    "en": "People under 16 plus people over 64, per 100 people aged 16–64.",
+    "ca": "Menors de 16 més majors de 64, per cada 100 persones de 16 a 64 anys."
+  },
+  "yZero": true,
+  "periodRef": "start",
+  "calculation": {
+    "method": "(Population under 16 + population 65 and over) / population 16–64 × 100, on 1 January, as published by INE (Indicadores Demográficos Básicos).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 48.23,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 48.26,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 48.4,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 48.13,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 47.77,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 47.16,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 47.36,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 47.26,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 47.17,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 47.7,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 48.44,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 49.35,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 50.12,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 50.93,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 51.97,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 52.75,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 53.16,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 53.5,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 53.8,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 53.84,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 53.7,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 53.5,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 53.63,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 53.42,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 53.29,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 53.17,
+      "sourceId": "ine-idb53241",
+      "status": "final"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "forecast-gdp-growth-imf",
+  "topic": "economy",
+  "unit": "percent_change",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "FMI, abril 2026",
+    "en": "IMF, April 2026",
+    "ca": "FMI, abril 2026"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Real GDP growth, IMF World Economic Outlook April 2026 (NGDP_RPCH).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2025",
+      "value": 2.7658,
+      "sourceId": "imf-weo-2026-apr-esp",
+      "status": "final"
+    },
+    {
+      "period": "2026",
+      "value": 2.0897,
+      "sourceId": "imf-weo-2026-apr-esp",
+      "status": "forecast"
+    },
+    {
+      "period": "2027",
+      "value": 1.8194,
+      "sourceId": "imf-weo-2026-apr-esp",
+      "status": "forecast"
+    },
+    {
+      "period": "2028",
+      "value": 1.8252,
+      "sourceId": "imf-weo-2026-apr-esp",
+      "status": "forecast"
+    },
+    {
+      "period": "2029",
+      "value": 1.7023,
+      "sourceId": "imf-weo-2026-apr-esp",
+      "status": "forecast"
+    },
+    {
+      "period": "2030",
+      "value": 1.7024,
+      "sourceId": "imf-weo-2026-apr-esp",
+      "status": "forecast"
+    },
+    {
+      "period": "2031",
+      "value": 1.6997,
+      "sourceId": "imf-weo-2026-apr-esp",
+      "status": "forecast"
+    }
+  ]
+}

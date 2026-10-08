@@ -1,0 +1,135 @@
+{
+  "id": "house-prices-annual",
+  "topic": "housing",
+  "unit": "percent_change",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Precio de la vivienda (media anual)",
+    "en": "House prices (annual average)",
+    "ca": "Preu de l'habitatge (mitjana anual)"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Change in the annual average of INE's House Price Index (IPV), general.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2007",
+      "value": 9.8,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": -1.5,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": -6.7,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": -2,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": -7.4,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": -13.7,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": -10.6,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 0.3,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 3.6,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 4.7,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 6.2,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 6.7,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 5.1,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 2.1,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 3.7,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 7.4,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 4,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 8.4,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 12.7,
+      "sourceId": "ine-ipv1279",
+      "status": "final"
+    }
+  ]
+}

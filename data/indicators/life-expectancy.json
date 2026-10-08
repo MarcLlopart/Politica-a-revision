@@ -1,0 +1,171 @@
+{
+  "id": "life-expectancy",
+  "topic": "births-deaths",
+  "unit": "years",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Esperanza de vida al nacer",
+    "en": "Life expectancy at birth",
+    "ca": "Esperança de vida en néixer"
+  },
+  "yZero": false,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Life expectancy at birth, both sexes, as published by INE (Indicadores Demográficos Básicos).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 79.34,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 79.67,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 79.76,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 79.7,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 80.29,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 80.28,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 80.94,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 80.97,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 81.3,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 81.66,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 82.07,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 82.25,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 82.26,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 82.77,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 82.91,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 82.67,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 83.08,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 83.05,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 83.15,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 83.53,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 82.28,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 83.03,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 83.08,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 83.77,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 84.01,
+      "sourceId": "ine-idb53772",
+      "status": "final"
+    }
+  ]
+}

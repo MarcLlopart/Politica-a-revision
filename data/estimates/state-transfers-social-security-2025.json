@@ -1,0 +1,29 @@
+{
+  "id": "state-transfers-social-security-2025",
+  "topic": "pensions",
+  "kind": "official",
+  "label": {
+    "es": "Transferencias del Estado a la Seguridad Social",
+    "en": "State transfers to the Social Security",
+    "ca": "Transferències de l'Estat a la Seguretat Social"
+  },
+  "value": 47815440000,
+  "unit": "eur",
+  "period": "2025",
+  "definition": {
+    "es": "Transferencias corrientes del Estado y sus organismos (derechos reconocidos, avance provisional de diciembre). Incluye complementos a mínimos, pensiones no contributivas y los gastos que el Pacto de Toledo asigna al Estado. No incluye el préstamo del Estado.",
+    "en": "Current transfers from the State and its agencies (rights recognised, provisional December execution). Includes minimum-pension top-ups, non-contributory pensions and the costs the Toledo Pact assigns to the State. Excludes the State loan.",
+    "ca": "Transferències corrents de l'Estat i els seus organismes (drets reconeguts, avanç provisional de desembre). Inclou complements a mínims, pensions no contributives i les despeses que el Pacte de Toledo assigna a l'Estat. No inclou el préstec de l'Estat."
+  },
+  "publisher": "Seguridad Social (IGSS)",
+  "document": {
+    "title": "Avance de ejecución presupuestaria. Sistema de la Seguridad Social. Diciembre provisional 2025",
+    "url": "https://www.seg-social.es/descarga/es/L_Sistema_Diciembre%20Provisional_2025.pdf",
+    "location": "p. 13, capítulo 4, 'Del Estado y org. autónomos'",
+    "localPath": "sources/documents/seguridad-social-igss/l-sistema-diciembre-provisional-2025.pdf",
+    "fileHash": "sha256:022cea57d597ae67d29444f684652304af6cd0e6f86cf6397cbbc10819820c09",
+    "retrievedAt": "2026-10-08"
+  },
+  "transcribedBy": "Research agent (Claude), checked against the downloaded document",
+  "checkedBy": []
+}

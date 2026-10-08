@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251219202601">
+  <metadatos>
+    <identificador>BOE-A-2016-12598</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="9218">Ministerio de Empleo y Seguridad Social</departamento>
+    <rango codigo="1340">Real Decreto</rango>
+    <fecha_disposicion>20161230</fecha_disposicion>
+    <numero_oficial>742/2016</numero_oficial>
+    <titulo>Real Decreto 742/2016, de 30 de diciembre, por el que se fija el salario mínimo interprofesional para 2017.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20161231</fecha_publicacion>
+    <diario_numero>316</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>91797</pagina_inicial>
+    <pagina_final>91800</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/2016/12/31/pdfs/BOE-A-2016-12598.pdf</url_pdf>
+    <url_epub>
+      <url_epub>https://www.boe.es/diario_boe/epub.php?id=BOE-A-2016-12598</url_epub>
+    </url_epub>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>20170101</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>S</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/rd/2016/12/30/742</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rd/2016/12/30/742">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rd"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2016-12598</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-30</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">742</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6256"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rd/2016/12/30/742/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rd"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2016-12598</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-30</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">742</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6256"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/rd/2016/12/30/742"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/rd/2016/12/30/742/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Real Decreto 742/2016, de 30 de diciembre, por el que se fija el salario mínimo interprofesional para 2017.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/rd/2016/12/30/742/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/2016/12/30/742/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/2016/12/30/742/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/2016/12/30/742/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/2016/12/30/742/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/2016/12/30/742/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/2016/12/30/742/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/2016/12/30/742/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/2016/12/30/742/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="6256" orden="">Salario Mínimo Interprofesional</materia>
+    </materias>
+    <notas>
+      <nota codigo="36" orden="320">Vigencia desde el 1 de enero hasta el 31 de diciembre de 2017.</nota>
+      <nota codigo="151" orden="900">Esta disposición ha dejado de estar vigente</nota>
+    </notas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2015-11430" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 27.1 de la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="131" orden="">Trabajo y empleo</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">En cumplimiento del mandato al Gobierno para fijar anualmente el salario mínimo interprofesional, contenido en el artículo 27.1 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, se procede mediante este real decreto a establecer las cuantías que deberán regir a partir del 1 de enero de 2017, tanto para los trabajadores fijos como para los eventuales o temporeros, así como para los empleados de hogar.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Las nuevas cuantías, que representan un incremento del ocho por ciento respecto de las vigentes entre el 1 de enero y el 31 de diciembre de 2016, son el resultado de tomar en consideración de forma conjunta todos los factores contemplados en el citado artículo 27.1 del texto refundido de la Ley del Estatuto de los Trabajadores y tienen en cuenta lo establecido en la disposición adicional única del Real Decreto-ley 3/2016, de 2 de diciembre, por el que se adoptan medidas en el ámbito tributario dirigidas a la consolidación de las finanzas públicas y otras medidas urgentes en materia social.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">El citado incremento tiene en cuenta la mejora de las condiciones generales de la economía, a la vez que se continúa favoreciendo, de forma equilibrada, su competitividad, acompasando así la evolución de los salarios en el proceso de recuperación del empleo.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Este real decreto ha sido consultado a las organizaciones sindicales y asociaciones empresariales más representativas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">En su virtud, a propuesta de la Ministra de Empleo y Seguridad Social y previa deliberación del Consejo de Ministros en su reunión del día 30 de diciembre de 2016,</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="centro_redonda">DISPONGO:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Artículo 1. Cuantía del salario mínimo interprofesional.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">El salario mínimo para cualesquiera actividades en la agricultura, en la industria y en los servicios, sin distinción de sexo ni edad de los trabajadores, queda fijado en 23,59 euros/día o 707,70 euros/mes, según que el salario esté fijado por días o por meses.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">En el salario mínimo se computa únicamente la retribución en dinero, sin que el salario en especie pueda, en ningún caso, dar lugar a la minoración de la cuantía íntegra en dinero de aquel.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Este salario se entiende referido a la jornada legal de trabajo en cada actividad, sin incluir en el caso del salario diario la parte proporcional de los domingos y festivos. Si se realizase jornada inferior se percibirá a prorrata.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Para la aplicación en cómputo anual del salario mínimo se tendrán en cuenta las reglas sobre compensación que se establecen en los artículos siguientes.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Artículo 2. Complementos salariales.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Al salario mínimo consignado en el artículo 1 se adicionarán, sirviendo el mismo como módulo, en su caso, y según lo establecido en los convenios colectivos y contratos de trabajo, los complementos salariales a que se refiere el artículo 26.3 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, así como el importe correspondiente al incremento garantizado sobre el salario a tiempo en la remuneración a prima o con incentivo a la producción.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Artículo 3. Compensación y absorción.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">A efectos de aplicar el último párrafo del artículo 27.1 del texto refundido de la Ley del Estatuto de los Trabajadores, en cuanto a compensación y absorción en cómputo anual por los salarios profesionales del incremento del salario mínimo interprofesional, se procederá de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">1. La revisión del salario mínimo interprofesional establecida en este real decreto no afectará a la estructura ni a la cuantía de los salarios profesionales que viniesen percibiendo los trabajadores cuando tales salarios en su conjunto y en cómputo anual fuesen superiores a dicho salario mínimo.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">A tales efectos, el salario mínimo en cómputo anual que se tomará como término de comparación será el resultado de adicionar al salario mínimo fijado en el artículo 1 de este real decreto los devengos a que se refiere el artículo 2, sin que en ningún caso pueda considerarse una cuantía anual inferior a 9.907,80 euros.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">2. Estas percepciones son compensables con los ingresos que por todos los conceptos viniesen percibiendo los trabajadores en cómputo anual y jornada completa con arreglo a normas legales o convencionales, laudos arbitrales y contratos individuales de trabajo en vigor en la fecha de promulgación de este real decreto.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">3. Las normas legales o convencionales y los laudos arbitrales que se encuentren en vigor en la fecha de promulgación de este real decreto subsistirán en sus propios términos, sin más modificación que la que fuese necesaria para asegurar la percepción de las cantidades en cómputo anual que resulten de la aplicación del apartado 1 de este artículo, debiendo, en consecuencia, ser incrementados los salarios profesionales inferiores al indicado total anual en la cuantía necesaria para equipararse a este.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Artículo 4. Trabajadores eventuales y temporeros y empleados de hogar.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">1. Los trabajadores eventuales y temporeros cuyos servicios a una misma empresa no excedan de ciento veinte días percibirán, conjuntamente con el salario mínimo a que se refiere el artículo 1, la parte proporcional de la retribución de los domingos y festivos, así como de las dos gratificaciones extraordinarias a que, como mínimo, tiene derecho todo trabajador, correspondientes al salario de treinta días en cada una de ellas, sin que en ningún caso la cuantía del salario profesional pueda resultar inferior a 33,51 euros por jornada legal en la actividad.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">En lo que respecta a la retribución de las vacaciones de los trabajadores a que se refiere este artículo, dichos trabajadores percibirán, conjuntamente con el salario mínimo interprofesional fijado en el artículo 1, la parte proporcional de este correspondiente a las vacaciones legales mínimas en los supuestos en que no existiera coincidencia entre el período de disfrute de las vacaciones y el tiempo de vigencia del contrato. En los demás casos, la retribución del período de vacaciones se efectuará de acuerdo con el artículo 38 del texto refundido de la Ley del Estatuto de los Trabajadores y demás normas de aplicación.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">2. De acuerdo con el artículo 8.5 del Real Decreto 1620/2011, de 14 de noviembre, por el que se regula la relación laboral de carácter especial del servicio del hogar familiar, que toma como referencia para la determinación del salario mínimo de los empleados de hogar que trabajen por horas, en régimen externo, el fijado para los trabajadores eventuales y temporeros y que incluye todos los conceptos retributivos, el salario mínimo de dichos empleados de hogar será de 5,54 euros por hora efectivamente trabajada.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">3. En las cuantías del salario mínimo por días u horas fijadas en los apartados anteriores se computa únicamente la retribución en dinero, sin que el salario en especie pueda, en ningún caso, dar lugar a la minoración de la cuantía íntegra en dinero de aquellas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposición transitoria primera. Reglas de afectación de la nueva cuantía del salario mínimo interprofesional en los convenios colectivos.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">1. Las cuantías del salario mínimo interprofesional establecidas en el Real Decreto 1171/2015, de 29 de diciembre, salvo que las partes legitimadas acuerden la aplicación de las nuevas cuantías del salario mínimo interprofesional y dado el carácter excepcional del incremento establecido por este real decreto, continuarán siendo de aplicación durante 2017 a los convenios colectivos vigentes a la fecha de entrada en vigor de este real decreto que utilicen el salario mínimo interprofesional como referencia para determinar la cuantía o el incremento del salario base o de complementos salariales.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">2. Cuando la vigencia de dichos convenios exceda de 2017, salvo acuerdo en contrario, la cuantía del salario mínimo interprofesional se entenderá referida, para los años siguientes, a la fijada en el Real Decreto 1171/2015, de 29 de diciembre, incrementada según el objetivo de inflación del Banco Central Europeo.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">3. Lo dispuesto en los apartados anteriores se entiende sin perjuicio de que deban ser modificados los salarios establecidos en convenio colectivo inferiores en su conjunto y en cómputo anual a las cuantías del salario mínimo interprofesional vigente en cada momento en la cuantía necesaria para asegurar la percepción de dichas cuantías, siendo de aplicación las reglas sobre compensación y absorción que se establecen en el artículo 3.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposición transitoria segunda. No afectación de la nueva cuantía del salario mínimo interprofesional en las referencias contenidas en normas no estatales y relaciones privadas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">1. Dado el carácter excepcional del incremento establecido por este real decreto, las nuevas cuantías del salario mínimo interprofesional que se establecen no serán de aplicación:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">a) A las normas vigentes a la fecha de entrada en vigor de este real decreto de las comunidades autónomas, de las ciudades de Ceuta y Melilla y de las entidades que integran la Administración local que utilicen el salario mínimo interprofesional como indicador o referencia del nivel de renta para determinar la cuantía de determinadas prestaciones o para acceder a determinadas prestaciones, beneficios o servicios públicos, salvo disposición expresa en contrario de las propias comunidades autónomas, de las ciudades de Ceuta y Melilla o de las entidades que integran la Administración local.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">b) A cualesquiera contratos y pactos de naturaleza privada vigentes a la fecha de entrada en vigor de este real decreto que utilicen el salario mínimo interprofesional como referencia a cualquier efecto, salvo que las partes acuerden la aplicación de las nuevas cuantías del salario mínimo interprofesional.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">2. En los supuestos a que se refiere el apartado anterior, salvo disposición o acuerdo en contrario, la cuantía del salario mínimo interprofesional se entenderá referida durante 2017 a la fijada en el Real Decreto 1171/2015, de 29 de diciembre, incrementada para los años siguientes en el mismo porcentaje en que se incremente el indicador público de renta de efectos múltiples (IPREM).</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">3. Lo dispuesto en los apartados anteriores se entiende sin perjuicio de que deban ser modificados los salarios establecidos en contratos o pactos de naturaleza privada inferiores en su conjunto y en cómputo anual a las cuantías del salario mínimo interprofesional vigente en cada momento en la cuantía necesaria para asegurar la percepción de dichas cuantías, siendo de aplicación las reglas sobre compensación y absorción que se establecen en el artículo 3.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposición final primera. Habilitación para la aplicación y desarrollo.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Se autoriza a la Ministra de Empleo y Seguridad Social para dictar las disposiciones de aplicación y desarrollo de este real decreto.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposición final segunda. Entrada en vigor y períodode vigencia.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Este real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado» y surtirá efectos durante el período comprendido entre el 1 de enero y el 31 de diciembre de 2017, procediendo, en consecuencia, el abono del salario mínimo en el mismo establecido con efectos del 1 de enero de 2017.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">Dado en Madrid, el 30 de diciembre de 2016.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="firma_rey">FELIPE R.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="firma_ministro">La Ministra de Empleo y Seguridad Social,</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="firma_ministro">FÁTIMA BÁÑEZ GARCÍA</p>
+  </texto>
+</documento>

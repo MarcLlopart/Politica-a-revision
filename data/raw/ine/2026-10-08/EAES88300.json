@@ -1,0 +1,4 @@
+{"COD":"EAES88300", "Nombre":"Total Nacional. Dato base. Hombres. Jornada a tiempo completo. Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria). Salario por hora. ", "T3_Unidad":"Euros", "T3_Escala":" ", "Data":[{"Fecha":"2018-01-01T00:00:00.000+01:00", "T3_TipoDato":"Definitivo", "T3_Periodo":null, "Anyo":2018, "Valor":10.61}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Avance", "T3_Periodo":null, "Anyo":2022, "Valor":11.44}
+]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "wage-mean-age-under-25",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Menos de 25 años",
+    "en": "Under 25",
+    "ca": "Menys de 25 anys"
+  },
+  "note": {
+    "es": "Ganancia bruta anual por trabajador (industria, construcción y servicios), Encuesta Anual de Estructura Salarial del INE. Incluye jornada parcial.",
+    "en": "Gross annual earnings per employee (industry, construction and services), INE Annual Wage Structure Survey. Includes part-time work.",
+    "ca": "Guany brut anual per treballador (indústria, construcció i serveis), Enquesta Anual d'Estructura Salarial de l'INE. Inclou jornada parcial."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Mean gross annual earnings, under 25, both sexes, as published by INE (Encuesta Anual de Estructura Salarial, table 28201).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2008",
+      "value": 12953.62,
+      "sourceId": "ine-eaes1624",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 12565.99,
+      "sourceId": "ine-eaes1624",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 13154.92,
+      "sourceId": "ine-eaes1624",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 11954.86,
+      "sourceId": "ine-eaes1624",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 11077.39,
+      "sourceId": "ine-eaes1624",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 10506.14,
+      "sourceId": "ine-eaes1624",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 11560.18,
+      "sourceId": "ine-eaes1624",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 11039.53,
+      "sourceId": "ine-eaes1624",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 11046.39,
+      "sourceId": "ine-eaes1624",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 11472.81,
+      "sourceId": "ine-eaes1624",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 12417.98,
+      "sourceId": "ine-eaes1624",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 12270.4,
+      "sourceId": "ine-eaes1624",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 12693.72,
+      "sourceId": "ine-eaes1624",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 12930.13,
+      "sourceId": "ine-eaes1624",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 14700.9,
+      "sourceId": "ine-eaes1624",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 14944.35,
+      "sourceId": "ine-eaes1624",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 15135.59,
+      "sourceId": "ine-eaes1624",
+      "status": "final"
+    }
+  ]
+}

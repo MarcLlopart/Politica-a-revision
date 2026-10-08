@@ -1,0 +1,29 @@
+{
+  "id": "sick-leave-spending-2025",
+  "topic": "pensions",
+  "kind": "official",
+  "label": {
+    "es": "Gasto en incapacidad temporal (bajas)",
+    "en": "Sick leave (temporary incapacity) spending",
+    "ca": "Despesa en incapacitat temporal (baixes)"
+  },
+  "value": 18413270000,
+  "unit": "eur",
+  "period": "2025",
+  "definition": {
+    "es": "Obligaciones reconocidas de todo el sistema (INSS, ISM y mutuas), avance provisional de diciembre. No incluye los días que pagan las empresas.",
+    "en": "Obligations recognised by the whole system (INSS, ISM and mutual insurers), provisional December execution. Excludes the days paid by employers.",
+    "ca": "Obligacions reconegudes de tot el sistema (INSS, ISM i mútues), avanç provisional de desembre. No inclou els dies que paguen les empreses."
+  },
+  "publisher": "Seguridad Social (IGSS)",
+  "document": {
+    "title": "Avance de ejecución presupuestaria. Sistema de la Seguridad Social. Diciembre provisional 2025",
+    "url": "https://www.seg-social.es/descarga/es/L_Sistema_Diciembre%20Provisional_2025.pdf",
+    "location": "p. 16, 'Incapacidad temporal'",
+    "localPath": "sources/documents/seguridad-social-igss/l-sistema-diciembre-provisional-2025.pdf",
+    "fileHash": "sha256:022cea57d597ae67d29444f684652304af6cd0e6f86cf6397cbbc10819820c09",
+    "retrievedAt": "2026-10-08"
+  },
+  "transcribedBy": "Research agent (Claude), checked against the downloaded document",
+  "checkedBy": []
+}

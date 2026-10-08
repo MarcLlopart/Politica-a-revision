@@ -1,0 +1,39 @@
+{
+  "files": {
+    "ameco-ovgd-esp-spring-2026.html": {
+      "url": "https://ec.europa.eu/economy_finance/ameco/wq/series?fullVariable=1.1.0.0.OVGD&countries=ESP&years=2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027&Lastyear=0&Yearorder=ASC",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:8c1f6ef6fcd95bdf638ebcc9775451709affe73fa876ac993f35d6b598a17e5f",
+      "bytes": 980,
+      "contentType": "text/html; charset=utf-8"
+    },
+    "ameco-ublge-esp-spring-2026.html": {
+      "url": "https://ec.europa.eu/economy_finance/ameco/wq/series?fullVariable=1.0.319.0.UBLGE&countries=ESP&years=2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027&Lastyear=0&Yearorder=ASC",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:4fe33182e143737f208cd4069264fa7f371bb9bc4ad42462dcf360f99291ceeb",
+      "bytes": 1147,
+      "contentType": "text/html; charset=utf-8"
+    },
+    "ameco-udgg-esp-spring-2026.html": {
+      "url": "https://ec.europa.eu/economy_finance/ameco/wq/series?fullVariable=1.0.319.0.UDGG&countries=ESP&years=2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027&Lastyear=0&Yearorder=ASC",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:9ae97c5f7c8ba4373ae06bd18fc2a5bbf833805b47d1e7732a103adc23c8fa50",
+      "bytes": 1083,
+      "contentType": "text/html; charset=utf-8"
+    },
+    "ameco-urtg-esp-spring-2026.html": {
+      "url": "https://ec.europa.eu/economy_finance/ameco/wq/series?fullVariable=1.0.319.0.URTG&countries=ESP&years=2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027&Lastyear=0&Yearorder=ASC",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:8772ce06400c1fbefaa53dee4aa1dde5a6d42ce3613d4b9bffbe4146527fad23",
+      "bytes": 1015,
+      "contentType": "text/html; charset=utf-8"
+    },
+    "ameco-uutge-esp-spring-2026.html": {
+      "url": "https://ec.europa.eu/economy_finance/ameco/wq/series?fullVariable=1.0.319.0.UUTGE&countries=ESP&years=2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027&Lastyear=0&Yearorder=ASC",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:084780600a5ef5fad8c058721ee5a3e44dcdae6b4bda633b46677cf953cb31b8",
+      "bytes": 1158,
+      "contentType": "text/html; charset=utf-8"
+    }
+  }
+}

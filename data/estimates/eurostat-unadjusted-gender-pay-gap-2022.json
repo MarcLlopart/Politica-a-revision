@@ -1,0 +1,29 @@
+{
+  "id": "eurostat-unadjusted-gender-pay-gap-2022",
+  "topic": "income",
+  "kind": "independent",
+  "label": {
+    "es": "Brecha salarial sin ajustar en la misma encuesta (2022)",
+    "en": "Unadjusted gender pay gap in the same survey (2022)",
+    "ca": "Bretxa salarial sense ajustar a la mateixa enquesta (2022)"
+  },
+  "value": 9.2,
+  "unit": "percent",
+  "period": "2022",
+  "definition": {
+    "es": "Diferencia de ganancia media por hora entre hombres y mujeres asalariados, en % de la de los hombres, en la muestra usada para la descomposición (empresas de 10 o más asalariados; sin administración pública).",
+    "en": "Difference between men's and women's average hourly earnings, as a % of men's, in the sample used for the decomposition (enterprises with 10 or more employees; public administration excluded).",
+    "ca": "Diferència de guany mitjà per hora entre homes i dones assalariats, en % del dels homes, a la mostra usada per a la descomposició (empreses de 10 o més assalariats; sense administració pública)."
+  },
+  "publisher": "Eurostat (statistical working paper)",
+  "document": {
+    "title": "Gender pay gaps in the European Union – 2025 edition – revision (Statistical working paper KS-01-26-017)",
+    "url": "https://ec.europa.eu/eurostat/documents/3888793/23258284/KS-01-26-017-EN-N.pdf",
+    "location": "Table 2, Decomposition of the unadjusted GPG, SES2022, p. 17 (row Spain)",
+    "localPath": "sources/documents/eurostat-statistical-working-paper/ks-01-26-017-en-n.pdf",
+    "fileHash": "sha256:378b844dd8a80a6882cf885321af340f7415f135b7519eb625efcae0628f14bb",
+    "retrievedAt": "2026-10-08"
+  },
+  "transcribedBy": "Research agent (Claude), checked against the downloaded document",
+  "checkedBy": []
+}

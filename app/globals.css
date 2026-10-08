@@ -1,0 +1,328 @@
+@import "tailwindcss";
+
+/*
+ * Design tokens. Neutral palette, independent of party colours.
+ * Chart colours follow a validated categorical order (CVD-checked, light and dark).
+ * Text tokens meet WCAG 2.2 AA (≥ 4.5:1) on both page and card surfaces.
+ */
+:root {
+  color-scheme: light;
+  --page: #f9f9f7;
+  --surface: #fcfcfb;
+  --surface-2: #f0efec;
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --muted: #6b6a65;
+  --border: rgba(11, 11, 11, 0.12);
+  --grid: #e1e0d9;
+  --axis: #a3a198;
+  --event: #898781;
+  --spark: #898781;
+  --link: #1c5cab;
+  --focus: #1c5cab;
+  --series-1: #2a78d6;
+  --series-2: #eb6834;
+  --series-3: #1baf7a;
+  --series-4: #eda100;
+  --chip-ring: rgba(11, 11, 11, 0.25);
+  /* Reading status (favourable / unfavourable): icon fills, and text for the key figure (≥4.5:1). */
+  --good: #0ca30c;
+  --bad: #d03b3b;
+  --good-ink: #006300;
+  --bad-ink: #b3261e;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) {
+    color-scheme: dark;
+    --page: #0d0d0d;
+    --surface: #1a1a19;
+    --surface-2: #262624;
+    --ink: #ffffff;
+    --ink-2: #c3c2b7;
+    --muted: #a3a198;
+    --border: rgba(255, 255, 255, 0.12);
+    --grid: #2c2c2a;
+    --axis: #55544f;
+    --event: #898781;
+    --spark: #898781;
+    --link: #86b6ef;
+    --focus: #86b6ef;
+    --series-1: #3987e5;
+    --series-2: #d95926;
+    --series-3: #199e70;
+    --series-4: #c98500;
+    --chip-ring: rgba(255, 255, 255, 0.3);
+    --good: #0ca30c;
+    --bad: #d03b3b;
+    --good-ink: #0ca30c;
+    --bad-ink: #ff6b6b;
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0d0d0d;
+  --surface: #1a1a19;
+  --surface-2: #262624;
+  --ink: #ffffff;
+  --ink-2: #c3c2b7;
+  --muted: #a3a198;
+  --border: rgba(255, 255, 255, 0.12);
+  --grid: #2c2c2a;
+  --axis: #55544f;
+  --event: #898781;
+  --spark: #898781;
+  --link: #86b6ef;
+  --focus: #86b6ef;
+  --series-1: #3987e5;
+  --series-2: #d95926;
+  --series-3: #199e70;
+  --series-4: #c98500;
+  --chip-ring: rgba(255, 255, 255, 0.3);
+  --good: #0ca30c;
+  --bad: #d03b3b;
+  --good-ink: #0ca30c;
+  --bad-ink: #ff6b6b;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+  body {
+    background: var(--page);
+    color: var(--ink);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.5;
+  }
+  a {
+    color: var(--link);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  a:hover {
+    text-decoration-thickness: 2px;
+  }
+  :focus-visible {
+    outline: 2px solid var(--focus);
+    outline-offset: 2px;
+  }
+  h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.25;
+  }
+  h2 {
+    font-size: 1.125rem;
+    font-weight: 650;
+    line-height: 1.3;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    transition: none !important;
+    animation: none !important;
+  }
+}
+
+.skip-link {
+  position: absolute;
+  left: 0.5rem;
+  top: -3rem;
+  z-index: 50;
+  background: var(--surface);
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.375rem;
+}
+.skip-link:focus {
+  top: 0.5rem;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 0.75rem;
+  padding: 1rem;
+  min-width: 0;
+}
+
+a.card {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+a.card:hover {
+  border-color: var(--ink-2);
+}
+
+.nav-link,
+.nav-tab,
+.lang-link,
+.icon-button {
+  color: var(--ink-2);
+  text-decoration: none;
+}
+.nav-link:hover,
+.lang-link:hover,
+.icon-button:hover {
+  background: var(--surface-2);
+  color: var(--ink);
+}
+.nav-link[aria-current="page"] {
+  color: var(--ink);
+  font-weight: 600;
+  background: var(--surface-2);
+}
+.nav-tab[aria-current="page"] {
+  color: var(--link);
+  font-weight: 600;
+}
+.lang-link[aria-current="true"] {
+  color: var(--ink);
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.bottom-nav {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+details.disclosure > summary {
+  cursor: pointer;
+  color: var(--link);
+  font-size: 0.875rem;
+  min-height: 24px;
+  list-style: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+}
+details.disclosure > summary::-webkit-details-marker {
+  display: none;
+}
+details.disclosure > summary::before {
+  content: "";
+  width: 0.5rem;
+  height: 0.5rem;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(-45deg);
+  transition: transform 0.15s;
+}
+details.disclosure[open] > summary::before {
+  transform: rotate(45deg);
+}
+
+.chart svg {
+  width: 100%;
+  height: auto;
+  color: var(--muted);
+}
+.chart svg [aria-label="y-grid"] {
+  stroke: var(--grid);
+  stroke-opacity: 1;
+}
+.chart {
+  max-width: 28rem;
+}
+.sparkline svg {
+  width: 120px;
+  height: 36px;
+}
+
+.tooltip {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  padding: 0.375rem 0.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  white-space: nowrap;
+}
+
+.data-table th,
+.data-table td {
+  padding: 0.25rem 0.5rem;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+  font-weight: 400;
+}
+.data-table thead th {
+  font-weight: 600;
+  color: var(--ink-2);
+  position: sticky;
+  top: 0;
+  background: var(--surface);
+}
+.data-table td.text-right,
+.data-table th.text-right {
+  text-align: right;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.125rem 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--ink);
+  background: var(--surface);
+}
+.chip-dot {
+  width: 0.625rem;
+  height: 0.625rem;
+  border-radius: 999px;
+  box-shadow: 0 0 0 1px var(--chip-ring);
+}
+
+.prose-block p + p {
+  margin-top: 0.75rem;
+}
+.prose-block ul {
+  list-style: disc;
+  padding-left: 1.25rem;
+}
+.prose-block li + li {
+  margin-top: 0.25rem;
+}
+
+/* Reference tables become labelled blocks on narrow screens (no horizontal scrolling). */
+@media (max-width: 639px) {
+  .stack-table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+  }
+  .stack-table tr,
+  .stack-table th,
+  .stack-table td {
+    display: block;
+  }
+  .stack-table tr {
+    border-bottom: 1px solid var(--border);
+    padding: 0.5rem 0;
+  }
+  .stack-table th,
+  .stack-table td {
+    border-bottom: 0;
+    padding: 0.125rem 0;
+  }
+  .stack-table td[data-label]::before {
+    content: attr(data-label) ": ";
+    font-weight: 600;
+    color: var(--ink);
+  }
+}

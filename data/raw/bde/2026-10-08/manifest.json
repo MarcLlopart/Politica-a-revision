@@ -1,0 +1,46 @@
+{
+  "files": {
+    "D_TKB57110_IPV.json": {
+      "url": "https://app.bde.es/bierest/resources/srdatosapp/listaSeries?idioma=es&series=D_TKB57110_IPV&rango=MAX",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b0787e29fae704c3042d12cbc0dd68580fa837c22f2c0b332a1e3cfdd1dbd56e",
+      "bytes": 8364,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "eff-net-wealth-mean.csv": {
+      "url": "https://app.bde.es/efs_www/eff_download_csv?concept=[0]&variable=[0]&statistic=[0]&population=[0]&category=[0]&rows=[0]&lang=ES&select_all=False",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:bfd5f24cbee298513e24ecf11042b35e5910b14d767b3867362df4a3397167fa",
+      "bytes": 1011,
+      "contentType": "text/csv; charset=utf-8"
+    },
+    "eff-net-wealth-p25.csv": {
+      "url": "https://app.bde.es/efs_www/eff_download_csv?concept=[0]&variable=[0]&statistic=[8]&population=[0]&category=[0]&rows=[0]&lang=ES&select_all=False",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:27af093cabed524badec2a2017bfcfc68b05ea9185152e1fdc8c998dde87d2d0",
+      "bytes": 1061,
+      "contentType": "text/csv; charset=utf-8"
+    },
+    "eff-net-wealth-p50.csv": {
+      "url": "https://app.bde.es/efs_www/eff_download_csv?concept=[0]&variable=[0]&statistic=[9]&population=[0]&category=[0]&rows=[0]&lang=ES&select_all=False",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:f1840d06f67c0f5c83d0893852b203b5533461c05e202c3c257ded0c790def5d",
+      "bytes": 1019,
+      "contentType": "text/csv; charset=utf-8"
+    },
+    "eff-net-wealth-p75.csv": {
+      "url": "https://app.bde.es/efs_www/eff_download_csv?concept=[0]&variable=[0]&statistic=[10]&population=[0]&category=[0]&rows=[0]&lang=ES&select_all=False",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:697b834dad879b8546ffcafd5ef5ba9b436c2ecfb0558ff57c6e26d545a9c8a2",
+      "bytes": 1065,
+      "contentType": "text/csv; charset=utf-8"
+    },
+    "eff-net-wealth-p90.csv": {
+      "url": "https://app.bde.es/efs_www/eff_download_csv?concept=[0]&variable=[0]&statistic=[11]&population=[0]&category=[0]&rows=[0]&lang=ES&select_all=False",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:54c57a670bbd76132187a84fbb911cae9c1f06fb656066cb018fe0812b190472",
+      "bytes": 1071,
+      "contentType": "text/csv; charset=utf-8"
+    }
+  }
+}

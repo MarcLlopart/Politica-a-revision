@@ -1,0 +1,1198 @@
+{
+  "id": "wealth-tax-filers",
+  "topic": "income",
+  "amountPer": "total",
+  "periodRef": "period",
+  "label": {
+    "es": "Patrimonio declarado (Impuesto sobre el Patrimonio)",
+    "en": "Wealth declared (wealth tax)",
+    "ca": "Patrimoni declarat (Impost sobre el Patrimoni)"
+  },
+  "population": {
+    "es": "declarantes del Impuesto sobre el Patrimonio",
+    "en": "wealth tax filers",
+    "ca": "declarants de l'Impost sobre el Patrimoni"
+  },
+  "note": {
+    "es": "Base imponible: patrimonio neto sujeto, tras deudas y sin bienes exentos. Solo declaran quienes deben pagar o tienen más de 2 millones en bienes, por lo que no es la distribución de toda la población. Sin País Vasco ni Navarra.",
+    "en": "Tax base: taxable net wealth, after debts and excluding exempt assets. Only people who owe tax or hold more than €2 million in assets file, so this is not the distribution of the whole population. Excludes the Basque Country and Navarre.",
+    "ca": "Base imposable: patrimoni net subjecte, després de deutes i sense béns exempts. Només declaren els qui han de pagar o tenen més de 2 milions en béns, de manera que no és la distribució de tota la població. Sense País Basc ni Navarra."
+  },
+  "calculation": {
+    "method": "AEAT, Estadística de los declarantes del Impuesto sobre el Patrimonio: filers and tax base by tax-base bracket (thousand euros). Mean = total base / filers.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "periods": [
+    {
+      "period": "2016",
+      "sourceId": "aeat-patrimonio-2016-base",
+      "extraSourceIds": [],
+      "total": 197768,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 36000,
+          "count": 1435,
+          "amount": 8236490
+        },
+        {
+          "lower": 36000,
+          "upper": 48000,
+          "count": 136,
+          "amount": 5653793
+        },
+        {
+          "lower": 48000,
+          "upper": 60000,
+          "count": 131,
+          "amount": 7079266
+        },
+        {
+          "lower": 60000,
+          "upper": 90000,
+          "count": 331,
+          "amount": 24553818
+        },
+        {
+          "lower": 90000,
+          "upper": 120000,
+          "count": 353,
+          "amount": 37173052
+        },
+        {
+          "lower": 120000,
+          "upper": 300000,
+          "count": 2283,
+          "amount": 478920296
+        },
+        {
+          "lower": 300000,
+          "upper": 1502000,
+          "count": 135390,
+          "amount": 123261462640
+        },
+        {
+          "lower": 1502000,
+          "upper": 6010000,
+          "count": 51077,
+          "amount": 131283905590
+        },
+        {
+          "lower": 6010000,
+          "upper": 30050000,
+          "count": 6053,
+          "amount": 65684416558
+        },
+        {
+          "lower": 30050000,
+          "upper": null,
+          "count": 579,
+          "amount": 38671868832
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 1817600.7763389426,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 441259.7442350703,
+          "method": "pareto"
+        },
+        "p25": {
+          "value": 710996.8698786711,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 1147080.4302448852,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 1662002.6929865128,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 3014935.669643531,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 4689017.222786362,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 13239767.866695613,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 1000000,
+          "shareAbove": 0.5851425594043548,
+          "countAbove": 115722
+        },
+        {
+          "amount": 3000000,
+          "shareAbove": 0.1007737311690442,
+          "countAbove": 19930
+        },
+        {
+          "amount": 5000000,
+          "shareAbove": 0.045130589411954684,
+          "countAbove": 8925
+        },
+        {
+          "amount": 10000000,
+          "shareAbove": 0.015347692235733117,
+          "countAbove": 3035
+        },
+        {
+          "amount": 30000000,
+          "shareAbove": 0.002934820620522289,
+          "countAbove": 580
+        }
+      ]
+    },
+    {
+      "period": "2017",
+      "sourceId": "aeat-patrimonio-2017-base",
+      "extraSourceIds": [],
+      "total": 202437,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 36000,
+          "count": 1439,
+          "amount": 7681137
+        },
+        {
+          "lower": 36000,
+          "upper": 48000,
+          "count": 131,
+          "amount": 5512977
+        },
+        {
+          "lower": 48000,
+          "upper": 60000,
+          "count": 141,
+          "amount": 7581551
+        },
+        {
+          "lower": 60000,
+          "upper": 90000,
+          "count": 312,
+          "amount": 23422862
+        },
+        {
+          "lower": 90000,
+          "upper": 120000,
+          "count": 368,
+          "amount": 38635106
+        },
+        {
+          "lower": 120000,
+          "upper": 300000,
+          "count": 2315,
+          "amount": 485144407
+        },
+        {
+          "lower": 300000,
+          "upper": 1502000,
+          "count": 137394,
+          "amount": 125559306260
+        },
+        {
+          "lower": 1502000,
+          "upper": 6010000,
+          "count": 53245,
+          "amount": 137115028941
+        },
+        {
+          "lower": 6010000,
+          "upper": 30050000,
+          "count": 6481,
+          "amount": 70888276875
+        },
+        {
+          "lower": 30050000,
+          "upper": null,
+          "count": 611,
+          "amount": 45837999766
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 1876972.0450411732,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 445870.9605153985,
+          "method": "pareto"
+        },
+        "p25": {
+          "value": 720121.0489899724,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 1158579.1303893316,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 1686982.456788267,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 3076920.8370009237,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 4805816.063377536,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 13765084.034900885,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 1000000,
+          "shareAbove": 0.5915807186377533,
+          "countAbove": 119758
+        },
+        {
+          "amount": 3000000,
+          "shareAbove": 0.10396804652258804,
+          "countAbove": 21047
+        },
+        {
+          "amount": 5000000,
+          "shareAbove": 0.04697007805652225,
+          "countAbove": 9508
+        },
+        {
+          "amount": 10000000,
+          "shareAbove": 0.016234581626090545,
+          "countAbove": 3286
+        },
+        {
+          "amount": 30000000,
+          "shareAbove": 0.0030260552434709298,
+          "countAbove": 613
+        }
+      ]
+    },
+    {
+      "period": "2018",
+      "sourceId": "aeat-patrimonio-2018-base",
+      "extraSourceIds": [],
+      "total": 206037,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 36000,
+          "count": 1536,
+          "amount": 7971891
+        },
+        {
+          "lower": 36000,
+          "upper": 48000,
+          "count": 145,
+          "amount": 6035428
+        },
+        {
+          "lower": 48000,
+          "upper": 60000,
+          "count": 135,
+          "amount": 7275960
+        },
+        {
+          "lower": 60000,
+          "upper": 90000,
+          "count": 369,
+          "amount": 27553741
+        },
+        {
+          "lower": 90000,
+          "upper": 120000,
+          "count": 345,
+          "amount": 36284458
+        },
+        {
+          "lower": 120000,
+          "upper": 300000,
+          "count": 2410,
+          "amount": 510735555
+        },
+        {
+          "lower": 300000,
+          "upper": 1502000,
+          "count": 140353,
+          "amount": 127751850164
+        },
+        {
+          "lower": 1502000,
+          "upper": 6010000,
+          "count": 53671,
+          "amount": 137940875692
+        },
+        {
+          "lower": 6010000,
+          "upper": 30050000,
+          "count": 6465,
+          "amount": 70552616712
+        },
+        {
+          "lower": 30050000,
+          "upper": null,
+          "count": 608,
+          "amount": 41984882925
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 1838631.3260530876,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 441123.2549481099,
+          "method": "pareto"
+        },
+        "p25": {
+          "value": 712049.3558706441,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 1150297.8115807183,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 1673527.2672964584,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 3041204.1716634505,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 4744148.347715645,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 13530383.020158775,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 1000000,
+          "shareAbove": 0.5865531782878535,
+          "countAbove": 120852
+        },
+        {
+          "amount": 3000000,
+          "shareAbove": 0.10212936136605447,
+          "countAbove": 21042
+        },
+        {
+          "amount": 5000000,
+          "shareAbove": 0.04602000277608915,
+          "countAbove": 9482
+        },
+        {
+          "amount": 10000000,
+          "shareAbove": 0.015841050763878903,
+          "countAbove": 3264
+        },
+        {
+          "amount": 30000000,
+          "shareAbove": 0.0029585015936738185,
+          "countAbove": 610
+        }
+      ]
+    },
+    {
+      "period": "2019",
+      "sourceId": "aeat-patrimonio-2019-base",
+      "extraSourceIds": [],
+      "total": 212284,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 36000,
+          "count": 1752,
+          "amount": 10897140
+        },
+        {
+          "lower": 36000,
+          "upper": 48000,
+          "count": 173,
+          "amount": 7224050
+        },
+        {
+          "lower": 48000,
+          "upper": 60000,
+          "count": 148,
+          "amount": 7939096
+        },
+        {
+          "lower": 60000,
+          "upper": 90000,
+          "count": 366,
+          "amount": 27705421
+        },
+        {
+          "lower": 90000,
+          "upper": 120000,
+          "count": 370,
+          "amount": 39176320
+        },
+        {
+          "lower": 120000,
+          "upper": 300000,
+          "count": 2358,
+          "amount": 495699051
+        },
+        {
+          "lower": 300000,
+          "upper": 1502000,
+          "count": 142193,
+          "amount": 130558353411
+        },
+        {
+          "lower": 1502000,
+          "upper": 6010000,
+          "count": 57024,
+          "amount": 146732531534
+        },
+        {
+          "lower": 6010000,
+          "upper": 30050000,
+          "count": 7199,
+          "amount": 78811226925
+        },
+        {
+          "lower": 30050000,
+          "upper": null,
+          "count": 701,
+          "amount": 50885718456
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 1919958.505605698,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 449194.2239267648,
+          "method": "pareto"
+        },
+        "p25": {
+          "value": 729816.2696631218,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 1172109.1352800447,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 1716569.4609054993,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 3145013.9772770707,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 4957549.801477621,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 14416030.300715122,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 1000000,
+          "shareAbove": 0.5988850206601756,
+          "countAbove": 127134
+        },
+        {
+          "amount": 3000000,
+          "shareAbove": 0.10742461582899748,
+          "countAbove": 22805
+        },
+        {
+          "amount": 5000000,
+          "shareAbove": 0.04935189755491251,
+          "countAbove": 10477
+        },
+        {
+          "amount": 10000000,
+          "shareAbove": 0.01732828491739859,
+          "countAbove": 3679
+        },
+        {
+          "amount": 30000000,
+          "shareAbove": 0.0033105192274935093,
+          "countAbove": 703
+        }
+      ]
+    },
+    {
+      "period": "2020",
+      "sourceId": "aeat-patrimonio-2020-base",
+      "extraSourceIds": [],
+      "total": 218991,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 36000,
+          "count": 1639,
+          "amount": 9698420
+        },
+        {
+          "lower": 36000,
+          "upper": 48000,
+          "count": 141,
+          "amount": 5861554
+        },
+        {
+          "lower": 48000,
+          "upper": 60000,
+          "count": 124,
+          "amount": 6709049
+        },
+        {
+          "lower": 60000,
+          "upper": 90000,
+          "count": 355,
+          "amount": 26654999
+        },
+        {
+          "lower": 90000,
+          "upper": 120000,
+          "count": 323,
+          "amount": 33760814
+        },
+        {
+          "lower": 120000,
+          "upper": 300000,
+          "count": 2477,
+          "amount": 526580015
+        },
+        {
+          "lower": 300000,
+          "upper": 1502000,
+          "count": 147125,
+          "amount": 134795954312
+        },
+        {
+          "lower": 1502000,
+          "upper": 6010000,
+          "count": 58612,
+          "amount": 151219965456
+        },
+        {
+          "lower": 6010000,
+          "upper": 30050000,
+          "count": 7471,
+          "amount": 81384845282
+        },
+        {
+          "lower": 30050000,
+          "upper": null,
+          "count": 724,
+          "amount": 51070596109
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 1913688.8091748063,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 449513.3704025229,
+          "method": "pareto"
+        },
+        "p25": {
+          "value": 727949.213233172,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 1169700.5290451092,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 1715857.3386470359,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 3157550.9960231693,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 4980310.212837352,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 14346108.077861687,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 1000000,
+          "shareAbove": 0.5974486437525035,
+          "countAbove": 130836
+        },
+        {
+          "amount": 3000000,
+          "shareAbove": 0.10803376294230994,
+          "countAbove": 23658
+        },
+        {
+          "amount": 5000000,
+          "shareAbove": 0.049698183804294103,
+          "countAbove": 10883
+        },
+        {
+          "amount": 10000000,
+          "shareAbove": 0.01726655333641054,
+          "countAbove": 3781
+        },
+        {
+          "amount": 30000000,
+          "shareAbove": 0.0033142220464932016,
+          "countAbove": 726
+        }
+      ]
+    },
+    {
+      "period": "2021",
+      "sourceId": "aeat-patrimonio-2021-base",
+      "extraSourceIds": [],
+      "total": 231367,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 36000,
+          "count": 1571,
+          "amount": 8527950
+        },
+        {
+          "lower": 36000,
+          "upper": 48000,
+          "count": 140,
+          "amount": 5740665
+        },
+        {
+          "lower": 48000,
+          "upper": 60000,
+          "count": 143,
+          "amount": 7681692
+        },
+        {
+          "lower": 60000,
+          "upper": 90000,
+          "count": 358,
+          "amount": 26837574
+        },
+        {
+          "lower": 90000,
+          "upper": 120000,
+          "count": 356,
+          "amount": 37314032
+        },
+        {
+          "lower": 120000,
+          "upper": 300000,
+          "count": 2442,
+          "amount": 523755477
+        },
+        {
+          "lower": 300000,
+          "upper": 1502000,
+          "count": 153773,
+          "amount": 141170506051
+        },
+        {
+          "lower": 1502000,
+          "upper": 6010000,
+          "count": 63385,
+          "amount": 163738913254
+        },
+        {
+          "lower": 6010000,
+          "upper": 30050000,
+          "count": 8368,
+          "amount": 91959439973
+        },
+        {
+          "lower": 30050000,
+          "upper": null,
+          "count": 831,
+          "amount": 61566910309
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 1984058.344435464,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 455441.075662424,
+          "method": "pareto"
+        },
+        "p25": {
+          "value": 737768.0371879232,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 1183051.5100415929,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 1750632.7517974228,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 3244208.142076497,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 5159753.88730505,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 15208377.009614127,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 1000000,
+          "shareAbove": 0.6043916565625111,
+          "countAbove": 139836
+        },
+        {
+          "amount": 3000000,
+          "shareAbove": 0.11235393367261909,
+          "countAbove": 25995
+        },
+        {
+          "amount": 5000000,
+          "shareAbove": 0.052414183887937296,
+          "countAbove": 12127
+        },
+        {
+          "amount": 10000000,
+          "shareAbove": 0.0186730806560031,
+          "countAbove": 4320
+        },
+        {
+          "amount": 30000000,
+          "shareAbove": 0.0036007887762585823,
+          "countAbove": 833
+        }
+      ]
+    },
+    {
+      "period": "2022",
+      "sourceId": "aeat-patrimonio-2022-base",
+      "extraSourceIds": [],
+      "total": 230365,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 36000,
+          "count": 1610,
+          "amount": 8497684
+        },
+        {
+          "lower": 36000,
+          "upper": 48000,
+          "count": 138,
+          "amount": 5777179
+        },
+        {
+          "lower": 48000,
+          "upper": 60000,
+          "count": 147,
+          "amount": 7960540
+        },
+        {
+          "lower": 60000,
+          "upper": 90000,
+          "count": 317,
+          "amount": 23699280
+        },
+        {
+          "lower": 90000,
+          "upper": 120000,
+          "count": 340,
+          "amount": 35855979
+        },
+        {
+          "lower": 120000,
+          "upper": 300000,
+          "count": 2505,
+          "amount": 534180183
+        },
+        {
+          "lower": 300000,
+          "upper": 1502000,
+          "count": 150767,
+          "amount": 136712982977
+        },
+        {
+          "lower": 1502000,
+          "upper": 6010000,
+          "count": 64442,
+          "amount": 169798165568
+        },
+        {
+          "lower": 6010000,
+          "upper": 30050000,
+          "count": 9247,
+          "amount": 100571431527
+        },
+        {
+          "lower": 30050000,
+          "upper": null,
+          "count": 852,
+          "amount": 64413895269
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 2049410.4841707724,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 447905.2288806407,
+          "method": "pareto"
+        },
+        "p25": {
+          "value": 727224.0709435336,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 1184000.3457274963,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 1810853.4222332444,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 3468389.6564341895,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 5524164.265191558,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 15739443.56228815,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 1000000,
+          "shareAbove": 0.6012641823756096,
+          "countAbove": 138510
+        },
+        {
+          "amount": 3000000,
+          "shareAbove": 0.12314747884976157,
+          "countAbove": 28369
+        },
+        {
+          "amount": 5000000,
+          "shareAbove": 0.05824719693234576,
+          "countAbove": 13418
+        },
+        {
+          "amount": 10000000,
+          "shareAbove": 0.02006787292044114,
+          "countAbove": 4623
+        },
+        {
+          "amount": 30000000,
+          "shareAbove": 0.0037079787507175383,
+          "countAbove": 854
+        }
+      ]
+    },
+    {
+      "period": "2023",
+      "sourceId": "aeat-patrimonio-2023-base",
+      "extraSourceIds": [],
+      "total": 228575,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 36000,
+          "count": 1526,
+          "amount": -406545724
+        },
+        {
+          "lower": 36000,
+          "upper": 48000,
+          "count": 152,
+          "amount": 6381990
+        },
+        {
+          "lower": 48000,
+          "upper": 60000,
+          "count": 131,
+          "amount": 7078873
+        },
+        {
+          "lower": 60000,
+          "upper": 90000,
+          "count": 323,
+          "amount": 24168004
+        },
+        {
+          "lower": 90000,
+          "upper": 120000,
+          "count": 350,
+          "amount": 36757490
+        },
+        {
+          "lower": 120000,
+          "upper": 300000,
+          "count": 2425,
+          "amount": 515110913
+        },
+        {
+          "lower": 300000,
+          "upper": 1502000,
+          "count": 143136,
+          "amount": 133046566530
+        },
+        {
+          "lower": 1502000,
+          "upper": 6010000,
+          "count": 69537,
+          "amount": 184605297888
+        },
+        {
+          "lower": 6010000,
+          "upper": 30050000,
+          "count": 10130,
+          "amount": 110383135067
+        },
+        {
+          "lower": 30050000,
+          "upper": null,
+          "count": 865,
+          "amount": 66456267596
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 2164165.891401072,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 475565.9072985294,
+          "method": "pareto"
+        },
+        "p25": {
+          "value": 780846.9943737773,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 1244317.384154708,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 1937047.755713773,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 3727629.460395182,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 5868663.581394856,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 16517561.310139721,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 1000000,
+          "shareAbove": 0.6346005946473324,
+          "countAbove": 145054
+        },
+        {
+          "amount": 3000000,
+          "shareAbove": 0.13652035415587987,
+          "countAbove": 31205
+        },
+        {
+          "amount": 5000000,
+          "shareAbove": 0.06441284598922907,
+          "countAbove": 14723
+        },
+        {
+          "amount": 10000000,
+          "shareAbove": 0.021931400435480124,
+          "countAbove": 5013
+        },
+        {
+          "amount": 30000000,
+          "shareAbove": 0.0037949217078739085,
+          "countAbove": 867
+        }
+      ]
+    },
+    {
+      "period": "2024",
+      "sourceId": "aeat-patrimonio-2024-base",
+      "extraSourceIds": [],
+      "total": 227424,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 36000,
+          "count": 1479,
+          "amount": -1252650842
+        },
+        {
+          "lower": 36000,
+          "upper": 48000,
+          "count": 139,
+          "amount": 5835096
+        },
+        {
+          "lower": 48000,
+          "upper": 60000,
+          "count": 148,
+          "amount": 7926418
+        },
+        {
+          "lower": 60000,
+          "upper": 90000,
+          "count": 319,
+          "amount": 23751320
+        },
+        {
+          "lower": 90000,
+          "upper": 120000,
+          "count": 302,
+          "amount": 31649472
+        },
+        {
+          "lower": 120000,
+          "upper": 300000,
+          "count": 2306,
+          "amount": 488397561
+        },
+        {
+          "lower": 300000,
+          "upper": 1502000,
+          "count": 136305,
+          "amount": 126839989372
+        },
+        {
+          "lower": 1502000,
+          "upper": 6010000,
+          "count": 74001,
+          "amount": 198923936412
+        },
+        {
+          "lower": 6010000,
+          "upper": 30050000,
+          "count": 11402,
+          "amount": 123396371543
+        },
+        {
+          "lower": 30050000,
+          "upper": null,
+          "count": 1023,
+          "amount": 74907611262
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 2301308.646466512,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 485986.5666603974,
+          "method": "pareto"
+        },
+        "p25": {
+          "value": 804005.0805496447,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 1284674.8731727554,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 2078072.3158897248,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 4059993.712083233,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 6361733.749072488,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 17909908.520437874,
+          "method": "pareto"
+        },
+        "mode": null
+      },
+      "thresholds": [
+        {
+          "amount": 1000000,
+          "shareAbove": 0.6509287685891191,
+          "countAbove": 148037
+        },
+        {
+          "amount": 3000000,
+          "shareAbove": 0.153094849907446,
+          "countAbove": 34817
+        },
+        {
+          "amount": 5000000,
+          "shareAbove": 0.0732557191278516,
+          "countAbove": 16660
+        },
+        {
+          "amount": 10000000,
+          "shareAbove": 0.024723140621681648,
+          "countAbove": 5623
+        },
+        {
+          "amount": 30000000,
+          "shareAbove": 0.004509728918229448,
+          "countAbove": 1026
+        }
+      ]
+    }
+  ]
+}

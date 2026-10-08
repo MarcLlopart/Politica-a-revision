@@ -1,0 +1,10 @@
+{"Id":19607, "COD":"EDES19607", "Operacion":{"Id":406, "Cod_IOE":"30324", "Nombre":"Estimacion del numero de defunciones semanales (EDeS)", "Codigo":"EDES", "Url":"https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177074&idp=1254735573002"}
+, "Nombre":"Total Nacional. Total. Todas las edades. Dato base. ", "Decimales":0, "Periodicidad":{"Id":1, "Nombre":"Mensual", "Codigo":"M"}
+, "Publicacion":{"Id":632, "Nombre":"Estimación del número de defunciones mensuales", "Periodicidad":{"Id":1, "Nombre":"Mensual", "Codigo":"M"}
+, "Operacion":[{"Id":406, "Cod_IOE":"30324", "Nombre":"Estimacion del numero de defunciones semanales (EDeS)", "Codigo":"EDES", "Url":"https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177074&idp=1254735573002"}
+]
+, "PubFechaAct":{"Id":12818, "Nombre":"Estimación del número de defunciones mensuales. Julio 2026", "Fecha":1789542000000, "FK_Periodo":7, "Anyo":2026}
+}
+, "FK_Clasificacion":null, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":3, "Nombre":"Personas", "Codigo":null, "Abrev":null}
+}

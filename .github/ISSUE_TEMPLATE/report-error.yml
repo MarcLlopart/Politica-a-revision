@@ -1,0 +1,34 @@
+name: Report an error / Informar de un error / Informar d'un error
+description: A number, quote, source or assessment looks wrong.
+labels: ["correction"]
+body:
+  - type: input
+    id: item
+    attributes:
+      label: Item / Elemento / Element
+      description: The card, indicator or proposal (prefilled when you use the link on a card).
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page / Página / Pàgina
+      description: Address of the page where you saw it.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong? / ¿Qué está mal? / Què està malament?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence / Evidencia / Evidència
+      description: The correct value and where it is published (link to the official source if possible).
+  - type: checkboxes
+    id: neutrality
+    attributes:
+      label: Scope
+      options:
+        - label: This report is about accuracy or sourcing, not about which party is right.
+          required: true

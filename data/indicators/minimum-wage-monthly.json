@@ -1,0 +1,92 @@
+{
+  "id": "minimum-wage-monthly",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 2,
+  "label": {
+    "es": "Salario mínimo interprofesional (al mes, 14 pagas)",
+    "en": "Minimum wage (per month, 14 payments)",
+    "ca": "Salari mínim interprofessional (al mes, 14 pagues)"
+  },
+  "note": {
+    "es": "Cuantía fijada por real decreto para cada año. En 2021 fue de 950 € hasta agosto y de 965 € desde septiembre; se muestra la segunda.",
+    "en": "Amount set by royal decree for each year. In 2021 it was €950 until August and €965 from September; the latter is shown.",
+    "ca": "Quantia fixada per reial decret per a cada any. El 2021 va ser de 950 € fins a l'agost i de 965 € des del setembre; es mostra la segona."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Monthly amount in article 1 of each year's Real Decreto on the salario mínimo interprofesional, read from the official BOE XML.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2016",
+      "value": 655.2,
+      "sourceId": "boe-boe-a-2015-14273",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 707.7,
+      "sourceId": "boe-boe-a-2016-12598",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 735.9,
+      "sourceId": "boe-boe-a-2017-15848",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 900,
+      "sourceId": "boe-boe-a-2018-17773",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 950,
+      "sourceId": "boe-boe-a-2020-1652",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 965,
+      "sourceId": "boe-boe-a-2021-15770",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 1000,
+      "sourceId": "boe-boe-a-2022-2851",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 1080,
+      "sourceId": "boe-boe-a-2023-3982",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 1134,
+      "sourceId": "boe-boe-a-2024-2251",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 1184,
+      "sourceId": "boe-boe-a-2025-2576",
+      "status": "final"
+    },
+    {
+      "period": "2026",
+      "value": 1221,
+      "sourceId": "boe-boe-a-2026-3815",
+      "status": "final"
+    }
+  ]
+}

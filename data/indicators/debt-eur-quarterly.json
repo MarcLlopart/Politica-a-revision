@@ -1,0 +1,656 @@
+{
+  "id": "debt-eur-quarterly",
+  "topic": "public-finances",
+  "unit": "eur",
+  "frequency": "Q",
+  "decimals": 0,
+  "label": {
+    "es": "Deuda pública en euros",
+    "en": "Government debt in euros",
+    "ca": "Deute públic en euros"
+  },
+  "note": {
+    "es": "Euros corrientes, sin ajustar por inflación ni por el tamaño de la economía; la deuda en porcentaje del PIB es la medida que usan las reglas de la UE.",
+    "en": "Current euros, not adjusted for inflation or the size of the economy; debt as a share of GDP is the measure used by EU rules.",
+    "ca": "Euros corrents, sense ajustar per la inflació ni per la mida de l'economia; el deute en percentatge del PIB és la mesura que fan servir les regles de la UE."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "General government consolidated gross debt, million euros × 1,000,000, quarterly, Eurostat gov_10q_ggdebt (GD, S13).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000-Q1",
+      "value": 362694000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2000-Q2",
+      "value": 365743000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2000-Q3",
+      "value": 369100000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2000-Q4",
+      "value": 374557000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2001-Q1",
+      "value": 372830000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2001-Q2",
+      "value": 377138000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2001-Q3",
+      "value": 378281000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2001-Q4",
+      "value": 378883000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2002-Q1",
+      "value": 379002000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2002-Q2",
+      "value": 383191000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2002-Q3",
+      "value": 381131000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2002-Q4",
+      "value": 384145000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q1",
+      "value": 381976000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q2",
+      "value": 389134000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q3",
+      "value": 382788000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2003-Q4",
+      "value": 382775000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q1",
+      "value": 388781000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q2",
+      "value": 390340000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q3",
+      "value": 386682000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2004-Q4",
+      "value": 389888000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q1",
+      "value": 394722000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q2",
+      "value": 393037000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q3",
+      "value": 390459000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2005-Q4",
+      "value": 393479000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q1",
+      "value": 393984000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q2",
+      "value": 390270000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q3",
+      "value": 394583000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2006-Q4",
+      "value": 392132000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q1",
+      "value": 398734000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q2",
+      "value": 400012000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q3",
+      "value": 391300000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2007-Q4",
+      "value": 384662000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q1",
+      "value": 380270000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q2",
+      "value": 390638000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q3",
+      "value": 403722000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2008-Q4",
+      "value": 440621000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q1",
+      "value": 473710000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q2",
+      "value": 511173000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q3",
+      "value": 533678000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2009-Q4",
+      "value": 569535000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q1",
+      "value": 586851000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q2",
+      "value": 609032000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q3",
+      "value": 620541000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2010-Q4",
+      "value": 649153000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q1",
+      "value": 691086000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q2",
+      "value": 710840000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q3",
+      "value": 713895000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2011-Q4",
+      "value": 743043000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q1",
+      "value": 781571000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q2",
+      "value": 810956000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q3",
+      "value": 823547000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2012-Q4",
+      "value": 927813000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q1",
+      "value": 1000283000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q2",
+      "value": 1014644000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q3",
+      "value": 1024945000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2013-Q4",
+      "value": 1025805000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q1",
+      "value": 1053638000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q2",
+      "value": 1066327000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q3",
+      "value": 1073486000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q4",
+      "value": 1085165000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q1",
+      "value": 1095972000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q2",
+      "value": 1101278000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q3",
+      "value": 1111250000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q4",
+      "value": 1114129000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q1",
+      "value": 1136250000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q2",
+      "value": 1145229000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q3",
+      "value": 1146892000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q4",
+      "value": 1145655000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q1",
+      "value": 1166488000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q2",
+      "value": 1175560000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q3",
+      "value": 1177416000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q4",
+      "value": 1184148000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q1",
+      "value": 1200604000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q2",
+      "value": 1203667000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q3",
+      "value": 1215480000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q4",
+      "value": 1209742000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q1",
+      "value": 1232531000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q2",
+      "value": 1243205000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q3",
+      "value": 1239630000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q4",
+      "value": 1224364000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q1",
+      "value": 1259789000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q2",
+      "value": 1326196000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q3",
+      "value": 1343508000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q4",
+      "value": 1346916000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q1",
+      "value": 1395208000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q2",
+      "value": 1427032000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q3",
+      "value": 1434673000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q4",
+      "value": 1429404000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q1",
+      "value": 1456014000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q2",
+      "value": 1477522000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q3",
+      "value": 1505975000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q4",
+      "value": 1504105000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q1",
+      "value": 1536723000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q2",
+      "value": 1570119000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q3",
+      "value": 1578812000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q4",
+      "value": 1575377000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q1",
+      "value": 1614713000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q2",
+      "value": 1625668000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q3",
+      "value": 1635731000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q4",
+      "value": 1620573000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q1",
+      "value": 1667376000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q2",
+      "value": 1690906000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q3",
+      "value": 1709349000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q4",
+      "value": 1698225000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "final"
+    },
+    {
+      "period": "2026-Q1",
+      "value": 1739501000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "provisional"
+    }
+  ]
+}

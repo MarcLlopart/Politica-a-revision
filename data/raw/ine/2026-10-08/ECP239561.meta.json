@@ -1,0 +1,10 @@
+{"Id":239561, "COD":"ECP239561", "Operacion":{"Id":450, "Cod_IOE":"30282", "Nombre":"Estadística Continua de Población", "Codigo":"ECP", "Url":"https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177095&idp=1254735572981"}
+, "Nombre":"Total. Total Nacional. Total. Extranjero. Población. Número. ", "Decimales":6, "Periodicidad":{"Id":3, "Nombre":"Trimestral", "Codigo":"Q"}
+, "Publicacion":{"Id":610, "Nombre":"Estadística Continua de Población", "Periodicidad":{"Id":3, "Nombre":"Trimestral", "Codigo":"Q"}
+, "Operacion":[{"Id":450, "Cod_IOE":"30282", "Nombre":"Estadística Continua de Población", "Codigo":"ECP", "Url":"https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177095&idp=1254735572981"}
+]
+, "PubFechaAct":{"Id":12632, "Nombre":"Estadística Continua de Población 2026-07-01", "Fecha":1785999600000, "FK_Periodo":21, "Anyo":2026}
+}
+, "FK_Clasificacion":null, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":3, "Nombre":"Personas", "Codigo":null, "Abrev":null}
+}

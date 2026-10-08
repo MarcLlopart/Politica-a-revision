@@ -1,0 +1,212 @@
+{
+  "id": "revenue-irpf",
+  "topic": "public-finances",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "IRPF",
+    "en": "Personal income tax (IRPF)",
+    "ca": "IRPF"
+  },
+  "note": {
+    "es": "Ingresos netos gestionados por la AEAT, en euros corrientes. Excluye tributos forales de País Vasco y Navarra, tributos locales y cotizaciones sociales.",
+    "en": "Net revenue managed by AEAT, current euros. Excludes Basque and Navarre foral taxes, local taxes and social contributions.",
+    "ca": "Ingressos nets gestionats per l'AEAT, en euros corrents. Exclou els tributs forals del País Basc i Navarra, els tributs locals i les cotitzacions socials."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Net revenue from personal income tax (IRPF), as published by AEAT.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "1995",
+      "value": 31418088000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "1996",
+      "value": 31673812000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "1997",
+      "value": 33366724000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "1998",
+      "value": 34087289000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "1999",
+      "value": 35459666000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2000",
+      "value": 36765909000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 41371435000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 44343556000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 46451272000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 47722336000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 54722604000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 62813059000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 72614266000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 71341144000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 63856924000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 66977058000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 69803319000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 70618603000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 69951546000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 72661876000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 72345522000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 72415935000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 77037657000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 82858655000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 86892207000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 87971623000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 94545865000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 109485423000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 120280380000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 129408301000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 142465653000,
+      "sourceId": "aeat-recaudacion-tributaria",
+      "status": "final"
+    }
+  ]
+}

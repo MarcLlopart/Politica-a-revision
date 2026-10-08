@@ -1,0 +1,10 @@
+{"Id":88299, "COD":"EAES88299", "Operacion":{"Id":121, "Cod_IOE":"30133", "Nombre":"Encuesta Cuatrienal de Estructura Salarial", "Codigo":"EAES:Q", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177025&idp=1254735976596"}
+, "Nombre":"Total Nacional. Dato base. Hombres. Jornada a tiempo completo. Operadores de instalaciones y maquinaria, y montadores. Salario por hora. ", "Decimales":2, "Periodicidad":{"Id":105, "Nombre":"Cuatrienal", "Codigo":"C"}
+, "Publicacion":{"Id":87, "Nombre":"Encuesta de Estructura Salarial", "Periodicidad":{"Id":105, "Nombre":"Cuatrienal", "Codigo":"C"}
+, "Operacion":[{"Id":121, "Cod_IOE":"30133", "Nombre":"Encuesta Cuatrienal de Estructura Salarial", "Codigo":"EAES:Q", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177025&idp=1254735976596"}
+]
+, "PubFechaAct":{"Id":11890, "Nombre":"Encuesta de Estructura Salarial. Definitivos 2022", "Fecha":1733921100000, "FK_Periodo":451, "Anyo":2022}
+}
+, "FK_Clasificacion":null, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":7, "Nombre":"Euros", "Codigo":null, "Abrev":"€"}
+}

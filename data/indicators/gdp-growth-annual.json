@@ -1,0 +1,176 @@
+{
+  "id": "gdp-growth-annual",
+  "topic": "economy",
+  "unit": "percent_change",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Crecimiento del PIB real (anual)",
+    "en": "Real GDP growth (annual)",
+    "ca": "Creixement del PIB real (anual)"
+  },
+  "note": {
+    "es": "Serie Total Nacional de la Contabilidad Regional; coincide con la Contabilidad Nacional Anual.",
+    "en": "National total from INE's regional accounts; identical to the annual national accounts.",
+    "ca": "Sèrie Total Nacional de la Comptabilitat Regional; coincideix amb la Comptabilitat Nacional Anual."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Annual change in chain-linked volume GDP, as published by INE.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2001",
+      "value": 3.9191,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 2.7555,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 2.9393,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 3.1146,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 3.5512,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 4.0434,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 3.5335,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 0.7672,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": -3.7681,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 0.0941,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": -0.6399,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": -2.8651,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": -1.4274,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 1.5205,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 4.0608,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 2.9152,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 2.8961,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 2.3954,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 1.9612,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": -10.9401,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 6.6831,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 6.3703,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 2.3599,
+      "sourceId": "ine-cre47525",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 3.672,
+      "sourceId": "ine-cre47525",
+      "status": "provisional"
+    },
+    {
+      "period": "2025",
+      "value": 2.592,
+      "sourceId": "ine-cre47525",
+      "status": "provisional"
+    }
+  ]
+}

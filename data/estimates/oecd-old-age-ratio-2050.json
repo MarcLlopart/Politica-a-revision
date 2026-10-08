@@ -1,0 +1,29 @@
+{
+  "id": "oecd-old-age-ratio-2050",
+  "topic": "pensions",
+  "kind": "independent",
+  "label": {
+    "es": "Personas de 65 o más por cada 100 de 20 a 64 años, en 2050",
+    "en": "People aged 65+ per 100 aged 20–64, in 2050",
+    "ca": "Persones de 65 o més per cada 100 de 20 a 64 anys, el 2050"
+  },
+  "value": 74.2,
+  "unit": "ratio",
+  "period": "2050",
+  "definition": {
+    "es": "Proyección de Naciones Unidas (variante media) recogida por la OCDE. En 2025 era 35,9.",
+    "en": "United Nations projection (medium variant) reported by the OECD. In 2025 it was 35.9.",
+    "ca": "Projecció de les Nacions Unides (variant mitjana) recollida per l'OCDE. El 2025 era 35,9."
+  },
+  "publisher": "OECD",
+  "document": {
+    "title": "Pensions at a Glance 2025, Figure 1.5",
+    "url": "https://stat.link/ivoc6e",
+    "location": "Sheet g1-5, cell AH127",
+    "localPath": "sources/documents/oecd/ivoc6e.xlsx",
+    "fileHash": "sha256:4b89f5b11e1871f5cb6891286b8fb4c13166ddb4418e998ebde3fc73b4b283b1",
+    "retrievedAt": "2026-10-08"
+  },
+  "transcribedBy": "Research agent (Claude), checked against the downloaded document",
+  "checkedBy": []
+}

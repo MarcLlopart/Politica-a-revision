@@ -1,0 +1,165 @@
+{
+  "id": "cpi-index-annual",
+  "topic": "economy",
+  "unit": "index",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "IPC, media anual (2025 = 100)",
+    "en": "CPI, annual average (2025 = 100)",
+    "ca": "IPC, mitjana anual (2025 = 100)"
+  },
+  "yZero": false,
+  "periodRef": "period",
+  "calculation": {
+    "method": "General Consumer Price Index, annual average, base 2025 = 100, as published by INE (table 76144).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2002",
+      "value": 60.036,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 61.861,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 63.741,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 65.888,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 68.204,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 70.105,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 72.962,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 72.752,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 74.062,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 76.429,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 78.298,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 79.401,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 79.281,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 78.885,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 78.725,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 80.265,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 81.609,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 82.18,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 81.915,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 84.448,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 91.534,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 94.768,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 97.397,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 100,
+      "sourceId": "ine-ipc318623",
+      "status": "final"
+    }
+  ]
+}

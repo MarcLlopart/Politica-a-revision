@@ -1,0 +1,158 @@
+{
+  "id": "home-not-warm",
+  "topic": "cost-of-living",
+  "unit": "percent",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "No pueden mantener la vivienda a una temperatura adecuada",
+    "en": "Cannot keep their home adequately warm",
+    "ca": "No poden mantenir l'habitatge a una temperatura adequada"
+  },
+  "note": {
+    "es": "Encuesta de Condiciones de Vida (EU-SILC). Cada año se refiere al momento de la entrevista; las preguntas sobre ingresos, al año anterior.",
+    "en": "EU Statistics on Income and Living Conditions (EU-SILC). Each year refers to the time of the interview; income questions refer to the previous year.",
+    "ca": "Enquesta de Condicions de Vida (EU-SILC). Cada any es refereix al moment de l'entrevista; les preguntes sobre ingressos, a l'any anterior."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Share of the population unable to keep the home adequately warm, Eurostat ilc_mdes01 (Spain).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2004",
+      "value": 9.5,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 9.4,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 10.1,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 8,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 5.9,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 7.2,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 7.5,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 6.5,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 9.1,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 8,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 11.1,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 10.6,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 10.1,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 8,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 9.1,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 7.5,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 10.9,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 14.2,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 17.1,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 20.8,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 17.5,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 15.9,
+      "sourceId": "eurostat-ilc-mdes01-total-total-es",
+      "status": "final"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "id": "taxes-contributions-eur",
+  "topic": "public-spending",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Impuestos y cotizaciones sociales (euros)",
+    "en": "Taxes and social contributions (euros)",
+    "ca": "Impostos i cotitzacions socials (euros)"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Taxes and net social contributions received by general government (D2+D5+D91+D61 minus amounts assessed but unlikely to be collected), million euros converted to euros, Eurostat gov_10a_taxag (S13).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 218817000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 234898000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 254563000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 271477000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 298619000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 333121000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 368060000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 398830000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 364113000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 326230000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 344424000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 340164000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 342001000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 346904000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 357373000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 371308000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 380816000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 400151000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 423513000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 438341000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 418942000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 468318000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 510862000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 551538000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 591679000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    }
+  ]
+}

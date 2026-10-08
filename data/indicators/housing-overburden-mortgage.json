@@ -1,0 +1,140 @@
+{
+  "id": "housing-overburden-mortgage",
+  "topic": "cost-of-living",
+  "unit": "percent",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Propietarios con hipoteca",
+    "en": "Owners with a mortgage",
+    "ca": "Propietaris amb hipoteca"
+  },
+  "note": {
+    "es": "Encuesta de Condiciones de Vida (EU-SILC). Cada año se refiere al momento de la entrevista; las preguntas sobre ingresos, al año anterior.",
+    "en": "EU Statistics on Income and Living Conditions (EU-SILC). Each year refers to the time of the interview; income questions refer to the previous year.",
+    "ca": "Enquesta de Condicions de Vida (EU-SILC). Cada any es refereix al moment de l'entrevista; les preguntes sobre ingressos, a l'any anterior."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Housing cost overburden rate, owners with a mortgage or loan, Eurostat ilc_lvho07c (Spain).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2007",
+      "value": 8.4,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 9.9,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 12.3,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 8.4,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 9.6,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 9.7,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 8.2,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 9,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 8.7,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 6.7,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 4.5,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 3.5,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 3.7,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 3,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 3.7,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 3.2,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 4.4,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 4.3,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 3.4,
+      "sourceId": "eurostat-ilc-lvho07c-own-l-es",
+      "status": "final"
+    }
+  ]
+}

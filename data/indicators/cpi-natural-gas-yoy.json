@@ -1,0 +1,645 @@
+{
+  "id": "cpi-natural-gas-yoy",
+  "topic": "cost-of-living",
+  "unit": "percent_change",
+  "frequency": "M",
+  "decimals": 1,
+  "label": {
+    "es": "Gas natural",
+    "en": "Natural gas",
+    "ca": "Gas natural"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Annual change in the Consumer Price Index, natural gas, national, as published by INE (table 76128).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2018-01",
+      "value": 5.3,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2018-02",
+      "value": 5.3,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2018-03",
+      "value": 5.3,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2018-04",
+      "value": -0.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2018-05",
+      "value": -0.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2018-06",
+      "value": -0.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2018-07",
+      "value": 4.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2018-08",
+      "value": 4.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2018-09",
+      "value": 4.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2018-10",
+      "value": 13.3,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2018-11",
+      "value": 13.3,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2018-12",
+      "value": 13.3,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2019-01",
+      "value": 2.9,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2019-02",
+      "value": 2.9,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2019-03",
+      "value": 2.9,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2019-04",
+      "value": 0.3,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2019-05",
+      "value": 0.3,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2019-06",
+      "value": 0.3,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2019-07",
+      "value": -2.8,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2019-08",
+      "value": -2.8,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2019-09",
+      "value": -2.8,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2019-10",
+      "value": -9.6,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2019-11",
+      "value": -9.6,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2019-12",
+      "value": -9.6,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2020-01",
+      "value": -8.9,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2020-02",
+      "value": -8.9,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2020-03",
+      "value": -8.9,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2020-04",
+      "value": -3.5,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2020-05",
+      "value": -3.5,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2020-06",
+      "value": -3.5,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2020-07",
+      "value": -8.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2020-08",
+      "value": -8.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2020-09",
+      "value": -8.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2020-10",
+      "value": -11.8,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2020-11",
+      "value": -11.8,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2020-12",
+      "value": -11.8,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2021-01",
+      "value": -3.9,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2021-02",
+      "value": -3.9,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2021-03",
+      "value": -3.9,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2021-04",
+      "value": -3.9,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2021-05",
+      "value": -3.9,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2021-06",
+      "value": -3.9,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2021-07",
+      "value": 4.2,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2021-08",
+      "value": 4.2,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2021-09",
+      "value": 4.2,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2021-10",
+      "value": 11.3,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2021-11",
+      "value": 11.3,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2021-12",
+      "value": 11.3,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2022-01",
+      "value": 12.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2022-02",
+      "value": 12.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2022-03",
+      "value": 12.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2022-04",
+      "value": 19.4,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2022-05",
+      "value": 19.4,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2022-06",
+      "value": 19.4,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2022-07",
+      "value": 23.8,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2022-08",
+      "value": 23.8,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2022-09",
+      "value": 23.8,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2022-10",
+      "value": 10.6,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2022-11",
+      "value": 10.6,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2022-12",
+      "value": 10.6,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2023-01",
+      "value": 11.8,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2023-02",
+      "value": 12.4,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2023-03",
+      "value": 10.2,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2023-04",
+      "value": -6.9,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2023-05",
+      "value": -7.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2023-06",
+      "value": -8.3,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2023-07",
+      "value": -15.4,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2023-08",
+      "value": -21.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2023-09",
+      "value": -23.3,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2023-10",
+      "value": -19,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2023-11",
+      "value": -19.7,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2023-12",
+      "value": -20.3,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2024-01",
+      "value": -19.7,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2024-02",
+      "value": -21,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2024-03",
+      "value": -20.2,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2024-04",
+      "value": -6.2,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2024-05",
+      "value": -6.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2024-06",
+      "value": -7.7,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2024-07",
+      "value": -7.9,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2024-08",
+      "value": -1.4,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2024-09",
+      "value": 1.6,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2024-10",
+      "value": 8.5,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2024-11",
+      "value": 9.4,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2024-12",
+      "value": 10.2,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2025-01",
+      "value": 5.9,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2025-02",
+      "value": 7.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2025-03",
+      "value": 8.4,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2025-04",
+      "value": -3.2,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2025-05",
+      "value": -3.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2025-06",
+      "value": 0.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2025-07",
+      "value": 0.4,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2025-08",
+      "value": 0.6,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2025-09",
+      "value": 0.6,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2025-10",
+      "value": 1.5,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2025-11",
+      "value": 1.7,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2025-12",
+      "value": 2,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2026-01",
+      "value": -2.3,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2026-02",
+      "value": -2.3,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2026-03",
+      "value": -5.8,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2026-04",
+      "value": -9.6,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2026-05",
+      "value": -9.7,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2026-06",
+      "value": 0.8,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2026-07",
+      "value": 4.1,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    },
+    {
+      "period": "2026-08",
+      "value": 4.4,
+      "sourceId": "ine-ipc291842",
+      "status": "final"
+    }
+  ]
+}

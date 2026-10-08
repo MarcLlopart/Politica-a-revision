@@ -1,0 +1,29 @@
+{
+  "id": "reserve-fund-2025",
+  "topic": "pensions",
+  "kind": "official",
+  "label": {
+    "es": "Fondo de Reserva de la Seguridad Social",
+    "en": "Social Security Reserve Fund",
+    "ca": "Fons de Reserva de la Seguretat Social"
+  },
+  "value": 14069810000,
+  "unit": "eur",
+  "period": "31-12-2025",
+  "definition": {
+    "es": "Saldo a 31 de diciembre de 2025 a precio de adquisición. Incluye lo aportado por el MEI desde 2023.",
+    "en": "Balance at 31 December 2025 at acquisition price. Includes MEI contributions since 2023.",
+    "ca": "Saldo a 31 de desembre de 2025 a preu d'adquisició. Inclou el que ha aportat el MEI des del 2023."
+  },
+  "publisher": "Ministerio de Inclusión, Seguridad Social y Migraciones",
+  "document": {
+    "title": "Fondo de Reserva de la Seguridad Social. Informe a las Cortes Generales, situación a 31 de diciembre de 2025",
+    "url": "https://www.seg-social.es/descarga/es/15072026",
+    "location": "p. 15",
+    "localPath": "sources/documents/ministerio-de-inclusion-seguridad-social-y-migraciones/15072026.pdf",
+    "fileHash": "sha256:5c8f6606c26ae8f813ed6d6be890fc6abe8ff7d82590b31576930998c736e27c",
+    "retrievedAt": "2026-10-08"
+  },
+  "transcribedBy": "Research agent (Claude), checked against the downloaded document",
+  "checkedBy": []
+}

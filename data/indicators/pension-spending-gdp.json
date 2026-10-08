@@ -1,0 +1,176 @@
+{
+  "id": "pension-spending-gdp",
+  "topic": "pensions",
+  "unit": "percent_gdp",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Gasto en pensiones",
+    "en": "Pension spending",
+    "ca": "Despesa en pensions"
+  },
+  "note": {
+    "es": "Definición armonizada europea (ESSPROS): jubilación, supervivencia, incapacidad y jubilación anticipada; incluye Clases Pasivas y pensiones no contributivas.",
+    "en": "Harmonised EU definition (ESSPROS): old-age, survivors', disability and early-retirement pensions; includes civil-service (Clases Pasivas) and non-contributory pensions.",
+    "ca": "Definició harmonitzada europea (ESSPROS): jubilació, supervivència, incapacitat i jubilació anticipada; inclou Classes Passives i pensions no contributives."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Expenditure on pensions, % of GDP, Eurostat spr_exp_pens (spdepb=TOTAL, spdepm=TOTAL).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2000",
+      "value": 9.39,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2001",
+      "value": 9.09,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2002",
+      "value": 9.04,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2003",
+      "value": 8.96,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2004",
+      "value": 8.93,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 8.87,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 8.77,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 9.02,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 9.25,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 10.13,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 10.58,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 11.08,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 11.83,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 12.57,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 12.74,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 12.54,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 12.52,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 12.35,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 12.47,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 12.63,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 14.39,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 13.77,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 12.98,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 13.16,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 13.23,
+      "sourceId": "eurostat-spr-exp-pens-es",
+      "status": "final"
+    }
+  ]
+}

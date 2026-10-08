@@ -1,0 +1,42 @@
+{
+  "id": "pay-ratio-occ-4",
+  "topic": "income",
+  "unit": "percent",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Empleados contables, administrativos y de oficina",
+    "en": "Clerical support workers",
+    "ca": "Empleats comptables, administratius i d'oficina"
+  },
+  "note": {
+    "es": "Salario por hora de las mujeres a jornada completa en % del de los hombres a jornada completa del mismo gran grupo de ocupación (100 = igual). Compara ocupaciones parecidas, no puestos idénticos: un gran grupo incluye puestos distintos (por ejemplo, dirección general y jefatura de departamento). Encuesta cuatrienal de Estructura Salarial (2018 y 2022). La cifra de todas las ocupaciones es más alta que la de cada grupo porque las mujeres a jornada completa están más a menudo en grupos mejor pagados.",
+    "en": "Full-time women's hourly pay as a % of full-time men's in the same major occupation group (100 = equal). It compares similar occupations, not identical jobs: a major group includes different jobs (for example, chief executives and department heads). Four-yearly Structure of Earnings Survey (2018 and 2022). The figure for all occupations is higher than each group's because women working full time are more often in better-paid groups.",
+    "ca": "Salari per hora de les dones a jornada completa en % del dels homes a jornada completa del mateix gran grup d'ocupació (100 = igual). Compara ocupacions semblants, no llocs idèntics: un gran grup inclou llocs diferents (per exemple, direcció general i cap de departament). Enquesta quadriennal d'Estructura Salarial (2018 i 2022). La xifra de totes les ocupacions és més alta que la de cada grup perquè les dones a jornada completa són més sovint en grups més ben pagats."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Full-time hourly pay of women ÷ men × 100, CNO-11 major group 4, INE Structure of Earnings Survey (table 36891).",
+    "formula": "women's hourly pay ÷ men's hourly pay × 100 (full time, same group)",
+    "inputs": [
+      "wage-hourly-ft-women-occ-4",
+      "wage-hourly-ft-men-occ-4"
+    ],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 89.2917,
+      "sourceId": "ine-eaes88336",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 88.1098,
+      "sourceId": "ine-eaes88336",
+      "status": "provisional"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pension-revaluation-2026",
+  "topic": "pensions",
+  "kind": "legal",
+  "label": {
+    "es": "Revalorización de las pensiones",
+    "en": "Pension revaluation",
+    "ca": "Revaloració de les pensions"
+  },
+  "value": 2.7,
+  "unit": "percent",
+  "period": "2026",
+  "definition": {
+    "es": "Media interanual del IPC de los doce meses hasta noviembre de 2025. Las pensiones mínimas y no contributivas suben más.",
+    "en": "Average year-on-year CPI over the twelve months to November 2025. Minimum and non-contributory pensions rise more.",
+    "ca": "Mitjana interanual de l'IPC dels dotze mesos fins al novembre de 2025. Les pensions mínimes i no contributives pugen més."
+  },
+  "publisher": "BOE",
+  "document": {
+    "title": "Real Decreto-ley 3/2026 (BOE-A-2026-2548)",
+    "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-2548",
+    "location": "Art. 2.1",
+    "localPath": "sources/documents/boe/boe-a-2026-2548.xml",
+    "fileHash": "sha256:11073bf9128afac96f5d35eb45e28e894e8e3a2ccd8c6393c06516845aa6f76b",
+    "retrievedAt": "2026-10-08"
+  },
+  "transcribedBy": "Research agent (Claude), checked against the downloaded document",
+  "checkedBy": []
+}

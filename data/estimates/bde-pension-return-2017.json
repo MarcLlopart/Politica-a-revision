@@ -1,0 +1,29 @@
+{
+  "id": "bde-pension-return-2017",
+  "topic": "pensions",
+  "kind": "independent",
+  "label": {
+    "es": "Pensión recibida por cada euro cotizado (jubilados de 2017)",
+    "en": "Pension received per euro contributed (2017 retirees)",
+    "ca": "Pensió rebuda per cada euro cotitzat (jubilats del 2017)"
+  },
+  "value": 1.74,
+  "unit": "ratio",
+  "period": "2017 cohort",
+  "definition": {
+    "es": "Media, en valor presente, de quienes se jubilaron en 2017 (mediana 1,54; rentabilidad real interna del 3,5 %). Cuenta como aportación el 64 % del tipo por contingencias comunes, la parte que de media se destina a jubilación.",
+    "en": "Average, in present value, for people who retired in 2017 (median 1.54; real internal rate of return 3.5%). It counts as contributions 64% of the common-contingencies rate, the share that on average goes to retirement.",
+    "ca": "Mitjana, en valor present, de qui es va jubilar el 2017 (mediana 1,54; rendibilitat real interna del 3,5 %). Compta com a aportació el 64 % del tipus per contingències comunes, la part que de mitjana es destina a jubilació."
+  },
+  "publisher": "Banco de España (M. Moraga, R. Ramos)",
+  "document": {
+    "title": "An estimate of Pension System financial returns, Economic Bulletin 3/2020",
+    "url": "https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/InformesBoletinesRevistas/ArticulosAnaliticos/20/T3/descargar/Files/be2003-art24e.pdf",
+    "location": "Table 3, p. 10",
+    "localPath": "sources/documents/banco-de-espana-m-moraga-r-ramos/be2003-art24e.pdf",
+    "fileHash": "sha256:59e60f387dd0583d31a5bf0a8b4e8a7bad20c3b52aa9377554c058270f424b22",
+    "retrievedAt": "2026-10-08"
+  },
+  "transcribedBy": "Research agent (Claude), checked against the downloaded document",
+  "checkedBy": []
+}

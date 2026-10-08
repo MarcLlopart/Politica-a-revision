@@ -1,0 +1,29 @@
+{
+  "id": "oecd-gross-replacement-rate",
+  "topic": "pensions",
+  "kind": "independent",
+  "label": {
+    "es": "Tasa bruta de sustitución (OCDE)",
+    "en": "Gross pension replacement rate (OECD)",
+    "ca": "Taxa bruta de substitució (OCDE)"
+  },
+  "value": 80.4,
+  "unit": "percent",
+  "period": "2024 entrants",
+  "definition": {
+    "es": "Pensión como porcentaje del salario para una persona de salario medio con carrera completa que empezó a trabajar en 2024, según las reglas actuales. Media de la OCDE: 52 %.",
+    "en": "Pension as a share of earnings for an average-wage worker with a full career starting in 2024, under current rules. OECD average: 52%.",
+    "ca": "Pensió com a percentatge del salari per a una persona de salari mitjà amb carrera completa que va començar a treballar el 2024, segons les regles actuals. Mitjana de l'OCDE: 52 %."
+  },
+  "publisher": "OECD",
+  "document": {
+    "title": "Pensions at a Glance 2025, Table 4.1",
+    "url": "https://stat.link/oeavq4",
+    "location": "Sheet t4-1, cell O14",
+    "localPath": "sources/documents/oecd/oeavq4.xlsx",
+    "fileHash": "sha256:6109369437a46ce0c66b663f9024132bcbf0b8c0093c81548cd5742464ff86ae",
+    "retrievedAt": "2026-10-08"
+  },
+  "transcribedBy": "Research agent (Claude), checked against the downloaded document",
+  "checkedBy": []
+}

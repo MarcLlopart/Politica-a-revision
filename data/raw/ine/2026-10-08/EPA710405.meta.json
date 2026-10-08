@@ -1,0 +1,11 @@
+{"Id":710405, "COD":"EPA710405", "Operacion":{"Id":293, "Cod_IOE":"30308", "Nombre":"Encuesta de Población Activa (EPA)", "Codigo":"EPA", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176918&idp=1254735976595"}
+, "Nombre":"2. Límite inferior. Salario bruto mensual del empleo principal. ", "Decimales":1, "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Publicacion":{"Id":348, "Nombre":"Encuesta de población activa. Decil de salarios del empleo principal", "Periodicidad":{"Id":12, "Nombre":"Anual", "Codigo":"A"}
+, "Url":"https://ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=resultados&idp=1254735976595#!tabs-1254736195128", "Operacion":[{"Id":293, "Cod_IOE":"30308", "Nombre":"Encuesta de Población Activa (EPA)", "Codigo":"EPA", "Url":"/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176918&idp=1254735976595"}
+]
+, "PubFechaAct":{"Id":11755, "Nombre":"Encuesta de población activa. Decil de salarios del empleo principal 2024", "Fecha":1763114400000, "FK_Periodo":28, "Anyo":2024, "Url":"https://ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=resultados&idp=1254735976595#!tabs-1254736195128"}
+}
+, "Clasificacion":{"Id":88, "Nombre":"Base 2021 (EPA)", "Fecha":1609455600000}
+, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":7, "Nombre":"Euros", "Codigo":null, "Abrev":"€"}
+}

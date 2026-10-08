@@ -1,0 +1,332 @@
+{
+  "id": "projected-share-65-plus",
+  "topic": "demographics",
+  "unit": "percent",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Población de 65 años o más (proyección INE 2026–2076)",
+    "en": "Population aged 65 and over (INE projection 2026–2076)",
+    "ca": "Població de 65 anys o més (projecció INE 2026–2076)"
+  },
+  "note": {
+    "es": "Proyección publicada en junio de 2026, no observación. 2026 es el año base.",
+    "en": "Projection published in June 2026, not an observation. 2026 is the base year.",
+    "ca": "Projecció publicada el juny de 2026, no observació. El 2026 és l'any base."
+  },
+  "yZero": true,
+  "periodRef": "start",
+  "calculation": {
+    "method": "Projected share of the population aged 65 and over on 1 January of each year, as published by INE (Proyecciones de Población 2026–2076).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2026",
+      "value": 21.0504,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2027",
+      "value": 21.357,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2028",
+      "value": 21.6814,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2029",
+      "value": 22.0402,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2030",
+      "value": 22.4587,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2031",
+      "value": 22.8561,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2032",
+      "value": 23.2619,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2033",
+      "value": 23.6967,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2034",
+      "value": 24.1187,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2035",
+      "value": 24.5492,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2036",
+      "value": 24.9874,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2037",
+      "value": 25.4377,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2038",
+      "value": 25.8991,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2039",
+      "value": 26.3576,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2040",
+      "value": 26.8379,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2041",
+      "value": 27.3149,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2042",
+      "value": 27.7914,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2043",
+      "value": 28.2325,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2044",
+      "value": 28.646,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2045",
+      "value": 28.9957,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2046",
+      "value": 29.3049,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2047",
+      "value": 29.5569,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2048",
+      "value": 29.7596,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2049",
+      "value": 29.9059,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2050",
+      "value": 30.0213,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2051",
+      "value": 30.102,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2052",
+      "value": 30.1549,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2053",
+      "value": 30.1873,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2054",
+      "value": 30.2102,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2055",
+      "value": 30.2199,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2056",
+      "value": 30.2184,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2057",
+      "value": 30.2092,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2058",
+      "value": 30.2054,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2059",
+      "value": 30.1814,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2060",
+      "value": 30.136,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2061",
+      "value": 30.0834,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2062",
+      "value": 30.0319,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2063",
+      "value": 29.9922,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2064",
+      "value": 29.9462,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2065",
+      "value": 29.9249,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2066",
+      "value": 29.9299,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2067",
+      "value": 29.9417,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2068",
+      "value": 29.9677,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2069",
+      "value": 30.0275,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2070",
+      "value": 30.107,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2071",
+      "value": 30.2009,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2072",
+      "value": 30.3194,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2073",
+      "value": 30.4483,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2074",
+      "value": 30.6108,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2075",
+      "value": 30.7481,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    },
+    {
+      "period": "2076",
+      "value": 30.8781,
+      "sourceId": "ine-prop7463",
+      "status": "final"
+    }
+  ]
+}

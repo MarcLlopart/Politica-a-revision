@@ -1,0 +1,116 @@
+{
+  "id": "gender-pay-gap-full-time",
+  "topic": "income",
+  "unit": "percent",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Sin ajustar: jornada completa",
+    "en": "Unadjusted: full time",
+    "ca": "Sense ajustar: jornada completa"
+  },
+  "note": {
+    "es": "Diferencia entre la ganancia media por hora de hombres y mujeres, en % de la de los hombres, entre quienes trabajan a jornada completa o a tiempo parcial. Sin ajustar: no compara puestos iguales.",
+    "en": "Difference between men's and women's average hourly earnings, as a % of men's, among people working full time or part time. Unadjusted: it does not compare like jobs.",
+    "ca": "Diferència entre el guany mitjà per hora d'homes i dones, en % del dels homes, entre qui treballa a jornada completa o a temps parcial. Sense ajustar: no compara llocs iguals."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Unadjusted gender pay gap in hourly earnings, full-time employees, as published by INE (Mujeres y Hombres en España, table 10891; Eurostat earn_gr_gpgr2wt).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2009",
+      "value": 11.6,
+      "sourceId": "ine-myh9027",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 10.2,
+      "sourceId": "ine-myh9027",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 12.7,
+      "sourceId": "ine-myh9027",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 13.9,
+      "sourceId": "ine-myh9027",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 13.4,
+      "sourceId": "ine-myh9027",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 9.6,
+      "sourceId": "ine-myh9027",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 10.2,
+      "sourceId": "ine-myh9027",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 10.6,
+      "sourceId": "ine-myh9027",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 8,
+      "sourceId": "ine-myh9027",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 6.5,
+      "sourceId": "ine-myh9027",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 3.8,
+      "sourceId": "ine-myh9027",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 3.2,
+      "sourceId": "ine-myh9027",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 3.4,
+      "sourceId": "ine-myh9027",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 2.9,
+      "sourceId": "ine-myh9027",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 1.1,
+      "sourceId": "ine-myh9027",
+      "status": "provisional"
+    }
+  ]
+}

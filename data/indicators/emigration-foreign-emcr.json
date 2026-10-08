@@ -1,0 +1,45 @@
+{
+  "id": "emigration-foreign-emcr",
+  "topic": "emigration",
+  "unit": "persons",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Nacionalidad extranjera",
+    "en": "Foreign nationality",
+    "ca": "Nacionalitat estrangera"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Emigration abroad of foreign nationals per year, as published by INE (EMCR, from 2021).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2021",
+      "value": 541333,
+      "sourceId": "ine-em1850018",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 390765,
+      "sourceId": "ine-em1850018",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 481794,
+      "sourceId": "ine-em1850018",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 524575,
+      "sourceId": "ine-em1850018",
+      "status": "final"
+    }
+  ]
+}

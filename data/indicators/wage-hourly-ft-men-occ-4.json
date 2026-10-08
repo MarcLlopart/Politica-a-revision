@@ -1,0 +1,33 @@
+{
+  "id": "wage-hourly-ft-men-occ-4",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 2,
+  "label": {
+    "es": "Empleados contables, administrativos y de oficina: hombres",
+    "en": "Clerical support workers: men",
+    "ca": "Empleats comptables, administratius i d'oficina: homes"
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Hourly pay of men working full time, CNO-11 major group 4, INE Structure of Earnings Survey (table 36891).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 11.86,
+      "sourceId": "ine-eaes88303",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 13.12,
+      "sourceId": "ine-eaes88303",
+      "status": "provisional"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "household-wealth-p90",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "P90",
+    "en": "P90",
+    "ca": "P90"
+  },
+  "note": {
+    "es": "Riqueza neta del hogar (activos menos deudas, sin vehículos). Encuesta Financiera de las Familias, una ola cada 2–3 años. Banco de España expresa todas las olas en euros de la última (2024).",
+    "en": "Household net wealth (assets minus debts, excluding vehicles). Survey of Household Finances, one wave every 2–3 years. Banco de España expresses all waves in euros of the latest wave (2024).",
+    "ca": "Riquesa neta de la llar (actius menys deutes, sense vehicles). Enquesta Financera de les Famílies, una onada cada 2–3 anys. El Banco de España expressa totes les onades en euros de l'última (2024)."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "PERCENTIL 90 of household net wealth, Banco de España Encuesta Financiera de las Familias (EFF download tool, statistic index 11), thousand euros converted to euros.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2002",
+      "value": 502338.1628,
+      "sourceId": "bde-eff-net-wealth-p90",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 738703.4876,
+      "sourceId": "bde-eff-net-wealth-p90",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 804686.1626,
+      "sourceId": "bde-eff-net-wealth-p90",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 664395.3061,
+      "sourceId": "bde-eff-net-wealth-p90",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 631450.8641,
+      "sourceId": "bde-eff-net-wealth-p90",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 637862.7025,
+      "sourceId": "bde-eff-net-wealth-p90",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 660374.939,
+      "sourceId": "bde-eff-net-wealth-p90",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 710360.615,
+      "sourceId": "bde-eff-net-wealth-p90",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 723510.2,
+      "sourceId": "bde-eff-net-wealth-p90",
+      "status": "final"
+    }
+  ]
+}

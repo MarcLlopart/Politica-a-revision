@@ -1,0 +1,80 @@
+{
+  "id": "household-wealth-mean",
+  "topic": "income",
+  "unit": "eur",
+  "frequency": "A",
+  "decimals": 0,
+  "label": {
+    "es": "Media",
+    "en": "Average",
+    "ca": "Mitjana"
+  },
+  "note": {
+    "es": "Riqueza neta del hogar (activos menos deudas, sin vehículos). Encuesta Financiera de las Familias, una ola cada 2–3 años. Banco de España expresa todas las olas en euros de la última (2024).",
+    "en": "Household net wealth (assets minus debts, excluding vehicles). Survey of Household Finances, one wave every 2–3 years. Banco de España expresses all waves in euros of the latest wave (2024).",
+    "ca": "Riquesa neta de la llar (actius menys deutes, sense vehicles). Enquesta Financera de les Famílies, una onada cada 2–3 anys. El Banco de España expressa totes les onades en euros de l'última (2024)."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "MEDIA of household net wealth, Banco de España Encuesta Financiera de las Familias (EFF download tool, statistic index 0), thousand euros converted to euros.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2002",
+      "value": 238133.7407,
+      "sourceId": "bde-eff-net-wealth-mean",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 363475.4175,
+      "sourceId": "bde-eff-net-wealth-mean",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 380411.3238,
+      "sourceId": "bde-eff-net-wealth-mean",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 331017.455,
+      "sourceId": "bde-eff-net-wealth-mean",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 303821.5064,
+      "sourceId": "bde-eff-net-wealth-mean",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 305172.6744,
+      "sourceId": "bde-eff-net-wealth-mean",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 326012.5104,
+      "sourceId": "bde-eff-net-wealth-mean",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 334666.5874,
+      "sourceId": "bde-eff-net-wealth-mean",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 344725.1072,
+      "sourceId": "bde-eff-net-wealth-mean",
+      "status": "final"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "ends-meet-great-difficulty",
+  "topic": "cost-of-living",
+  "unit": "percent",
+  "frequency": "A",
+  "decimals": 1,
+  "label": {
+    "es": "Con mucha dificultad",
+    "en": "With great difficulty",
+    "ca": "Amb molta dificultat"
+  },
+  "note": {
+    "es": "Encuesta de Condiciones de Vida (EU-SILC). Cada año se refiere al momento de la entrevista; las preguntas sobre ingresos, al año anterior.",
+    "en": "EU Statistics on Income and Living Conditions (EU-SILC). Each year refers to the time of the interview; income questions refer to the previous year.",
+    "ca": "Enquesta de Condicions de Vida (EU-SILC). Cada any es refereix al moment de l'entrevista; les preguntes sobre ingressos, a l'any anterior."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Share of the population in households making ends meet with great difficulty, Eurostat ilc_mdes09 (Spain).",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2004",
+      "value": 11.7,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2005",
+      "value": 11.1,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2006",
+      "value": 12.1,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2007",
+      "value": 11.1,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2008",
+      "value": 13.7,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2009",
+      "value": 16.2,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2010",
+      "value": 15.5,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2011",
+      "value": 11.1,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2012",
+      "value": 14.7,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2013",
+      "value": 18.6,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2014",
+      "value": 17.5,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2015",
+      "value": 14.8,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2016",
+      "value": 16.6,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2017",
+      "value": 9.5,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2018",
+      "value": 10.4,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2019",
+      "value": 7.8,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2020",
+      "value": 10,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2021",
+      "value": 8.8,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2022",
+      "value": 8.7,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2023",
+      "value": 9.4,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2024",
+      "value": 9.1,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 8.5,
+      "sourceId": "eurostat-ilc-mdes09-grt-total-total-es",
+      "status": "final"
+    }
+  ]
+}

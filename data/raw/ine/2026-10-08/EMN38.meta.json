@@ -1,0 +1,10 @@
+{"Id":38, "COD":"EMN38", "Operacion":{"Id":424, "Cod_IOE":"30323", "Nombre":"Estimación Mensual de Nacimientos", "Codigo":"EMN", "Url":"https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177079&idp=1254735573002"}
+, "Nombre":"Total Nacional. Total. Todas las edades. Acumulado en lo que va de año. ", "Decimales":0, "Periodicidad":{"Id":1, "Nombre":"Mensual", "Codigo":"M"}
+, "Publicacion":{"Id":562, "Nombre":"Estimación Mensual de Nacimientos", "Periodicidad":{"Id":1, "Nombre":"Mensual", "Codigo":"M"}
+, "Url":"https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177079&idp=1254735573002", "Operacion":[{"Id":424, "Cod_IOE":"30323", "Nombre":"Estimación Mensual de Nacimientos", "Codigo":"EMN", "Url":"https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177079&idp=1254735573002"}
+]
+, "PubFechaAct":{"Id":12826, "Nombre":"Estimación Mensual de Nacimientos. Julio 2026", "Fecha":1789542000000, "FK_Periodo":7, "Anyo":2026, "Url":"https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177079&idp=1254735573002"}
+}
+, "FK_Clasificacion":null, "Escala":{"Id":1, "Nombre":" ", "Factor":"1E0", "Codigo":null, "Abrev":null}
+, "Unidad":{"Id":3, "Nombre":"Personas", "Codigo":null, "Abrev":null}
+}

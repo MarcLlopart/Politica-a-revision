@@ -1,0 +1,1908 @@
+{
+  "files": {
+    "CNTR6654.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/CNTR6654?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:1890081cc516c73f55083f892c8883424fe56a9690f690a5f9d51cf84b43c5ec",
+      "bytes": 12880,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "CNTR6654.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/CNTR6654?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:d832014ccc11c2b124acf0bb7dba08a10e45f379ab317f36f685061c57280fb0",
+      "bytes": 1562,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "CRE47377.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/CRE47377?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2cdb0f398f26b6a2edd5f3e40f88990bfe574bf4ad7bb4e18a51b72dcaf84b45",
+      "bytes": 3276,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "CRE47377.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/CRE47377?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:057cc47ebd845ecc395fe9a7c008ce96bbeb4db9893ca0e1ffbbf56caa5f45b1",
+      "bytes": 1146,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "CRE47525.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/CRE47525?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:561b5c6940984f97fc474e5b8dd4944b494e006bb57102ce228f63e52de3f32e",
+      "bytes": 3211,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "CRE47525.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/CRE47525?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:d6857a07f970a9628425ce11aa9b353c66bb055657d3a91b8e5466765f2c8963",
+      "bytes": 1173,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES1552.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES1552?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:27e01857b57193f39f81281a0cb2826812dfb7b8e4600f2f05c154cc9149c4e6",
+      "bytes": 2197,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES1552.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES1552?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:60127c1c60d7837f92192d712456f2fe7920df944ca1f9f47bc9e9e8f62d8ee2",
+      "bytes": 1059,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES1570.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES1570?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b92c79a2e0fdf3a726afad25587aea93069dce73787abc6d7b9d04e2c09bab3c",
+      "bytes": 2198,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES1570.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES1570?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:106c163a3e049bfda89b399daf1b7b11a61d15cfaa60e2600d6ac5fb21b95639",
+      "bytes": 1059,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES1588.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES1588?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:12d6b2d2eb205053cf1f9b4ff4c6aac813adfcf6e3b8f4563d8de6ca12d5b153",
+      "bytes": 2198,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES1588.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES1588?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:a9539580df499da15e04006ded3d3619e43fb9c57cf7247c970a57bf928d57d1",
+      "bytes": 1059,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES1606.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES1606?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:3016aea290291b7d486388e21be19c5f6154efc874bce54c30bf42d16e45598a",
+      "bytes": 2195,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES1606.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES1606?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:513507ffb70f1755d6b9f45168f3339684c78e678632dfe133d421be88af7b4a",
+      "bytes": 1058,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES1624.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES1624?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:5b1c18d50a8d5671b44981b0a874a9ea361a694adde3b8dcbf063c7c3054db39",
+      "bytes": 2199,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES1624.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES1624?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:9517411b9368708fa054c2839782da3dd4f447a054350746493b587d0a181044",
+      "bytes": 1060,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES522.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES522?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:84d06d6e65c5018d8a116fb9ba9bb552f10be9bfdabbf8a0366c3b4b973da090",
+      "bytes": 2162,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES522.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES522?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:e3c331e00987ee2ffbf5a6d35d3f055aef1bfbbb1d2ce17673e20af7750fcb23",
+      "bytes": 1023,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES525.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES525?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:9382a5eecb75c4540d802818f02b60df6c13787bafef53d9e998bc10f766ac28",
+      "bytes": 2163,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES525.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES525?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:104ef540d66b9c0a9868c8f66eead02677776b1b220c7a093096421581d4715b",
+      "bytes": 1021,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES630.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES630?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:95cdde277c0bc6bcb53b241c62bc35ec91a167e97e5320f1df551cb4052cc662",
+      "bytes": 2163,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES630.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES630?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:674d72226e406cf7ca780c4b0d0691b528978a4e15d4ac941ff56c120ba2418b",
+      "bytes": 1023,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES633.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES633?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:5cd0d2a2f8179786c5b0ad6b09ef19a9d48f72ff0e6f28c1409a4609f9632b26",
+      "bytes": 2162,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES633.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES633?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:75454ad15ff3f140cd6a9b1aa65c286375d5bd2711bf6230e42cef7182932339",
+      "bytes": 1021,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES736.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES736?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b1a335598a35ee788a7b4c130dbe82874057e633f38be63c2d12c96f24227d7c",
+      "bytes": 2172,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES736.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES736?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:324f50c9c235ac7d92d4aef1b3d64bd934f39b48f3ea81d501ab9d64d46d28a1",
+      "bytes": 1032,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES737.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES737?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:3c0ea034de595a1d3bb5495c5ffb5ccad4e7c70b22968b5a5da47b2f5684ec77",
+      "bytes": 2176,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES737.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES737?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:69a12ee107fda15a7fc972186f57d0d9713b55a0908ca46a078139e7c42b9c1a",
+      "bytes": 1036,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES738.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES738?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:e9bd39d9792c1012643db13539c0452e97ddff02c93590573162808c2fa3d851",
+      "bytes": 2167,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES738.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES738?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:1c55e69acf68c96ff3ba67554dd9850375e353ed7cb49836adecbcd18cc63cfd",
+      "bytes": 1027,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES739.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES739?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:bb08aa8cdfe07a47c8288da58ca0df763b65cb1804b2ef7c18ca342cd3feae80",
+      "bytes": 2178,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES739.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES739?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:266bf8644c586540e7a87480b9f81d4b7ac9932e790bde0964cfb571d23dc31b",
+      "bytes": 1036,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES740.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES740?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:e24c8672d7888807ebf3254435e4c7d47d252a1915386281914e01481ce7f42a",
+      "bytes": 2158,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES740.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES740?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:8fde12d6899b3f5aacd8518fb8b9ab2a18bf4f76442df7ff3433f5e28e584105",
+      "bytes": 1032,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES741.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES741?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:a5a48d034512a5d2870fb353530c1ddb3e2d1a7e6e637fc2302992f4bfd1ed0b",
+      "bytes": 2164,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES741.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES741?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2370a1980d86f8effdc529f64fa568164616cb7f0ca05f9d1606bfb6fd4910af",
+      "bytes": 1025,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88298.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88298?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:c0ef430b2d35d1c99681123eb83d1d03f54efd9596219b6d0040fa8983ac915e",
+      "bytes": 418,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88298.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88298?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:c7f27850ae1e63442b4976f1bc0f56ad4ec2675b48d91ee465addbb7de8c8605",
+      "bytes": 1102,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88299.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88299?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:1e15e1ef9484e1413e12729a3ec9100d448913864a245e8e4bf8fcf5d0372846",
+      "bytes": 451,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88299.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88299?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:d707c14b9274fef1bfd718e7b2911ae54fda4ca90fa5ad85701b611d8d9ed77f",
+      "bytes": 1133,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88300.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88300?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:139f0a02cd3273b888ff684f8f844cb6945fef296986723b12065838cc6e0add",
+      "bytes": 537,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88300.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88300?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:32fdfd98ea6dad424029430eef0651c7be27f73f10fbb22b7c50770afab8369a",
+      "bytes": 1219,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88302.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88302?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:7b1d857c3e4620b244b29749fe6ab56bf3aa4a9f76f36982fb31177c4c584b8f",
+      "bytes": 481,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88302.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88302?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:d4de85f7f0e7f49b3d44de2b38f9270b49b258e632e1a259eab7f0701e0d2e54",
+      "bytes": 1163,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88303.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88303?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:392df46269f3ff437b4fee86863a164a1ecc6389a85f548441b8f2633f96cd51",
+      "bytes": 462,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88303.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88303?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:7cb785c9f773055959e9b13c95b578ecb38781f3544a93512a02bcb8dd79fd67",
+      "bytes": 1144,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88304.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88304?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:d8aef2772d11883d578ceb8a5ae3529544d3bc6a33cce3e57eea5b0008140cf6",
+      "bytes": 429,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88304.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88304?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:c0db86194f91131fc51586d30271fba0efecef58b2bcda2cde6d4d5300b7c8fe",
+      "bytes": 1112,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88305.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88305?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b2b8c125b2ad058b80be2c3bf03420570cb3b0286c8128b4df8adf5f2e991007",
+      "bytes": 451,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88305.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88305?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:0efbc077db033b1a21f8460af77eac40c3b3cf82c45cfb27279b15ab8ca641c5",
+      "bytes": 1133,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88306.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88306?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:19d7f7a8c088c72a4d25a8616dc826c8d7dc0a922b0f8b02f42ffcf089baf1d0",
+      "bytes": 418,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88306.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88306?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:4a42d5d6f9b88cafce5b78faa28152ba04b13db1bdb6cd092340a4cf9c786417",
+      "bytes": 1100,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88307.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88307?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:3d8fca5c03bdb18252cfdc7bdcb961c57dd6350e2ba669a157bb478e36e8d49c",
+      "bytes": 417,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88307.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88307?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b6e6f20980c8014e37f921797da682fba7e5930147c2e2fe72cfe2892ff77050",
+      "bytes": 1100,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88331.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88331?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2b5e8d9921dd132bcafd9f5459d30e04375b2af15115dc7977d98ec179063962",
+      "bytes": 417,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88331.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88331?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:a0d9f84bdadcfca187ca2c7963348d78e600a841ee09159da6b4c47ee93836d0",
+      "bytes": 1102,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88332.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88332?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:a7845a59ace30311e64cb257cba5b71eec81648038fba2c24b392acf82c1b17a",
+      "bytes": 450,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88332.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88332?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:680d3d75ec079188ae4632fffc01cce495ca4772f324b552c20683f252961910",
+      "bytes": 1133,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88333.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88333?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2519d0e5da487cc480cc45f730e45f2b6809de377d04f5cd0effe6bfad65cbbb",
+      "bytes": 535,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88333.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88333?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b1729631d3dd0e0d9c365ec560977031dfa28b793dd0f000b5879654cd5bf34a",
+      "bytes": 1219,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88335.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88335?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:19d205b92a281f65ab43cfc712dbf4a769c6ee29c41a5aa13b2f34a96c0255d4",
+      "bytes": 479,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88335.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88335?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:fd4a1eda62657394be97ea93eebea68f62895102fa8c751b10e951b47571dca3",
+      "bytes": 1163,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88336.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88336?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:bd77f94030f3b85a168ce8f0cf2c1661e8202bedf7bf742f8003caf1a2f46d9d",
+      "bytes": 462,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88336.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88336?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:98d7ea36f892c0ad0a5589a98878ed86df39eff9279dc79665fc02d855e292c6",
+      "bytes": 1144,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88337.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88337?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:f706288890d5eeb5632f55200c1e6ffe1c5687db9823bc80ee3d5163b88bbb81",
+      "bytes": 430,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88337.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88337?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:ef25be4a99f159b80f6631ec5110eef69a8aae500cb330f97c89006a9c511559",
+      "bytes": 1112,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88338.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88338?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:5d94c5e5b0b16b64a6efbd9abf6ef5a242e65cf5bcd7d6e4ab68bfe122029631",
+      "bytes": 450,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88338.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88338?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:f15683ce1153e867fbd859f26b4ad5c7254233fb9a0db0b78b9209ea6c1a6ac6",
+      "bytes": 1133,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88339.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88339?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2b338d05c45d5debef558316103342b80e2f6a82765b487da7cabc7123282ffc",
+      "bytes": 418,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88339.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88339?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:169c8b9f97cb872b2246dcf0ceaa27382d4d70fe243c30f18677385a00c45063",
+      "bytes": 1100,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88340.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EAES88340?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:8a021b2c315f410c01e7521d6ef436bd9044324d8e72967bf8b84d618bc4ee5a",
+      "bytes": 418,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EAES88340.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EAES88340?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:861a530830bc57ddc5d171e07fb74b5d2bb786a0f7cc59a0204e82b95d85a8ad",
+      "bytes": 1100,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "ECP239404.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/ECP239404?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:990511ce3039a8e200633d6c7285a452d245d715822b5faa0eb90f2e43a26851",
+      "bytes": 8277,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "ECP239404.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/ECP239404?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:4bce523b3d303a892f280cea264ab93ce94d9cc6e8352593d53670219b65ccb1",
+      "bytes": 1081,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "ECP239561.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/ECP239561?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:a4af94875d20b0b50fad44745a5b0668825bebcc9aca11dab73cb3c418dca601",
+      "bytes": 8283,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "ECP239561.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/ECP239561?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:517b9c78b4226a3460f4bdab979e5cb3cc52ce58bd383569677386db1ae0de80",
+      "bytes": 1081,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "ECP320.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/ECP320?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:9cf3a68d1364417d09103e832d3203a8157a20aa30203e81e58b5af763f7cca4",
+      "bytes": 9375,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "ECP320.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/ECP320?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:199d986ce981760d40eddfdc97ffc95a0669648744720a01256e1f5e105c521a",
+      "bytes": 1074,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "ECV2642.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/ECV2642?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:5cbdb5081924eb5a00ffcc58b848fcc713420d29128cfd2fc98f41e031178f4a",
+      "bytes": 2689,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "ECV2642.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/ECV2642?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b926912e418ae48fc5c9d9e5ec6a8745a62b763828675ce0904a627358cfed6b",
+      "bytes": 1039,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "ECV2643.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/ECV2643?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:11b1bb672d239d56b3ad71b92773b5c92fe3c290948f07020b454e4aed8df92c",
+      "bytes": 2700,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "ECV2643.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/ECV2643?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:d2d1bd2f0e4b84ebda29166138ce7cf4c798c3951c01ee797c9d54f4feaa34ec",
+      "bytes": 1029,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EDES19606.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EDES19606?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:672658827849fe436c2a2eabfd19f0016a3af0e8bf26ee16ec196fbdb850e5fa",
+      "bytes": 25845,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EDES19606.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EDES19606?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:38310a2b4cbd8d1a65844bdd63f4b90d1afbdd0a35c8ac7df801cdca2843b521",
+      "bytes": 1148,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EDES19607.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EDES19607?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:c04b21b1f7b8cdbdbc602c8af0efd5c1b949014a90d9f9cc8c3a3538d36746a0",
+      "bytes": 25649,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EDES19607.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EDES19607?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:80b7d166b45cb8810d49e379a4da89708a3a809d545357328437b91a969e8e71",
+      "bytes": 1127,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EM1770185.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EM1770185?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:70bfd13f907ee6f5c9f9d449f8c2d1af87bd6977c52928e44adca775f32e26fd",
+      "bytes": 658,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EM1770185.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EM1770185?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:13a49514d7574ea9e896ee4fae65b052e301e6498d434b4489264c3d59838ea6",
+      "bytes": 1157,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EM1848362.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EM1848362?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:e82290a914591b73f003720a0bf208a1c27e9b80d449cb742d2c176925b2dade",
+      "bytes": 657,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EM1848362.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EM1848362?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:7f204e8c3195ef0c4b5be0b2811e1d0ff365bcaebb3ac372dc41a799facb587c",
+      "bytes": 1159,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EM1848386.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EM1848386?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:8e8b147bbc7ba97b7d33fdb3fd910c83b4a659484b9c6455507fa87b46b413f4",
+      "bytes": 653,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EM1848386.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EM1848386?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:13f7ed13099d447d8c81695087e1dc8ea0d557da25ee8bbe8a13f03e9607c87d",
+      "bytes": 1155,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EM1850018.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EM1850018?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:70b87a4e62317e9ba03824a8f62bf7f39c62f9a722d5365692881b461990c281",
+      "bytes": 658,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EM1850018.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EM1850018?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:858293f3c9419a6636b312dfc2b0264a143d0e89ef49bc158388db152d1869d8",
+      "bytes": 1160,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EM2258843.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EM2258843?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:db232b631f7f19f688e34f56f96b82a9e6880065c8042c51ea14bc3252c2f9a0",
+      "bytes": 615,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EM2258843.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EM2258843?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:f4437f8db764f0f436e0fc28fe16a86bde161a67d23142e5d2e5b4397974d746",
+      "bytes": 1117,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EM798349.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EM798349?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:fc5b9ffbfb3362a94f8a1d0d6bf30562d4a590b4771080e13ed661db44d8f1af",
+      "bytes": 1833,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EM798349.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EM798349?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:6e0984e0001dc4724259347c85fcbc2ed3e4bdad8ef94face86abd6804fca5db",
+      "bytes": 1010,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EM802357.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EM802357?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:748d7b1489bb483b82860af665526cecfa59f4103a5cc65319504e7da458a304",
+      "bytes": 1858,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EM802357.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EM802357?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:85f309d41e3339a908761751c10ca12e7b44a9954460cb76d2ee6cd6511bbbcf",
+      "bytes": 1034,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EM999783.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EM999783?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:78f7a5721031381b41b59af9c5176caa67f6385e378a1e69b482c596e6417310",
+      "bytes": 1860,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EM999783.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EM999783?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:21cfe9d90b716112398827c3af8e6a0223bcabfafe2396a3d5c788a9d16bb07e",
+      "bytes": 1036,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EMN38.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EMN38?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:cd26173570db3f5c7394614195122a5c9dc3f0f1bc7bb11c05697c595be31a93",
+      "bytes": 19983,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EMN38.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EMN38?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:5156071f0a855752434e902498fe6a259f4f777562ca5431918c9fcc1e7de198",
+      "bytes": 1295,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EMN39.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EMN39?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:0ce812ae1ccdd327ca866e9497328d70cc2a2fb77a2dcabf1358ea09f71f926b",
+      "bytes": 19837,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EMN39.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EMN39?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:806c107e36d125363f8cc6ad5be40c7a014e3013a725f5154ed2af8322138cee",
+      "bytes": 1274,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA387796.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA387796?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:e5c8adffa025d32f9d6a9030e3fcfe3b665961614f619de969614d959759d982",
+      "bytes": 12210,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA387796.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA387796?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:1efe1a7885e7e7c598874672c2aa9ac636369270804d1c03a03d663b53bf1a44",
+      "bytes": 1094,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA388079.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA388079?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b6b1540b53c3c55109e5577dae4da4f857a5871aa4d3ba5a72861e7f91feb258",
+      "bytes": 11688,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA388079.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA388079?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:aa7b1a42be878c236aae46eed307ed3f07f2f8f14a44c657f7e2a3b318639a8c",
+      "bytes": 1079,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA396607.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA396607?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:fea59cba5b709ca7f7b91ec50b308a935f4735616ffd299cad5686082445af68",
+      "bytes": 11918,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA396607.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA396607?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:6e4ace930dfe7751541431f296df7f0c80a61b636bcb865d5a7ff2160f932437",
+      "bytes": 1101,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA396614.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA396614?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:dbf2211416082de4853d12cb4c0a4b69b12dd18327cc6e1e4249ff4e593a0ded",
+      "bytes": 6131,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA396614.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA396614?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:536a1c2f3933cfd0ab97f36025e0af4d733a594969bf52c9d51e32a26996854f",
+      "bytes": 1115,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400319.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA400319?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:1c8d9645cc1011e75669d22d2045aabdb0533383c360f16ae384804e80c1066e",
+      "bytes": 7541,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400319.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA400319?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2f8846f70bc994b6a4c284f6f9d5a15daaaaba61fca0595b04cd044c1f31c798",
+      "bytes": 1168,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400331.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA400331?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:4c13a780f73a4aa1e7b88c4318764484e89e73ee9c419b4fd24a3c0d83611a6d",
+      "bytes": 7664,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400331.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA400331?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:bc5faf75f575ddf4dcc4647976834a4ab135ec9c699afcb65fe3d670c824ead0",
+      "bytes": 1229,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400353.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA400353?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:0609dac89487dc84b229bd4e8a3536e278c51213df24e1082a8df33e5f2dc72e",
+      "bytes": 7578,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400353.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA400353?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:1d7ea5c59eaf5960355e14062c172955ef1d43920f0ac7f5476385fd090c1f44",
+      "bytes": 1143,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400367.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA400367?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:f9e400cb1caa6c146256211189c5ad86b5d50fdd088fca3b56c437a35047ae04",
+      "bytes": 7547,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400367.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA400367?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:d1e32977579801d4f7050fa05951e094272c35f289ef7241df5c85ee9060b11f",
+      "bytes": 1112,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400389.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA400389?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:e43124dfb983fad3ce773cabe1b3094d8b443d864e922f65d55dd47a3904c134",
+      "bytes": 7450,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400389.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA400389?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:a9671ec72b6bac7f789146efb0cb377dbd83cc0664a2d8b83721ffd1c29958f7",
+      "bytes": 1110,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400755.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA400755?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:da61cf3485586d9c993da499a96c000d2a8ff79b5d356de0a202dd78eb9b2353",
+      "bytes": 11911,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400755.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA400755?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:3fb588b0105f9192f3722d088a246a5d0be2d78fe43d0dad5b83813655663cca",
+      "bytes": 1094,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400757.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA400757?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:790703d784a24f71d7ffda14ca3d4a6704f685287491b7149e61adccb1007687",
+      "bytes": 7483,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400757.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA400757?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:8b570d3afbd8559c0c83917c73ac4ba0ca9d370823b17fdf5c9c66c43f66b5c2",
+      "bytes": 1110,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400771.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA400771?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:0b6b66f90529c2482031abcef1dac4357b26bc68dcdc0d2cadcf1b706fce64e6",
+      "bytes": 7578,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400771.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA400771?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b63645466099b9b40fb57d9186a0e76d30d57871e00217f2cadfb710565efbe7",
+      "bytes": 1143,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400795.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA400795?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:904108b5348a8cf2d0621e53ec51322e1c49bd404e1cf58288a48b86e01a93b5",
+      "bytes": 7557,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400795.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA400795?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:1130fbe75e2bbe6ed781991c2f9f073d138d486e2106a2da7dad2d482b2d6d93",
+      "bytes": 1122,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400815.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA400815?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:a6121bfaf4b452390d3c28efe76320f9594770ff788862d72d88359ece2b1a13",
+      "bytes": 7589,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400815.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA400815?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:92c04b8808ba623cadeeafc327cd2856a65a215898888cd298d2a5bd9cc531a6",
+      "bytes": 1154,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400831.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA400831?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:1843adfc137d8f8a3f5681b59443f3afa24a0fa02ff7c6c4201f3df52875716a",
+      "bytes": 7608,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA400831.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA400831?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2e822ad658171d6db3e442e740fd2516606aa55a68dddd133a13362a7592c840",
+      "bytes": 1173,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA416256.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA416256?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:8a7c57df5f5e49fa8db4025a590b09c5059c783e462b7fa2278ca78070f54c39",
+      "bytes": 11624,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA416256.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA416256?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:3101e99ad6304edba886a9d2b6eac19c9c93ab0bf24bfa72e3a9b951de54e787",
+      "bytes": 1099,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA423474.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA423474?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b1ecd9cf91b55eb470e7c545539d536d90dc98f8ed2f78c05d030c5f45f4fda8",
+      "bytes": 11989,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA423474.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA423474?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:9e73c53545288b4782b7374fc384bc3f485507e49fb46ef587d9b62e5f50d5f2",
+      "bytes": 1091,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA423488.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA423488?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:bf56874c8ecbb60d8b3268c5c23d315bb58c08bc83efc1d6de020f44582deeea",
+      "bytes": 11662,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA423488.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA423488?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b0f2d522cac6fa828fe4b929b54a8d4212aa70d5991cf0671895f55ded54e4a2",
+      "bytes": 1087,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA423501.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA423501?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:bf53a3b1b3ed55ace82ab462f67bdd053d7a389743b8169e33031d6fb22fff7e",
+      "bytes": 11699,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA423501.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA423501?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:7942cd321c319531018be9324bb62e770b13a03de431a76314555ae55dcb1c42",
+      "bytes": 1087,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA452436.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA452436?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:e97dede07b4da84ebbeba5bf414bfe9cde7df589fec15c5bb4683114415bf835",
+      "bytes": 11718,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA452436.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA452436?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b0f05cbb0209d38ad6cfd75d4794a0bc74848eeae64918b7460c73b1a5d85e7b",
+      "bytes": 1105,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA710405.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA710405?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:3394be947d547ed08198233ac61be6dc1a11a5ccfcbf127f416bdb0288c7f9a2",
+      "bytes": 2372,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA710405.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA710405?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:1c605ab3cdf37c857df3f69bcc3782ac8db454e6df79cd1c707421eba79a102b",
+      "bytes": 1433,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA710413.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA710413?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:d2a09b0280f1f6b9d1c692add821036d4cb4fbcaf064b649d762c22dbcf6102a",
+      "bytes": 2389,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA710413.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA710413?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:34d6b2245ef64cfee9489aee3455b5e07c17d4a28c4371facedf06cc7fd5d3e6",
+      "bytes": 1433,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA710421.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/EPA710421?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:08fbb887005c1333f6601578565b055325212d2e7b379df952f2849bfe794060",
+      "bytes": 2390,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "EPA710421.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/EPA710421?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:6809d1e10094c93e7d52fc620c0ba6a8f6785efc93e4a85e2284c626c54b52bc",
+      "bytes": 1434,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IDB53241.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IDB53241?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:c43b2f8a29f1c30be0cab1f8f1421ef2e1220a3695ebf84dc65730d0e4d82ebb",
+      "bytes": 3195,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IDB53241.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IDB53241?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:86b0931b89f7cd3591825cfac892314e595a6d5fb371c75856bab89f81d1337c",
+      "bytes": 1039,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IDB53772.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IDB53772?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:1877ae78c6a6fed0993fbbfb826f47eee48c58e19c7e17c9c23bcb1e88ca1d40",
+      "bytes": 3044,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IDB53772.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IDB53772?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:07a2039e226abb82d7b0ee3cdc79129389634ad9cd4a23282dac90af65477582",
+      "bytes": 992,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IDB54552.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IDB54552?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:becceb8afc73b28b0b9dc136ceec115b3438ef4be95901efc60b512d9324e742",
+      "bytes": 3044,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IDB54552.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IDB54552?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:d2f904974a059efbf4ca50d1b51cc92db6fa1368022470166299009a837aa72f",
+      "bytes": 992,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IDB55727.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IDB55727?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:08f9c0a68cf184e0155969624a19742d883454a833cc2df66e4e789ce04e3196",
+      "bytes": 3198,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IDB55727.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IDB55727?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:32bcdc59cc86ee5b476a392a67584f12400fc7d414f5fe8487846011d496a9d0",
+      "bytes": 1039,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IDB72160.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IDB72160?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:4292a27bcdfd845b8c2eb0006c0e4bcca102836c3c3a33c51124a181f43ce724",
+      "bytes": 3038,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IDB72160.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IDB72160?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:ceccf88e463816a0aebafcd6c1ee84f2536bda139a0db745441aecef33bf28e8",
+      "bytes": 1011,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IDB85061.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IDB85061?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:c0dd67350447ace5abf0c64bb23ad7afb84696d9599b4ba1bb256b56cec34fae",
+      "bytes": 3289,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IDB85061.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IDB85061?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:d07661a64a1e1bbf59af3d67bf8cdc88adaed4ef362430e61b2aa764cb3a2ee6",
+      "bytes": 1131,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290750.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC290750?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:6c24b4bd2b20e011a175aa85eee999e38dc7bf6c29883b8500a734e555b49f19",
+      "bytes": 37725,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290750.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC290750?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:31698a433029b7b568d20d44a968f5a16cdce4782e9d22699f50615b15c52619",
+      "bytes": 1072,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290751.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC290751?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:ea6b1010bb81505878754732db99f0c404135cd83fc957e49677d54a5eb7ee46",
+      "bytes": 35621,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290751.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC290751?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:dfb0f24b8989143544d404ad7b4864d98dc8a7194db32f6213a203bac51c5fda",
+      "bytes": 1065,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290754.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC290754?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:e52e9e99f8791a199acc2f8b88a50662dafe625cd0302c8d2b666f9cf31232d5",
+      "bytes": 34821,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290754.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC290754?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:8cf59d9f971d3cc8f6084f4f33194aeb0d18530e73b7a4357071ed0b7221caec",
+      "bytes": 1092,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290755.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC290755?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b05af13a955fe592198373250de5965eab90b3f42149b68b213f138d745712c5",
+      "bytes": 35647,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290755.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC290755?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:e2da0c7c518f235e4e6a066a43e9b6d30c94b86ca0cffd4acf0e32e2290e3da6",
+      "bytes": 1085,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290759.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC290759?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:764dd300045a4c669d052cbf02b2333e5e1905470b2022dcd1739132ee1a7501",
+      "bytes": 35644,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290759.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC290759?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:9461300b88d82927b6e3ad6303e3778022cf06704f624517f49b535132cddc3e",
+      "bytes": 1067,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290763.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC290763?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:05ef61d73a2c7c8b195f67b113e73e22cbc6b4c593be9c567c807253e043cdd2",
+      "bytes": 35667,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290763.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC290763?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:8a6ec8e4ae833174d1ce05ad569f9ae7c6c3aa0cbe3177fa85942f1613d2e8bd",
+      "bytes": 1104,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290767.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC290767?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:d35ec64134f7cdf7886144deb5a77e53e14633b3b98e32d011e04b9b57c1dc01",
+      "bytes": 35680,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290767.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC290767?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:1138a8ea20688845ac9d2e1d2f2d26a5e36874d32d45f3cd0107f0ac0e4a9c1c",
+      "bytes": 1134,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290771.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC290771?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:99645f11186d17744c8e92570083be3d774e4b04e7a84fee530eb4b7aa8c84d9",
+      "bytes": 35623,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290771.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC290771?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:13769f48fc49081ab79364a1f81ee9f90dcb915ac77f9735369bd8a00f3cc2aa",
+      "bytes": 1057,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290775.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC290775?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:de280493e7fa1a768baefe09830b136e315c17efd963a09618ebefeb40b0d54a",
+      "bytes": 35633,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290775.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC290775?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:7b9cca950091e28f183ecb7204ea581f7bb3cf44b0fee833cae2d3afbfcb10f1",
+      "bytes": 1060,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290779.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC290779?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:8fd20ee6cb4a614e28d3fd5846244ef99d3e907901ae067baa2386496125baf5",
+      "bytes": 35631,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290779.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC290779?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:429019b894aa3e1225990ad70736b0277e5d5a553675f0e593a84d9db2f717de",
+      "bytes": 1079,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290783.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC290783?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:c02fea1d96cd832d9b87d263551c8ea1cff8c0d331a57ec83c89d07acc9d98f3",
+      "bytes": 35872,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290783.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC290783?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:a8fd97d2bea1104ab2dd32f85e0b00327249fdc9c91f0c6e898479372627cc81",
+      "bytes": 1079,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290787.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC290787?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:be91a0e684fd1b8cb646b51e721cc5104d7e9969181540da1305e8101df1218a",
+      "bytes": 35646,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290787.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC290787?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:7bef1f7c52341563051e633c025d34351688aa8bdac9a8bbf1ebb2420dcb0bf1",
+      "bytes": 1092,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290791.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC290791?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:ad7dc6e663f17e485fb840e15369aa854b996c09587000e568661b0d247a3440",
+      "bytes": 35623,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290791.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC290791?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:e429ec23b561a69a7c500abcd3874ac307a068ed36c63c96b6202ae4689b2bb5",
+      "bytes": 1060,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290795.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC290795?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2d58b99c9deec3d9546423cff3318ea0ef3ea95ff718503d79ea2ab30c7205b3",
+      "bytes": 35636,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290795.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC290795?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:91e3bdb1871f92b6015238172f67d40339fa4f7a86e257ba96c4aeef748ccb0d",
+      "bytes": 1089,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290799.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC290799?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:7bfcf889dc2ec5ae65170062fa1bc4012a9279491fb63e37d593ab4a69deeb53",
+      "bytes": 35631,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290799.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC290799?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:167baf6fba31b0aefd7a4dbf287ef13eff9a57bf92ff1ca2e0403d23ec386afc",
+      "bytes": 1081,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290803.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC290803?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:ceab695ed8b0724f0b0bd6cf5e9a66828ddaced8e7d45d9604af642868d6c245",
+      "bytes": 35674,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC290803.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC290803?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:f383aa079229077ec7564197c959d2af6aba74cc50f5f055f821ca5d9522b91d",
+      "bytes": 1117,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291439.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC291439?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b6660a30d5173c1b1444f513bc9ab97af20581a9a9d0bba9b4abaa967eef6982",
+      "bytes": 35615,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291439.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC291439?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:d1b27adf740341606d2f854ffd4021d70f565d4a79d582235ae188283ea50dab",
+      "bytes": 1056,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291482.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC291482?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:8c8f7e54fbdf470c22175d08812e6478101a77c425fa4cd909d41bc23495492d",
+      "bytes": 34941,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291482.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC291482?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:bddbc97d33eb5a9038e87bbc0923ce35449fda032e942d99ebecf18f3d398cba",
+      "bytes": 1069,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291483.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC291483?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b3bacb6719de9a73fa51e5570deda0f65cb0cea3eb71d9f57476d11244c90d97",
+      "bytes": 35620,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291483.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC291483?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:4a73f9ea4727dd22dad4afef72011ad8e343440861274dda19a2c8f5090fcde8",
+      "bytes": 1062,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291534.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC291534?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:45aa65d4fcb632be3d9ca734f6cb321e39ba26878b9c4ba7f235dbb9ce0739f3",
+      "bytes": 12382,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291534.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC291534?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:9975359da39fd53815080847af100d7e08fe71340bc0d8d2e6b0fb52b27eb878",
+      "bytes": 1065,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291535.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC291535?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:785e6f67858342b3247b6677331678323f55e3e47b89251ed206a82b8224012c",
+      "bytes": 14066,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291535.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC291535?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:8fc3042c8a7925c0e1730d24a6e547b29a46fa7cd49fd4726b888e475095b15f",
+      "bytes": 1058,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291538.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC291538?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:5264f566f89136bf313b3ceff15bde450d1a6c2cee2198d6b14d20b2ae40b055",
+      "bytes": 12370,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291538.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC291538?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:72ad7b8bf71484a2464329e5a77ebb18c313617c5e79208d2e0c1d031bea450c",
+      "bytes": 1065,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291539.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC291539?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b58f2594078c6afe139a0af386fca0466a5be528eccd206c572be6e2d4983551",
+      "bytes": 14060,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291539.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC291539?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:65455feb17d31997f67e39e9d881c3915662766cdc72a307c191029fba722c29",
+      "bytes": 1058,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291595.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC291595?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:1f94899df4d1e7a2fca72379ddd072d65c758a65cb4348deda2800817d3cdc8c",
+      "bytes": 35628,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291595.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC291595?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:8c30a4741194200c73ea0d669cdedaad940efe595958a22d864adda1d3358e73",
+      "bytes": 1079,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291643.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC291643?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:d075058fa79cdbae7aa7ec3b84557fd53f06e4ce526bec471aa57440274945ce",
+      "bytes": 14042,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291643.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC291643?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:7c270ad4c25d72287f8693e883d8eb9c9d41a4857ecc1fe0e2faebc39caa6670",
+      "bytes": 1062,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291663.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC291663?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:282d86d9ae4c23c638885e6647b784cd297cad4903a7e81aa8fe08094771e42e",
+      "bytes": 35629,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291663.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC291663?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:90a1ff97d61f3f5477ee5b697157858cc393ecb6fd1bde57703033b738a9297a",
+      "bytes": 1067,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291731.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC291731?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:db474eda64c78ec13891c18a862e9a2fe499ec6cd7fa2f3a6f9957823634887b",
+      "bytes": 35661,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291731.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC291731?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:5cdb117606f7e29090e067e7db2b4a9cff665c211b8bfa6e5d02ec0b4586d30d",
+      "bytes": 1089,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291806.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC291806?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:ff327ae6584b64f34262aa852b8522565fd55f6b9feeb276c31f182d9134e5af",
+      "bytes": 34813,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291806.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC291806?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2a4a676f5b30a5f7ece8c4ce583657d72f3e14b6edbb4235d7c2127336332240",
+      "bytes": 1087,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291807.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC291807?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2ae4117e185cd550da1cc342fc3b8fe6b1a62c4c5604f4d207dc202ead0cbd35",
+      "bytes": 35636,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291807.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC291807?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:75edcdaa7f9aa8cb51fc0dd767e1ffcb9cab0fad10b9f54ab7f01184a41ffd3b",
+      "bytes": 1080,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291842.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC291842?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:daa0146aa3b3d16cbeb8ddb6d46382ac8fe165fe1f72aee5a5fc9e7ecce15742",
+      "bytes": 12376,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291842.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC291842?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:5dc986d0f48968a1ed6d87c564559b59bbb41454402ccf8ea150c2adcd45dc94",
+      "bytes": 1068,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291843.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC291843?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:d23b8e5cc3a24d5b6abebf09171ce0d1f855258f4a03702f6585eabc14ed22e4",
+      "bytes": 14097,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC291843.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC291843?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:bb802f7defff3a03cad9c6170df879b24895a054ba30ded88e0900b2866dda7f",
+      "bytes": 1061,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC318622.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC318622?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:94d4adca93675bc64b8762eb313aa298717db137016952d7abd54279616ec6e6",
+      "bytes": 2777,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC318622.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC318622?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:092b1cfb1e470a5a4818f385a21054d89ce2eb813f3d332c09568d1a71f7131b",
+      "bytes": 1084,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC318623.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC318623?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2d805e7b03e630019eea1f79c5af613accb1a52563506b29582d704d8d5aed28",
+      "bytes": 2954,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPC318623.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPC318623?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b8dd4edd96e98067de026981cd43cd374fc7458a47a76d4f1a9cee5c4307c933",
+      "bytes": 1081,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPV1279.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPV1279?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:279176c6748c99ef3492f5b9d95da541fb4d427eacfd0ad6c3849ec82defa592",
+      "bytes": 2311,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPV1279.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPV1279?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:29dc8e72d5cc50f9147118496086d034e4be6a833086106f04d878b4e10ea19f",
+      "bytes": 1076,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPV1376.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPV1376?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:ee1fe94ec46217873f4e33b84dde1d7b632990caa769bc832281570a66d1105f",
+      "bytes": 9205,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPV1376.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPV1376?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:41b680440d1c385c54a387d13659e61649717b85df1c986e2da87b6454cd1b37",
+      "bytes": 1065,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPVA4962.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPVA4962?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:87caeb28672082df82afb67fea0efc5e07761c0b3bbc9b44f3b0e2784e58e99c",
+      "bytes": 1777,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "IPVA4962.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/IPVA4962?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2da18ea79c764b04e91454523893495c21ba89f8bfb46b80bc73ac82d9487dc9",
+      "bytes": 1089,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MNP17542.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/MNP17542?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:8d9d6146c2a29b95b1b3c6ba44a3c620110b79c2a4e491af36c8fe170dcc2937",
+      "bytes": 3126,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MNP17542.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/MNP17542?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:565f70108b4be05a3249dcc5b00a151bb6ce74c4f2808c7be3d31f21e8bb926f",
+      "bytes": 1976,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MNP17544.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/MNP17544?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:c49a455b38ab44731397cfb003d09745d1afbb55b4772f4819934b6b5463b1b4",
+      "bytes": 3126,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MNP17544.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/MNP17544?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:def3e2dd404594f5a73291d2068c5602577dfbaf24ea32456339e99bcebf21ca",
+      "bytes": 1976,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MNP80475151.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/MNP80475151?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:495592fe239f3be3be2a918cb01e1dce58c2cfcb868d60473122c58a4cbb503d",
+      "bytes": 2077,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MNP80475151.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/MNP80475151?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2dbbe6d45e36b003b235166493c7367d8860f1b2fa11e86953b0e95be0d77358",
+      "bytes": 2022,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MNP80475152.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/MNP80475152?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:38106801e54b0a920c36aafd8dcc1ccad65917e7d06ea34e054de4a582d895e7",
+      "bytes": 2090,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MNP80475152.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/MNP80475152?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:adac09716012f04c2d6e66d8344d3d832d6629a0f769b85203ea7358bf2e72c3",
+      "bytes": 2021,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MNP80476096.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/MNP80476096?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:d604fe44010328338a7f772f65db4e271ee7dd028a7a25ac5768b22d40ff4168",
+      "bytes": 2082,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MNP80476096.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/MNP80476096?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:0c6db45ec83722cf00d0378ba55028b70867bd30a71b22281116f90c544739b9",
+      "bytes": 2022,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MNP80476097.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/MNP80476097?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:51e1525adf7a76e60b27ae38ee6bb0a1e67a0e0a75f015a7c611137ed795db2a",
+      "bytes": 2088,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MNP80476097.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/MNP80476097?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:034ff399974da9db799e34da79cd9092928d71e642f41f03087c9a15110287c1",
+      "bytes": 2019,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MYH8181.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/MYH8181?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:8354d259a4d80d3800c32a902f6f74bd67c94f5e67d81e3bc183cbb036e59dbe",
+      "bytes": 2176,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MYH8181.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/MYH8181?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:6a48fb6a8a2ba5b0e8eca0202eca42ebb73e9a596a4f78810563d28301303301",
+      "bytes": 1068,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MYH8183.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/MYH8183?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:137f0d63e25591543f11f4a74696fa446bb8c131dbd33ec3436fc94e1f50da7f",
+      "bytes": 2159,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MYH8183.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/MYH8183?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:155d4a240d4cf85ada47b239a23e4cda5a8327a17b45696d90daa39e0d69dc40",
+      "bytes": 1068,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MYH9026.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/MYH9026?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:841cbd77b77b304bb03f230066afbb375419fc60c25990917f5e8b0f78d052cb",
+      "bytes": 1959,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MYH9026.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/MYH9026?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:00a433eb9b7453765bd25010150409210437786948ad5788f0b555dc210c461d",
+      "bytes": 1142,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MYH9027.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/MYH9027?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:71ba78b41407547b5c8b6ba4ad457c9183750ab0484029236820d1b2c817325a",
+      "bytes": 1952,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MYH9027.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/MYH9027?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:7f96b024c7d3c6dc58f9e188e00df8bc191ff3d31f5601ae0d7f3c68ed54e7be",
+      "bytes": 1143,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MYH9049.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/MYH9049?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2ccdafc8ca2508d469ce45b6b34624e2e9c8a710ee1e427c0b16c8fee0f005fe",
+      "bytes": 2181,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "MYH9049.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/MYH9049?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:ca709e5d1c2d85d17a614ed0f911840ba456ccdf8e60b4edef853bc5c87e5aee",
+      "bytes": 1253,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "PERE11798.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/PERE11798?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:b03dd27cc100ad73b17b2ad82a2340743c4cd3246a56ff69ecca3d785cfd4fb9",
+      "bytes": 2400,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "PERE11798.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/PERE11798?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:a6d0b45e0379a3470e407492bf5a82e74f8b60ff37645ec7ccbed55784c245a8",
+      "bytes": 1277,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "PROP1430.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/PROP1430?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:c23d09dd7c51f55d5e467426c16f16e3b408a8105a2fa4816e3766e7c899489f",
+      "bytes": 6435,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "PROP1430.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/PROP1430?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:2c32485245a12107ace71acaad8a19844a0a42b7f6a8233c15eeb6205beb81e8",
+      "bytes": 1078,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "PROP674.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/PROP674?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:356e34c9810041472f220bfd2e05f5d1f482416d78ec08f094ce47b86cb61684",
+      "bytes": 6434,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "PROP674.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/PROP674?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:1f5f06d86275c7dcc0844243d9c7c0ac4fe590cb7e4eded6a0508250602ccf4e",
+      "bytes": 1081,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "PROP7380.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/PROP7380?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:c92c84798bb369d32effd3c1068621c17aeb35961393faf78b4509296a773e43",
+      "bytes": 6200,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "PROP7380.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/PROP7380?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:ec912df964a9663fc1346c168c8d97f744291679a5056e910240b61cfd3152be",
+      "bytes": 1050,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "PROP7463.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/PROP7463?date=20000101:&tip=A",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:dc0d7f15749b0e25edab4b8f86a574f9ce48f24394be061a6c51f21dae29428c",
+      "bytes": 6360,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "PROP7463.meta.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/SERIE/PROP7463?det=2",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:c01ba66938121f90bdbdd363e35663aa8cab81109472b9a93c7c13a4473942e5",
+      "bytes": 1083,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "table-36643-2026.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/36643?date=20260101:20260101&tip=AM",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:01a1c4e1ca4bcaa8f3acbd98fb081ef7becf6e4a4af02fd045336e08e589f24f",
+      "bytes": 221794,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "table-36643-2030.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/36643?date=20300101:20300101&tip=AM",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:20a0b813f585ed92dd6b018f0eefb6ebd7a8c3f0da046ec695a1907a4fa2fd3d",
+      "bytes": 223302,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "table-36643-2036.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/36643?date=20360101:20360101&tip=AM",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:3a7dc56032b087b1e26723b3e4dfc688aad2ada329e8582b635d4cce6979e069",
+      "bytes": 223302,
+      "contentType": "application/json;charset=UTF-8"
+    },
+    "table-36643-2046.json": {
+      "url": "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/36643?date=20460101:20460101&tip=AM",
+      "retrievedAt": "2026-10-08",
+      "sha256": "sha256:46e7ddcd4c9840f18cc608b68f9d92e98e305c3168df4d18977f5903b9f2f5a1",
+      "bytes": 223312,
+      "contentType": "application/json;charset=UTF-8"
+    }
+  }
+}

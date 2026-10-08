@@ -1,0 +1,327 @@
+{
+  "id": "share-employed-tertiary",
+  "topic": "labour",
+  "unit": "percent",
+  "frequency": "Q",
+  "decimals": 1,
+  "label": {
+    "es": "Ocupados con educación superior",
+    "en": "Employed people with higher education",
+    "ca": "Ocupats amb educació superior"
+  },
+  "note": {
+    "es": "Educación superior: universidad y formación profesional de grado superior (CNED-2014). Serie desde 2014.",
+    "en": "Higher education: university and higher vocational training (CNED-2014). Series since 2014.",
+    "ca": "Educació superior: universitat i formació professional de grau superior (CNED-2014). Sèrie des del 2014."
+  },
+  "yZero": true,
+  "periodRef": "period",
+  "calculation": {
+    "method": "Employed people whose highest completed level is higher education, as a share of all employed (INE EPA, table 65116).",
+    "formula": "employed with higher education / total employed × 100",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2014-Q1",
+      "value": 42.0699,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q2",
+      "value": 41.7801,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q3",
+      "value": 41.875,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2014-Q4",
+      "value": 42.3249,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q1",
+      "value": 42.134,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q2",
+      "value": 41.7284,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q3",
+      "value": 41.5182,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2015-Q4",
+      "value": 42.1085,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q1",
+      "value": 42.286,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q2",
+      "value": 42.0562,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q3",
+      "value": 42.0013,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2016-Q4",
+      "value": 42.0497,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q1",
+      "value": 42.3136,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q2",
+      "value": 42.2393,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q3",
+      "value": 42.5141,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2017-Q4",
+      "value": 42.7541,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q1",
+      "value": 42.9094,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q2",
+      "value": 42.6864,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q3",
+      "value": 42.8836,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2018-Q4",
+      "value": 43.1887,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q1",
+      "value": 43.5995,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q2",
+      "value": 43.6276,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q3",
+      "value": 43.8149,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2019-Q4",
+      "value": 44.1345,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q1",
+      "value": 44.556,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q2",
+      "value": 46.0193,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q3",
+      "value": 45.6111,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2020-Q4",
+      "value": 45.7442,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q1",
+      "value": 46.2915,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q2",
+      "value": 45.9249,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q3",
+      "value": 45.5627,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2021-Q4",
+      "value": 46.072,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q1",
+      "value": 46.0476,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q2",
+      "value": 45.6947,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q3",
+      "value": 46.2093,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2022-Q4",
+      "value": 46.0348,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q1",
+      "value": 46.3192,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q2",
+      "value": 46.1399,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q3",
+      "value": 46.1637,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2023-Q4",
+      "value": 46.6776,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q1",
+      "value": 46.9111,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q2",
+      "value": 46.4138,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q3",
+      "value": 46.577,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2024-Q4",
+      "value": 46.8686,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q1",
+      "value": 47.2957,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q2",
+      "value": 46.7778,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q3",
+      "value": 46.441,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q4",
+      "value": 47.2286,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2026-Q1",
+      "value": 47.4938,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    },
+    {
+      "period": "2026-Q2",
+      "value": 47.0187,
+      "sourceId": "ine-epa396614",
+      "status": "final"
+    }
+  ]
+}

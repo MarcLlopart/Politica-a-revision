@@ -1,0 +1,29 @@
+{
+  "id": "eurostat-unexplained-gender-pay-gap-2022",
+  "topic": "income",
+  "kind": "independent",
+  "label": {
+    "es": "Brecha salarial no explicada por las características medidas (2022)",
+    "en": "Gender pay gap not explained by measured characteristics (2022)",
+    "ca": "Bretxa salarial no explicada per les característiques mesurades (2022)"
+  },
+  "value": 9.7,
+  "unit": "percent",
+  "period": "2022",
+  "definition": {
+    "es": "Brecha de ganancia por hora que queda tras tener en cuenta edad, educación, ocupación, experiencia, tipo de contrato, jornada, sector, tamaño y control de la empresa y región (descomposición de Oaxaca-Blinder sobre la Encuesta de Estructura Salarial 2022). Brecha sin ajustar: 9,2 %; parte explicada por esas características: −0,5 puntos. Que sea mayor que la brecha sin ajustar significa que, en España, las mujeres asalariadas tienen de media características asociadas a salarios más altos (por ejemplo, más estudios).",
+    "en": "Hourly pay gap left after accounting for age, education, occupation, experience, contract type, working time, sector, enterprise size and control, and region (Oaxaca-Blinder decomposition of the 2022 Structure of Earnings Survey). Unadjusted gap: 9.2%; share explained by those characteristics: −0.5 points. Being larger than the unadjusted gap means that, in Spain, women employees on average have characteristics associated with higher pay (for example, more education).",
+    "ca": "Bretxa de guany per hora que queda després de tenir en compte edat, educació, ocupació, experiència, tipus de contracte, jornada, sector, mida i control de l'empresa i regió (descomposició d'Oaxaca-Blinder sobre l'Enquesta d'Estructura Salarial 2022). Bretxa sense ajustar: 9,2 %; part explicada per aquestes característiques: −0,5 punts. Que sigui més gran que la bretxa sense ajustar vol dir que, a Espanya, les dones assalariades tenen de mitjana característiques associades a salaris més alts (per exemple, més estudis)."
+  },
+  "publisher": "Eurostat (statistical working paper)",
+  "document": {
+    "title": "Gender pay gaps in the European Union – 2025 edition – revision (Statistical working paper KS-01-26-017)",
+    "url": "https://ec.europa.eu/eurostat/documents/3888793/23258284/KS-01-26-017-EN-N.pdf",
+    "location": "Table 2, Decomposition of the unadjusted GPG, SES2022, p. 17 (row Spain)",
+    "localPath": "sources/documents/eurostat-statistical-working-paper/ks-01-26-017-en-n.pdf",
+    "fileHash": "sha256:378b844dd8a80a6882cf885321af340f7415f135b7519eb625efcae0628f14bb",
+    "retrievedAt": "2026-10-08"
+  },
+  "transcribedBy": "Research agent (Claude), checked against the downloaded document",
+  "checkedBy": []
+}

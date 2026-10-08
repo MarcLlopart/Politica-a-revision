@@ -1,0 +1,32 @@
+{
+  "id": "pension-median-retirement",
+  "topic": "pensions",
+  "unit": "eur",
+  "frequency": "M",
+  "decimals": 2,
+  "label": {
+    "es": "Pensión mediana de jubilación",
+    "en": "Median retirement pension",
+    "ca": "Pensió mediana de jubilació"
+  },
+  "note": {
+    "es": "Cálculo propio a partir de la distribución oficial por tramos de cuantía. La Seguridad Social solo publica el mes en curso, así que la serie empieza en la primera descarga.",
+    "en": "Own calculation from the official distribution by amount bracket. Seguridad Social only publishes the current month, so the series starts at the first download.",
+    "ca": "Càlcul propi a partir de la distribució oficial per trams de quantia. La Seguretat Social només publica el mes en curs, així que la sèrie comença a la primera descàrrega."
+  },
+  "yZero": true,
+  "periodRef": "start",
+  "calculation": {
+    "method": "Median of contributory retirement pensions, interpolated linearly inside the amount bracket that contains the middle pension (INSS, pensions by amount bracket, 'Total sistema', class 'Jubilación').",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "observations": [
+    {
+      "period": "2026-09",
+      "value": 1284.7847,
+      "sourceId": "seg-social-tramos-cuantia-2026-09",
+      "status": "final"
+    }
+  ]
+}

@@ -1,0 +1,1441 @@
+{
+  "id": "wage-earners",
+  "topic": "income",
+  "amountPer": "year",
+  "periodRef": "period",
+  "label": {
+    "es": "Salarios anuales (todos los asalariados)",
+    "en": "Annual wages (all wage earners)",
+    "ca": "Salaris anuals (tots els assalariats)"
+  },
+  "population": {
+    "es": "personas que cobraron algún salario en el año",
+    "en": "people who received any wage during the year",
+    "ca": "persones que van cobrar algun salari durant l'any"
+  },
+  "note": {
+    "es": "Salario bruto anual por persona, sumando todos sus pagadores (modelo 190). Incluye a quien trabajó solo parte del año o a tiempo parcial. Tramos en múltiplos del salario mínimo de cada año. Sin País Vasco ni Navarra.",
+    "en": "Gross annual wage per person, adding up all payers (form 190). Includes people who worked only part of the year or part-time. Brackets are multiples of each year's minimum wage. Excludes the Basque Country and Navarre.",
+    "ca": "Salari brut anual per persona, sumant tots els pagadors (model 190). Inclou qui va treballar només part de l'any o a temps parcial. Trams en múltiples del salari mínim de cada any. Sense País Basc ni Navarra."
+  },
+  "calculation": {
+    "method": "AEAT, Mercado de trabajo y pensiones en las fuentes tributarias: wage earners, wages and average wage by wage bracket (multiples of the annual SMI stated in the table notes). Mean = total wages / wage earners.",
+    "inputs": [],
+    "extraSourceIds": []
+  },
+  "periods": [
+    {
+      "period": "2016",
+      "sourceId": "aeat-mercado-2016-salarios",
+      "extraSourceIds": [],
+      "total": 17888520,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 4586.4,
+          "count": 3744384,
+          "amount": 6910433593
+        },
+        {
+          "lower": 4586.4,
+          "upper": 9172.8,
+          "count": 2339133,
+          "amount": 16062121471
+        },
+        {
+          "lower": 9172.8,
+          "upper": 13759.199999999999,
+          "count": 2334247,
+          "amount": 26859793289
+        },
+        {
+          "lower": 13759.199999999999,
+          "upper": 18345.6,
+          "count": 2439191,
+          "amount": 39095492477
+        },
+        {
+          "lower": 18345.6,
+          "upper": 22932,
+          "count": 1856927,
+          "amount": 38053993441
+        },
+        {
+          "lower": 22932,
+          "upper": 27518.399999999998,
+          "count": 1285261,
+          "amount": 32226507094
+        },
+        {
+          "lower": 27518.399999999998,
+          "upper": 32104.799999999996,
+          "count": 994722,
+          "amount": 29579226576
+        },
+        {
+          "lower": 32104.799999999996,
+          "upper": 36691.2,
+          "count": 771639,
+          "amount": 26465738845
+        },
+        {
+          "lower": 36691.2,
+          "upper": 41277.6,
+          "count": 589756,
+          "amount": 22928641709
+        },
+        {
+          "lower": 41277.6,
+          "upper": 45864,
+          "count": 404704,
+          "amount": 17560729876
+        },
+        {
+          "lower": 45864,
+          "upper": 68796,
+          "count": 775037,
+          "amount": 42399642059
+        },
+        {
+          "lower": 68796,
+          "upper": 91728,
+          "count": 213218,
+          "amount": 16627796372
+        },
+        {
+          "lower": 91728,
+          "upper": null,
+          "count": 140301,
+          "amount": 22167996869
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 18835.43824033514,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 2191.1189698492462,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 5996.097029895848,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 14724.06878216487,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 25212.220607035044,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 39132.05752671629,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 49988.60513950642,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 85051.03405987742,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 0,
+          "upper": 4586.4,
+          "share": 0.20931770766949978
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.35094454431820876,
+          "countAbove": 6277878
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.18598055135207153,
+          "countAbove": 3326917
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.04996889380903401,
+          "countAbove": 893870
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.02990713802102899,
+          "countAbove": 534994
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.006383944754321398,
+          "countAbove": 114199
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.0024281694773426493,
+          "countAbove": 43436
+        }
+      ]
+    },
+    {
+      "period": "2017",
+      "sourceId": "aeat-mercado-2017-salarios",
+      "extraSourceIds": [],
+      "total": 18343199,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 4953.9,
+          "count": 3739162,
+          "amount": 7663990668
+        },
+        {
+          "lower": 4953.9,
+          "upper": 9907.8,
+          "count": 2565591,
+          "amount": 19031772856
+        },
+        {
+          "lower": 9907.8,
+          "upper": 14861.699999999999,
+          "count": 2701345,
+          "amount": 33602799643
+        },
+        {
+          "lower": 14861.699999999999,
+          "upper": 19815.6,
+          "count": 2709094,
+          "amount": 46724918296
+        },
+        {
+          "lower": 19815.6,
+          "upper": 24769.5,
+          "count": 1859570,
+          "amount": 41126421958
+        },
+        {
+          "lower": 24769.5,
+          "upper": 29723.399999999998,
+          "count": 1263785,
+          "amount": 34280200130
+        },
+        {
+          "lower": 29723.399999999998,
+          "upper": 34677.299999999996,
+          "count": 990328,
+          "amount": 31770490649
+        },
+        {
+          "lower": 34677.299999999996,
+          "upper": 39631.2,
+          "count": 725508,
+          "amount": 26874611656
+        },
+        {
+          "lower": 39631.2,
+          "upper": 44585.1,
+          "count": 511649,
+          "amount": 21444510122
+        },
+        {
+          "lower": 44585.1,
+          "upper": 49539,
+          "count": 318174,
+          "amount": 14910722889
+        },
+        {
+          "lower": 49539,
+          "upper": 74308.5,
+          "count": 669084,
+          "amount": 39510128617
+        },
+        {
+          "lower": 74308.5,
+          "upper": 99078,
+          "count": 173665,
+          "amount": 14592900444
+        },
+        {
+          "lower": 99078,
+          "upper": null,
+          "count": 116244,
+          "amount": 20144320614
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 19172.107795483218,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 2430.233660004568,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 6571.171130782199,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 15133.652322629634,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 25399.56299758585,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 39278.6136487787,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 50351.039726203664,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 85483.13297650778,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 0,
+          "upper": 4953.9,
+          "share": 0.20384459657227727
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.3566988254237916,
+          "countAbove": 6542998
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.1876048962960927,
+          "countAbove": 3441274
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.05096997968528195,
+          "countAbove": 934952
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.03049163230454179,
+          "countAbove": 559314
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.006201579007516811,
+          "countAbove": 113757
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.002406180573703007,
+          "countAbove": 44137
+        }
+      ]
+    },
+    {
+      "period": "2018",
+      "sourceId": "aeat-mercado-2018-salarios",
+      "extraSourceIds": [],
+      "total": 18889515,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 5151.3,
+          "count": 3693311,
+          "amount": 7912750796
+        },
+        {
+          "lower": 5151.3,
+          "upper": 10302.6,
+          "count": 2628056,
+          "amount": 20328824228
+        },
+        {
+          "lower": 10302.6,
+          "upper": 15453.900000000001,
+          "count": 2945961,
+          "amount": 38113707807
+        },
+        {
+          "lower": 15453.900000000001,
+          "upper": 20605.2,
+          "count": 2895234,
+          "amount": 51893196411
+        },
+        {
+          "lower": 20605.2,
+          "upper": 25756.5,
+          "count": 1934959,
+          "amount": 44482749002
+        },
+        {
+          "lower": 25756.5,
+          "upper": 30907.800000000003,
+          "count": 1271750,
+          "amount": 35910096393
+        },
+        {
+          "lower": 30907.800000000003,
+          "upper": 36059.1,
+          "count": 1038759,
+          "amount": 34641130434
+        },
+        {
+          "lower": 36059.1,
+          "upper": 41210.4,
+          "count": 741711,
+          "amount": 28574658030
+        },
+        {
+          "lower": 41210.4,
+          "upper": 46361.700000000004,
+          "count": 496535,
+          "amount": 21646708123
+        },
+        {
+          "lower": 46361.700000000004,
+          "upper": 51513,
+          "count": 308264,
+          "amount": 15036834246
+        },
+        {
+          "lower": 51513,
+          "upper": 77269.5,
+          "count": 655559,
+          "amount": 40241803160
+        },
+        {
+          "lower": 77269.5,
+          "upper": 103026,
+          "count": 165776,
+          "amount": 14480538156
+        },
+        {
+          "lower": 103026,
+          "upper": null,
+          "count": 113640,
+          "amount": 20911649437
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 19808.589380034373,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 2634.6429699394394,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 7180.611333583423,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 15734.127308917143,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 26009.989718150417,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 40064.829478228356,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 51322.82109211738,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 87158.38022562108,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 0,
+          "upper": 5151.3,
+          "share": 0.19552174844086787
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.3722949430714452,
+          "countAbove": 7032471
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.1971845817985335,
+          "countAbove": 3724721
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.05368657182484808,
+          "countAbove": 1014113
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.03218976627794333,
+          "countAbove": 608049
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.006561701298280637,
+          "countAbove": 123947
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.002562325881274696,
+          "countAbove": 48401
+        }
+      ]
+    },
+    {
+      "period": "2019",
+      "sourceId": "aeat-mercado-2019-salarios",
+      "extraSourceIds": [],
+      "total": 19157767,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 6300,
+          "count": 3986921,
+          "amount": 10608428902
+        },
+        {
+          "lower": 6300,
+          "upper": 12600,
+          "count": 3224971,
+          "amount": 30692992672
+        },
+        {
+          "lower": 12600,
+          "upper": 18900,
+          "count": 3909371,
+          "amount": 61406488427
+        },
+        {
+          "lower": 18900,
+          "upper": 25200,
+          "count": 2773588,
+          "amount": 60362400080
+        },
+        {
+          "lower": 25200,
+          "upper": 31500,
+          "count": 1619670,
+          "amount": 45535650470
+        },
+        {
+          "lower": 31500,
+          "upper": 37800,
+          "count": 1239164,
+          "amount": 42720473902
+        },
+        {
+          "lower": 37800,
+          "upper": 44100,
+          "count": 833609,
+          "amount": 33946325960
+        },
+        {
+          "lower": 44100,
+          "upper": 50400,
+          "count": 492582,
+          "amount": 23120785045
+        },
+        {
+          "lower": 50400,
+          "upper": 56700,
+          "count": 295590,
+          "amount": 15769205660
+        },
+        {
+          "lower": 56700,
+          "upper": 63000,
+          "count": 206058,
+          "amount": 12296378323
+        },
+        {
+          "lower": 63000,
+          "upper": 94500,
+          "count": 414853,
+          "amount": 30976533091
+        },
+        {
+          "lower": 94500,
+          "upper": 126000,
+          "count": 89086,
+          "amount": 9520244455
+        },
+        {
+          "lower": 126000,
+          "upper": null,
+          "count": 72304,
+          "amount": 17048746914
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 20566.314116932313,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 3027.2466422083608,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 7949.1989874285655,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 16354.082620116771,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 26762.68006921053,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 41152.70943346896,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 52672.233484621385,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 89671.09348379042,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 0,
+          "upper": 6300,
+          "share": 0.20810990132618273
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.3879753811826208,
+          "countAbove": 7432742
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.20705389903410049,
+          "countAbove": 3966690
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.057487051037380346,
+          "countAbove": 1101324
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.03475386681284358,
+          "countAbove": 665806
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.007100086106219183,
+          "countAbove": 136022
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.002595363725902241,
+          "countAbove": 49721
+        }
+      ]
+    },
+    {
+      "period": "2020",
+      "sourceId": "aeat-mercado-2020-salarios",
+      "extraSourceIds": [],
+      "total": 18484793,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 6650,
+          "count": 4437009,
+          "amount": 13092249780
+        },
+        {
+          "lower": 6650,
+          "upper": 13300,
+          "count": 3459396,
+          "amount": 34621434469
+        },
+        {
+          "lower": 13300,
+          "upper": 19950,
+          "count": 3452400,
+          "amount": 56893439618
+        },
+        {
+          "lower": 19950,
+          "upper": 26600,
+          "count": 2364182,
+          "amount": 54409409604
+        },
+        {
+          "lower": 26600,
+          "upper": 33250,
+          "count": 1448938,
+          "amount": 43091472102
+        },
+        {
+          "lower": 33250,
+          "upper": 39900,
+          "count": 1167235,
+          "amount": 42447247073
+        },
+        {
+          "lower": 39900,
+          "upper": 46550,
+          "count": 765816,
+          "amount": 32876592962
+        },
+        {
+          "lower": 46550,
+          "upper": 53200,
+          "count": 426997,
+          "amount": 21153313368
+        },
+        {
+          "lower": 53200,
+          "upper": 59850,
+          "count": 264439,
+          "amount": 14892920777
+        },
+        {
+          "lower": 59850,
+          "upper": 66500,
+          "count": 185918,
+          "amount": 11698738965
+        },
+        {
+          "lower": 66500,
+          "upper": 99750,
+          "count": 371000,
+          "amount": 29220933265
+        },
+        {
+          "lower": 99750,
+          "upper": 133000,
+          "count": 78689,
+          "amount": 8871863626
+        },
+        {
+          "lower": 133000,
+          "upper": null,
+          "count": 62774,
+          "amount": 15719355080
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 20502.74356272207,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 2770.421999369395,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 7015.397742328223,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 15685.747328696883,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 27193.70940364155,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 42156.501815072974,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 54026.993659875494,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 91941.23349690923,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 0,
+          "upper": 6650,
+          "share": 0.24003563361515598
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.3848289475561637,
+          "countAbove": 7113483
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.21481497825260154,
+          "countAbove": 3970810
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.06147109150137413,
+          "countAbove": 1136280
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.03749957951620987,
+          "countAbove": 693172
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.00759344094151482,
+          "countAbove": 140363
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.0026275465004715047,
+          "countAbove": 48570
+        }
+      ]
+    },
+    {
+      "period": "2021",
+      "sourceId": "aeat-mercado-2021-salarios",
+      "extraSourceIds": [],
+      "total": 18974247,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 6685.095,
+          "count": 4029270,
+          "amount": 11619692786
+        },
+        {
+          "lower": 6685.095,
+          "upper": 13370.19,
+          "count": 3331764,
+          "amount": 33575436121
+        },
+        {
+          "lower": 13370.19,
+          "upper": 20055.285,
+          "count": 3799630,
+          "amount": 63087358321
+        },
+        {
+          "lower": 20055.285,
+          "upper": 26740.38,
+          "count": 2665806,
+          "amount": 61588127910
+        },
+        {
+          "lower": 26740.38,
+          "upper": 33425.475,
+          "count": 1588236,
+          "amount": 47465908154
+        },
+        {
+          "lower": 33425.475,
+          "upper": 40110.57,
+          "count": 1247801,
+          "amount": 45635733205
+        },
+        {
+          "lower": 40110.57,
+          "upper": 46795.665,
+          "count": 805883,
+          "amount": 34802894237
+        },
+        {
+          "lower": 46795.665,
+          "upper": 53480.76,
+          "count": 467004,
+          "amount": 23256033701
+        },
+        {
+          "lower": 53480.76,
+          "upper": 60165.855,
+          "count": 286268,
+          "amount": 16213654332
+        },
+        {
+          "lower": 60165.855,
+          "upper": 66850.95,
+          "count": 198108,
+          "amount": 12536074550
+        },
+        {
+          "lower": 66850.95,
+          "upper": 100276.425,
+          "count": 399281,
+          "amount": 31636962908
+        },
+        {
+          "lower": 100276.425,
+          "upper": 133701.9,
+          "count": 85954,
+          "amount": 9750023518
+        },
+        {
+          "lower": 133701.9,
+          "upper": null,
+          "count": 69242,
+          "amount": 17139859370
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 21519.04943121063,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 3148.0800181786035,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 8172.843112440865,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 16949.43345671555,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 28226.33903569564,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 43147.16950891999,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 55354.162154761776,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 94295.54276220386,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 0,
+          "upper": 6685.095,
+          "share": 0.21235467209845008
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.413308907261998,
+          "countAbove": 7842225
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.2267898944528971,
+          "countAbove": 4303167
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.06568764341969463,
+          "countAbove": 1246374
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.03998121768766675,
+          "countAbove": 758613
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.008254177616101567,
+          "countAbove": 156617
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.002841704533141805,
+          "countAbove": 53919
+        }
+      ]
+    },
+    {
+      "period": "2022",
+      "sourceId": "aeat-mercado-2022-salarios",
+      "extraSourceIds": [],
+      "total": 19628877,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 7000,
+          "count": 3808458,
+          "amount": 11428719762
+        },
+        {
+          "lower": 7000,
+          "upper": 14000,
+          "count": 3353221,
+          "amount": 35635656018
+        },
+        {
+          "lower": 14000,
+          "upper": 21000,
+          "count": 4335521,
+          "amount": 75265201854
+        },
+        {
+          "lower": 21000,
+          "upper": 28000,
+          "count": 2855435,
+          "amount": 69010485532
+        },
+        {
+          "lower": 28000,
+          "upper": 35000,
+          "count": 1645674,
+          "amount": 51482379783
+        },
+        {
+          "lower": 35000,
+          "upper": 42000,
+          "count": 1298453,
+          "amount": 49668429120
+        },
+        {
+          "lower": 42000,
+          "upper": 49000,
+          "count": 815871,
+          "amount": 36879374142
+        },
+        {
+          "lower": 49000,
+          "upper": 56000,
+          "count": 461096,
+          "amount": 24042859525
+        },
+        {
+          "lower": 56000,
+          "upper": 63000,
+          "count": 288296,
+          "amount": 17098016053
+        },
+        {
+          "lower": 63000,
+          "upper": 70000,
+          "count": 199951,
+          "amount": 13252004559
+        },
+        {
+          "lower": 70000,
+          "upper": 105000,
+          "count": 404678,
+          "amount": 33556205314
+        },
+        {
+          "lower": 105000,
+          "upper": 140000,
+          "count": 87963,
+          "amount": 10457483043
+        },
+        {
+          "lower": 140000,
+          "upper": null,
+          "count": 74260,
+          "amount": 19383320820
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 22780.729408259067,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 3607.8155253386017,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 9471.875172262666,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 18083.19437740449,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 29354.27760544687,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 44733.449062351254,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 57579.056186528935,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 98838.69812692348,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 14000,
+          "upper": 21000,
+          "share": 0.2208746328177613
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.4428169386358112,
+          "countAbove": 8691999
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.24153628165381286,
+          "countAbove": 4741086
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.07292711463575356,
+          "countAbove": 1431477
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.04477447066544775,
+          "countAbove": 878873
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.009639986820438323,
+          "countAbove": 189222
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.003260120936718222,
+          "countAbove": 63993
+        }
+      ]
+    },
+    {
+      "period": "2023",
+      "sourceId": "aeat-mercado-2023-salarios",
+      "extraSourceIds": [],
+      "total": 20098799,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 7560,
+          "count": 3858491,
+          "amount": 12498142320
+        },
+        {
+          "lower": 7560,
+          "upper": 15120,
+          "count": 3552234,
+          "amount": 41023936781
+        },
+        {
+          "lower": 15120,
+          "upper": 22680,
+          "count": 4646097,
+          "amount": 86967568277
+        },
+        {
+          "lower": 22680,
+          "upper": 30240,
+          "count": 2878080,
+          "amount": 75121702258
+        },
+        {
+          "lower": 30240,
+          "upper": 37800,
+          "count": 1703923,
+          "amount": 57691781112
+        },
+        {
+          "lower": 37800,
+          "upper": 45360,
+          "count": 1287300,
+          "amount": 53108926172
+        },
+        {
+          "lower": 45360,
+          "upper": 52920,
+          "count": 765569,
+          "amount": 37335886409
+        },
+        {
+          "lower": 52920,
+          "upper": 60480,
+          "count": 419551,
+          "amount": 23657550407
+        },
+        {
+          "lower": 60480,
+          "upper": 68040,
+          "count": 274064,
+          "amount": 17550101045
+        },
+        {
+          "lower": 68040,
+          "upper": 75600,
+          "count": 187519,
+          "amount": 13423770999
+        },
+        {
+          "lower": 75600,
+          "upper": 113400,
+          "count": 375427,
+          "amount": 33582761105
+        },
+        {
+          "lower": 113400,
+          "upper": 151200,
+          "count": 80463,
+          "amount": 10336650975
+        },
+        {
+          "lower": 151200,
+          "upper": null,
+          "count": 70081,
+          "amount": 19682056151
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 23980.578840108803,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 3937.9882041969263,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 10337.243690932855,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 19145.193034983015,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 30787.651624314207,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 46629.687362164055,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 60081.40276999986,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 103295.85240401923,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 15120,
+          "upper": 22680,
+          "share": 0.23116291674940379
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.47471373429461955,
+          "countAbove": 9541176
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.2603702516067431,
+          "countAbove": 5233129
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.08214161704365446,
+          "countAbove": 1650948
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.050179294119931245,
+          "countAbove": 1008544
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.011054174744136279,
+          "countAbove": 222176
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.0035541468133415545,
+          "countAbove": 71434
+        }
+      ]
+    },
+    {
+      "period": "2024",
+      "sourceId": "aeat-mercado-2024-salarios",
+      "extraSourceIds": [],
+      "total": 20637991,
+      "brackets": [
+        {
+          "lower": 0,
+          "upper": 7938,
+          "count": 3953694,
+          "amount": 13269858253
+        },
+        {
+          "lower": 7938,
+          "upper": 15876,
+          "count": 3684544,
+          "amount": 44782989191
+        },
+        {
+          "lower": 15876,
+          "upper": 23814,
+          "count": 4853887,
+          "amount": 95178328914
+        },
+        {
+          "lower": 23814,
+          "upper": 31752,
+          "count": 2939939,
+          "amount": 80522050319
+        },
+        {
+          "lower": 31752,
+          "upper": 39690,
+          "count": 1751522,
+          "amount": 62299675963
+        },
+        {
+          "lower": 39690,
+          "upper": 47628,
+          "count": 1301782,
+          "amount": 56350235380
+        },
+        {
+          "lower": 47628,
+          "upper": 55566,
+          "count": 756647,
+          "amount": 38731196635
+        },
+        {
+          "lower": 55566,
+          "upper": 63504,
+          "count": 410841,
+          "amount": 24326772772
+        },
+        {
+          "lower": 63504,
+          "upper": 71442,
+          "count": 274430,
+          "amount": 18449043108
+        },
+        {
+          "lower": 71442,
+          "upper": 79380,
+          "count": 183426,
+          "amount": 13784222914
+        },
+        {
+          "lower": 79380,
+          "upper": 119070,
+          "count": 373482,
+          "amount": 35094974382
+        },
+        {
+          "lower": 119070,
+          "upper": 158760,
+          "count": 82173,
+          "amount": 11085202541
+        },
+        {
+          "lower": 158760,
+          "upper": null,
+          "count": 71624,
+          "amount": 21292646312
+        }
+      ],
+      "stats": {
+        "mean": {
+          "value": 24962.080693028696,
+          "method": "exact"
+        },
+        "p10": {
+          "value": 4143.577438162893,
+          "method": "linear"
+        },
+        "p25": {
+          "value": 10886.373786341072,
+          "method": "pareto"
+        },
+        "median": {
+          "value": 19907.701058177357,
+          "method": "pareto"
+        },
+        "p75": {
+          "value": 31939.728928086366,
+          "method": "pareto"
+        },
+        "p90": {
+          "value": 48337.46360396602,
+          "method": "pareto"
+        },
+        "p95": {
+          "value": 62382.12947770744,
+          "method": "pareto"
+        },
+        "p99": {
+          "value": 108103.23974325943,
+          "method": "pareto"
+        },
+        "mode": {
+          "lower": 15876,
+          "upper": 23814,
+          "share": 0.23519183625964368
+        }
+      },
+      "thresholds": [
+        {
+          "amount": 20000,
+          "shareAbove": 0.4973090334808219,
+          "countAbove": 10263459
+        },
+        {
+          "amount": 30000,
+          "shareAbove": 0.2769750955499919,
+          "countAbove": 5716210
+        },
+        {
+          "amount": 50000,
+          "shareAbove": 0.09085187549410588,
+          "countAbove": 1875000
+        },
+        {
+          "amount": 60000,
+          "shareAbove": 0.05534025672869923,
+          "countAbove": 1142112
+        },
+        {
+          "amount": 100000,
+          "shareAbove": 0.012672914302161302,
+          "countAbove": 261543
+        },
+        {
+          "amount": 150000,
+          "shareAbove": 0.003989189901571649,
+          "countAbove": 82329
+        }
+      ]
+    }
+  ]
+}
