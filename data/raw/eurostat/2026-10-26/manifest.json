@@ -1,0 +1,249 @@
+{
+  "files": {
+    "eurostat-gov-10a-exp-mio-eur-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_exp?format=JSON&lang=EN&geo=ES&sector=S13&na_item=TE&unit=MIO_EUR&sinceTimePeriod=2000&cofog99=TOTAL&cofog99=GF07&cofog99=GF09&cofog99=GF1002&cofog99=GF10&cofog99=GF02&cofog99=GF0107&cofog99=GF01&cofog99=GF03&cofog99=GF04&cofog99=GF05&cofog99=GF06&cofog99=GF08",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:3948cb14b948905aa73c9b4e0925a4f61d6567713d6c7300fec2e88287fefc1e",
+      "bytes": 8569,
+      "contentType": "application/json"
+    },
+    "eurostat-gov-10a-exp-pc-gdp-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_exp?format=JSON&lang=EN&geo=ES&sector=S13&na_item=TE&unit=PC_GDP&sinceTimePeriod=2000&cofog99=GF07&cofog99=GF09&cofog99=GF1002&cofog99=GF10&cofog99=GF02&cofog99=GF0107&cofog99=GF01&cofog99=GF03&cofog99=GF04&cofog99=GF05&cofog99=GF06&cofog99=GF08",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:d76f743965e4f31556c536f2d07afd642bc9dfaaba7af263423d77038a3f1f06",
+      "bytes": 7031,
+      "contentType": "application/json"
+    },
+    "eurostat-gov-10a-main-s1314-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_main?format=JSON&lang=EN&geo=ES&unit=PC_GDP&sector=S1314&na_item=B9&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:a6e55d7fa8b598add90ffdcdf8d82385bba7b5f15274724250a8a604848c583b",
+      "bytes": 3592,
+      "contentType": "application/json"
+    },
+    "eurostat-gov-10a-main-te-pc-gdp-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_main?format=JSON&lang=EN&geo=ES&unit=PC_GDP&sector=S13&na_item=TE&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:9d93dcf728a0d00b7a97e8bc7cf3d65349dd7b56e7b49073fb127f9dce0b443d",
+      "bytes": 3598,
+      "contentType": "application/json"
+    },
+    "eurostat-gov-10a-main-tr-mio-eur-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_main?format=JSON&lang=EN&geo=ES&unit=MIO_EUR&sector=S13&na_item=TR&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:f1cf3b355ff0a5afda5d012b4b850dc25b9188760c48f6bd46b93d5d81ade852",
+      "bytes": 3670,
+      "contentType": "application/json"
+    },
+    "eurostat-gov-10a-main-tr-pc-gdp-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_main?format=JSON&lang=EN&geo=ES&unit=PC_GDP&sector=S13&na_item=TR&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:f10bb4fc1e3c73bb893be6bd55473fb5e6bccf6247e420f237619d0de93b4b86",
+      "bytes": 3594,
+      "contentType": "application/json"
+    },
+    "eurostat-gov-10a-taxag-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_taxag?format=JSON&lang=EN&geo=ES&unit=PC_GDP&sector=S13_S212&na_item=D2_D5_D91_D61_M_D995&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:f357e03180799bafd186352e1aea246c0fd3789a9ea78443f6b76f361ebc2a64",
+      "bytes": 3780,
+      "contentType": "application/json"
+    },
+    "eurostat-gov-10a-taxag-mio-eur-s13-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_taxag?format=JSON&lang=EN&geo=ES&unit=MIO_EUR&sector=S13&na_item=D2_D5_D91_D61_M_D995&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:121f72b626aa0eb6510f2073a31af72cadd5f14eca9bd70c33f0b1bf99db3e06",
+      "bytes": 3822,
+      "contentType": "application/json"
+    },
+    "eurostat-gov-10dd-edpt1-b9-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10dd_edpt1?format=JSON&lang=EN&geo=ES&unit=PC_GDP&sector=S13&na_item=B9&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:b72a255658cca9fe4cf444332b8b8b234b6ae516fc90dc633ed9c8e38b121e82",
+      "bytes": 3593,
+      "contentType": "application/json"
+    },
+    "eurostat-gov-10dd-edpt1-gd-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10dd_edpt1?format=JSON&lang=EN&geo=ES&unit=PC_GDP&sector=S13&na_item=GD&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:70dddca60dadc3a3373006faceb66ddf7dce4eddbdbe9f1eb8714a63be010709",
+      "bytes": 3606,
+      "contentType": "application/json"
+    },
+    "eurostat-gov-10q-ggdebt-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10q_ggdebt?format=JSON&lang=EN&geo=ES&unit=PC_GDP&sector=S13&na_item=GD&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:e744c9033a3e73f6b8edebd8dff8368aa46f739a1fe2c3875165610f3d5bedae",
+      "bytes": 7396,
+      "contentType": "application/json"
+    },
+    "eurostat-gov-10q-ggdebt-eur-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10q_ggdebt?format=JSON&lang=EN&geo=ES&unit=MIO_EUR&sector=S13&na_item=GD&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:fd33f512dcda79772e3765b2cca6331e159b7cef7c17a0891ef6c5be2bf3981c",
+      "bytes": 7797,
+      "contentType": "application/json"
+    },
+    "eurostat-ilc-di01-d1-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_di01?format=JSON&lang=EN&geo=ES&statinfo=TC&unit=EUR&quant_inc=D1&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:54269d3f3906d4d30176a0766c8e263fd916a8b10e39b66e44cfeb3776a56bd0",
+      "bytes": 4104,
+      "contentType": "application/json"
+    },
+    "eurostat-ilc-di01-d5-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_di01?format=JSON&lang=EN&geo=ES&statinfo=TC&unit=EUR&quant_inc=D5&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:449736f39b710dcb611de5224442c76436b8969d63d5bc60058dc6b844ab3e58",
+      "bytes": 4126,
+      "contentType": "application/json"
+    },
+    "eurostat-ilc-di01-d9-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_di01?format=JSON&lang=EN&geo=ES&statinfo=TC&unit=EUR&quant_inc=D9&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:76530f71733d9dce0b19f2f0c8a050e502fe1fb7f8530b82b9b6063de9618e1a",
+      "bytes": 4128,
+      "contentType": "application/json"
+    },
+    "eurostat-ilc-di01-p95-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_di01?format=JSON&lang=EN&geo=ES&statinfo=TC&unit=EUR&quant_inc=P95&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:a0616be0055e4a0a8701a5fc623fd32f1bd7050a63cf01fae558f14f91480524",
+      "bytes": 4125,
+      "contentType": "application/json"
+    },
+    "eurostat-ilc-di01-p99-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_di01?format=JSON&lang=EN&geo=ES&statinfo=TC&unit=EUR&quant_inc=P99&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:9afaf7d4f6dd9753bce4367402f1a1498c4860f1f115ee110882a2c9fa257761",
+      "bytes": 4125,
+      "contentType": "application/json"
+    },
+    "eurostat-ilc-di01-q1-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_di01?format=JSON&lang=EN&geo=ES&statinfo=TC&unit=EUR&quant_inc=Q1&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:d160d899d04e0ea595b3c8e763078cb11ab7826de9fb2405cd79f08f8cc8c5c8",
+      "bytes": 4112,
+      "contentType": "application/json"
+    },
+    "eurostat-ilc-di01-q3-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_di01?format=JSON&lang=EN&geo=ES&statinfo=TC&unit=EUR&quant_inc=Q3&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:d4715c6eef20651dad51552b78720f3ece07415487379c7f118224f194c4fab1",
+      "bytes": 4130,
+      "contentType": "application/json"
+    },
+    "eurostat-ilc-di03-mean-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_di03?format=JSON&lang=EN&geo=ES&age=TOTAL&sex=T&unit=EUR&statinfo=MEAN_EI&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:416441d80c22e1331e7c850788f96203b086fafafe202cc6400bc0e0466e97b0",
+      "bytes": 4210,
+      "contentType": "application/json"
+    },
+    "eurostat-ilc-lvho07c-own-l-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_lvho07c?format=JSON&lang=EN&geo=ES&freq=A&unit=PC&tenure=OWN_L&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:e0846764fc3e0d2eb2047efa3afe4cb2eee0e7a411779cec916e73bb0d83b9bd",
+      "bytes": 3818,
+      "contentType": "application/json"
+    },
+    "eurostat-ilc-lvho07c-rent-mkt-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_lvho07c?format=JSON&lang=EN&geo=ES&freq=A&unit=PC&tenure=RENT_MKT&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:6821b32300cf0f28ad42958cf4b3fbfa8569da37e8725d4f6eb6e4b86d504bf1",
+      "bytes": 3842,
+      "contentType": "application/json"
+    },
+    "eurostat-ilc-lvho07c-total-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_lvho07c?format=JSON&lang=EN&geo=ES&freq=A&unit=PC&tenure=TOTAL&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:73bea7e30fda91e141a49a44566c46162e1943d28f1b7ea4660ad1a7a51d2d9e",
+      "bytes": 3801,
+      "contentType": "application/json"
+    },
+    "eurostat-ilc-mddw03-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_mddw03?format=JSON&lang=EN&geo=ES&freq=A&hhcomp=TOTAL&rskpovth=TOTAL&unit=PC&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:7991cf88ab713b6b10d85918de0ce48dcf74153b481e692dbab7086cce495b78",
+      "bytes": 3899,
+      "contentType": "application/json"
+    },
+    "eurostat-ilc-mdes01-total-total-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_mdes01?format=JSON&lang=EN&geo=ES&freq=A&unit=PC&hhcomp=TOTAL&rskpovth=TOTAL&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:6a4c0c0d7587fe55570c67d6ff3cce31035ec663000fca8b6e910f450703790c",
+      "bytes": 4022,
+      "contentType": "application/json"
+    },
+    "eurostat-ilc-mdes04-total-total-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_mdes04?format=JSON&lang=EN&geo=ES&freq=A&unit=PC&hhcomp=TOTAL&rskpovth=TOTAL&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:3e11c89e16901194175a2f2548507e27f261a9fd6860de8fdceb3b2c32d00eaa",
+      "bytes": 4043,
+      "contentType": "application/json"
+    },
+    "eurostat-ilc-mdes07-total-total-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_mdes07?format=JSON&lang=EN&geo=ES&freq=A&unit=PC&hhcomp=TOTAL&rskpovth=TOTAL&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:e799c691e8130d3f451d5a7e1f0e5b6d87247a40bda0e6a0ae413dfc01ada546",
+      "bytes": 3998,
+      "contentType": "application/json"
+    },
+    "eurostat-ilc-mdes09-dif-total-total-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_mdes09?format=JSON&lang=EN&geo=ES&freq=A&unit=PC&lev_diff=DIF&hhcomp=TOTAL&rskpovth=TOTAL&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:440ca97f0a2bcb5f52f871277dfbd634e2ec0e77c739cf9e243365c38c7a84c1",
+      "bytes": 4086,
+      "contentType": "application/json"
+    },
+    "eurostat-ilc-mdes09-grt-total-total-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_mdes09?format=JSON&lang=EN&geo=ES&freq=A&unit=PC&lev_diff=GRT&hhcomp=TOTAL&rskpovth=TOTAL&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:35d25646b3aae2e3ce6d382f51fc59aa1adc48ccf3643045b3a497a8c5bed8aa",
+      "bytes": 4075,
+      "contentType": "application/json"
+    },
+    "eurostat-lfsa-eoqgan-es-eu.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/lfsa_eoqgan?format=JSON&lang=EN&sex=T&age=Y20-64&citizen=TOTAL&unit=PC&sinceTimePeriod=2000&geo=ES&geo=EU27_2020",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:e2423dbb2725246ebd6df4eb17f7a38a035ed6913f5ed77f0270cfb31218eb5c",
+      "bytes": 4740,
+      "contentType": "application/json"
+    },
+    "eurostat-lfsa-eppgai-es-eu.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/lfsa_eppgai?format=JSON&lang=EN&sex=T&age=Y20-64&unit=PC&sinceTimePeriod=2000&geo=ES&geo=EU27_2020",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:1d0f8c2120fdbdc98577a9e43fb7e7fd26cd76d68ae35f6d616522882482d5df",
+      "bytes": 4465,
+      "contentType": "application/json"
+    },
+    "eurostat-nama-10-gdp-deflator-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_gdp?format=JSON&lang=EN&geo=ES&unit=PD15_EUR&na_item=B1GQ&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:d32be4a7e9277058246b3189d472e81e0f56aaf34622894fd21866c9d9ee8101",
+      "bytes": 3891,
+      "contentType": "application/json"
+    },
+    "eurostat-nama-10-gdp-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_gdp?format=JSON&lang=EN&geo=ES&na_item=B1GQ&unit=CP_MEUR&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:6c4289dccead2a58f61ef6f6c9162791fae99378a2c245c4ee628a98fee78433",
+      "bytes": 3931,
+      "contentType": "application/json"
+    },
+    "eurostat-nama-10-pe-pop-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_pe?format=JSON&lang=EN&geo=ES&unit=THS_PER&na_item=POP_NC&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:133e49d8e9f01d4bda35cfffddc7eaee76d2d7b738cec45973d6123286b4180c",
+      "bytes": 3832,
+      "contentType": "application/json"
+    },
+    "eurostat-spr-exp-pens-es.json": {
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/spr_exp_pens?format=JSON&lang=EN&geo=ES&unit=PC_GDP&spdepb=TOTAL&spdepm=TOTAL&sinceTimePeriod=2000",
+      "retrievedAt": "2026-10-26",
+      "sha256": "sha256:eaf7b7c6df72affbe242363ad179a3ecb95f2d471348356e9097c69a9ba40925",
+      "bytes": 4618,
+      "contentType": "application/json"
+    }
+  }
+}

@@ -163,7 +163,13 @@
     },
     {
       "period": "2024",
-      "value": 591679000000,
+      "value": 591960000000,
+      "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 641488000000,
       "sourceId": "eurostat-gov-10a-taxag-mio-eur-s13-es",
       "status": "final"
     }

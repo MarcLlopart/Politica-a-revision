@@ -157,13 +157,13 @@
     },
     {
       "period": "2023",
-      "value": 45.4,
+      "value": 45.5,
       "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
       "status": "final"
     },
     {
       "period": "2024",
-      "value": 45.5,
+      "value": 45.4,
       "sourceId": "eurostat-gov-10a-main-te-pc-gdp-es",
       "status": "final"
     },

@@ -163,13 +163,13 @@
     },
     {
       "period": "2024",
-      "value": 673734000000,
+      "value": 674315000000,
       "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
       "status": "final"
     },
     {
       "period": "2025",
-      "value": 724554000000,
+      "value": 725655000000,
       "sourceId": "eurostat-gov-10a-main-tr-mio-eur-es",
       "status": "final"
     }

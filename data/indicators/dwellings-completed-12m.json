@@ -2439,6 +2439,12 @@
       "value": 90187,
       "sourceId": "transportes-certificados-fin-obra",
       "status": "final"
+    },
+    {
+      "period": "2026-05",
+      "value": 90458,
+      "sourceId": "transportes-certificados-fin-obra",
+      "status": "final"
     }
   ]
 }

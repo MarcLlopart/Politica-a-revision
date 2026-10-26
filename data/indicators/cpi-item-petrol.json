@@ -712,6 +712,12 @@
       "value": 115.799,
       "sourceId": "ine-ipc291539",
       "status": "final"
+    },
+    {
+      "period": "2026-09",
+      "value": 126.404,
+      "sourceId": "ine-ipc291539",
+      "status": "final"
     }
   ]
 }
