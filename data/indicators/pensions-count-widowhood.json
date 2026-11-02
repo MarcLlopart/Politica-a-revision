@@ -201,6 +201,12 @@
       "value": 2343844,
       "sourceId": "seg-social-avance-pensiones",
       "status": "final"
+    },
+    {
+      "period": "2026-10",
+      "value": 2344467,
+      "sourceId": "seg-social-avance-pensiones",
+      "status": "final"
     }
   ]
 }

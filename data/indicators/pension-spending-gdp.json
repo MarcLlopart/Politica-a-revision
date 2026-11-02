@@ -162,13 +162,13 @@
     },
     {
       "period": "2023",
-      "value": 13.16,
+      "value": 13.17,
       "sourceId": "eurostat-spr-exp-pens-es",
       "status": "final"
     },
     {
       "period": "2024",
-      "value": 13.23,
+      "value": 13.19,
       "sourceId": "eurostat-spr-exp-pens-es",
       "status": "final"
     }

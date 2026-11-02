@@ -195,6 +195,12 @@
       "value": 9537978,
       "sourceId": "seg-social-pensionistas",
       "status": "final"
+    },
+    {
+      "period": "2026-10",
+      "value": 9554384,
+      "sourceId": "seg-social-pensionistas",
+      "status": "final"
     }
   ]
 }

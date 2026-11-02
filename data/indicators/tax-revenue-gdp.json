@@ -168,7 +168,13 @@
     },
     {
       "period": "2024",
-      "value": 37.3,
+      "value": 37.2,
+      "sourceId": "eurostat-gov-10a-taxag-es",
+      "status": "final"
+    },
+    {
+      "period": "2025",
+      "value": 38.1,
       "sourceId": "eurostat-gov-10a-taxag-es",
       "status": "final"
     }

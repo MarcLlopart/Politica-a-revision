@@ -393,6 +393,12 @@
       "value": 4677400,
       "sourceId": "ine-epa400771",
       "status": "final"
+    },
+    {
+      "period": "2026-Q3",
+      "value": 4574700,
+      "sourceId": "ine-epa400771",
+      "status": "final"
     }
   ]
 }

@@ -1077,6 +1077,12 @@
       "value": 3551759,
       "sourceId": "seg-social-afiliados-extranjeros",
       "status": "final"
+    },
+    {
+      "period": "2026-09",
+      "value": 3635979,
+      "sourceId": "seg-social-afiliados-extranjeros",
+      "status": "final"
     }
   ]
 }

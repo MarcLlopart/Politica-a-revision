@@ -643,13 +643,19 @@
     },
     {
       "period": "2026-Q1",
-      "value": 2.6205,
+      "value": 2.6033,
       "sourceId": "ine-cntr6654",
       "status": "provisional"
     },
     {
       "period": "2026-Q2",
-      "value": 2.6374,
+      "value": 2.5949,
+      "sourceId": "ine-cntr6654",
+      "status": "provisional"
+    },
+    {
+      "period": "2026-Q3",
+      "value": 2.6632,
       "sourceId": "ine-cntr6654",
       "status": "provisional"
     }
