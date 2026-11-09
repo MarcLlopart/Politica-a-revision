@@ -205,6 +205,12 @@
       "value": 2.1273,
       "sourceId": "seg-social-afiliacion-media",
       "status": "final"
+    },
+    {
+      "period": "2026-10",
+      "value": 2.1413,
+      "sourceId": "seg-social-afiliacion-media",
+      "status": "final"
     }
   ]
 }

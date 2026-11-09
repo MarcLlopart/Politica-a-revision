@@ -1171,7 +1171,7 @@
     },
     {
       "period": "2025-01",
-      "value": 45917,
+      "value": 45916,
       "sourceId": "ine-edes19607",
       "status": "provisional"
     },
@@ -1195,7 +1195,7 @@
     },
     {
       "period": "2025-05",
-      "value": 35469,
+      "value": 35468,
       "sourceId": "ine-edes19607",
       "status": "provisional"
     },
@@ -1207,79 +1207,85 @@
     },
     {
       "period": "2025-07",
-      "value": 35510,
+      "value": 35512,
       "sourceId": "ine-edes19607",
       "status": "provisional"
     },
     {
       "period": "2025-08",
-      "value": 35537,
+      "value": 35532,
       "sourceId": "ine-edes19607",
       "status": "provisional"
     },
     {
       "period": "2025-09",
-      "value": 32118,
+      "value": 32126,
       "sourceId": "ine-edes19607",
       "status": "provisional"
     },
     {
       "period": "2025-10",
-      "value": 34839,
+      "value": 34843,
       "sourceId": "ine-edes19607",
       "status": "provisional"
     },
     {
       "period": "2025-11",
-      "value": 35956,
+      "value": 35957,
       "sourceId": "ine-edes19607",
       "status": "provisional"
     },
     {
       "period": "2025-12",
-      "value": 43672,
+      "value": 43675,
       "sourceId": "ine-edes19607",
       "status": "provisional"
     },
     {
       "period": "2026-01",
-      "value": 46395,
+      "value": 46397,
       "sourceId": "ine-edes19607",
       "status": "provisional"
     },
     {
       "period": "2026-02",
-      "value": 36328,
+      "value": 36332,
       "sourceId": "ine-edes19607",
       "status": "provisional"
     },
     {
       "period": "2026-03",
-      "value": 37789,
+      "value": 37797,
       "sourceId": "ine-edes19607",
       "status": "provisional"
     },
     {
       "period": "2026-04",
-      "value": 35916,
+      "value": 35931,
       "sourceId": "ine-edes19607",
       "status": "provisional"
     },
     {
       "period": "2026-05",
-      "value": 35414,
+      "value": 35429,
       "sourceId": "ine-edes19607",
       "status": "provisional"
     },
     {
       "period": "2026-06",
-      "value": 33543,
+      "value": 33562,
       "sourceId": "ine-edes19607",
       "status": "provisional"
     },
     {
       "period": "2026-07",
-      "value": 35485,
+      "value": 35558,
+      "sourceId": "ine-edes19607",
+      "status": "provisional"
+    },
+    {
+      "period": "2026-08",
+      "value": 34569,
       "sourceId": "ine-edes19607",
       "status": "provisional"
     }

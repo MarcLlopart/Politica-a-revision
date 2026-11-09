@@ -618,37 +618,43 @@
     },
     {
       "period": "2024-Q4",
-      "value": 1620573000000,
+      "value": 1620578000000,
       "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
       "status": "final"
     },
     {
       "period": "2025-Q1",
-      "value": 1667376000000,
+      "value": 1667381000000,
       "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
       "status": "final"
     },
     {
       "period": "2025-Q2",
-      "value": 1690906000000,
+      "value": 1690911000000,
       "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
       "status": "final"
     },
     {
       "period": "2025-Q3",
-      "value": 1709349000000,
+      "value": 1709354000000,
       "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
       "status": "final"
     },
     {
       "period": "2025-Q4",
-      "value": 1698225000000,
+      "value": 1698355000000,
       "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
       "status": "final"
     },
     {
       "period": "2026-Q1",
-      "value": 1739501000000,
+      "value": 1739641000000,
+      "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
+      "status": "provisional"
+    },
+    {
+      "period": "2026-Q2",
+      "value": 1762936000000,
       "sourceId": "eurostat-gov-10q-ggdebt-eur-es",
       "status": "provisional"
     }

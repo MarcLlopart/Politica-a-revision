@@ -583,13 +583,13 @@
     },
     {
       "period": "2023-Q3",
-      "value": 107.3,
+      "value": 107.4,
       "sourceId": "eurostat-gov-10q-ggdebt-es",
       "status": "final"
     },
     {
       "period": "2023-Q4",
-      "value": 105.2,
+      "value": 105.3,
       "sourceId": "eurostat-gov-10q-ggdebt-es",
       "status": "final"
     },
@@ -601,49 +601,55 @@
     },
     {
       "period": "2024-Q2",
-      "value": 105.2,
+      "value": 105.1,
       "sourceId": "eurostat-gov-10q-ggdebt-es",
       "status": "final"
     },
     {
       "period": "2024-Q3",
-      "value": 104.2,
+      "value": 104,
       "sourceId": "eurostat-gov-10q-ggdebt-es",
       "status": "final"
     },
     {
       "period": "2024-Q4",
-      "value": 101.6,
+      "value": 101.4,
       "sourceId": "eurostat-gov-10q-ggdebt-es",
       "status": "final"
     },
     {
       "period": "2025-Q1",
-      "value": 103.3,
-      "sourceId": "eurostat-gov-10q-ggdebt-es",
-      "status": "final"
-    },
-    {
-      "period": "2025-Q2",
-      "value": 103.4,
-      "sourceId": "eurostat-gov-10q-ggdebt-es",
-      "status": "final"
-    },
-    {
-      "period": "2025-Q3",
       "value": 103.1,
       "sourceId": "eurostat-gov-10q-ggdebt-es",
       "status": "final"
     },
     {
+      "period": "2025-Q2",
+      "value": 103.2,
+      "sourceId": "eurostat-gov-10q-ggdebt-es",
+      "status": "final"
+    },
+    {
+      "period": "2025-Q3",
+      "value": 103,
+      "sourceId": "eurostat-gov-10q-ggdebt-es",
+      "status": "final"
+    },
+    {
       "period": "2025-Q4",
-      "value": 100.7,
+      "value": 100.5,
       "sourceId": "eurostat-gov-10q-ggdebt-es",
       "status": "final"
     },
     {
       "period": "2026-Q1",
-      "value": 101.6,
+      "value": 101.4,
+      "sourceId": "eurostat-gov-10q-ggdebt-es",
+      "status": "provisional"
+    },
+    {
+      "period": "2026-Q2",
+      "value": 101.4,
       "sourceId": "eurostat-gov-10q-ggdebt-es",
       "status": "provisional"
     }

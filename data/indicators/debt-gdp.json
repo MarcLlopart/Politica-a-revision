@@ -162,19 +162,19 @@
     },
     {
       "period": "2023",
-      "value": 105.2,
+      "value": 105.3,
       "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
       "status": "final"
     },
     {
       "period": "2024",
-      "value": 101.6,
+      "value": 101.4,
       "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
       "status": "final"
     },
     {
       "period": "2025",
-      "value": 100.7,
+      "value": 100.5,
       "sourceId": "eurostat-gov-10dd-edpt1-gd-es",
       "status": "final"
     }

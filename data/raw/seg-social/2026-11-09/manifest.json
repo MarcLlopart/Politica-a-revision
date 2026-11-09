@@ -1,0 +1,39 @@
+{
+  "files": {
+    "afiliados-extranjeros-ccaa.px.gz": {
+      "url": "https://w6.seg-social.es/PXWeb/Resources/PX/Databases/Afiliados%20en%20alta%20laboral/Afiliados%20Medios%20Extranjeros/3mb.Afiliados%20extranjeros%20por%20sexo,%20CCAA,%20regimen%20y%20UEnoUE.px",
+      "retrievedAt": "2026-11-09",
+      "sha256": "sha256:b33d434f858089964248f36403c3997c3979bd9f009728b042d2499febb860e5",
+      "bytes": 762264,
+      "contentType": "application/octet-stream"
+    },
+    "avance.xlsx": {
+      "url": "https://www.seg-social.es/wps/wcm/connect/wss/d8a9c4fd-04ac-4814-9bae-6971cdb35250/avance.xlsx?MOD=AJPERES",
+      "retrievedAt": "2026-11-09",
+      "sha256": "sha256:9fdf91220ad587c01f52ede2900236ac2b45b719500956cc5c39485346b3d2e2",
+      "bytes": 325945,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "pensionistas.xlsx": {
+      "url": "https://www.seg-social.es/wps/wcm/connect/wss/f56092d1-579a-458c-90ad-be7fcceb9abe/PTAS202610.xlsx?MOD=AJPERES",
+      "retrievedAt": "2026-11-09",
+      "sha256": "sha256:73872db5830fe730446d5d910bc73cc666f4d8675ea47a57360e71a92b8f25cd",
+      "bytes": 137350,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "serie-afiliacion.xlsx": {
+      "url": "https://www.seg-social.es/wps/wcm/connect/wss/5ccf558a-868f-48b3-b832-04fe9f524960/serie.xlsx?MOD=AJPERES",
+      "retrievedAt": "2026-11-09",
+      "sha256": "sha256:3e9fbcab199751ac967d840606ac48f5373fc4182246405bcdcf83825abd307c",
+      "bytes": 88554,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "TC-2026-10.xlsx": {
+      "url": "https://www.seg-social.es/wps/wcm/connect/wss/738c06ad-d45f-40d4-8b17-e31efe433709/TC.xlsx?MOD=AJPERES",
+      "retrievedAt": "2026-11-09",
+      "sha256": "sha256:977ed0e37882a11334345b905a2e203bfc280854d5370ffacf04573454312018",
+      "bytes": 101246,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    }
+  }
+}

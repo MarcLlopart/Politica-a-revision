@@ -322,6 +322,12 @@
       "value": 47.0187,
       "sourceId": "ine-epa396614",
       "status": "final"
+    },
+    {
+      "period": "2026-Q3",
+      "value": 46.9014,
+      "sourceId": "ine-epa396614",
+      "status": "final"
     }
   ]
 }
